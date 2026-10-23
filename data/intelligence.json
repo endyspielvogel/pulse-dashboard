@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T23:25:21.182610+00:00",
+  "fetched_at": "2026-10-23T23:55:29.884119+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -23,6 +23,11 @@
         "published": "Fri, 23 Oct 2026 06:30:00 GMT"
       },
       {
+        "title": "McDonald’s lädt zum Gratis-Essen mit Spitzenkoch - oe24",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVVSWU9XbVU1NXI4cVRDcUtKV2xFQUVVZnhGeUNvOXVIYVhHeXVXcWN5Wk1WdlBnWVZjWFFieWtWU2FQRE5VOExaZlFsRFpucGFmcFhPVU8zLThiczdNYVVER2dmRDJDelZOX2VOSl9FMXlCQTl4Y0xCUTV6eHFxSU92RzExbkVRZjRYcVV6RU9Pd2PSAZgBQVVfeXFMTnJLMlRZZUUtaU84dXE0SW5BN05JWkNZazM5NGsxbnVMdVNjQjUyNlFwY2E5TE1TMUp3X1ZKazhhSDVuNXU1T1V1OHUtQ1ktLXhjQkNkNElyeU00WWRwdlFHWjZYSHpzM25JaGdSeVdjWVllVW1iY25hZVVjVkhYdGxDUUVPYmZyVTFDMDBPY094Vk9lNldkX2w?oc=5",
+        "published": "Thu, 22 Oct 2026 17:41:30 GMT"
+      },
+      {
         "title": "Ende des McRib: Fans des McDonald's-Burgers starten gleich mehrere Petitionen - Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFVfYUdhM215Y0dsOHNSSkEyZmdISDF6Y09kR2RwUFJJdHE4OWNNMzJFQVdaY3FUMG1EeTFCT2tET2RqV3haeVZvd3RlMUI4RmFFVElBM1NDOERRVHA0NzdYTlhYMlpoYTZCNEpZcXpoNUR6Ny1GdW12XzRza3kyTGpsNy05bXplSGd6STZxbThBQnpYRlJDVmpqQm8xVDZKdVBxQ0tPczdmQVJHVmItUUZSV2NBNHk3MmVSQjVadW9VZW1aSTRHZXNNQU9acTd2RjJwMl9nQ3hfdVhKTzA4UEtLUQ?oc=5",
         "published": "Fri, 23 Oct 2026 16:32:46 GMT"
@@ -31,11 +36,6 @@
         "title": "Zweiter Sieg in Folge für Steyrer Basketballer – Steyr News - e-steyr.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHNoSTNMMUMwQ3NrWFNpOGsxYXVxQVRCdGxDNXRnOFM2SXVidDIzcXF0NEEtYXVkbE91enlDRExjWGlLZUVydjFjeUxCMm1ZRGtNdGw4dEFHZE1SeFhMOG9YSzVqVUpjS2FsQzFVZlZSMzFmMkxXcF9laVRHSnQ0d2Z2R2lIYjBLT0s1SGctVWRIcGZKMDhKRDNn?oc=5",
         "published": "Fri, 23 Oct 2026 07:12:18 GMT"
-      },
-      {
-        "title": "McDonald’s lädt zum Gratis-Essen mit Spitzenkoch - oe24",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVVSWU9XbVU1NXI4cVRDcUtKV2xFQUVVZnhGeUNvOXVIYVhHeXVXcWN5Wk1WdlBnWVZjWFFieWtWU2FQRE5VOExaZlFsRFpucGFmcFhPVU8zLThiczdNYVVER2dmRDJDelZOX2VOSl9FMXlCQTl4Y0xCUTV6eHFxSU92RzExbkVRZjRYcVV6RU9Pd2PSAZgBQVVfeXFMTnJLMlRZZUUtaU84dXE0SW5BN05JWkNZazM5NGsxbnVMdVNjQjUyNlFwY2E5TE1TMUp3X1ZKazhhSDVuNXU1T1V1OHUtQ1ktLXhjQkNkNElyeU00WWRwdlFHWjZYSHpzM25JaGdSeVdjWVllVW1iY25hZVVjVkhYdGxDUUVPYmZyVTFDMDBPY094Vk9lNldkX2w?oc=5",
-        "published": "Thu, 22 Oct 2026 17:41:30 GMT"
       },
       {
         "title": "Dow Jones 30 Industrial-Papier McDonalds-Aktie: So viel Verlust hätte ein McDonalds-Investment von vor 3 Jahren eingebracht - finanzen.at",
@@ -102,6 +102,11 @@
         "published": "Thu, 22 Oct 2026 21:37:17 GMT"
       },
       {
+        "title": "Coca-Cola betraut Omnicom mit dem Media-Etat in Nordamerika und hält global an WPP fest. - turi2",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdBeDZnd0h0SC1wNjg0TEk4dXlGVjk1cVhjcXZyTEt5ZGY5Z2Q2T0JXbTVVN3N0MXlVRHZqRFlxOWlXRVFFOTJNWklvQnpULVdQWHJtSUF1eExKSWkwUk9tX2lJSmFJWWVySEJDYnhLZXBUWFlnOVFLMjhEblN2dUFrZE0tUjBBM3RBWXVIRVpaampKV0M4YWl2V1REcTBlWHRQMWRBQWp3ajdwbkk4dG04a1o5YWNkdkE?oc=5",
+        "published": "Fri, 23 Oct 2026 09:27:00 GMT"
+      },
+      {
         "title": "Omnicom Group., Inc. : Morgan Stanley bekräftigt seine neutrale Bewertung - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWndvcW5YendXS2ZFcGhPb2JGTWRzaG85dHFhOFlmOVFGdkhfVGRqcXRnSnh0dldtSkZEMXEzdUdPRnVmUUJwT1RpdU5maHY3NTQzdEQ4eDJvcmlLejEtMTJXQlVfa2RqSzd1eFQyZmJXTFE3Yl9MV0N2SmFfWWhaRW1KY25xS3BqN2xpdmdKNTRhMWU2Sk1VSldmNVNWcmhFdEhqZVpPaXBmRlhiTGZMNEZ0ZFR2VEZseDZXTkV1RGs1dUR2UGhyUmNZZUdYeWVq?oc=5",
         "published": "Fri, 23 Oct 2026 11:09:10 GMT"
@@ -120,11 +125,6 @@
         "title": "Earnings Flash (OMC) Omnicom Group Inc. meldet Umsatz von 6,42 Mrd. USD im 3. Quartal gegenüber FactSet-Schätzung von 6,21 Mrd. USD - MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkVkN2pOaUJKbE5tMFJCay16MDI3YXpobVRHVTVjeUIzRFplYXlqeDI5ajZHeVIyWHI3TW9FT2lhWkdyZHVOQXphNTg5cHN2ZF83OHpqWDhmRTdzTGZVd3JlZnBld3BmX2ZhbWt2THFGNUR4dFBaWFNVN3lOcXA4aG11UkFMY3pNMGFXbHZmbndvVnhyby1vU0o5RnNOM0V1dzFTYnlUbmVONDRuTmxFTS1CbnhzaFdwRERhR1ZPR2dhMjVvdWlWVEdJalJjX1dqYlVNbzdTbkRXdnZFNkJPYVVTbFJrX2oteFVOS1hrTUVkSzBv?oc=5",
         "published": "Thu, 22 Oct 2026 20:04:38 GMT"
-      },
-      {
-        "title": "Omnicom Group., Inc. : Wells Fargo Securities bekräftigt seine Kaufempfehlung - MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUS1UdjgxTGg3ejh2MFl0ZkE0LXlfNmE2WEhaMl9YM3BlNThBNTh2WkYzRUhBWEYyclN0NFJaVE1HQVE2RnY1OU1iZklBeUVialpwT3g1LXYwQzJjSy1td2Q5TUROak5ldTlTVXRkTGlMdkVFTExvbkNWdU8zSVpQVTg5OFdmNU51TElEejFBNHMtQjE2N0JxZkUwM05jVExQdDJCZFFWVGZwQTNUcmRFMldlcGwtem5NYlBlTXRPU1NsMWFjVFQtS3h5TWZLT0p2UFZwTVhB?oc=5",
-        "published": "Fri, 23 Oct 2026 12:11:54 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -134,24 +134,19 @@
         "published": "Fri, 23 Oct 2026 21:50:47 GMT"
       },
       {
-        "title": "Mercedes will Zahl der Leiharbeiter in Deutschland deutlich senken - Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJSMUI1RUFuZ09USmZUYXNmTmFEa01GdGpOcWlBc1Z2aElZZVNiTGo5RW5yak04bHZ0bTI2SmZIWmRsQVpMdlNGSVdPY0lrTTNXZHlEUEJUTndYdUxmUGZQTnROSkJHTkFTQmcyTWYxVFRkN242VnZCVGZBVkdFYWZIYloyUFA0WU5yWWd3TmtXZHNLQXBLZ1Y1bWdkck9BOHBoQkd4RXh3SnlObEtxN1ZB?oc=5",
-        "published": "Fri, 23 Oct 2026 10:09:29 GMT"
-      },
-      {
         "title": "Mercedes-Benz CLA 250+ Shooting Brake [Test] - autorevue.at",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSG1fX2haTVI0Ui1HUTVMRmRydVdGTldQX1NMWVdDaXF5cWg5Uk9DMWxMems3Q04wMHR6WU83ZVNSbmhPMlF1YjBUQ3NfaGp1RnFaeHdnemVDdmN3MXpvM004MExUdVRaTERXSmNVMXJDVklFWnJuZkNKRGQ?oc=5",
         "published": "Fri, 23 Oct 2026 06:10:00 GMT"
       },
       {
+        "title": "Mercedes will Zahl der Leiharbeiter in Deutschland deutlich senken - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJSMUI1RUFuZ09USmZUYXNmTmFEa01GdGpOcWlBc1Z2aElZZVNiTGo5RW5yak04bHZ0bTI2SmZIWmRsQVpMdlNGSVdPY0lrTTNXZHlEUEJUTndYdUxmUGZQTnROSkJHTkFTQmcyTWYxVFRkN242VnZCVGZBVkdFYWZIYloyUFA0WU5yWWd3TmtXZHNLQXBLZ1Y1bWdkck9BOHBoQkd4RXh3SnlObEtxN1ZB?oc=5",
+        "published": "Fri, 23 Oct 2026 10:09:29 GMT"
+      },
+      {
         "title": "Industrie: Mercedes will Autos künftig anders, billiger und schneller bauen - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTlCWDgxUklubXNYU0JoS0xIc0JvT0hnTWNHWmlOdWtTWXd2Szd2ZVMyRk5hcW5IMXdZTlh2YjBSQl9UOWxvbW5UTVMxdW1kWHNMWlZSTkhoTEM3Z0VhSGtXUUFiMEhzTi1LOXRnYTVNRlNBejZUaGdCbTJBQlE3amZvTEItR3g4MWxXQ3FoS2pYRU1XSVVLVW01OWZ5aFAtNEhrbFRIbVV3X21jaFhrWDJzR0hlMzJSOC1MZHBuc2hHMjJLd090UzZERmpjVV9jS2R1eVVxMA?oc=5",
         "published": "Thu, 22 Oct 2026 12:53:24 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Aktie: Weniger Leiharbeiter geplant - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGpTSmZLQ1VkejZWcHRoWEJOelJUQjdtaENfZkNoVzl3d2FZeFB6amZ4dUZvWE1YUU9wc3VNekVPOFRsYUFTT2dGZmhxOUE0a2tJOHVaOWhkMUdHNEdXSVRaYWJfWFZOdW1YckNzc3NWd0NHeWEzeXR3MDJLZnFVTDZxWm9uTHdBRjBBWVd2ZzNQRmNQd3NHMVhXSTE3LVIyd1E?oc=5",
-        "published": "Fri, 23 Oct 2026 12:43:05 GMT"
       },
       {
         "title": "\"OG Schaefchen\" kauft sich Niki Laudas ehemaligen Mercedes zum Schnäppchenpreis - Autobild.de",
@@ -162,6 +157,11 @@
         "title": "Mercedes-Benz Group-Aktie: Es geht wieder stark bergab - WELT",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY1BwanJCdFFHOVdHMGFkWlhON2syZDRDbXhnZXpHRG9ZTy1rNEtWY29rdHZNTWNzWHR6SmZoS1pUZGNuMmtXcGNQZU50STdEQlV3bFFRREN1Q2kzMXJQQmpJUmsydnQzMk54VFd0aXNieEEtckJ1ZXY5VW9SOVNHMVBObUQ0eVJERnBCM1RKT1c3cTJGdlQtcU1Db2gxWlpjZjlmNlRycW1CeUJNLUVCOThKN1JtSnJhemtqSU5pd3NNaDFX?oc=5",
         "published": "Fri, 23 Oct 2026 16:04:47 GMT"
+      },
+      {
+        "title": "Mercedes-Benz Aktie: Weniger Leiharbeiter geplant - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGpTSmZLQ1VkejZWcHRoWEJOelJUQjdtaENfZkNoVzl3d2FZeFB6amZ4dUZvWE1YUU9wc3VNekVPOFRsYUFTT2dGZmhxOUE0a2tJOHVaOWhkMUdHNEdXSVRaYWJfWFZOdW1YckNzc3NWd0NHeWEzeXR3MDJLZnFVTDZxWm9uTHdBRjBBWVd2ZzNQRmNQd3NHMVhXSTE3LVIyd1E?oc=5",
+        "published": "Fri, 23 Oct 2026 12:43:05 GMT"
       },
       {
         "title": "Mercedes CLA und GLC: E-Auto-Nachfrage übertrifft Erwartungen - Notebookcheck",
@@ -262,19 +262,14 @@
         "published": "Fri, 23 Oct 2026 14:42:47 GMT"
       },
       {
-        "title": "iab webAD 2026: DMB. gewinnt „Best in Show“ und insgesamt 17 Awards – mnews - medianet.at",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVRycXlxenJ4SVV0TmprT28wNmdvMlpoV01sTU9BLW9SZGJGVVZ2bUlBZUZkdFZTcVhlUVotc2pCOXh1aHNKOGczTG1RRmZhVDFnMWF6SUgxSlZnbHRHTjVuWUpOdzJ4QWdsc1hSdEV3ejV0ZGJnUkctS3RLbDhqSWd1T1cyeklSWm4xZW96bmhUUlpCa3QyRFQxUVFVUlA0TjI2R1VTWjVnRHpK?oc=5",
-        "published": "Thu, 22 Oct 2026 22:00:00 GMT"
-      },
-      {
-        "title": "Streuplan: Kleine Missgeschicke auf dem Wanderweg - persoenlich.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3FRYi10bFJQMFRRNmJxSmhwUTd5ZDdzRUdIeERBMnljQTNzRmFzeW9LM1RGWm9lYjRuTHROdGFCdkdQY1pOZTlTenJLRFJ0Zkl5cWx0dWFSdXZRYk9PWUNMczhSckpOV1lfcXVSa2x6U1Q3anpHbkVERl9wUnRoUmJCRFJaUTBmdHQ2WQ?oc=5",
-        "published": "Fri, 23 Oct 2026 13:18:51 GMT"
-      },
-      {
-        "title": "Neue Studie überrascht: Warum 38 Prozent der jungen Kunden bei dieser Werbung den Kauf verweigern - Echo24.de",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXJsbVI2UG1GQUdaQnFLRmV6Rm5pcjh6cl9obGtiLWRaSktDVXV6X1FQckFCS01GaTdaWndUVnVhVlUxejFtci1VR3drclM2TmJnT3lMQS13dGxrd1E1QTk2UjllSGpqQ3pkSmxGSEFiR2VQYkZMUTdKajl4Nl9xZk1VYmQzRW9tN3NxUjNPRXNtVVM4aHZETmpjcXNRYlpaMGxSTlNlVVd0M0tO?oc=5",
+        "title": "Neue Studie überrascht: Warum 38 Prozent der jungen Kunden bei dieser Werbung den Kauf verweigern - Merkur",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUZTQmpSalNNSWRMRFJSWGNGWW5mS0Q5ck0wZ012bWVNamRBR1FxYkdaUGtSZ3N2WDZ1eVNIeG1QVHhLVzJ5Wk95V0FxQVFXQkI1LTdzRjVWaERFVkgxQVgzSzlkTVdTV28xcTRJeEtMZ0t4Yk9uNzhJY1dwUjhvaXBxTElYS3FQaDB6R29BV2VTUFFTZ1N5M2pFQ09abjJmMGZsY1F6NmYxVXVV?oc=5",
         "published": "Fri, 23 Oct 2026 13:15:00 GMT"
+      },
+      {
+        "title": "iab webAD 2026: DMB. gewinnt „Best in Show“ und insgesamt 17 Awards – mnews - medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2VJS09oeEc5X3c5OFlnNkpRYWp6cHZxRHc2QmloZVFSOHBjNFJFdnFxLXdBUl9zZnl0bXEtYk52UzlmSVZMZWJNNW11UWhLUUJCUmxleHoxRTc4b1ZkWnd6OGpBNGxsVkRhYjVsbzF1OEcxTWxVS1hmOHlFblFoZDhnVVRzT0RiSWdKbFlXT0YzNUV6UVg3RVR6c0pVbnVRc2l1NHpKam92VkYxY3o0TDhxZWxpWjJKRnQ4?oc=5",
+        "published": "Thu, 22 Oct 2026 22:00:00 GMT"
       },
       {
         "title": "Quartalsbilanz: Omnicom erzielt nur noch 16 Prozent seines Umsatzes mit Werbung - Horizont.net",
@@ -287,22 +282,22 @@
         "published": "Thu, 22 Oct 2026 07:37:26 GMT"
       },
       {
-        "title": "Schon über 100.000 Werbetreibende für ChatGPT Ads - OnlineMarketing.de",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWN6ODZzUFJ6c1cwTnFUaE0zNHZzWG1qR1VTUGpwMWRYZDFWc3VtcTFuX3ZNcW5INjB4bmlUNjRlYnlpLS1QU2g1MUxfeEtIcm1BUmJBTDZ2MURUbWVXclY0RFNGWDJhMTRaalZVeU1SYzBoME1IdXNBS25VNl9jVk1SNl85UHBncDVfcEVucmE3V2NfVjlfUmFyU1c0X2t3eGRaLVNWOFZtcVRlb05jZG1xUHRyTVZkUkRaQmhMSlhjOUlmd1JTSDhqempLQl9lZy1N?oc=5",
-        "published": "Thu, 22 Oct 2026 11:12:55 GMT"
+        "title": "Halloween Kampagne Ahoj-Brause setzt zu Halloween auf Microdrama – Grusel mit Cliffhanger - marketingScout.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFB4dkprTDhFTU96VkhCTHNGSDhKRTJycmlHb2pPSWo3Q253OVNzU3ZtY1g1NWlCdmRIcjVnWG1uSGEzYmlMektTRFdUbUczNFNEVGdiYkZLdlpGeXNhRFdKOWd0OE1Pd3ZUWDR3WWRhUVNaTVRwZ0N3bG1nSW5MeTVkM3lwb014RFNDOTlvYjhTRU1ZbXJKVVlRYzBNMG5rYzFMNnBsdDA?oc=5",
+        "published": "Thu, 22 Oct 2026 13:33:06 GMT"
       },
       {
-        "title": "Rossmann vergibt Mediaetat an UM Germany - Healthcare Marketing",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmZjQjJnTXB4d2VUNGw5dExLcng2WUhEWkQxcHhvNEdreW5oZ3VxcjN6ZnJWaHEwUlFQZzA1dmkxejNQU004Vk9VOFdVMkx4ZzJCNU9UTXltckdRaTBEMUdHaXEzWlR3azZaOHdyNXdUcm1OWWJ5dThVQkZ2Sm82bnY5Mm5kd2FFYnhwbw?oc=5",
-        "published": "Thu, 22 Oct 2026 09:10:40 GMT"
+        "title": "Einstein Anzeigen (Moes und Eisenbach) bietet Marketinglösungen an, die sie selten umsetzt - Anwalt.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZThkQTU4ZjROaTJkMjZyZFVMdlR5R19NN21TdmxYQ3I0M05ISXVzODlVd241QVE1aHlnZlVpb1dtTGNxSWpUck5BR1RlS09mMnd6bmdGU0ZoZ0xwWHB1aFlkYUtSSmJXU0p2WWxJazFsMGw3dElHVDBVdG4xX0xJNExPdVlYcDZnWFZYT3dSV3ozMnZIckxqbWJreEJGbURCTTkydUhPTGVQVmx1R3hQdnJNdUZaQXh3SFBfNEh3WTdoZmVyWHdKNk5jSDd4OWM?oc=5",
+        "published": "Thu, 22 Oct 2026 15:12:29 GMT"
+      },
+      {
+        "title": "HORIZONT DIGITAL MARKETING DAYS: Suche 2.0: Wie bleiben Marken sichtbar? - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEs5XzVHTHNlRjVPQVZrZGczRk1yUnN2bkRjZWFYalRvYmlybktmY0xncGtQb2lIc0t1bk1ackJPUHBYN0lKaE5hUnlsTG5ZSE83cUVmNDRKYjZ2WThRQUFkQnpFLS1LUzBQZ0k2LWlGZnZZY2NSX1BacDBZNGdVR2sxUW1EQ01md0tMZmNUeFNzWFl6UTdZcGJSSkU2OXh5TUFBRlFod3Jqc3NTc0dlU1ktWER1QjFsRHdKUkhNa3Q?oc=5",
+        "published": "Thu, 22 Oct 2026 14:00:00 GMT"
       }
     ],
     "Technologie & KI": [
-      {
-        "title": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeklObUJPVEMwQkctMkJNcDdYT0ZUazdyelpKSS15ZlRKZEVIclJ3RUpEM2pFUkJ4OW1VVnhvOE5aMDFrY09kVzRlWFZhbkVPVVdhSDF6a3dwUW9rZWt2Z0duSkNMYzduZGp3NkhsZEFsNmJWZGliT2xsU2JaU3YxSC1lV01MR1VvcHQweDIyRFRFR3JkZnZSWmNNSkVrenBkZ0VXajdhLUJyUU5HeG1BTVFXdWF0UmR0Wm1tbTQ4Mi1ULUM5LXI3bjMxVjlFcm5aUEpwMXAtWnBjakJkckw4WU1SRmxzS2VoMFVjZV93ZkQyWUhHa3VNUDFvbXQ3eDFw?oc=5",
-        "published": "Fri, 23 Oct 2026 22:01:04 GMT"
-      },
       {
         "title": "Wie die Raiffeisen Bank International Künstliche Intelligenz sicher und verantwortungsvoll skaliert - Microsoft Source",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQXpkbV9LQmhyNFAtSjBfRThwUG9oVURsQzhlQ2tVLTNURGZPZlZtZDc1X0lSeE1SNVpXUi0xMkpiRVd1R29RXzJqMzNQZERMWkFlMHViOUc2WEt4d2VsbXE1cmVSak9XQWl4MnA3NXhDTDVGZ1NCb1g4bG9yclZPUmFXU3hmNkhmcmxpNTdtMjNnRFVxeDEwR09VUTNzQzFGQ280YXNsT0tLb0JySWtQTlFQX1JUTElxbEtyT2NVd0VwaHFVak5XR0ZEOWlYYzZmWS1FdDV2b2NkcUoxYlBEV1lFU0RsVll5SEp2aw?oc=5",
@@ -312,6 +307,11 @@
         "title": "Chinas KI-Exportkontrollen: Entwurf umfasst 40 Technologien aus drei Branchen - BornCity",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdF9qOXJqbjVHRHE0NnZGSGRnalQ4cl9LSUxNcjRaSkVQWDZ1T0otQThxOTJVLTZmWEJyaC1iak82TGNzaFdETmQzc2N5UVVMLVluQ21ycW54TWRtRDRVa1M4VktWU2xxVWRQTHJfRFZ5WWNQOHFPa2JhaDRFOFl6VWsydGMtQWtBdkNybWl5ZVNTRjBaTldtTVdkUmhoS1k3QjBSWUdR?oc=5",
         "published": "Fri, 23 Oct 2026 14:45:05 GMT"
+      },
+      {
+        "title": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeklObUJPVEMwQkctMkJNcDdYT0ZUazdyelpKSS15ZlRKZEVIclJ3RUpEM2pFUkJ4OW1VVnhvOE5aMDFrY09kVzRlWFZhbkVPVVdhSDF6a3dwUW9rZWt2Z0duSkNMYzduZGp3NkhsZEFsNmJWZGliT2xsU2JaU3YxSC1lV01MR1VvcHQweDIyRFRFR3JkZnZSWmNNSkVrenBkZ0VXajdhLUJyUU5HeG1BTVFXdWF0UmR0Wm1tbTQ4Mi1ULUM5LXI3bjMxVjlFcm5aUEpwMXAtWnBjakJkckw4WU1SRmxzS2VoMFVjZV93ZkQyWUhHa3VNUDFvbXQ3eDFw?oc=5",
+        "published": "Fri, 23 Oct 2026 22:01:04 GMT"
       },
       {
         "title": "Nachhaltigkeitsentscheidungen: Mit Politik, Baugefühl und KI im Wechselspiel? - Ökonews",
@@ -361,14 +361,14 @@
         "published": "Fri, 23 Oct 2026 12:41:00 GMT"
       },
       {
+        "title": "Nvidia Rubin Ultra: NVL576 verbindet 576 Grafikprozessoren über acht Racks - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1NTYVJmRmx6azhYaEZLcTdZODFydDktc2pWOHBJazV5aHlEbExXb1NGUlRaaUNPWThwa2FQdHBCdXI1dHBDR2V1T05TaG9VUy03dzFMcUgxSWJOS1FIQlNZNmhwaHR6UUU4NU83MkI5VFVXNFNfSTJOdTkzMEhudi1ZbVQ5UWhpVHlrSHZOV2VUU0Y3Z1V6RDN3UGsxNTFmR3J3?oc=5",
+        "published": "Fri, 23 Oct 2026 22:48:04 GMT"
+      },
+      {
         "title": "Amazon kauft Nvidia-Hardware für Milliarden trotz Strommangel - PCGH",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR0dLcldVLVFaR0cyeW1VVnJOTzBrTDBoM3VjbDNmNVlxaWZFNEdJOUNkcHZOcThjWUZUa1lnMHZKREdYMjhRdGs2bFN0OV9pX05KWV9GTUhMTDhhV01jN1NOQk13Rmp5VUhzNmFLM1F1OS1LXzlpZGZrZlF3ZFhsVnpwTXlKY0ZZNTkzQ1pFcFc5OVFIQ2JyaEJnczVDeEJjdHRWdUR0UmN4Vi1YN3lOSE56Z2dDelkyYlVxbFNUZmtlR3o0b18ycENrb3ZGSlNTeHBGNG0xZWowUQ?oc=5",
         "published": "Fri, 23 Oct 2026 11:15:00 GMT"
-      },
-      {
-        "title": "Google Cloud bringt Nvidia Vera Rubin in A5X-Instanzen - it-daily.net",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6bHJrdjZEZzRrNVUybi1RdDNSZHhRYWNFNjlhdGJPZFFNeml2YkVNanJmOGVGV0IwcVhGbnNTc00zdVhKbEY4WXpadzZfU250OVZpbktZTE9ZX3FidDNlY2huMXU5Q0RXM2pkVTIyd2dnS1k?oc=5",
-        "published": "Fri, 23 Oct 2026 16:41:08 GMT"
       },
       {
         "title": "NVIDIA-Aktie und die KI-Blase: Warum Tom Lee den Gipfel erst 2033 erwartet - Finanzen.net",
@@ -376,9 +376,9 @@
         "published": "Fri, 23 Oct 2026 11:51:00 GMT"
       },
       {
-        "title": "Nvidia Rubin Ultra: NVL576 verbindet 576 Grafikprozessoren über acht Racks - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1NTYVJmRmx6azhYaEZLcTdZODFydDktc2pWOHBJazV5aHlEbExXb1NGUlRaaUNPWThwa2FQdHBCdXI1dHBDR2V1T05TaG9VUy03dzFMcUgxSWJOS1FIQlNZNmhwaHR6UUU4NU83MkI5VFVXNFNfSTJOdTkzMEhudi1ZbVQ5UWhpVHlrSHZOV2VUU0Y3Z1V6RDN3UGsxNTFmR3J3?oc=5",
-        "published": "Fri, 23 Oct 2026 22:48:04 GMT"
+        "title": "Google Cloud bringt Nvidia Vera Rubin in A5X-Instanzen - it-daily.net",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6bHJrdjZEZzRrNVUybi1RdDNSZHhRYWNFNjlhdGJPZFFNeml2YkVNanJmOGVGV0IwcVhGbnNTc00zdVhKbEY4WXpadzZfU250OVZpbktZTE9ZX3FidDNlY2huMXU5Q0RXM2pkVTIyd2dnS1k?oc=5",
+        "published": "Fri, 23 Oct 2026 16:41:08 GMT"
       }
     ]
   }
