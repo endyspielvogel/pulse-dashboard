@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T22:37:36.732494+00:00",
+  "fetched_at": "2026-10-23T23:06:30.675018+00:00",
   "countries": {
     "AT": [
       {
@@ -45,44 +45,44 @@
     ],
     "US": [
       {
-        "title": "jaime jaquez jr.",
-        "volume": "500+"
-      },
-      {
-        "title": "uk basketball",
+        "title": "nba league pass",
         "volume": "1000+"
       },
       {
-        "title": "cruzeiro x remo",
+        "title": "dazn",
+        "volume": "1000+"
+      },
+      {
+        "title": "tulsa football",
         "volume": "500+"
       },
       {
-        "title": "cruzeiro vs remo",
-        "volume": "500+"
-      },
-      {
-        "title": "umass vs uconn",
-        "volume": "2000+"
-      },
-      {
-        "title": "kel'el ware",
+        "title": "seattle seahawks waive trevon diggs",
         "volume": "200+"
       },
       {
-        "title": "timberwolves vs magic",
-        "volume": "10000+"
+        "title": "lcp",
+        "volume": "200+"
       },
       {
-        "title": "mavericks vs pacers",
-        "volume": "5000+"
+        "title": "boyacá chicó - bucaramanga",
+        "volume": "200+"
       },
       {
-        "title": "hawks vs hornets",
-        "volume": "2000+"
+        "title": "mika kleinschmidt",
+        "volume": "200+"
       },
       {
-        "title": "raptors vs wizards",
-        "volume": "2000+"
+        "title": "helen chiang xbox coo departure",
+        "volume": "500+"
+      },
+      {
+        "title": "lamelo ball stats",
+        "volume": "500+"
+      },
+      {
+        "title": "nba starting lineups",
+        "volume": "500+"
       }
     ]
   }
