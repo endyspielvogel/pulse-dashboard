@@ -1,15 +1,7 @@
 {
-  "fetched_at": "2026-10-24T18:49:59.103884+00:00",
+  "fetched_at": "2026-10-24T21:45:24.957287+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
-    {
-      "title": "See all this week’s Ads of the Day",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzljLVQ4MEJXYXZJY0R2ZHRiYmZCdnZqWVU5RWhSbkZJcjZFaUlSLTRLbHZDY3FhaElnY3p2QjNha082Yl9lYVpGLWFKQU5zRXRTZ1BLTk5uNENXeWJMQzN5dldJd0hGUW1TbmNCUHF4czctX0ZnejhmZDAyS0Vobmh5SUhEYmloMlI5OGdobWtHZ1puYnU5UG11V29RS1UzSEE?oc=5",
-      "published": "23.10.2026",
-      "published_iso": "2026-10-23T12:08:51+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
     {
       "title": "ECD Tom Houser exits ITV Creative",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVduMVhmNlhSem9QNEE2cTJQUE9iemxrZWt1MGEtNDZDYUpENkRtZlJWdzE2VEt4QXNCeTlFbEhTQk5lbTRpTFBGU2s3WW9HZmFfQ2lGdFdvWUwyOXo2SXUxb1ZCeElmbVU2djM5cmV3TFRZUTgxaXRiTG95RWhuTlVaMHZuUG5NNi1mc0l2QmJZSURfTENMR2JuNk5TRExy?oc=5",
@@ -39,6 +31,14 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3pleWVKNk9tVERBMkN3RXNVQzVwXzR6ZzJfVHdoLXlpLWxVYm9iQ0lpQ1R0NEVLbGRpRDloYmNNalhla3hFQ0RleFhKNnZnVmtJb3RCQTNDWDlFbUtZZ1BTazBjQk9EbnFfVzQ4d1ZLeUFVWldvWjczOWZNdjVIWmZBYVNOeG55T1JuSmM2OGpQdWcwNldfcTJBYWpkRnpYZmJpZkRGbnJtanJzYVZTZW1kV3VKbU9Ic0pjWTNEMENnYUNnUjlvcm5lOXJzZw?oc=5",
       "published": "22.10.2026",
       "published_iso": "2026-10-22T12:56:46+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Review of the Week: Just Eat changes up the menu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcV9lX09hTFlpYmtjOEluZVRzYlVHd2lLcDh2bUlzY0d1anRCWUdVeU4zMG9jdU9QMkc5MDB6REpvXzFscEFYeTM4TGxhNjNZOFVlZUFPSjJySElNYWw0dXB4Z0JlQTU2V1NDVlRnTWVaU1JBMXQtT0EySFZmYlpDUlFnc0pUWGRqZHRiaTdSTHVFdFMzVExpeThybjBvQi0zYUZPaWFQOTRER1EwUzFUa09kQQ?oc=5",
+      "published": "22.10.2026",
+      "published_iso": "2026-10-22T12:10:57+00:00",
       "description": "",
       "source": "Campaign UK"
     },
