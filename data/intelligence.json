@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T09:00:14.381361+00:00",
+  "fetched_at": "2026-10-24T09:26:14.813505+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -75,14 +75,14 @@
         "published": "Thu, 22 Oct 2026 10:14:00 GMT"
       },
       {
-        "title": "Aus für Bioware: Sehenden Auges (Fröhlich am Freitag) - GamesWirtschaft.de",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZF8tZVctUmpxU0x1LWRFRUhja1EtczFrbFNEdnNvOU1QdkM3cU9IdERaODFEOFJjYTVxS0RiYjA0THFUTFliYWpXQjlTaVdHT1c1ak4wR3Jpay1tcE5qMG1iNUVMLVhfQk9Zb0FJN1RnLXI4SW1yb0hHQWRiZlRBaVBkdmp5T0VqamdiZUNOQQ?oc=5",
-        "published": "Fri, 23 Oct 2026 11:58:34 GMT"
-      },
-      {
         "title": "Capcom ID gehackt, Daten von 11,7 Millionen Konten offengelegt - Pasquale Pillitteri",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVg5cjktYUhhV2p6YWdJODVMNVJpY012TmwwbkxQbllEM3lrTHpnLTBQamdVTy1CeUc1a1lNRlJkN25SOVlBN3RvSDYyc256Z3NudzgyQW9LVjZQSVNsVVJTZmlGX1R2YW5vODUtLWg2MzRwSjhDYm52X0xueGh4V1lZVnRtOUQx?oc=5",
         "published": "Fri, 23 Oct 2026 09:16:11 GMT"
+      },
+      {
+        "title": "GTA 6 Burgers und Fried Chicken sind echt, kosten aber ihren Preis - games.gg",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVBlc29iTzdmN2xrNVVNTjN4bjQtaEg2S0J1akdKcmhFZ21wSVYyNEFMMWlCZkdSXzg1QjNqT1BYWW9SZWN2LTFhM1dWN1plMVUyQTZOVXNFdXhucUJZX05Tdk5GUElEQ0hNSkdGSW9CWXVnMGZmSm4wMHhvc3hkUlN4NHU2SHktU3dfTm5RREVwSlFSenl3?oc=5",
+        "published": "Fri, 23 Oct 2026 18:42:27 GMT"
       }
     ],
     "Omnicom": [
@@ -102,11 +102,6 @@
         "published": "Thu, 22 Oct 2026 21:37:17 GMT"
       },
       {
-        "title": "Coca-Cola betraut Omnicom mit dem Media-Etat in Nordamerika und hält global an WPP fest. - turi2",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdBeDZnd0h0SC1wNjg0TEk4dXlGVjk1cVhjcXZyTEt5ZGY5Z2Q2T0JXbTVVN3N0MXlVRHZqRFlxOWlXRVFFOTJNWklvQnpULVdQWHJtSUF1eExKSWkwUk9tX2lJSmFJWWVySEJDYnhLZXBUWFlnOVFLMjhEblN2dUFrZE0tUjBBM3RBWXVIRVpaampKV0M4YWl2V1REcTBlWHRQMWRBQWp3ajdwbkk4dG04a1o5YWNkdkE?oc=5",
-        "published": "Fri, 23 Oct 2026 09:27:00 GMT"
-      },
-      {
         "title": "Omnicom Group., Inc. : Morgan Stanley bekräftigt seine neutrale Bewertung - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWndvcW5YendXS2ZFcGhPb2JGTWRzaG85dHFhOFlmOVFGdkhfVGRqcXRnSnh0dldtSkZEMXEzdUdPRnVmUUJwT1RpdU5maHY3NTQzdEQ4eDJvcmlLejEtMTJXQlVfa2RqSzd1eFQyZmJXTFE3Yl9MV0N2SmFfWWhaRW1KY25xS3BqN2xpdmdKNTRhMWU2Sk1VSldmNVNWcmhFdEhqZVpPaXBmRlhiTGZMNEZ0ZFR2VEZseDZXTkV1RGs1dUR2UGhyUmNZZUdYeWVq?oc=5",
         "published": "Fri, 23 Oct 2026 11:09:10 GMT"
@@ -120,6 +115,11 @@
         "title": "Earnings Flash (OMC) Omnicom Group Inc. meldet Umsatz von 6,42 Mrd. USD im 3. Quartal gegenüber FactSet-Schätzung von 6,21 Mrd. USD - MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkVkN2pOaUJKbE5tMFJCay16MDI3YXpobVRHVTVjeUIzRFplYXlqeDI5ajZHeVIyWHI3TW9FT2lhWkdyZHVOQXphNTg5cHN2ZF83OHpqWDhmRTdzTGZVd3JlZnBld3BmX2ZhbWt2THFGNUR4dFBaWFNVN3lOcXA4aG11UkFMY3pNMGFXbHZmbndvVnhyby1vU0o5RnNOM0V1dzFTYnlUbmVONDRuTmxFTS1CbnhzaFdwRERhR1ZPR2dhMjVvdWlWVEdJalJjX1dqYlVNbzdTbkRXdnZFNkJPYVVTbFJrX2oteFVOS1hrTUVkSzBv?oc=5",
         "published": "Thu, 22 Oct 2026 20:04:38 GMT"
+      },
+      {
+        "title": "Omnicom Group., Inc. : Goldman Sachs bleibt neutral - MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVNeEVzR2pDTkU4SGRWWF9GRFg2eThWdG5IWEx5bTBTZjJUZV9IUngwYWdHR3JQeWZ3WEhVbDhBSFVZOEROZXY2ZGVINW0zbEZQc19XMUlhYWdEdzBxcE9tbW4zRkQ1TW0zc3M3dkhvVFcxUDlSZC1qQUFLd2V2RWxLX1F0V2xtS3VZdGltWDV6WVJyVk9fT2dfX0VHOUZ0Z1g3bjZlVmU4ZDBreFhZMzRR?oc=5",
+        "published": "Fri, 23 Oct 2026 12:17:47 GMT"
       },
       {
         "title": "Omnicom Group., Inc. : Wells Fargo Securities bekräftigt seine Kaufempfehlung - MarketScreener Deutschland",
@@ -196,14 +196,14 @@
         "published": "Sat, 24 Oct 2026 06:00:00 GMT"
       },
       {
-        "title": "„Tolle Marketingkampagne“: Wie Experten den Nvidia-Deal bewerten - Table.Briefings",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHUzQjhqVkZnOWpHT1JBdGt3NEJBVzJSeGR0U1RfZ0JXUTM3UUp3V3dVeGJ0RXZzVXB5ZEtwZkxmUUF1VnJKVXVnaWRfWFRBanZ2M0xSWkJYQ3lCN1JjZGdBSGpaMjRodzMxR0FWUE9pNkxuamhuVXQ2dDF6TDFtYmRSWmpvUEhydlhURFd5M0g2TUFEcFpIYlVvYlE4M2JxVS0tVDlB?oc=5",
-        "published": "Sat, 24 Oct 2026 03:05:52 GMT"
+        "title": "NVIDIA Aktie (NVDA) • US67066G1040 - BörsenNEWS.de",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOWEdKclRWdGNTVlVlaHlrUWlBRHZFb0FZbk0xWnhTZzRyTnZFTExUeGMtOXJXd0JWNldaVXQ5S21odGtzWmN0eHJGQXVlUUhZQ1o4eThIdlJEOEZPOWdhci1QUmhqczB1LWFnRA?oc=5",
+        "published": "Fri, 23 Oct 2026 05:47:23 GMT"
       },
       {
-        "title": "BOTSI®-Advisor Hochstufung Nvidia von Rang 105 auf ... - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVlrajBUdU5ncjhFTFRtLUExMThRMGh5M0xyMHk0WXZCUk1MMFhOTEdqWjBJd0Y5N0dGZm5VRVh3ai1meTlGMk9xYWN0QmFRUjVnaFBqWmJ1TEdpSVdrN25kZ1hNajFmMWFDMURZQ1lkTmZUSk1yaFQySHRkLVc3Z19RMWE5OU9aUXFRQThCQ2lpQldtYnU00gGcAUFVX3lxTE8wYURJdTgySW5hRjFWZ0NqZ0lUV3JOM1RKaXFQMHhYb2FVUmJGSHlBcnU1MTRGMWhPNjlGU1d6OVpCekVqRDBlZ0lOWWxhUFBpaHVGdllxU2QwaW11NkJwa0JubksydlN5ZHpyOElNc24tNzkxUGhuRENhTi1zSGxib0lkcHRwR0lRbl9QWm1QN2NheloycVphS3lUVQ?oc=5",
-        "published": "Sat, 24 Oct 2026 05:06:00 GMT"
+        "title": "Nvidia B300: 32 verbotene KI-Chips im Netzwerk von China Telecom entdeckt - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkxxdzU4THNMZ1RraDIwN2xSZXE4dkg2TUZ3M29Lb2VGcDJraG1xdU1QOFFoOEtHem9URGluN2N0YmdaVEJKUDlLNkdvLWp5WVY4bUlqakhlTHN5T3ZpcjBYZ3MxMmd5ZDhkVDMxMFpSTnpaZVdRVVJXRlFtd0l2eE9CYkJXUmp1S1l0MW9lM3lyZzIwSjJnN1ByZGV1d2dN?oc=5",
+        "published": "Sat, 24 Oct 2026 08:58:04 GMT"
       },
       {
         "title": "NVIDIA-Aktie und die KI-Blase: Warum Tom Lee den Gipfel erst 2033 erwartet - Finanzen.net",
@@ -240,6 +240,11 @@
         "published": "Thu, 22 Oct 2026 10:10:00 GMT"
       },
       {
+        "title": "ROUNDUP/Eurozone: Schwache französische Wirtschaft belastet Unternehmensstimmung - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBzQ3h3ZWpmYzdxdFNxekRwT2o1Q1FjQmNLb1hrSmtaZzQwblZ3emdqWDNVMTIyaTBkNDduMDU0U1lKYUpNVlhVbEVmR0dYRk9XVHlfbkFlQ21XZ2lBc0dCRWdzemdVSV9FajJoY0JzNXdwaHVzTjBKdGZkYkU4aDk5d0hMUnJxT2EyckViZWptWTd6Q1NFc0xFWmdFeEt5RGdBN3NaZzczaFMtcXRGeThhd2k3enJlRVFqLVk2SXnSAcYBQVVfeXFMTnJTc1JJUGZzeURKYTRWX0NqUHlGU1R5YVRBb2pmSG5yakZqckFLdjlYeEJCckVNVjhJbDJZbU4yRmlYX3ZKUzZIY3hyenhaMHd0N3prTmpITWlzbjNRX2Z5eGZZTFV4YmhvNzZ3aDR6dXBYUm5NRVRNWTFfcmlWWlpvTTlsM2UwTEhJTDVtWnNrQ1FWQko1dkU5YjkxXzZWUlhJM1VLMjg5SDJtdnAxOGxiQW9OdXhZMHVnWVZKQVpMdnNXcHBn?oc=5",
+        "published": "Fri, 23 Oct 2026 09:48:00 GMT"
+      },
+      {
         "title": "Porsche SE, Mercedes und Co.: 63 Prozent Minus! Das sind die Aktien-Flops aus Baden-Württemberg - swp.de",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHNvWDhZTE1sYTBlbUd3MVozYmstREtNNWRURFAzUWl6SlVPc3hQVTZSQmpjdjgtbmhhXzJOVUE4YjkwMXdkS2UzZkI5a3RFRFRWREZOMGlCc25scGJjSmZNTDZwc3Y4a2ZLRGlhVG5UQTFBWHNFMEhBaEN4RHdkZW1XbkdGZkpFaUNBNjBpZ05OWGFVcjR6cUE2R3lFOFZTc1llQlc5YU80cWx1eklIUndVVkU1Zmp3aVg1Q2hXWjVxdndRR3BBSmZick1RaHpvTVE?oc=5",
         "published": "Sat, 24 Oct 2026 05:06:00 GMT"
@@ -248,11 +253,6 @@
         "title": "Übernahme von Qiagen: Lebt es sich unbeschwerter abseits der Börse? - FAZ",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLTZJVDBJLWpzYk9WWWhZcmFDWjF0aldXTkYwYXo0ckpnYm9oeWRxN0dwYnBXZkg5aUMweTVCbVltdm93X3FTaUN0WGVBNnk1TU8zWHQ3NHc5dUQzTGtzNDdaOE1RQW1nZFYxT0RPQW41VGhZVTZoUHhvbjZFZmxkYjBoNXJNVFVVbFI4NHZZOEdhbl9mN0FqYUtGel80UWFIU2c2YThqOGs5TnU1Y1dpazFEVEdxT2hHM2xtX2R6UUhfRHVPNk5JOGxUbHA4QQ?oc=5",
         "published": "Thu, 22 Oct 2026 16:25:46 GMT"
-      },
-      {
-        "title": "ROUNDUP/Eurozone: Schwache französische Wirtschaft belastet Unternehmensstimmung - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclNzUklQZnN5REphNFZfQ2pQeUZTVHlhVEFvamZIbnJqRmpyQUt2OVh4QkJyRU1WOElsMlltTjJGaVhfdkpTNkhjeHJ6eFowd3Q3emtOakhNaXNuM1FfZnl4ZllMVXhiaG83NndoNHp1cFhSbk1FVE1ZMV9yaVZaWm9NOWwzZTBMSElMNW1ac2tDUVZCSjV2RTliOTFfNlZSWEkzVUsyODlIMm12cDE4bGJBb051eFkwdWdZVkpBWkx2c1dwcGfSAcYBQVVfeXFMTnJTc1JJUGZzeURKYTRWX0NqUHlGU1R5YVRBb2pmSG5yakZqckFLdjlYeEJCckVNVjhJbDJZbU4yRmlYX3ZKUzZIY3hyenhaMHd0N3prTmpITWlzbjNRX2Z5eGZZTFV4YmhvNzZ3aDR6dXBYUm5NRVRNWTFfcmlWWlpvTTlsM2UwTEhJTDVtWnNrQ1FWQko1dkU5YjkxXzZWUlhJM1VLMjg5SDJtdnAxOGxiQW9OdXhZMHVnWVZKQVpMdnNXcHBn?oc=5",
-        "published": "Fri, 23 Oct 2026 09:48:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -262,46 +262,41 @@
         "published": "Fri, 23 Oct 2026 14:42:47 GMT"
       },
       {
-        "title": "iab webAD 2026: DMB. gewinnt „Best in Show“ und insgesamt 17 Awards – mnews - medianet.at",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVRycXlxenJ4SVV0TmprT28wNmdvMlpoV01sTU9BLW9SZGJGVVZ2bUlBZUZkdFZTcVhlUVotc2pCOXh1aHNKOGczTG1RRmZhVDFnMWF6SUgxSlZnbHRHTjVuWUpOdzJ4QWdsc1hSdEV3ejV0ZGJnUkctS3RLbDhqSWd1T1cyeklSWm4xZW96bmhUUlpCa3QyRFQxUVFVUlA0TjI2R1VTWjVnRHpK?oc=5",
-        "published": "Thu, 22 Oct 2026 22:00:00 GMT"
-      },
-      {
-        "title": "Streuplan: Kleine Missgeschicke auf dem Wanderweg - persoenlich.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3FRYi10bFJQMFRRNmJxSmhwUTd5ZDdzRUdIeERBMnljQTNzRmFzeW9LM1RGWm9lYjRuTHROdGFCdkdQY1pOZTlTenJLRFJ0Zkl5cWx0dWFSdXZRYk9PWUNMczhSckpOV1lfcXVSa2x6U1Q3anpHbkVERl9wUnRoUmJCRFJaUTBmdHQ2WQ?oc=5",
-        "published": "Fri, 23 Oct 2026 13:18:51 GMT"
-      },
-      {
-        "title": "Neue Studie überrascht: Warum 38 Prozent der jungen Kunden bei dieser Werbung den Kauf verweigern - Echo24.de",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXJsbVI2UG1GQUdaQnFLRmV6Rm5pcjh6cl9obGtiLWRaSktDVXV6X1FQckFCS01GaTdaWndUVnVhVlUxejFtci1VR3drclM2TmJnT3lMQS13dGxrd1E1QTk2UjllSGpqQ3pkSmxGSEFiR2VQYkZMUTdKajl4Nl9xZk1VYmQzRW9tN3NxUjNPRXNtVVM4aHZETmpjcXNRYlpaMGxSTlNlVVd0M0tO?oc=5",
+        "title": "Neue Studie überrascht: Warum 38 Prozent der jungen Kunden bei dieser Werbung den Kauf verweigern - Merkur",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUZTQmpSalNNSWRMRFJSWGNGWW5mS0Q5ck0wZ012bWVNamRBR1FxYkdaUGtSZ3N2WDZ1eVNIeG1QVHhLVzJ5Wk95V0FxQVFXQkI1LTdzRjVWaERFVkgxQVgzSzlkTVdTV28xcTRJeEtMZ0t4Yk9uNzhJY1dwUjhvaXBxTElYS3FQaDB6R29BV2VTUFFTZ1N5M2pFQ09abjJmMGZsY1F6NmYxVXVV?oc=5",
         "published": "Fri, 23 Oct 2026 13:15:00 GMT"
       },
       {
-        "title": "CTV, Retail Media und Künstliche Intelligenz - Nils Gräf: „E-Commerce und CTV sind für uns keine getrennten Welten“ - Meedia",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWgySEhRRTJ4eEUxNTh2OTJiaktXTjFnUDZreG80UEUwZWNmOTBuOXdUY2QxTGJScUY3d3lMbDBrUlZyNzNZV2ZCNU1BeE53Z3o4Q0VQWTBJakk5cXNyQWFuSmhJZGlKY2puSkYwM1ZXQVVRYXdoOHJIX2ZGUkl3MGJwRDd6bi1ZcHJ0TGFCaklrVzNHbFZBTjV4NA?oc=5",
-        "published": "Thu, 22 Oct 2026 09:55:43 GMT"
-      },
-      {
-        "title": "Schon über 100.000 Werbetreibende für ChatGPT Ads - OnlineMarketing.de",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWN6ODZzUFJ6c1cwTnFUaE0zNHZzWG1qR1VTUGpwMWRYZDFWc3VtcTFuX3ZNcW5INjB4bmlUNjRlYnlpLS1QU2g1MUxfeEtIcm1BUmJBTDZ2MURUbWVXclY0RFNGWDJhMTRaalZVeU1SYzBoME1IdXNBS25VNl9jVk1SNl85UHBncDVfcEVucmE3V2NfVjlfUmFyU1c0X2t3eGRaLVNWOFZtcVRlb05jZG1xUHRyTVZkUkRaQmhMSlhjOUlmd1JTSDhqempLQl9lZy1N?oc=5",
-        "published": "Thu, 22 Oct 2026 11:12:55 GMT"
-      },
-      {
-        "title": "Rossmann vergibt Mediaetat an UM Germany - Healthcare Marketing",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmZjQjJnTXB4d2VUNGw5dExLcng2WUhEWkQxcHhvNEdreW5oZ3VxcjN6ZnJWaHEwUlFQZzA1dmkxejNQU004Vk9VOFdVMkx4ZzJCNU9UTXltckdRaTBEMUdHaXEzWlR3azZaOHdyNXdUcm1OWWJ5dThVQkZ2Sm82bnY5Mm5kd2FFYnhwbw?oc=5",
-        "published": "Thu, 22 Oct 2026 09:10:40 GMT"
+        "title": "iab webAD 2026: DMB. gewinnt „Best in Show“ und insgesamt 17 Awards – mnews - medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2VJS09oeEc5X3c5OFlnNkpRYWp6cHZxRHc2QmloZVFSOHBjNFJFdnFxLXdBUl9zZnl0bXEtYk52UzlmSVZMZWJNNW11UWhLUUJCUmxleHoxRTc4b1ZkWnd6OGpBNGxsVkRhYjVsbzF1OEcxTWxVS1hmOHlFblFoZDhnVVRzT0RiSWdKbFlXT0YzNUV6UVg3RVR6c0pVbnVRc2l1NHpKam92VkYxY3o0TDhxZWxpWjJKRnQ4?oc=5",
+        "published": "Thu, 22 Oct 2026 22:00:00 GMT"
       },
       {
         "title": "Halloween Kampagne Ahoj-Brause setzt zu Halloween auf Microdrama – Grusel mit Cliffhanger - marketingScout.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFB4dkprTDhFTU96VkhCTHNGSDhKRTJycmlHb2pPSWo3Q253OVNzU3ZtY1g1NWlCdmRIcjVnWG1uSGEzYmlMektTRFdUbUczNFNEVGdiYkZLdlpGeXNhRFdKOWd0OE1Pd3ZUWDR3WWRhUVNaTVRwZ0N3bG1nSW5MeTVkM3lwb014RFNDOTlvYjhTRU1ZbXJKVVlRYzBNMG5rYzFMNnBsdDA?oc=5",
         "published": "Thu, 22 Oct 2026 13:33:06 GMT"
+      },
+      {
+        "title": "Quartalsbilanz: Omnicom erzielt nur noch 16 Prozent seines Umsatzes mit Werbung - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2R2N1VuVVRpNGw0a01vMWlzWDZxZk0xUTNMTDNqVWM1TjZtekFpNVk2dUJNUUVjVFFLZi1Rdmg5UjBQMThVckZpdGxxYXlVUXl4enhVWUcyYmEzemtsYTNFMHo5UEFiWnVlY2pTMjNxbGlYZFpkYVBYb0phcXBnZDRpeHlTcnF6MkpKZS05Uzctdmo5QmNjRGdCZUJsODVIWU5RNXlwa04zUFNoWG9VNXFWUEY3RWNoSjI1aV9TRVZTNjZTbWU3Vl9yRjU?oc=5",
+        "published": "Fri, 23 Oct 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Einstein Anzeigen (Moes und Eisenbach) bietet Marketinglösungen an, die sie selten umsetzt - Anwalt.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZThkQTU4ZjROaTJkMjZyZFVMdlR5R19NN21TdmxYQ3I0M05ISXVzODlVd241QVE1aHlnZlVpb1dtTGNxSWpUck5BR1RlS09mMnd6bmdGU0ZoZ0xwWHB1aFlkYUtSSmJXU0p2WWxJazFsMGw3dElHVDBVdG4xX0xJNExPdVlYcDZnWFZYT3dSV3ozMnZIckxqbWJreEJGbURCTTkydUhPTGVQVmx1R3hQdnJNdUZaQXh3SFBfNEh3WTdoZmVyWHdKNk5jSDd4OWM?oc=5",
+        "published": "Thu, 22 Oct 2026 15:12:29 GMT"
+      },
+      {
+        "title": "HORIZONT DIGITAL MARKETING DAYS: Suche 2.0: Wie bleiben Marken sichtbar? - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEs5XzVHTHNlRjVPQVZrZGczRk1yUnN2bkRjZWFYalRvYmlybktmY0xncGtQb2lIc0t1bk1ackJPUHBYN0lKaE5hUnlsTG5ZSE83cUVmNDRKYjZ2WThRQUFkQnpFLS1LUzBQZ0k2LWlGZnZZY2NSX1BacDBZNGdVR2sxUW1EQ01md0tMZmNUeFNzWFl6UTdZcGJSSkU2OXh5TUFBRlFod3Jqc3NTc0dlU1ktWER1QjFsRHdKUkhNa3Q?oc=5",
+        "published": "Thu, 22 Oct 2026 14:00:00 GMT"
       }
     ],
     "Technologie & KI": [
       {
-        "title": "KI: Moonshot bremst Hacking-Fähigkeiten des neuesten Modells - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2Flc1VZNHJtYWNhd0pGZi1uTDJQV3k1VmZWYnliSzhlNUFMWWo5Wk1uLVNFYjlmTnV3NUctSGpTWUI2Wm1nNmZLejR0eVg5cUJoZ1EwVGpQQW5uUVM2MDc4U0Y2QUY4LWFWTklPWEV2TzJieHdQRi1YRHBPN1pMaHE4QktJSXJ4dl92MWdvTnZFRzh6VVA2VW5CczZHWC1sZEhKZVpCMHNlYkRCZVV1WnNVV2lMUQ?oc=5",
-        "published": "Sat, 24 Oct 2026 08:34:18 GMT"
+        "title": "Moonshot AI schränkt Hacking mit neuem KI-Modell ein - VOL.AT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3pYSTVvVmY1Z1YyVmlUczNuQmpFemF6bDVRd29vNlB1RE5xX09QSmVCOGlsNEJ1UE8xVVFWU1NFc2EwcGF2ZGdSd0F4am1UNVNOWnNiZkxuc3lxNWsxdWlMMDlYU3BRZVFlWk1mdnB5V0hka3VYcXhmMEozcnMxU0Z4MXZVb0xjOG5R?oc=5",
+        "published": "Sat, 24 Oct 2026 08:00:03 GMT"
       },
       {
         "title": "Wie die Raiffeisen Bank International Künstliche Intelligenz sicher und verantwortungsvoll skaliert - Microsoft Source",
@@ -319,24 +314,24 @@
         "published": "Fri, 23 Oct 2026 22:23:00 GMT"
       },
       {
-        "title": "Landwirtschaft trifft KI - BauernZeitung.at",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YXdxLWlKdWNVR3g1YWlicmUweFV1bFFKWDFUVjhqVV9QVUdSR0N1V050WEtsTW5nNFRKaGJSZUFwTGI3OGlGa2gxUjdrVW42ekp1Rm5Pb0x0dEJScXo1eHM3eTRfLVJHYlZpV3RTRDJMYkM0M2hz?oc=5",
-        "published": "Thu, 22 Oct 2026 10:03:25 GMT"
-      },
-      {
         "title": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren - Wirtschaft - SZ.de - SZ.de",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeklObUJPVEMwQkctMkJNcDdYT0ZUazdyelpKSS15ZlRKZEVIclJ3RUpEM2pFUkJ4OW1VVnhvOE5aMDFrY09kVzRlWFZhbkVPVVdhSDF6a3dwUW9rZWt2Z0duSkNMYzduZGp3NkhsZEFsNmJWZGliT2xsU2JaU3YxSC1lV01MR1VvcHQweDIyRFRFR3JkZnZSWmNNSkVrenBkZ0VXajdhLUJyUU5HeG1BTVFXdWF0UmR0Wm1tbTQ4Mi1ULUM5LXI3bjMxVjlFcm5aUEpwMXAtWnBjakJkckw4WU1SRmxzS2VoMFVjZV93ZkQyWUhHa3VNUDFvbXQ3eDFw?oc=5",
         "published": "Fri, 23 Oct 2026 22:01:04 GMT"
       },
       {
-        "title": "Chinas KI-Exportkontrollen: Entwurf umfasst 40 Technologien aus drei Branchen - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdF9qOXJqbjVHRHE0NnZGSGRnalQ4cl9LSUxNcjRaSkVQWDZ1T0otQThxOTJVLTZmWEJyaC1iak82TGNzaFdETmQzc2N5UVVMLVluQ21ycW54TWRtRDRVa1M4VktWU2xxVWRQTHJfRFZ5WWNQOHFPa2JhaDRFOFl6VWsydGMtQWtBdkNybWl5ZVNTRjBaTldtTVdkUmhoS1k3QjBSWUdR?oc=5",
-        "published": "Fri, 23 Oct 2026 14:45:05 GMT"
+        "title": "ChatGPT-Training: OpenAI verbietet Nutzung für konkurrierende KI ab 20. November - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGluQ2g5cW5UUnRkSFVMVW00bFNZZGVwY3JUTjhDeWlKb0Vlcm9VQ21nRVJOMVBteWNmTXpsYnBJMnZtQ2xGRkhrXzhtSXNfUlZYcmh2Vll0b0NMdWxQLXNMUFhpcWg4WW5BTlNqa1N4MkRNalJNVFVXajRUXy0tb2Rqd1dYbExCUmlmdUZ0blFsU1A1V2p2SGJrVXJwbHVmdEFEUlFtMlV6UQ?oc=5",
+        "published": "Sat, 24 Oct 2026 04:07:05 GMT"
       },
       {
-        "title": "Börse: Die KI-Blase platzt? Warum ein Tech-Investor jetzt bei diesen 12 Aktien Chancen sieht - WELT",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZXNhSDBobWJudFBvamw2TERaeFQyQ19BM2Y4QWtFQjVKY3dCYy1RNWV0Rm1WMWpMYU9ydHBrSEtqREoyLTBsVGdncldYa2tCaUtmcFY0ZVJUWFZka2gyR3hOblVxVEE0eS1jbFNmeEtsc0xvU0ZTSFp3c3NMMkhBNWsyd0thWlF1M2F3R2M1cUtpUGVZYm5la3AwbGhWWHVYV3RzWmxjNERGeGpqVnBGVmRBR3ZpSktDemdncUpYU0ZGOGlLaWdXWWo5UzVibFpudlEtZkxsSml5c3ZYOWNIYXVmX1lRLXVoSnc?oc=5",
-        "published": "Sat, 24 Oct 2026 08:24:53 GMT"
+        "title": "Landwirtschaft trifft KI - BauernZeitung.at",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YXdxLWlKdWNVR3g1YWlicmUweFV1bFFKWDFUVjhqVV9QVUdSR0N1V050WEtsTW5nNFRKaGJSZUFwTGI3OGlGa2gxUjdrVW42ekp1Rm5Pb0x0dEJScXo1eHM3eTRfLVJHYlZpV3RTRDJMYkM0M2hz?oc=5",
+        "published": "Thu, 22 Oct 2026 10:03:25 GMT"
+      },
+      {
+        "title": "Von der KI zu den Maschinen: Der neue Kampf um die Produktivität - Luxemburger Wort",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWNFc09wYWtyVkYxOUI5QXJHM2FzV3Ayek81OEF4azJJZWRDU0xwODMweTVpNUN1cEswSjY4VEN1X3dON3hmbVhyZUptOVQwSWltNk9BamY0cTA1bWg0SXBCak1PbVE0SzlNYXhqR2s4NXZuRDkxQjQzTkltc3NIXzFmdG40NGNGZkVrYlhiRGZjLWtxZ004VTV6b0stVjdKOXNlVW1wMm1zanc?oc=5",
+        "published": "Sat, 24 Oct 2026 09:04:51 GMT"
       }
     ],
     "Meine Aktien": [
@@ -366,6 +361,11 @@
         "published": "Fri, 23 Oct 2026 05:26:21 GMT"
       },
       {
+        "title": "Nvidia B300: 32 verbotene KI-Chips im Netzwerk von China Telecom entdeckt - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkxxdzU4THNMZ1RraDIwN2xSZXE4dkg2TUZ3M29Lb2VGcDJraG1xdU1QOFFoOEtHem9URGluN2N0YmdaVEJKUDlLNkdvLWp5WVY4bUlqakhlTHN5T3ZpcjBYZ3MxMmd5ZDhkVDMxMFpSTnpaZVdRVVJXRlFtd0l2eE9CYkJXUmp1S1l0MW9lM3lyZzIwSjJnN1ByZGV1d2dN?oc=5",
+        "published": "Sat, 24 Oct 2026 08:58:04 GMT"
+      },
+      {
         "title": "SOCAMM3: Neuer RAM für Nvidia Rosa Feynman und AMD Florence - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHV1V0Q0WFNtZE5HRTFfQ2VPcXpGaGkxR3BwdGJGTk13ZW5ELUd3Y281VnBIa0FWUldVWmJ1NTVkWHBWa20wa1BOZXY1cC12UHg5ekIxUFVPdlgyNENkQUJvM2REcjJoVHJ3SExCNF9mOGdzSE5UVzN0Z0pScTRnNGdhLTJhdnNCRkNvR1BuTVNuWDdlWl9WSWQ2c3ZHLUZrQ3cwc3kzc081U0tPVENnT0N3QVlqUQ?oc=5",
         "published": "Sat, 24 Oct 2026 06:58:00 GMT"
@@ -374,11 +374,6 @@
         "title": "Nvidia RTX 3090: Kostenloser GPU-Unlock steigert Leistung um bis zu 80 Prozent – mit Einschränkungen - Notebookcheck",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNkM5VFlsSXpET0RUenVTV3gtWnZKeXU5d0tKNEp3ZThpa0VqOG9ueUd1akFidGJPT25zSmI0TjZtLTlPV0FIc2lReEg1U3RrMndVRm9wZEhxbGV3TFZPN3ZzWGNjaGd6VUxyNlFJbWJnREtub3F1U1Naa3owbkFuMWdfZ1JvcE1rOXdTQlFPNExtbURZSkx1bU9sUjF1OHoycVBvRjAxaS03TmF3V1o1cUY3d3hBTzhCdkZSVkZHYVNTZUw3eWFxZW1zLThFMGdOX2x6bldCaENsaEk?oc=5",
         "published": "Sat, 24 Oct 2026 06:29:00 GMT"
-      },
-      {
-        "title": "BOTSI®-Advisor Hochstufung Nvidia von Rang 105 auf ... - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVlrajBUdU5ncjhFTFRtLUExMThRMGh5M0xyMHk0WXZCUk1MMFhOTEdqWjBJd0Y5N0dGZm5VRVh3ai1meTlGMk9xYWN0QmFRUjVnaFBqWmJ1TEdpSVdrN25kZ1hNajFmMWFDMURZQ1lkTmZUSk1yaFQySHRkLVc3Z19RMWE5OU9aUXFRQThCQ2lpQldtYnU00gGcAUFVX3lxTE8wYURJdTgySW5hRjFWZ0NqZ0lUV3JOM1RKaXFQMHhYb2FVUmJGSHlBcnU1MTRGMWhPNjlGU1d6OVpCekVqRDBlZ0lOWWxhUFBpaHVGdllxU2QwaW11NkJwa0JubksydlN5ZHpyOElNc24tNzkxUGhuRENhTi1zSGxib0lkcHRwR0lRbl9QWm1QN2NheloycVphS3lUVQ?oc=5",
-        "published": "Sat, 24 Oct 2026 05:06:00 GMT"
       }
     ]
   }
