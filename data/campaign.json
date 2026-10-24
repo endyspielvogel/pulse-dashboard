@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T12:56:24.028232+00:00",
+  "fetched_at": "2026-10-24T15:46:09.076089+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -39,14 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3pleWVKNk9tVERBMkN3RXNVQzVwXzR6ZzJfVHdoLXlpLWxVYm9iQ0lpQ1R0NEVLbGRpRDloYmNNalhla3hFQ0RleFhKNnZnVmtJb3RCQTNDWDlFbUtZZ1BTazBjQk9EbnFfVzQ4d1ZLeUFVWldvWjczOWZNdjVIWmZBYVNOeG55T1JuSmM2OGpQdWcwNldfcTJBYWpkRnpYZmJpZkRGbnJtanJzYVZTZW1kV3VKbU9Ic0pjWTNEMENnYUNnUjlvcm5lOXJzZw?oc=5",
       "published": "22.10.2026",
       "published_iso": "2026-10-22T12:56:46+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Review of the Week: Just Eat changes up the menu",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcV9lX09hTFlpYmtjOEluZVRzYlVHd2lLcDh2bUlzY0d1anRCWUdVeU4zMG9jdU9QMkc5MDB6REpvXzFscEFYeTM4TGxhNjNZOFVlZUFPSjJySElNYWw0dXB4Z0JlQTU2V1NDVlRnTWVaU1JBMXQtT0EySFZmYlpDUlFnc0pUWGRqZHRiaTdSTHVFdFMzVExpeThybjBvQi0zYUZPaWFQOTRER1EwUzFUa09kQQ?oc=5",
-      "published": "22.10.2026",
-      "published_iso": "2026-10-22T12:10:57+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -95,6 +87,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeklwc0FmVVJxWkV3bFcxWnRnSEFoMGkya29wNUdJamlYSmduaVRSaE5xb19DZW9DeldiRGgwaE5pTXNlOWhJQ2EtYmFtUGdzaUpzcDBXelNZcmQyUERTanUyOXV4R195Zm5LY2M3Q21xMWZvUmdOMl9ramFHY041dno4UEhraEU1YUVpYkVMcVJJc0Q0OElTbVZ5TW1STC1MU1ZSNWNXSmV5Qk05Q0lBVldrMmFraUtlTlJVNXFhazRaTk9ucVI2Y1VkZmNFQUZvOWdPWnc5T0ZxcjQ?oc=5",
       "published": "15.10.2026",
       "published_iso": "2026-10-15T07:00:00+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Work: Private view",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHN1dTYtcURsMnVaWW4tWGlucWhtbFBqZEtMZ0pGVVFWSGE4WkRqdHAyZ2ZWVWpnYW90dzcxQkpwN0lfenR5QUR6eWVDb3pKbTNFRGlZMkgyVTY5S29yWDBUdE1jdTRHYnVuNFM4R2VrdDNYVzktUUQxSENLVzJDeUt0OVgtQk8zWGRqTVVjd2o?oc=5",
+      "published": "14.10.2026",
+      "published_iso": "2026-10-14T12:00:22+00:00",
       "description": "",
       "source": "Campaign UK"
     }
