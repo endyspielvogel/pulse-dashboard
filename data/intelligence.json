@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T08:27:00.086636+00:00",
+  "fetched_at": "2026-10-24T09:00:14.381361+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -75,14 +75,14 @@
         "published": "Thu, 22 Oct 2026 10:14:00 GMT"
       },
       {
+        "title": "Aus für Bioware: Sehenden Auges (Fröhlich am Freitag) - GamesWirtschaft.de",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZF8tZVctUmpxU0x1LWRFRUhja1EtczFrbFNEdnNvOU1QdkM3cU9IdERaODFEOFJjYTVxS0RiYjA0THFUTFliYWpXQjlTaVdHT1c1ak4wR3Jpay1tcE5qMG1iNUVMLVhfQk9Zb0FJN1RnLXI4SW1yb0hHQWRiZlRBaVBkdmp5T0VqamdiZUNOQQ?oc=5",
+        "published": "Fri, 23 Oct 2026 11:58:34 GMT"
+      },
+      {
         "title": "Capcom ID gehackt, Daten von 11,7 Millionen Konten offengelegt - Pasquale Pillitteri",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVg5cjktYUhhV2p6YWdJODVMNVJpY012TmwwbkxQbllEM3lrTHpnLTBQamdVTy1CeUc1a1lNRlJkN25SOVlBN3RvSDYyc256Z3NudzgyQW9LVjZQSVNsVVJTZmlGX1R2YW5vODUtLWg2MzRwSjhDYm52X0xueGh4V1lZVnRtOUQx?oc=5",
         "published": "Fri, 23 Oct 2026 09:16:11 GMT"
-      },
-      {
-        "title": "GTA 6 Burgers und Fried Chicken sind echt, kosten aber ihren Preis - games.gg",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVBlc29iTzdmN2xrNVVNTjN4bjQtaEg2S0J1akdKcmhFZ21wSVYyNEFMMWlCZkdSXzg1QjNqT1BYWW9SZWN2LTFhM1dWN1plMVUyQTZOVXNFdXhucUJZX05Tdk5GUElEQ0hNSkdGSW9CWXVnMGZmSm4wMHhvc3hkUlN4NHU2SHktU3dfTm5RREVwSlFSenl3?oc=5",
-        "published": "Fri, 23 Oct 2026 18:42:27 GMT"
       }
     ],
     "Omnicom": [
@@ -102,6 +102,11 @@
         "published": "Thu, 22 Oct 2026 21:37:17 GMT"
       },
       {
+        "title": "Coca-Cola betraut Omnicom mit dem Media-Etat in Nordamerika und hält global an WPP fest. - turi2",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdBeDZnd0h0SC1wNjg0TEk4dXlGVjk1cVhjcXZyTEt5ZGY5Z2Q2T0JXbTVVN3N0MXlVRHZqRFlxOWlXRVFFOTJNWklvQnpULVdQWHJtSUF1eExKSWkwUk9tX2lJSmFJWWVySEJDYnhLZXBUWFlnOVFLMjhEblN2dUFrZE0tUjBBM3RBWXVIRVpaampKV0M4YWl2V1REcTBlWHRQMWRBQWp3ajdwbkk4dG04a1o5YWNkdkE?oc=5",
+        "published": "Fri, 23 Oct 2026 09:27:00 GMT"
+      },
+      {
         "title": "Omnicom Group., Inc. : Morgan Stanley bekräftigt seine neutrale Bewertung - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWndvcW5YendXS2ZFcGhPb2JGTWRzaG85dHFhOFlmOVFGdkhfVGRqcXRnSnh0dldtSkZEMXEzdUdPRnVmUUJwT1RpdU5maHY3NTQzdEQ4eDJvcmlLejEtMTJXQlVfa2RqSzd1eFQyZmJXTFE3Yl9MV0N2SmFfWWhaRW1KY25xS3BqN2xpdmdKNTRhMWU2Sk1VSldmNVNWcmhFdEhqZVpPaXBmRlhiTGZMNEZ0ZFR2VEZseDZXTkV1RGs1dUR2UGhyUmNZZUdYeWVq?oc=5",
         "published": "Fri, 23 Oct 2026 11:09:10 GMT"
@@ -115,11 +120,6 @@
         "title": "Earnings Flash (OMC) Omnicom Group Inc. meldet Umsatz von 6,42 Mrd. USD im 3. Quartal gegenüber FactSet-Schätzung von 6,21 Mrd. USD - MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkVkN2pOaUJKbE5tMFJCay16MDI3YXpobVRHVTVjeUIzRFplYXlqeDI5ajZHeVIyWHI3TW9FT2lhWkdyZHVOQXphNTg5cHN2ZF83OHpqWDhmRTdzTGZVd3JlZnBld3BmX2ZhbWt2THFGNUR4dFBaWFNVN3lOcXA4aG11UkFMY3pNMGFXbHZmbndvVnhyby1vU0o5RnNOM0V1dzFTYnlUbmVONDRuTmxFTS1CbnhzaFdwRERhR1ZPR2dhMjVvdWlWVEdJalJjX1dqYlVNbzdTbkRXdnZFNkJPYVVTbFJrX2oteFVOS1hrTUVkSzBv?oc=5",
         "published": "Thu, 22 Oct 2026 20:04:38 GMT"
-      },
-      {
-        "title": "Omnicom Group., Inc. : Goldman Sachs bleibt neutral - MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVNeEVzR2pDTkU4SGRWWF9GRFg2eThWdG5IWEx5bTBTZjJUZV9IUngwYWdHR3JQeWZ3WEhVbDhBSFVZOEROZXY2ZGVINW0zbEZQc19XMUlhYWdEdzBxcE9tbW4zRkQ1TW0zc3M3dkhvVFcxUDlSZC1qQUFLd2V2RWxLX1F0V2xtS3VZdGltWDV6WVJyVk9fT2dfX0VHOUZ0Z1g3bjZlVmU4ZDBreFhZMzRR?oc=5",
-        "published": "Fri, 23 Oct 2026 12:17:47 GMT"
       },
       {
         "title": "Omnicom Group., Inc. : Wells Fargo Securities bekräftigt seine Kaufempfehlung - MarketScreener Deutschland",
@@ -139,21 +139,6 @@
         "published": "Sat, 24 Oct 2026 05:06:34 GMT"
       },
       {
-        "title": "Vergleich: BMW X1 vs Mercedes-Benz GLA - Autohled.cz",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEF6bDVXMUQxeWJmcEQwREhOa1kxZ0d0MXlLeHBTbHExam5NaDFZRHRQTGtrVnY5cGplN0tzNFBRVkoxeTVIUlhKSjk1eTA4MkdiRVNKNnBBYXBROWJjamRLeS1NTlNEc2VINURqZ1hMN1VLU2ttMlhOeFpzc1M3MGhGWVFySF9fM01IZw?oc=5",
-        "published": "Sat, 24 Oct 2026 01:01:18 GMT"
-      },
-      {
-        "title": "Fotogalerie «Sternenregen – Humer, Granner & Co versteigert Mercedes-Sammlung in Feldkirchen (A)» - Zwischengas",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSV9LdGlNT21OYk5vVW5RZHhjOTIyNzExUjBpQWdTbG9ieWNUd3hRVEVRc2dIN2tKdVo0NDdfbElPMm5ld3BhWTNNem94d1dEcl9lYUtwOXVZWVpzcEIwUkh0SlZrZjBEbFUzV0JaOE16cm9zRTljVmtLbHJ1SkdTTU1qRkQ2bnY0cUNabWJTY1lTRjNMSnBTaHg1azdJYVI0Nm9vREdUek1tM3VMR0NGUnR2bXBmQWNmdnBBWWtxZEZYZjFr?oc=5",
-        "published": "Sat, 24 Oct 2026 02:23:41 GMT"
-      },
-      {
-        "title": "Industrie: Mercedes will Autos künftig anders, billiger und schneller bauen - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTlCWDgxUklubXNYU0JoS0xIc0JvT0hnTWNHWmlOdWtTWXd2Szd2ZVMyRk5hcW5IMXdZTlh2YjBSQl9UOWxvbW5UTVMxdW1kWHNMWlZSTkhoTEM3Z0VhSGtXUUFiMEhzTi1LOXRnYTVNRlNBejZUaGdCbTJBQlE3amZvTEItR3g4MWxXQ3FoS2pYRU1XSVVLVW01OWZ5aFAtNEhrbFRIbVV3X21jaFhrWDJzR0hlMzJSOC1MZHBuc2hHMjJLd090UzZERmpjVV9jS2R1eVVxMA?oc=5",
-        "published": "Thu, 22 Oct 2026 12:53:24 GMT"
-      },
-      {
         "title": "Mercedes-Benz Aktie: Margenziel-Kappung? - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFVLX0JxQVFleGd4S2lrLVFrSUkwWXU2YXRDaEJCdlRVb3Voa3hteW1Xd085NlRRWlJVaVFBdzZVUERwSDZrNFc5U1JleTdHSUFTYUdtT1NLWDZNSlZHTTBkV3R3TjRpdm5lY05INzdjdUg1Y1loUllWaTdiSEdZZmZlM04tV3ZhUEgzLWVnNmZDWHJh?oc=5",
         "published": "Sat, 24 Oct 2026 00:48:06 GMT"
@@ -164,17 +149,27 @@
         "published": "Fri, 23 Oct 2026 05:26:21 GMT"
       },
       {
+        "title": "Industrie: Mercedes will Autos künftig anders, billiger und schneller bauen - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTlCWDgxUklubXNYU0JoS0xIc0JvT0hnTWNHWmlOdWtTWXd2Szd2ZVMyRk5hcW5IMXdZTlh2YjBSQl9UOWxvbW5UTVMxdW1kWHNMWlZSTkhoTEM3Z0VhSGtXUUFiMEhzTi1LOXRnYTVNRlNBejZUaGdCbTJBQlE3amZvTEItR3g4MWxXQ3FoS2pYRU1XSVVLVW01OWZ5aFAtNEhrbFRIbVV3X21jaFhrWDJzR0hlMzJSOC1MZHBuc2hHMjJLd090UzZERmpjVV9jS2R1eVVxMA?oc=5",
+        "published": "Thu, 22 Oct 2026 12:53:24 GMT"
+      },
+      {
         "title": "Mercedes-Benz CLA 250+ Shooting Brake [Test] - autorevue.at",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSG1fX2haTVI0Ui1HUTVMRmRydVdGTldQX1NMWVdDaXF5cWg5Uk9DMWxMems3Q04wMHR6WU83ZVNSbmhPMlF1YjBUQ3NfaGp1RnFaeHdnemVDdmN3MXpvM004MExUdVRaTERXSmNVMXJDVklFWnJuZkNKRGQ?oc=5",
         "published": "Fri, 23 Oct 2026 06:10:00 GMT"
+      },
+      {
+        "title": "Mercedes will Zahl der Leiharbeiter in Deutschland deutlich senken - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJSMUI1RUFuZ09USmZUYXNmTmFEa01GdGpOcWlBc1Z2aElZZVNiTGo5RW5yak04bHZ0bTI2SmZIWmRsQVpMdlNGSVdPY0lrTTNXZHlEUEJUTndYdUxmUGZQTnROSkJHTkFTQmcyTWYxVFRkN242VnZCVGZBVkdFYWZIYloyUFA0WU5yWWd3TmtXZHNLQXBLZ1Y1bWdkck9BOHBoQkd4RXh3SnlObEtxN1ZB?oc=5",
+        "published": "Fri, 23 Oct 2026 10:09:29 GMT"
+      },
+      {
+        "title": "Mercedes-Benz AMG GT SUV 2027 – Reichweite und Batterie - Autohled.cz",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5taTB5YWZNRl9kVFRzdXlXdEsyQ013Ql9UNmw3RU9UbDhNTlFwQzlMSUpuY256UmlrQThsWi1JdE5VTE5YWUplR0haNTFOT0NJUzRXUVVnOER3ZHpzUTZUbGJRTGlVVE5mdnYxZ1BtSW1QeTg?oc=5",
+        "published": "Sat, 24 Oct 2026 06:16:32 GMT"
       }
     ],
     "Nvidia": [
-      {
-        "title": "Nvidia Aktie: T-Mobile meldet den ersten AI-RAN-Anruf - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVV5ZnRsVVlXOElJSWp3UlJzSXVrVGEyaGZhZGRNanNJV0JOU2t3YzAtamhIVXpMWWxEUzBFOU8tdzNjd25EQ3lTdHFMRVdId2JlOGhkcXJTQlpXR2g5VFVMOXZ3b2x3OG52ejJSbW1idmJNSmRaVXY2NGFMcjl5ZTBuWHZpWHJnaElaMzA2N05xRjhzam9xY2ZIak9jaHBvWWxlbDV6Zw?oc=5",
-        "published": "Sat, 24 Oct 2026 04:46:07 GMT"
-      },
       {
         "title": "Nvidia-Aktie: Jetzt Chance auf 300.000 Honeywell-Standorte? - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFYzZzliRk11c3U5NEJ3ZFlJZ1YySzVfcG9QRzY3UWx0dGJKa1RLVHF3ZDhIYVkyampsNTR1YVp2M2dZc1c3NmlmQ3Q4OTUyb084S2JiLVV2anAwaHdqcU5ETHlHbUxfVnBxT2NaQzMzWmF1ZGVNTmtlQTRCdVdaLWoyMWp0Q21JLWpVZTdpeXpSOGp1X1VkNjdVTDAzVjdIb3M4MWdoQWp6cXZMOV96RDhoTUg2TlpKYkpZcjU4VFZPNG5mTklRQ193?oc=5",
@@ -186,9 +181,9 @@
         "published": "Sat, 24 Oct 2026 04:09:00 GMT"
       },
       {
-        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
-        "published": "Sat, 24 Oct 2026 07:24:57 GMT"
+        "title": "Nvidia Aktie: T-Mobile meldet den ersten AI-RAN-Anruf - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVV5ZnRsVVlXOElJSWp3UlJzSXVrVGEyaGZhZGRNanNJV0JOU2t3YzAtamhIVXpMWWxEUzBFOU8tdzNjd25EQ3lTdHFMRVdId2JlOGhkcXJTQlpXR2g5VFVMOXZ3b2x3OG52ejJSbW1idmJNSmRaVXY2NGFMcjl5ZTBuWHZpWHJnaElaMzA2N05xRjhzam9xY2ZIak9jaHBvWWxlbDV6Zw?oc=5",
+        "published": "Sat, 24 Oct 2026 04:46:07 GMT"
       },
       {
         "title": "Nvidia RTX 3090: Kostenloser GPU-Unlock steigert Leistung um bis zu 80 Prozent – mit Einschränkungen - Notebookcheck",
@@ -201,14 +196,19 @@
         "published": "Sat, 24 Oct 2026 06:00:00 GMT"
       },
       {
-        "title": "Kunden stehen Schlange für das Falt-iPhone - Wallstreet Online",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkVVRnJ5T1J3cTkyYm9ITXQyQXpsREs2MGFVQTdFd0R5UmEwa2JBNDNuSEU5ZlNHV2lEY1BVa1gwMk5QNEIxUTlVa3dHRjJmUFpTaXNWRklzZDFuN1Z6SFdZeGpmbDVhY0JQcDFkUUlKdFp1c3Fxc2MzcUt5bkNXb3JpaTYxa3pORGZycnhCcGd0LVFzYkx5TTFnaDE3RllVaEJIQ2Nn?oc=5",
-        "published": "Fri, 23 Oct 2026 17:31:00 GMT"
-      },
-      {
         "title": "„Tolle Marketingkampagne“: Wie Experten den Nvidia-Deal bewerten - Table.Briefings",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHUzQjhqVkZnOWpHT1JBdGt3NEJBVzJSeGR0U1RfZ0JXUTM3UUp3V3dVeGJ0RXZzVXB5ZEtwZkxmUUF1VnJKVXVnaWRfWFRBanZ2M0xSWkJYQ3lCN1JjZGdBSGpaMjRodzMxR0FWUE9pNkxuamhuVXQ2dDF6TDFtYmRSWmpvUEhydlhURFd5M0g2TUFEcFpIYlVvYlE4M2JxVS0tVDlB?oc=5",
         "published": "Sat, 24 Oct 2026 03:05:52 GMT"
+      },
+      {
+        "title": "BOTSI®-Advisor Hochstufung Nvidia von Rang 105 auf ... - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVlrajBUdU5ncjhFTFRtLUExMThRMGh5M0xyMHk0WXZCUk1MMFhOTEdqWjBJd0Y5N0dGZm5VRVh3ai1meTlGMk9xYWN0QmFRUjVnaFBqWmJ1TEdpSVdrN25kZ1hNajFmMWFDMURZQ1lkTmZUSk1yaFQySHRkLVc3Z19RMWE5OU9aUXFRQThCQ2lpQldtYnU00gGcAUFVX3lxTE8wYURJdTgySW5hRjFWZ0NqZ0lUV3JOM1RKaXFQMHhYb2FVUmJGSHlBcnU1MTRGMWhPNjlGU1d6OVpCekVqRDBlZ0lOWWxhUFBpaHVGdllxU2QwaW11NkJwa0JubksydlN5ZHpyOElNc24tNzkxUGhuRENhTi1zSGxib0lkcHRwR0lRbl9QWm1QN2NheloycVphS3lUVQ?oc=5",
+        "published": "Sat, 24 Oct 2026 05:06:00 GMT"
+      },
+      {
+        "title": "NVIDIA-Aktie und die KI-Blase: Warum Tom Lee den Gipfel erst 2033 erwartet - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX3VTRlF4cF9hT3oxWDBsUDBKZ3ZZNXY3a2MyRXQ2X0dCbl96bjVtN1FjdzNsc3JZazFyY0F6bTU4czhRM1ItaGFLYmlSVkpaX1VQX1U1YkVaNk9ESUFKNmRkc2F3dHoyWS1kZm5NbDZSZ2lsTWlGTFVWZ1A5OUNCQjBySTVsUkpGOVhTMFE2ZlhrVE56bGQ4Y05jenJvQmpTS1M3NU4zVUVVVm1EUXNwNWRWaXR5bmgzQVNvYWw4N094a3RaX3UxVk81RmZ0VXhYRWJzeWdqMGkxN1NBQkhnbg?oc=5",
+        "published": "Fri, 23 Oct 2026 11:51:00 GMT"
       }
     ]
   },
@@ -230,9 +230,9 @@
         "published": "Sat, 24 Oct 2026 03:30:00 GMT"
       },
       {
-        "title": "Übernahme von Qiagen: Lebt es sich unbeschwerter abseits der Börse? - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLTZJVDBJLWpzYk9WWWhZcmFDWjF0aldXTkYwYXo0ckpnYm9oeWRxN0dwYnBXZkg5aUMweTVCbVltdm93X3FTaUN0WGVBNnk1TU8zWHQ3NHc5dUQzTGtzNDdaOE1RQW1nZFYxT0RPQW41VGhZVTZoUHhvbjZFZmxkYjBoNXJNVFVVbFI4NHZZOEdhbl9mN0FqYUtGel80UWFIU2c2YThqOGs5TnU1Y1dpazFEVEdxT2hHM2xtX2R6UUhfRHVPNk5JOGxUbHA4QQ?oc=5",
-        "published": "Thu, 22 Oct 2026 16:25:46 GMT"
+        "title": "KI-Angriffe: Wie Crowdstrike und Palo Alto Networks sich an der Börse schlagen - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOazBPMTF6YUNnbmpnQ3FGdmlmaU4tZmo1TzBQanVBQUdoenF1UU5oN0lNSVRDUVQzdW5INlhRbmw3RVltQm9GcW1IZVVGSzI3ZFpDNTBrS0ZuYzdfbF9YcTh3NE9sU1dEUk40SlczWWhDRldVWlpidXVaWW1XWUtjcmNxRi1OckhCMWJYNU1EZlBJVG55NXJkQjBfc3VEU1ZJaC1STGgxNUkzNFdzWE9md3h4dVY1OUo3UVlETkJaTXVmTkVSb1k0cUVFMV9uU216UlVDdDRfQ1FIc080Q2EybQ?oc=5",
+        "published": "Fri, 23 Oct 2026 07:11:16 GMT"
       },
       {
         "title": "Getty Images in Insolvenz: Bildagentur will sich bis Jahresende sanieren - News.at",
@@ -240,19 +240,19 @@
         "published": "Thu, 22 Oct 2026 10:10:00 GMT"
       },
       {
-        "title": "ROUNDUP/Eurozone: Schwache französische Wirtschaft belastet Unternehmensstimmung - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBzQ3h3ZWpmYzdxdFNxekRwT2o1Q1FjQmNLb1hrSmtaZzQwblZ3emdqWDNVMTIyaTBkNDduMDU0U1lKYUpNVlhVbEVmR0dYRk9XVHlfbkFlQ21XZ2lBc0dCRWdzemdVSV9FajJoY0JzNXdwaHVzTjBKdGZkYkU4aDk5d0hMUnJxT2EyckViZWptWTd6Q1NFc0xFWmdFeEt5RGdBN3NaZzczaFMtcXRGeThhd2k3enJlRVFqLVk2SXnSAcYBQVVfeXFMTnJTc1JJUGZzeURKYTRWX0NqUHlGU1R5YVRBb2pmSG5yakZqckFLdjlYeEJCckVNVjhJbDJZbU4yRmlYX3ZKUzZIY3hyenhaMHd0N3prTmpITWlzbjNRX2Z5eGZZTFV4YmhvNzZ3aDR6dXBYUm5NRVRNWTFfcmlWWlpvTTlsM2UwTEhJTDVtWnNrQ1FWQko1dkU5YjkxXzZWUlhJM1VLMjg5SDJtdnAxOGxiQW9OdXhZMHVnWVZKQVpMdnNXcHBn?oc=5",
-        "published": "Fri, 23 Oct 2026 09:48:00 GMT"
-      },
-      {
         "title": "Porsche SE, Mercedes und Co.: 63 Prozent Minus! Das sind die Aktien-Flops aus Baden-Württemberg - swp.de",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHNvWDhZTE1sYTBlbUd3MVozYmstREtNNWRURFAzUWl6SlVPc3hQVTZSQmpjdjgtbmhhXzJOVUE4YjkwMXdkS2UzZkI5a3RFRFRWREZOMGlCc25scGJjSmZNTDZwc3Y4a2ZLRGlhVG5UQTFBWHNFMEhBaEN4RHdkZW1XbkdGZkpFaUNBNjBpZ05OWGFVcjR6cUE2R3lFOFZTc1llQlc5YU80cWx1eklIUndVVkU1Zmp3aVg1Q2hXWjVxdndRR3BBSmZick1RaHpvTVE?oc=5",
         "published": "Sat, 24 Oct 2026 05:06:00 GMT"
       },
       {
-        "title": "KI-Angriffe: Wie Crowdstrike und Palo Alto Networks sich an der Börse schlagen - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOazBPMTF6YUNnbmpnQ3FGdmlmaU4tZmo1TzBQanVBQUdoenF1UU5oN0lNSVRDUVQzdW5INlhRbmw3RVltQm9GcW1IZVVGSzI3ZFpDNTBrS0ZuYzdfbF9YcTh3NE9sU1dEUk40SlczWWhDRldVWlpidXVaWW1XWUtjcmNxRi1OckhCMWJYNU1EZlBJVG55NXJkQjBfc3VEU1ZJaC1STGgxNUkzNFdzWE9md3h4dVY1OUo3UVlETkJaTXVmTkVSb1k0cUVFMV9uU216UlVDdDRfQ1FIc080Q2EybQ?oc=5",
-        "published": "Fri, 23 Oct 2026 07:11:16 GMT"
+        "title": "Übernahme von Qiagen: Lebt es sich unbeschwerter abseits der Börse? - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLTZJVDBJLWpzYk9WWWhZcmFDWjF0aldXTkYwYXo0ckpnYm9oeWRxN0dwYnBXZkg5aUMweTVCbVltdm93X3FTaUN0WGVBNnk1TU8zWHQ3NHc5dUQzTGtzNDdaOE1RQW1nZFYxT0RPQW41VGhZVTZoUHhvbjZFZmxkYjBoNXJNVFVVbFI4NHZZOEdhbl9mN0FqYUtGel80UWFIU2c2YThqOGs5TnU1Y1dpazFEVEdxT2hHM2xtX2R6UUhfRHVPNk5JOGxUbHA4QQ?oc=5",
+        "published": "Thu, 22 Oct 2026 16:25:46 GMT"
+      },
+      {
+        "title": "ROUNDUP/Eurozone: Schwache französische Wirtschaft belastet Unternehmensstimmung - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclNzUklQZnN5REphNFZfQ2pQeUZTVHlhVEFvamZIbnJqRmpyQUt2OVh4QkJyRU1WOElsMlltTjJGaVhfdkpTNkhjeHJ6eFowd3Q3emtOakhNaXNuM1FfZnl4ZllMVXhiaG83NndoNHp1cFhSbk1FVE1ZMV9yaVZaWm9NOWwzZTBMSElMNW1ac2tDUVZCSjV2RTliOTFfNlZSWEkzVUsyODlIMm12cDE4bGJBb051eFkwdWdZVkpBWkx2c1dwcGfSAcYBQVVfeXFMTnJTc1JJUGZzeURKYTRWX0NqUHlGU1R5YVRBb2pmSG5yakZqckFLdjlYeEJCckVNVjhJbDJZbU4yRmlYX3ZKUzZIY3hyenhaMHd0N3prTmpITWlzbjNRX2Z5eGZZTFV4YmhvNzZ3aDR6dXBYUm5NRVRNWTFfcmlWWlpvTTlsM2UwTEhJTDVtWnNrQ1FWQko1dkU5YjkxXzZWUlhJM1VLMjg5SDJtdnAxOGxiQW9OdXhZMHVnWVZKQVpMdnNXcHBn?oc=5",
+        "published": "Fri, 23 Oct 2026 09:48:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -299,9 +299,9 @@
     ],
     "Technologie & KI": [
       {
-        "title": "Arbeitswelt und KI: Wandel im Berufsalltag: KI wird zum Kündigungsgrund - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZlBiTEVGWVhtdUZHa0N5TWc3akVOVlJJZWFZMkNRLXJZUkxUcUVxdW9GVmFJVWU2by13RTBOQlFaaTJNd0hPaWFoUlExQ0I2VFZtUkFGSHlxR01qSkE2VTYySFVBLXJ1bUpxZjhVdTc1WXI1OTZLMDhrMWVpdW9fcmxFQnJhV2UyV2dUUHhXcFgzaXZ6eHREVE5DUlNmU2FBTDBFcGw4R1VyZ3Bzdklud05HYVNOUi1FczZ0d3NmZzFicjhnVGZ2cEpoaU4yWnM?oc=5",
-        "published": "Sat, 24 Oct 2026 03:30:04 GMT"
+        "title": "KI: Moonshot bremst Hacking-Fähigkeiten des neuesten Modells - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2Flc1VZNHJtYWNhd0pGZi1uTDJQV3k1VmZWYnliSzhlNUFMWWo5Wk1uLVNFYjlmTnV3NUctSGpTWUI2Wm1nNmZLejR0eVg5cUJoZ1EwVGpQQW5uUVM2MDc4U0Y2QUY4LWFWTklPWEV2TzJieHdQRi1YRHBPN1pMaHE4QktJSXJ4dl92MWdvTnZFRzh6VVA2VW5CczZHWC1sZEhKZVpCMHNlYkRCZVV1WnNVV2lMUQ?oc=5",
+        "published": "Sat, 24 Oct 2026 08:34:18 GMT"
       },
       {
         "title": "Wie die Raiffeisen Bank International Künstliche Intelligenz sicher und verantwortungsvoll skaliert - Microsoft Source",
@@ -319,14 +319,14 @@
         "published": "Fri, 23 Oct 2026 22:23:00 GMT"
       },
       {
-        "title": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeklObUJPVEMwQkctMkJNcDdYT0ZUazdyelpKSS15ZlRKZEVIclJ3RUpEM2pFUkJ4OW1VVnhvOE5aMDFrY09kVzRlWFZhbkVPVVdhSDF6a3dwUW9rZWt2Z0duSkNMYzduZGp3NkhsZEFsNmJWZGliT2xsU2JaU3YxSC1lV01MR1VvcHQweDIyRFRFR3JkZnZSWmNNSkVrenBkZ0VXajdhLUJyUU5HeG1BTVFXdWF0UmR0Wm1tbTQ4Mi1ULUM5LXI3bjMxVjlFcm5aUEpwMXAtWnBjakJkckw4WU1SRmxzS2VoMFVjZV93ZkQyWUhHa3VNUDFvbXQ3eDFw?oc=5",
-        "published": "Fri, 23 Oct 2026 22:01:04 GMT"
-      },
-      {
         "title": "Landwirtschaft trifft KI - BauernZeitung.at",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YXdxLWlKdWNVR3g1YWlicmUweFV1bFFKWDFUVjhqVV9QVUdSR0N1V050WEtsTW5nNFRKaGJSZUFwTGI3OGlGa2gxUjdrVW42ekp1Rm5Pb0x0dEJScXo1eHM3eTRfLVJHYlZpV3RTRDJMYkM0M2hz?oc=5",
         "published": "Thu, 22 Oct 2026 10:03:25 GMT"
+      },
+      {
+        "title": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeklObUJPVEMwQkctMkJNcDdYT0ZUazdyelpKSS15ZlRKZEVIclJ3RUpEM2pFUkJ4OW1VVnhvOE5aMDFrY09kVzRlWFZhbkVPVVdhSDF6a3dwUW9rZWt2Z0duSkNMYzduZGp3NkhsZEFsNmJWZGliT2xsU2JaU3YxSC1lV01MR1VvcHQweDIyRFRFR3JkZnZSWmNNSkVrenBkZ0VXajdhLUJyUU5HeG1BTVFXdWF0UmR0Wm1tbTQ4Mi1ULUM5LXI3bjMxVjlFcm5aUEpwMXAtWnBjakJkckw4WU1SRmxzS2VoMFVjZV93ZkQyWUhHa3VNUDFvbXQ3eDFw?oc=5",
+        "published": "Fri, 23 Oct 2026 22:01:04 GMT"
       },
       {
         "title": "Chinas KI-Exportkontrollen: Entwurf umfasst 40 Technologien aus drei Branchen - BornCity",
@@ -334,9 +334,9 @@
         "published": "Fri, 23 Oct 2026 14:45:05 GMT"
       },
       {
-        "title": "Weltuntergang wegen KI? Das sind die realen Gefahren hinter der Panikmache - Watson",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUZUNkJEOUVkT2hIWG01YVd6U1c0YnFJYXYxZnd0Y1FUaDRMdHBIdHNHT184Zm5IczVSVVQwMUpHaWI3dmhwZDRtdnZzWDBuVnVFNG1ZN0NYUG5wWmJMUlA2SFV6ZlhRcVB2clIzeU5WWVRnYVFfdEtFUlh1UGZtZjhzQkNWdXl5cmEtc012eWpwSWNUQUxHYjMxYXd2MnppYUlVWVZWSUpsV2lHdnJUdDVRaE42N2l5SkE?oc=5",
-        "published": "Sat, 24 Oct 2026 06:10:56 GMT"
+        "title": "Börse: Die KI-Blase platzt? Warum ein Tech-Investor jetzt bei diesen 12 Aktien Chancen sieht - WELT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZXNhSDBobWJudFBvamw2TERaeFQyQ19BM2Y4QWtFQjVKY3dCYy1RNWV0Rm1WMWpMYU9ydHBrSEtqREoyLTBsVGdncldYa2tCaUtmcFY0ZVJUWFZka2gyR3hOblVxVEE0eS1jbFNmeEtsc0xvU0ZTSFp3c3NMMkhBNWsyd0thWlF1M2F3R2M1cUtpUGVZYm5la3AwbGhWWHVYV3RzWmxjNERGeGpqVnBGVmRBR3ZpSktDemdncUpYU0ZGOGlLaWdXWWo5UzVibFpudlEtZkxsSml5c3ZYOWNIYXVmX1lRLXVoSnc?oc=5",
+        "published": "Sat, 24 Oct 2026 08:24:53 GMT"
       }
     ],
     "Meine Aktien": [
@@ -354,11 +354,6 @@
         "title": "Nvidia Aktie: T-Mobile meldet den ersten AI-RAN-Anruf - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVV5ZnRsVVlXOElJSWp3UlJzSXVrVGEyaGZhZGRNanNJV0JOU2t3YzAtamhIVXpMWWxEUzBFOU8tdzNjd25EQ3lTdHFMRVdId2JlOGhkcXJTQlpXR2g5VFVMOXZ3b2x3OG52ejJSbW1idmJNSmRaVXY2NGFMcjl5ZTBuWHZpWHJnaElaMzA2N05xRjhzam9xY2ZIak9jaHBvWWxlbDV6Zw?oc=5",
         "published": "Sat, 24 Oct 2026 04:46:07 GMT"
-      },
-      {
-        "title": "Fotogalerie «Sternenregen – Humer, Granner & Co versteigert Mercedes-Sammlung in Feldkirchen (A)» - Zwischengas",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSV9LdGlNT21OYk5vVW5RZHhjOTIyNzExUjBpQWdTbG9ieWNUd3hRVEVRc2dIN2tKdVo0NDdfbElPMm5ld3BhWTNNem94d1dEcl9lYUtwOXVZWVpzcEIwUkh0SlZrZjBEbFUzV0JaOE16cm9zRTljVmtLbHJ1SkdTTU1qRkQ2bnY0cUNabWJTY1lTRjNMSnBTaHg1azdJYVI0Nm9vREdUek1tM3VMR0NGUnR2bXBmQWNmdnBBWWtxZEZYZjFr?oc=5",
-        "published": "Sat, 24 Oct 2026 02:23:41 GMT"
       },
       {
         "title": "„Tolle Marketingkampagne“: Wie Experten den Nvidia-Deal bewerten - Table.Briefings",
@@ -379,6 +374,11 @@
         "title": "Nvidia RTX 3090: Kostenloser GPU-Unlock steigert Leistung um bis zu 80 Prozent – mit Einschränkungen - Notebookcheck",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNkM5VFlsSXpET0RUenVTV3gtWnZKeXU5d0tKNEp3ZThpa0VqOG9ueUd1akFidGJPT25zSmI0TjZtLTlPV0FIc2lReEg1U3RrMndVRm9wZEhxbGV3TFZPN3ZzWGNjaGd6VUxyNlFJbWJnREtub3F1U1Naa3owbkFuMWdfZ1JvcE1rOXdTQlFPNExtbURZSkx1bU9sUjF1OHoycVBvRjAxaS03TmF3V1o1cUY3d3hBTzhCdkZSVkZHYVNTZUw3eWFxZW1zLThFMGdOX2x6bldCaENsaEk?oc=5",
         "published": "Sat, 24 Oct 2026 06:29:00 GMT"
+      },
+      {
+        "title": "BOTSI®-Advisor Hochstufung Nvidia von Rang 105 auf ... - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVlrajBUdU5ncjhFTFRtLUExMThRMGh5M0xyMHk0WXZCUk1MMFhOTEdqWjBJd0Y5N0dGZm5VRVh3ai1meTlGMk9xYWN0QmFRUjVnaFBqWmJ1TEdpSVdrN25kZ1hNajFmMWFDMURZQ1lkTmZUSk1yaFQySHRkLVc3Z19RMWE5OU9aUXFRQThCQ2lpQldtYnU00gGcAUFVX3lxTE8wYURJdTgySW5hRjFWZ0NqZ0lUV3JOM1RKaXFQMHhYb2FVUmJGSHlBcnU1MTRGMWhPNjlGU1d6OVpCekVqRDBlZ0lOWWxhUFBpaHVGdllxU2QwaW11NkJwa0JubksydlN5ZHpyOElNc24tNzkxUGhuRENhTi1zSGxib0lkcHRwR0lRbl9QWm1QN2NheloycVphS3lUVQ?oc=5",
+        "published": "Sat, 24 Oct 2026 05:06:00 GMT"
       }
     ]
   }
