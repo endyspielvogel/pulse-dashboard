@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T19:52:46.222498+00:00",
+  "fetched_at": "2026-10-24T20:22:29.476574+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -65,11 +65,6 @@
         "published": "Sat, 24 Oct 2026 09:54:14 GMT"
       },
       {
-        "title": "'Kids' Choice Awards 2026' to Air on Nickelodeon and Paramount+ In Germany In November 2026 - NickALive!",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Gd0RHTmhsUm0xa0VxdXptd0k3bkRIRGNTbG5DNUs2MVVGdUhRZW9PNlZvR3k5VHJFT3NlNnlsNnNfNDF6VXNmWERKaTg3OG5vMFZTUVVXcjJYdHl6OHF3alhrb1dUNHlNYnBmRTFrZEtxVVFiVFc4dFl3Nko?oc=5",
-        "published": "Sat, 24 Oct 2026 03:40:00 GMT"
-      },
-      {
         "title": "Aus für Bioware: Sehenden Auges (Fröhlich am Freitag) - GamesWirtschaft.de",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZF8tZVctUmpxU0x1LWRFRUhja1EtczFrbFNEdnNvOU1QdkM3cU9IdERaODFEOFJjYTVxS0RiYjA0THFUTFliYWpXQjlTaVdHT1c1ak4wR3Jpay1tcE5qMG1iNUVMLVhfQk9Zb0FJN1RnLXI4SW1yb0hHQWRiZlRBaVBkdmp5T0VqamdiZUNOQQ?oc=5",
         "published": "Fri, 23 Oct 2026 11:58:34 GMT"
@@ -83,6 +78,11 @@
         "title": "Spanner auf Parkplatz am Fitnessstudio? TikTok-Beitrag zu FitX in Minden sorgt für Aufsehen - Mindener Tageblatt",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbkpqMzNsSHNpWDBIMVd1WkF1c0pIUmJIMGd6MzVXdGw1SE9EN21zWWtJMlZiNWQ5UFVNNVA2QVhZS2pNaWpERUgtMDBoSDhrdXVrZ3Nka2JhcHhnSXZtN3ZqRDRlZkNjQjRYNDNNdHZlVV9NYmhnYUVXVk9hNU81MzFWd0FjWThXMk5xZXZpeGc4UkdwZHRCaF9UekR6cEVkUHlKa2VwWnFHc25fc3FxaE1LUjhBaThOYlZmRWtOLWdZdE1vZlRZVjRrTkptWHNSR1o2cA?oc=5",
         "published": "Fri, 23 Oct 2026 03:00:00 GMT"
+      },
+      {
+        "title": "Zeabur schließt nach zwei Angriffen, 3,2 Millionen Datensätze gelesen - Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLW9SeXFTWDd2WUlWMURzUVY0OURZZjJPN19QT0dNcVdid0puNGs5SEFmV044dldKbXhYUDJCUTM5UktXTEs1elg0clBJaGNySkJ4ZnEzcklmcmFxQnRrQ2RzZ0JUV2VTekFDUlBaNnRVM0lRQ0dTS1diTHpMTkxVNjZBQkZkNUZvQ0xvT1lzbl9LcTcyM3hrMFJ4SW0yZEE?oc=5",
+        "published": "Thu, 22 Oct 2026 22:16:23 GMT"
       }
     ],
     "Omnicom": [
@@ -97,14 +97,24 @@
         "published": "Fri, 23 Oct 2026 09:00:00 GMT"
       },
       {
+        "title": "Pitch abgeschlossen: Coca-Cola holt Omnicom an Bord - und hält WPP die Treue - Horizont",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTF93RjVSNzliOHZZaFlFNGgwTllyQlMtWENTYnhGOVNYNzNvUHh3aEVVdk1nblBlVE5aUGFhUXEwYzNuWFhBRlloX1dsM1lnVUNyeC1jYXZfSHVHMXBjdFNrd0N5Vy1qOC1rN0U1c3llRGJDS0wtS0JkNndERWw4OGhubVhjWVFLS21CV3lNTmlzRS1oOFVVUjQwV3BLaTYwaVBMZnQ5bWx6Q0wzcE05bkNLRHplc08wRjdZZGxoSQ?oc=5",
+        "published": "Fri, 23 Oct 2026 07:12:00 GMT"
+      },
+      {
         "title": "Transcript : Omnicom Group Inc., Q3 2026 Earnings Call, Oct 22, 2026 - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGJaTnN3VlJhaExaUHBoTlQ3UXU4bkFibmt5eHVMWDgxYUZLYXl0TVZ1azU2NVhWcmpoOWpUSW5NOTNpT09tLW1LNmVZdERNVVlodGRxeDFVY2pPV0ZsWWtSR2NjMHZGeUdXNjRDbnZoQ3lITzRIM0VUcEktUF9tTlV6QUJxbG95ZmtwWExYcTZkT1NsRnBBYW8tQ0paTlVuVWFEc3VZZmd0UC1NendoTkl0S0hjWEQ5ODZDb25TejZ1Qkp3NEhMQmdRdDlaaThNU0ZucDBKTUdvUQ?oc=5",
         "published": "Thu, 22 Oct 2026 21:37:17 GMT"
       },
       {
-        "title": "BOTSI®-Advisor Abstufung Omnicom Group von Rang 354 auf ... - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWJhY1NwVVp1N0RVTFh1OUlaWXY1T3ZxOVdYSGtVelB1SVYydFpEeG1mcUR0VzRDZVVuRUFkWkQzSmJMRE5SU3gzRGVZelk1VG9Zbkc1MnZfYWpxaXZOVm5hczlYLXB3MzhKeWNicGljSldwNWFlQUhyalNRbVcwSGVVMWZXT0lpOGR3eDIza2EtLVk2TXNXM2s5bWVtMWF4WXQ00gGjAUFVX3lxTE81YmFjU3BVWnU3RFVMWHU5SVpZdjVPdnE5V1hIa1V6UHVJVjJ0WkR4bWZxRHRXNENlVW5FQWRaRDNKYkxETlJTeDNEZVl6WTVUb1luRzUydl9hanFpdk5WbmFzOVgtcHczOEp5Y2JwaWNKV3A1YWVBSHJqU1FtVzBIZVUxZldPSWk4ZHd4MjNrYS0tWTZNc1czazltZW0xYXhZdDQ?oc=5",
-        "published": "Sat, 24 Oct 2026 05:40:00 GMT"
+        "title": "Coca-Cola betraut Omnicom mit dem Media-Etat in Nordamerika und hält global an WPP fest. - turi2",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdBeDZnd0h0SC1wNjg0TEk4dXlGVjk1cVhjcXZyTEt5ZGY5Z2Q2T0JXbTVVN3N0MXlVRHZqRFlxOWlXRVFFOTJNWklvQnpULVdQWHJtSUF1eExKSWkwUk9tX2lJSmFJWWVySEJDYnhLZXBUWFlnOVFLMjhEblN2dUFrZE0tUjBBM3RBWXVIRVpaampKV0M4YWl2V1REcTBlWHRQMWRBQWp3ajdwbkk4dG04a1o5YWNkdkE?oc=5",
+        "published": "Fri, 23 Oct 2026 09:27:00 GMT"
+      },
+      {
+        "title": "Coca-Cola vergibt Media-Etat für Nordamerika an Omnicom - Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWtOaVlpdEF4Nkc5ZVRZRC0wVzZGemFjUnk4U2tYRmxGb0dPSEN0U3BBd09hU1pubmJNZnlYd2JaZ3BKQkVhdlFsejdNb19WdTc1d3lpLUF2azh2Q3oxODZ4R2F1MmtiTC1tWGpSYWlJX3dka29Pal8zS0c0bUloLWkwMExDVlRBQlpYdkJ6OEY4UHRIOHluZ1NaNDB0QU03aFkyNTgydURIUkpoR0E?oc=5",
+        "published": "Thu, 22 Oct 2026 20:50:00 GMT"
       },
       {
         "title": "Omnicom Group., Inc. : Morgan Stanley bekräftigt seine neutrale Bewertung - MarketScreener Deutschland",
@@ -115,16 +125,6 @@
         "title": "Omnicom Group., Inc. : JPMorgan Chase-Empfehlung weiterhin neutral - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeVdPTFgyMEhkYzZxLUN2RWIwdGZPZE9zZGVvNldaaFFuelEwNHUxWms0V0hScFhPbUVFSGtkSk9EUy1RWS05RFBkaHo2SlJHS3F3UTRES1Z0Sll3VTdhck5OMzlvajlabGhqMFhqSUFydTRPb1J0LVVwbHNGTTJNUlUyd3BtS05fc0h0cmw0RXBNSnpRbWl6ZmRTSWRmVGc4MmIyZ3BWUFFJS0lvVXBCUVVGMFNQWTRTQXhSRzZBWWNhVlA3clE?oc=5",
         "published": "Fri, 23 Oct 2026 11:08:54 GMT"
-      },
-      {
-        "title": "Earnings Flash (OMC) Omnicom Group Inc. meldet Umsatz von 6,42 Mrd. USD im 3. Quartal gegenüber FactSet-Schätzung von 6,21 Mrd. USD - MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkVkN2pOaUJKbE5tMFJCay16MDI3YXpobVRHVTVjeUIzRFplYXlqeDI5ajZHeVIyWHI3TW9FT2lhWkdyZHVOQXphNTg5cHN2ZF83OHpqWDhmRTdzTGZVd3JlZnBld3BmX2ZhbWt2THFGNUR4dFBaWFNVN3lOcXA4aG11UkFMY3pNMGFXbHZmbndvVnhyby1vU0o5RnNOM0V1dzFTYnlUbmVONDRuTmxFTS1CbnhzaFdwRERhR1ZPR2dhMjVvdWlWVEdJalJjX1dqYlVNbzdTbkRXdnZFNkJPYVVTbFJrX2oteFVOS1hrTUVkSzBv?oc=5",
-        "published": "Thu, 22 Oct 2026 20:04:38 GMT"
-      },
-      {
-        "title": "Omnicom Group., Inc. : Wells Fargo Securities bekräftigt seine Kaufempfehlung - MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUS1UdjgxTGg3ejh2MFl0ZkE0LXlfNmE2WEhaMl9YM3BlNThBNTh2WkYzRUhBWEYyclN0NFJaVE1HQVE2RnY1OU1iZklBeUVialpwT3g1LXYwQzJjSy1td2Q5TUROak5ldTlTVXRkTGlMdkVFTExvbkNWdU8zSVpQVTg5OFdmNU51TElEejFBNHMtQjE2N0JxZkUwM05jVExQdDJCZFFWVGZwQTNUcmRFMldlcGwtem5NYlBlTXRPU1NsMWFjVFQtS3h5TWZLT0p2UFZwTVhB?oc=5",
-        "published": "Fri, 23 Oct 2026 12:11:54 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -149,6 +149,11 @@
         "published": "Sat, 24 Oct 2026 02:23:41 GMT"
       },
       {
+        "title": "2,1 Millionen Euro Erlös: Justizauktion: Bieter liefern sich Rennen um Luxusautos - DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzFzRHFhT1RQNFE2eTBsMC16dV9MbkVQV3NRNnRod3ZNU3Y1WXk0ZFJYOWJ4V0cxUXVRY3FsTG9Ya2xHajdCOGJwM1c5dnAyNm5LaHZXbWlLTmt6cEVGN0hia2Z1RlJzaXEtaWk5STQyak01WUctOUp3ZjFtcjQ3UzhFUWlBbWVBTHlxS0p5emI2MGp1?oc=5",
+        "published": "Sat, 24 Oct 2026 14:32:47 GMT"
+      },
+      {
         "title": "Baden-Württemberg: Justizauktion bringt 2 Millionen Euro ein: Luxusuhren und Sportwagen versteigert - tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZHRPajNReFZlOTVGN1VnWHpBTkRycHUxc0ZDVU40b09DRmFiRVBpc3VNU1E4TW5CTUtaSGF3NlJseFZiTmRZZHdSM3AxOUg4U1VXQ1NNNWNCd3JvZGpINWtIYnpLN2ZQVF9uMU5lb19fcDU4QUVBSDFDQmVoM3VwbXZSS2FpOWZLUW5CTk9LSFRrejc1dFhGcTdHalYyczczTk1OMzhhTVBBdThzeUFjMDRoT1dnRGFmSkppOEI2dzFUdzU2SUo0UEg2cVJmQ0pJdlliNGhqSTZRR3JJZDBpc2phWHRPOXM?oc=5",
         "published": "Sat, 24 Oct 2026 16:35:00 GMT"
@@ -162,11 +167,6 @@
         "title": "Mercedes-Benz Aktie: Margenziel-Kappung? - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFVLX0JxQVFleGd4S2lrLVFrSUkwWXU2YXRDaEJCdlRVb3Voa3hteW1Xd085NlRRWlJVaVFBdzZVUERwSDZrNFc5U1JleTdHSUFTYUdtT1NLWDZNSlZHTTBkV3R3TjRpdm5lY05INzdjdUg1Y1loUllWaTdiSEdZZmZlM04tV3ZhUEgzLWVnNmZDWHJh?oc=5",
         "published": "Sat, 24 Oct 2026 00:48:06 GMT"
-      },
-      {
-        "title": "Mercedes will Zahl der Leiharbeiter in Deutschland deutlich senken - Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJSMUI1RUFuZ09USmZUYXNmTmFEa01GdGpOcWlBc1Z2aElZZVNiTGo5RW5yak04bHZ0bTI2SmZIWmRsQVpMdlNGSVdPY0lrTTNXZHlEUEJUTndYdUxmUGZQTnROSkJHTkFTQmcyTWYxVFRkN242VnZCVGZBVkdFYWZIYloyUFA0WU5yWWd3TmtXZHNLQXBLZ1Y1bWdkck9BOHBoQkd4RXh3SnlObEtxN1ZB?oc=5",
-        "published": "Fri, 23 Oct 2026 10:09:29 GMT"
       }
     ],
     "Nvidia": [
