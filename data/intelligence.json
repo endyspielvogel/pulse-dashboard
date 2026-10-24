@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T15:57:44.314976+00:00",
+  "fetched_at": "2026-10-24T16:25:40.578135+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -23,14 +23,14 @@
         "published": "Sat, 24 Oct 2026 13:14:47 GMT"
       },
       {
-        "title": "Drama rund um McRib-Abschied – McDonald’s-Kunden sind außer sich - DerWesten",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZC1LQjg3VENhcFBVZW41MkhsQVhKVGc5TFRTZ01TLWpkcE9oa05vS0o3Unh0dERyLTlzVEZEQW5wLVZEOHJBVFRDT3Bja1h5NDVVaWNCQ1dOWVZuVWZMd1Q1anVzMENReEZFczc5ZW5aMkt4RmxHdmViN2pLVXpweDJpMmFnOTcxd0ZMS0tnRm5OaEN0cFE?oc=5",
-        "published": "Sat, 24 Oct 2026 10:10:09 GMT"
-      },
-      {
         "title": "McDonald’s lädt zum Gratis-Essen mit Spitzenkoch - oe24",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVVSWU9XbVU1NXI4cVRDcUtKV2xFQUVVZnhGeUNvOXVIYVhHeXVXcWN5Wk1WdlBnWVZjWFFieWtWU2FQRE5VOExaZlFsRFpucGFmcFhPVU8zLThiczdNYVVER2dmRDJDelZOX2VOSl9FMXlCQTl4Y0xCUTV6eHFxSU92RzExbkVRZjRYcVV6RU9Pd2PSAZgBQVVfeXFMTnJLMlRZZUUtaU84dXE0SW5BN05JWkNZazM5NGsxbnVMdVNjQjUyNlFwY2E5TE1TMUp3X1ZKazhhSDVuNXU1T1V1OHUtQ1ktLXhjQkNkNElyeU00WWRwdlFHWjZYSHpzM25JaGdSeVdjWVllVW1iY25hZVVjVkhYdGxDUUVPYmZyVTFDMDBPY094Vk9lNldkX2w?oc=5",
         "published": "Thu, 22 Oct 2026 17:41:30 GMT"
+      },
+      {
+        "title": "Drama rund um McRib-Abschied – McDonald’s-Kunden sind außer sich - DerWesten",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZC1LQjg3VENhcFBVZW41MkhsQVhKVGc5TFRTZ01TLWpkcE9oa05vS0o3Unh0dERyLTlzVEZEQW5wLVZEOHJBVFRDT3Bja1h5NDVVaWNCQ1dOWVZuVWZMd1Q1anVzMENReEZFczc5ZW5aMkt4RmxHdmViN2pLVXpweDJpMmFnOTcxd0ZMS0tnRm5OaEN0cFE?oc=5",
+        "published": "Sat, 24 Oct 2026 10:10:09 GMT"
       },
       {
         "title": "Megatrend Folger: McDonald's – startet jetzt der historische Turnaround? - Der Aktionär",
@@ -70,11 +70,6 @@
         "published": "Fri, 23 Oct 2026 11:58:34 GMT"
       },
       {
-        "title": "NXT vs. AEW: Wednesday Night War kehrt für einen Abend zurück – Crown Jewel: WWE hält trotz Sicherheitslage an Riad fest – Zwei Termine für die John Cena Classic im Gespräch - Wrestling-Infos.de",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93UHp1azJkc01wUGxPQ2dJMS1ObGIzNjQycTlmaWFJU0RyeUZVVmxLMlBZV19BYXdZTGIyTmNuRVJuUlZtR3JMMElOWW5CMDBVSlRGTA?oc=5",
-        "published": "Fri, 23 Oct 2026 12:34:29 GMT"
-      },
-      {
         "title": "Capcom ID gehackt, Daten von 11,7 Millionen Konten offengelegt - Pasquale Pillitteri",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVg5cjktYUhhV2p6YWdJODVMNVJpY012TmwwbkxQbllEM3lrTHpnLTBQamdVTy1CeUc1a1lNRlJkN25SOVlBN3RvSDYyc256Z3NudzgyQW9LVjZQSVNsVVJTZmlGX1R2YW5vODUtLWg2MzRwSjhDYm52X0xueGh4V1lZVnRtOUQx?oc=5",
         "published": "Fri, 23 Oct 2026 09:16:11 GMT"
@@ -83,6 +78,11 @@
         "title": "Spanner auf Parkplatz am Fitnessstudio? TikTok-Beitrag zu FitX in Minden sorgt für Aufsehen - Mindener Tageblatt",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbkpqMzNsSHNpWDBIMVd1WkF1c0pIUmJIMGd6MzVXdGw1SE9EN21zWWtJMlZiNWQ5UFVNNVA2QVhZS2pNaWpERUgtMDBoSDhrdXVrZ3Nka2JhcHhnSXZtN3ZqRDRlZkNjQjRYNDNNdHZlVV9NYmhnYUVXVk9hNU81MzFWd0FjWThXMk5xZXZpeGc4UkdwZHRCaF9UekR6cEVkUHlKa2VwWnFHc25fc3FxaE1LUjhBaThOYlZmRWtOLWdZdE1vZlRZVjRrTkptWHNSR1o2cA?oc=5",
         "published": "Fri, 23 Oct 2026 03:00:00 GMT"
+      },
+      {
+        "title": "Zeabur schließt nach zwei Angriffen, 3,2 Millionen Datensätze gelesen - Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLW9SeXFTWDd2WUlWMURzUVY0OURZZjJPN19QT0dNcVdid0puNGs5SEFmV044dldKbXhYUDJCUTM5UktXTEs1elg0clBJaGNySkJ4ZnEzcklmcmFxQnRrQ2RzZ0JUV2VTekFDUlBaNnRVM0lRQ0dTS1diTHpMTkxVNjZBQkZkNUZvQ0xvT1lzbl9LcTcyM3hrMFJ4SW0yZEE?oc=5",
+        "published": "Thu, 22 Oct 2026 22:16:23 GMT"
       }
     ],
     "Omnicom": [
@@ -139,14 +139,14 @@
         "published": "Sat, 24 Oct 2026 05:06:34 GMT"
       },
       {
-        "title": "Fotogalerie «Sternenregen – Humer, Granner & Co versteigert Mercedes-Sammlung in Feldkirchen (A)» - Zwischengas",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSV9LdGlNT21OYk5vVW5RZHhjOTIyNzExUjBpQWdTbG9ieWNUd3hRVEVRc2dIN2tKdVo0NDdfbElPMm5ld3BhWTNNem94d1dEcl9lYUtwOXVZWVpzcEIwUkh0SlZrZjBEbFUzV0JaOE16cm9zRTljVmtLbHJ1SkdTTU1qRkQ2bnY0cUNabWJTY1lTRjNMSnBTaHg1azdJYVI0Nm9vREdUek1tM3VMR0NGUnR2bXBmQWNmdnBBWWtxZEZYZjFr?oc=5",
-        "published": "Sat, 24 Oct 2026 02:23:41 GMT"
-      },
-      {
         "title": "Mercedes-Benz Aktie: Margenziel-Kappung? - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFVLX0JxQVFleGd4S2lrLVFrSUkwWXU2YXRDaEJCdlRVb3Voa3hteW1Xd085NlRRWlJVaVFBdzZVUERwSDZrNFc5U1JleTdHSUFTYUdtT1NLWDZNSlZHTTBkV3R3TjRpdm5lY05INzdjdUg1Y1loUllWaTdiSEdZZmZlM04tV3ZhUEgzLWVnNmZDWHJh?oc=5",
         "published": "Sat, 24 Oct 2026 00:48:06 GMT"
+      },
+      {
+        "title": "Mercedes-Benz CLA 250+ Shooting Brake [Test] - autorevue.at",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSG1fX2haTVI0Ui1HUTVMRmRydVdGTldQX1NMWVdDaXF5cWg5Uk9DMWxMems3Q04wMHR6WU83ZVNSbmhPMlF1YjBUQ3NfaGp1RnFaeHdnemVDdmN3MXpvM004MExUdVRaTERXSmNVMXJDVklFWnJuZkNKRGQ?oc=5",
+        "published": "Fri, 23 Oct 2026 06:10:00 GMT"
       },
       {
         "title": "Mercedes-Benz C – Motoren und technische Daten - Autohled.cz",
@@ -154,9 +154,9 @@
         "published": "Sat, 24 Oct 2026 10:51:35 GMT"
       },
       {
-        "title": "Mercedes-Benz CLA 250+ Shooting Brake [Test] - autorevue.at",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSG1fX2haTVI0Ui1HUTVMRmRydVdGTldQX1NMWVdDaXF5cWg5Uk9DMWxMems3Q04wMHR6WU83ZVNSbmhPMlF1YjBUQ3NfaGp1RnFaeHdnemVDdmN3MXpvM004MExUdVRaTERXSmNVMXJDVklFWnJuZkNKRGQ?oc=5",
-        "published": "Fri, 23 Oct 2026 06:10:00 GMT"
+        "title": "Foto Galerie: Ein Erfinder, zwei Gründer und drei S-Klassen – Mercedes-Benz feiert 140 Jahre Automobil - Zwischengas",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakRMazN0UU1UTi1TUTg0bDRPX2FtbG9WQ21vSkthSVVtRDRjY1Y1YWdSai1hQWxMYlhQaklBUEFZb2otSERwRUltYXhCaXI0SXBRTjdqaDNBblZJMnAtbFJqRHRGU3dzZ2lzbDRPbkF3cmFZY216eTRXTFAzbC1LVmFWRUc?oc=5",
+        "published": "Sat, 24 Oct 2026 03:00:00 GMT"
       },
       {
         "title": "Tesla erstmals aus Top 10 der E-Auto-Innovatoren: Mercedes steigt auf Platz 4 - Notebookcheck",
@@ -267,6 +267,11 @@
         "published": "Thu, 22 Oct 2026 22:00:00 GMT"
       },
       {
+        "title": "Die Saltech Agency nutzt Google Marketing und KI zur Kundenbindung. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW4xenV4c1pJblBhLWNXQlg2ZDJzOHZIOWVwWXkzMzV6TFpuZUY1M2xFZ2hmYnJVWVhvQUNidVd3ZWtBWUpybjFVNzdjRHpCQ0kwTU9ud2xUb3RVMHlRb1pZT0ZzRWRXcVZYOF9XZ05Sd0dBT3FKeTIzbGFzcHZCRzNUbTczU2pGMlFfdk9LaUNoYno2?oc=5",
+        "published": "Fri, 23 Oct 2026 11:13:41 GMT"
+      },
+      {
         "title": "Neue Studie überrascht: Warum 38 Prozent der jungen Kunden bei dieser Werbung den Kauf verweigern - Innsalzach24",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcW5lb2RTVDJDdzJHSFp3Q0Z4ZkNURUd3NVRrdVpIaE91QUR6TlJic2lLNE1GbzdXM3pJdzB2dVFsWmdVWm9NOXpGazFyM2VKMHJpelpvME9RMUxLd21UY0hEVjFkU2EwUU5PNVk2NFRET3YtLWQzMGk5b3NtSDNZOUFSV2xZUkVudVdibGd1MmxCYlVZb25lMktsNHRTM2g2ZHo2MHcyS2k0Ni1mV0xVRUc1WlNMeTU1clRR?oc=5",
         "published": "Fri, 23 Oct 2026 13:15:00 GMT"
@@ -309,19 +314,19 @@
         "published": "Sat, 24 Oct 2026 12:00:00 GMT"
       },
       {
-        "title": "Börse: Die KI-Blase platzt? Warum ein Tech-Investor jetzt bei diesen 12 Aktien Chancen sieht - WELT",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZXNhSDBobWJudFBvamw2TERaeFQyQ19BM2Y4QWtFQjVKY3dCYy1RNWV0Rm1WMWpMYU9ydHBrSEtqREoyLTBsVGdncldYa2tCaUtmcFY0ZVJUWFZka2gyR3hOblVxVEE0eS1jbFNmeEtsc0xvU0ZTSFp3c3NMMkhBNWsyd0thWlF1M2F3R2M1cUtpUGVZYm5la3AwbGhWWHVYV3RzWmxjNERGeGpqVnBGVmRBR3ZpSktDemdncUpYU0ZGOGlLaWdXWWo5UzVibFpudlEtZkxsSml5c3ZYOWNIYXVmX1lRLXVoSnc?oc=5",
-        "published": "Sat, 24 Oct 2026 08:24:53 GMT"
-      },
-      {
         "title": "Der künstliche Jobkiller - nd-aktuell.de",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV1dpdnhNaWwzdklqdmtIbEc0d3JzWUptMWJxVFU1Ti1zMDRteHlKWm9iaFpvRlBiWHAtZl93aVpiNUFEdVhsa0hsemNhUlJzZVBsaFJvYlQ4RUpFTmpCX3ZQcVRfMmtiRVdHS1JBbFNaVEh4QWx4RUJUdmVWQndCaHh3R1RkRllha0xXNHFTdUw0U3M3RXA3OW5LSm4?oc=5",
         "published": "Sat, 24 Oct 2026 15:38:33 GMT"
       },
       {
-        "title": "Nachhaltigkeitsentscheidungen: Mit Politik, Baugefühl und KI im Wechselspiel? - Ökonews",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd21PU1kwSll4TjM0WHlXRE1fSlAxZW9ZM3g2d3YwT2hGczI4RTF4S1FCYWZZcndZRk1UQ1lJeGZ1aDNHQkRNV3dQejNoRDg0UUFQYndacjlQVkdQejFHZlIwajM1djUwdlUtNlg0Vjl1VWljYXg1bGpBZTNxNVJ0SHhKT21sVlJrTERaSGo4QjZCTENuNlFCdVZobmkyMXRwX3JQeWJuMzZ4c0U5?oc=5",
-        "published": "Fri, 23 Oct 2026 22:23:00 GMT"
+        "title": "Börse: Die KI-Blase platzt? Warum ein Tech-Investor jetzt bei diesen 12 Aktien Chancen sieht - WELT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZXNhSDBobWJudFBvamw2TERaeFQyQ19BM2Y4QWtFQjVKY3dCYy1RNWV0Rm1WMWpMYU9ydHBrSEtqREoyLTBsVGdncldYa2tCaUtmcFY0ZVJUWFZka2gyR3hOblVxVEE0eS1jbFNmeEtsc0xvU0ZTSFp3c3NMMkhBNWsyd0thWlF1M2F3R2M1cUtpUGVZYm5la3AwbGhWWHVYV3RzWmxjNERGeGpqVnBGVmRBR3ZpSktDemdncUpYU0ZGOGlLaWdXWWo5UzVibFpudlEtZkxsSml5c3ZYOWNIYXVmX1lRLXVoSnc?oc=5",
+        "published": "Sat, 24 Oct 2026 08:24:53 GMT"
+      },
+      {
+        "title": "NIC fördert die internationale Zusammenarbeit in den Bereichen künstliche Intelligenz, Innovation und digitale Transformation. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUV8zTFRWWHRjbmR3Q1FIVmdRVmh3aDNNWDJYRmhHdkE2SE4weldrSGhBRnU1Mm1lRjlXX0FXbFNkbWVvcnlKb1dGeG9xTHNoOGt4SDFNYS1rb3NOd0VqdjlncDNaMkdXTHFfV3NfYnk5eFAwcDAyc3NxbGlRQVRRS1dCMXZ6dUFKZmZTQXA0UVBwUXpBNy0zWHRBeVdNa1UzUEFYZWt0MnE4cHloSGJnMw?oc=5",
+        "published": "Sat, 24 Oct 2026 06:40:04 GMT"
       }
     ],
     "Meine Aktien": [
@@ -336,14 +341,14 @@
         "published": "Sat, 24 Oct 2026 15:50:00 GMT"
       },
       {
-        "title": "McDonald's Aktie Prognose 2026 & Kursziel - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUNyQWhGT2tiS2k2aURVZTNlSndKNHJxTW16X2c5M0hKYXlmalNSMHNpZFRPLTV2ckRFYTUtaTR4OGhCajVsWFVpbTVZZXJzbWhxMmlNVVhwYWN5QjVLM3p6aHJRNVNpMXliQzB1TXhrX1Q0alFNSXlBbVhHNGI1VkdrSQ?oc=5",
-        "published": "Sat, 24 Oct 2026 11:28:26 GMT"
-      },
-      {
         "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
         "published": "Sat, 24 Oct 2026 11:45:00 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie: Verrückt! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44RmN5Yl92Y3VkdVBnSWlGWVVBbzN2andNYkFiR2RlNnVzblRDaFk0TXJQMFhMMkZZV2szVHhXTk56WEQ5NFRUbzRQVjMwZWpISFNXMjNtck52VklkWGdTVXRIdWxvRUNiUHcxY1VpRlNVWVAxVWZDVWRqZEpsSUU?oc=5",
+        "published": "Sat, 24 Oct 2026 15:25:46 GMT"
       },
       {
         "title": "Nvidia-Treiber: Modern Warfare 4 und Gears of War sparen RAM dank neuem Shader-Feature - Notebookcheck",
@@ -351,14 +356,14 @@
         "published": "Sat, 24 Oct 2026 12:27:00 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Warum Analysten so hohe Ziele haben! - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSkM3S05rMWsxWldGYTJkXzZra2M0Y2xwaTk3UnFSU0pQVlZmaWZscnJRdmFhSjRqY3JoQTR2T0xucF9LTmRuRk0yVVRiMUJ1cVp5STFwbk45VmxBLURpNUlZOW4wdkdmWlF4c0hoNGNCV3hrWmxReU91MjVTN1lIb0RTWDBoeDRlZ2c?oc=5",
-        "published": "Sat, 24 Oct 2026 13:45:19 GMT"
-      },
-      {
         "title": "GeForce-Treiber 621.01: Nvidia bestätigt Black­screens nach Update - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWV6am9rbjRGb1VsbDRQNVdua09DNkF0dDFweFJQeDRDT1liUmp6ZGdSM2k5ZGxHWld0eC1mU2x4eGtSa2c3NlZKZXpoQ1ZWakd6bGpNV0ItcUFDMzVzbnU0TXVPRHplNGFpT2JsR0Q4eko1azBZNVdVZDd2RnJJemZDTjBKUG9sRHZBN3hXNHNfZkxoaGlyRkx3d2toajdVdkJtOVdQd19KU0Q0N0xUMHNJa09pTDBkLXc?oc=5",
         "published": "Sat, 24 Oct 2026 14:27:00 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie: Warum Analysten so hohe Ziele haben! - Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSkM3S05rMWsxWldGYTJkXzZra2M0Y2xwaTk3UnFSU0pQVlZmaWZscnJRdmFhSjRqY3JoQTR2T0xucF9LTmRuRk0yVVRiMUJ1cVp5STFwbk45VmxBLURpNUlZOW4wdkdmWlF4c0hoNGNCV3hrWmxReU91MjVTN1lIb0RTWDBoeDRlZ2c?oc=5",
+        "published": "Sat, 24 Oct 2026 13:45:19 GMT"
       },
       {
         "title": "Nvidia-Treiber 621.01: Schwarze Bildschirme und Videofreezes bestätigt - BornCity",
