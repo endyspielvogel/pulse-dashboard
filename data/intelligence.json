@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T03:01:55.333679+00:00",
+  "fetched_at": "2026-10-24T03:28:05.611239+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -75,14 +75,14 @@
         "published": "Thu, 22 Oct 2026 10:14:00 GMT"
       },
       {
-        "title": "Capcom ID gehackt, Daten von 11,7 Millionen Konten offengelegt - Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVg5cjktYUhhV2p6YWdJODVMNVJpY012TmwwbkxQbllEM3lrTHpnLTBQamdVTy1CeUc1a1lNRlJkN25SOVlBN3RvSDYyc256Z3NudzgyQW9LVjZQSVNsVVJTZmlGX1R2YW5vODUtLWg2MzRwSjhDYm52X0xueGh4V1lZVnRtOUQx?oc=5",
-        "published": "Fri, 23 Oct 2026 09:16:11 GMT"
-      },
-      {
         "title": "Electronic Arts schließt Bioware und streicht weitere 400 Jobs - GamesWirtschaft.de",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUdGREdqM3ZoWWhwUzFEbzdPWEtxVGZiZmEyZjlLVzl4SlFxNHdGeEpKLXRPTFV6NzNzVUZrYTZRbHIwU2oxYXAxWGtYQ3hIeHZZb0daMVNNdTljbjlCeVhER1VYYXV1MU5JNjdTZTk1VGhuN0ZRcm9FejVkRXc4ZU9FM1l0OGdaQUw5TUNRTkxaSWZXaXBQTEM0YmRlMGRaNXc?oc=5",
         "published": "Thu, 22 Oct 2026 06:57:13 GMT"
+      },
+      {
+        "title": "GTA 6 Burgers und Fried Chicken sind echt, kosten aber ihren Preis - games.gg",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVBlc29iTzdmN2xrNVVNTjN4bjQtaEg2S0J1akdKcmhFZ21wSVYyNEFMMWlCZkdSXzg1QjNqT1BYWW9SZWN2LTFhM1dWN1plMVUyQTZOVXNFdXhucUJZX05Tdk5GUElEQ0hNSkdGSW9CWXVnMGZmSm4wMHhvc3hkUlN4NHU2SHktU3dfTm5RREVwSlFSenl3?oc=5",
+        "published": "Fri, 23 Oct 2026 18:42:27 GMT"
       }
     ],
     "Omnicom": [
@@ -122,9 +122,9 @@
         "published": "Thu, 22 Oct 2026 20:04:38 GMT"
       },
       {
-        "title": "Omnicom Group., Inc. : Goldman Sachs bleibt neutral - MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVNeEVzR2pDTkU4SGRWWF9GRFg2eThWdG5IWEx5bTBTZjJUZV9IUngwYWdHR3JQeWZ3WEhVbDhBSFVZOEROZXY2ZGVINW0zbEZQc19XMUlhYWdEdzBxcE9tbW4zRkQ1TW0zc3M3dkhvVFcxUDlSZC1qQUFLd2V2RWxLX1F0V2xtS3VZdGltWDV6WVJyVk9fT2dfX0VHOUZ0Z1g3bjZlVmU4ZDBreFhZMzRR?oc=5",
-        "published": "Fri, 23 Oct 2026 12:17:47 GMT"
+        "title": "Omnicom Group., Inc. : Wells Fargo Securities bekräftigt seine Kaufempfehlung - MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUS1UdjgxTGg3ejh2MFl0ZkE0LXlfNmE2WEhaMl9YM3BlNThBNTh2WkYzRUhBWEYyclN0NFJaVE1HQVE2RnY1OU1iZklBeUVialpwT3g1LXYwQzJjSy1td2Q5TUROak5ldTlTVXRkTGlMdkVFTExvbkNWdU8zSVpQVTg5OFdmNU51TElEejFBNHMtQjE2N0JxZkUwM05jVExQdDJCZFFWVGZwQTNUcmRFMldlcGwtem5NYlBlTXRPU1NsMWFjVFQtS3h5TWZLT0p2UFZwTVhB?oc=5",
+        "published": "Fri, 23 Oct 2026 12:11:54 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -154,7 +154,7 @@
         "published": "Thu, 22 Oct 2026 12:53:24 GMT"
       },
       {
-        "title": "\"OG Schaefchen\" kauft sich Niki Laudas ehemaligen Mercedes zum Schnäppchenpreis - Autobild.de",
+        "title": "\"OG Schaefchen\" kauft sich Niki Laudas ehemaligen Mercedes zum Schnäppchenpreis - Auto Bild",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3g1QXU3anN4M0tkYXotZWRDbTBUWlZER2M0U1FyNk5xYXpvUlI1aFRQWHFNYUxlZ2N4NEtPYWU0cFIzY0hNNEhsWVYybW8wNHc0OUVDQ3N2LUZkUUpkVGFFb3ZzWHlCU2s2eGpBRmVTRERfMEg2bTA1SmRxSGp0ZGtGVEc4STlCbUJzaGV2M09seFFERExBS19JQTA4aFVESEE?oc=5",
         "published": "Fri, 23 Oct 2026 15:11:00 GMT"
       },
