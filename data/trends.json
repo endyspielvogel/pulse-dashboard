@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T23:01:10.748765+00:00",
+  "fetched_at": "2026-10-25T23:32:22.557039+00:00",
   "countries": {
     "AT": [
       {
@@ -9,6 +9,10 @@
       {
         "title": "kim kardashian",
         "volume": "100+"
+      },
+      {
+        "title": "heute",
+        "volume": "2000+"
       },
       {
         "title": "antonelli",
@@ -35,54 +39,50 @@
         "volume": "200+"
       },
       {
-        "title": "blic",
-        "volume": "100+"
-      },
-      {
         "title": "brasilien wahl",
         "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "josh jacobs",
+        "title": "avalanche vs predators",
+        "volume": "1000+"
+      },
+      {
+        "title": "dazn",
         "volume": "20000+"
       },
       {
-        "title": "chris sorensen",
+        "title": "timberwolves game",
+        "volume": "500+"
+      },
+      {
+        "title": "ivica zubac",
         "volume": "1000+"
+      },
+      {
+        "title": "michael porter jr",
+        "volume": "200+"
+      },
+      {
+        "title": "day'ron sharpe",
+        "volume": "200+"
+      },
+      {
+        "title": "chris sorensen",
+        "volume": "2000+"
       },
       {
         "title": "pistons vs 76ers",
-        "volume": "10000+"
+        "volume": "20000+"
       },
       {
         "title": "atlas - puebla",
-        "volume": "5000+"
-      },
-      {
-        "title": "jahmyr gibbs",
-        "volume": "2000+"
-      },
-      {
-        "title": "cisse packers",
-        "volume": "1000+"
+        "volume": "10000+"
       },
       {
         "title": "atlético nacional - medellín",
-        "volume": "1000+"
-      },
-      {
-        "title": "david moulton",
         "volume": "2000+"
-      },
-      {
-        "title": "penei sewell",
-        "volume": "1000+"
-      },
-      {
-        "title": "balon de oro 2026",
-        "volume": "200+"
       }
     ]
   }
