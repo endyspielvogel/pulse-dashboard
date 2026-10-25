@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-25T05:59:41.961817+00:00",
+  "fetched_at": "2026-10-25T06:32:04.799318+00:00",
   "brands": {
     "McDonald’s": [
+      {
+        "title": "McDonald’s eröffnet am 3. November im Patertal - Der Ybbstaler",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFMdzR1WVlfYzMzZGN1RWNfd1NzU1NwU0pmSTZ1MUdSRk15QzdncFI1Sk56VVFPVzVwbWd6R1d3amg5MTRYTG85U2pvY18xNjgyTDA2elh2NDg2SlZadW9ZMGdJNzVCRHNpTDFkSnRwbUxfTVJnX2taakR2QjdUaENqcw?oc=5",
+        "published": "Sun, 25 Oct 2026 06:02:17 GMT"
+      },
       {
         "title": "McDonald's Aktie Prognose 2026 & Kursziel - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUNyQWhGT2tiS2k2aURVZTNlSndKNHJxTW16X2c5M0hKYXlmalNSMHNpZFRPLTV2ckRFYTUtaTR4OGhCajVsWFVpbTVZZXJzbWhxMmlNVVhwYWN5QjVLM3p6aHJRNVNpMXliQzB1TXhrX1Q0alFNSXlBbVhHNGI1VkdrSQ?oc=5",
@@ -36,11 +41,6 @@
         "title": "Megatrend Folger: McDonald's – startet jetzt der historische Turnaround? - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2R6a0V3R0RnbzQxcFN1WUJsRW5FMkg0TUFxVHMyNF9ZUTRha0ZjT1ZfMzBNbGtCa1lKa2xaRmtzSUhjLVNOTGVkWWJwQ3cwNFFWMmNUUzY4V0NEeEVuQzF0WmxpZzZpZHdtbzR0WVFJWHNXZ25NN0ZSSFlpdzNySUlNejdyYlViTXVCbzY3TWE0Tnk2UDZ2VkhMSnRwWE5rei14TlJJMzlQbnM5bHRDVlVEQkl6a3B5TEJKWjFLaXUzZw?oc=5",
         "published": "Fri, 23 Oct 2026 06:40:00 GMT"
-      },
-      {
-        "title": "McRib doch nicht vor Aus? Wende bei McDonald’s deutet sich an - DerWesten",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWtRd3JmRVpLODRuM2RvbUtqX2NfVzhQZ0pjQ29OZUpDVVF2bDV5dEdkb1hUS0poVExkaFltdzY0b1h0cVlMMkI2Nmg1X29vank0UmYyQjB6V3ZPQXJpNHo5UnlvY0RTbHlmcUZtRGlyeUJKeFZMd19UR3NNLWd5MFdzTVFTLWQxWVF1bU9VY3dWUQ?oc=5",
-        "published": "Sat, 24 Oct 2026 17:57:08 GMT"
       }
     ],
     "Burger King": [
@@ -75,14 +75,14 @@
         "published": "Fri, 23 Oct 2026 11:58:34 GMT"
       },
       {
+        "title": "Zwischen Kultstatus und Gleichgültigkeit: Abschied vom McRib naht - Come-on",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWndIeHNaX0FNVXlyZno2d3NDTkxXR2FCQkVNay0yT0EtZC00TDd0b0puVHdkakd1UGR1RXJ2VlJOMThYMk5vUmRERy1sQzJTbmZJYzdoMUxRbjZ1c3hTcC1Qa29YZVg5TGVRRnNEZlAzWG1WWDZNUDJpellYQ21iZEVVTU9nT2FjMEJtV0Q3SUc5RnRtM0hEdngxTk1LUmFvOV81c3JUT3NDRkQ3dlNuWmVEZlpmZ19OaENRSXJVMA?oc=5",
+        "published": "Sun, 25 Oct 2026 04:30:00 GMT"
+      },
+      {
         "title": "NXT vs. AEW: Wednesday Night War kehrt für einen Abend zurück – Crown Jewel: WWE hält trotz Sicherheitslage an Riad fest – Zwei Termine für die John Cena Classic im Gespräch - Wrestling-Infos.de",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93UHp1azJkc01wUGxPQ2dJMS1ObGIzNjQycTlmaWFJU0RyeUZVVmxLMlBZV19BYXdZTGIyTmNuRVJuUlZtR3JMMElOWW5CMDBVSlRGTA?oc=5",
         "published": "Fri, 23 Oct 2026 12:34:29 GMT"
-      },
-      {
-        "title": "Zamp-Aktie: Zamp schloss 13. Debenture-Emission ab - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWpyUW15M3hpcFZwaFpOSVQ3MnY5Y0VkcTk0NG1RRkRfRGFVTHNLYWpzeGNhRE4yX2k5TUVwdWtNMF9faDNHUnU2QU1sSzlLakZDS3hUUW10RlZuUWQ5UXFnMDcwWllOX3lNcE1PX1BWYzkwTUVlVHJyaUpyRkltNFk4ZE1sVHVYQ01vSVdxXzRTNkhYMnkzbEZlZVBERHg2MDdyMFl4U1ZzXzQ?oc=5",
-        "published": "Sat, 24 Oct 2026 22:09:16 GMT"
       }
     ],
     "Omnicom": [
@@ -102,19 +102,19 @@
         "published": "Fri, 23 Oct 2026 07:12:00 GMT"
       },
       {
-        "title": "BOTSI®-Advisor Abstufung Omnicom Group von Rang 354 auf ... - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWJhY1NwVVp1N0RVTFh1OUlaWXY1T3ZxOVdYSGtVelB1SVYydFpEeG1mcUR0VzRDZVVuRUFkWkQzSmJMRE5SU3gzRGVZelk1VG9Zbkc1MnZfYWpxaXZOVm5hczlYLXB3MzhKeWNicGljSldwNWFlQUhyalNRbVcwSGVVMWZXT0lpOGR3eDIza2EtLVk2TXNXM2s5bWVtMWF4WXQ00gGjAUFVX3lxTE81YmFjU3BVWnU3RFVMWHU5SVpZdjVPdnE5V1hIa1V6UHVJVjJ0WkR4bWZxRHRXNENlVW5FQWRaRDNKYkxETlJTeDNEZVl6WTVUb1luRzUydl9hanFpdk5WbmFzOVgtcHczOEp5Y2JwaWNKV3A1YWVBSHJqU1FtVzBIZVUxZldPSWk4ZHd4MjNrYS0tWTZNc1czazltZW0xYXhZdDQ?oc=5",
-        "published": "Sat, 24 Oct 2026 05:40:00 GMT"
-      },
-      {
-        "title": "Omnicom Group., Inc. : Goldman Sachs bleibt neutral - MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVNeEVzR2pDTkU4SGRWWF9GRFg2eThWdG5IWEx5bTBTZjJUZV9IUngwYWdHR3JQeWZ3WEhVbDhBSFVZOEROZXY2ZGVINW0zbEZQc19XMUlhYWdEdzBxcE9tbW4zRkQ1TW0zc3M3dkhvVFcxUDlSZC1qQUFLd2V2RWxLX1F0V2xtS3VZdGltWDV6WVJyVk9fT2dfX0VHOUZ0Z1g3bjZlVmU4ZDBreFhZMzRR?oc=5",
-        "published": "Fri, 23 Oct 2026 12:17:47 GMT"
+        "title": "Omnicom Group., Inc. : Morgan Stanley bekräftigt seine neutrale Bewertung - MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWndvcW5YendXS2ZFcGhPb2JGTWRzaG85dHFhOFlmOVFGdkhfVGRqcXRnSnh0dldtSkZEMXEzdUdPRnVmUUJwT1RpdU5maHY3NTQzdEQ4eDJvcmlLejEtMTJXQlVfa2RqSzd1eFQyZmJXTFE3Yl9MV0N2SmFfWWhaRW1KY25xS3BqN2xpdmdKNTRhMWU2Sk1VSldmNVNWcmhFdEhqZVpPaXBmRlhiTGZMNEZ0ZFR2VEZseDZXTkV1RGs1dUR2UGhyUmNZZUdYeWVq?oc=5",
+        "published": "Fri, 23 Oct 2026 11:09:10 GMT"
       },
       {
         "title": "Coca-Cola betraut Omnicom mit dem Media-Etat in Nordamerika und hält global an WPP fest. - turi2",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdBeDZnd0h0SC1wNjg0TEk4dXlGVjk1cVhjcXZyTEt5ZGY5Z2Q2T0JXbTVVN3N0MXlVRHZqRFlxOWlXRVFFOTJNWklvQnpULVdQWHJtSUF1eExKSWkwUk9tX2lJSmFJWWVySEJDYnhLZXBUWFlnOVFLMjhEblN2dUFrZE0tUjBBM3RBWXVIRVpaampKV0M4YWl2V1REcTBlWHRQMWRBQWp3ajdwbkk4dG04a1o5YWNkdkE?oc=5",
         "published": "Fri, 23 Oct 2026 09:27:00 GMT"
+      },
+      {
+        "title": "Omnicom Group., Inc. : JPMorgan Chase-Empfehlung weiterhin neutral - MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeVdPTFgyMEhkYzZxLUN2RWIwdGZPZE9zZGVvNldaaFFuelEwNHUxWms0V0hScFhPbUVFSGtkSk9EUy1RWS05RFBkaHo2SlJHS3F3UTRES1Z0Sll3VTdhck5OMzlvajlabGhqMFhqSUFydTRPb1J0LVVwbHNGTTJNUlUyd3BtS05fc0h0cmw0RXBNSnpRbWl6ZmRTSWRmVGc4MmIyZ3BWUFFJS0lvVXBCUVVGMFNQWTRTQXhSRzZBWWNhVlA3clE?oc=5",
+        "published": "Fri, 23 Oct 2026 11:08:54 GMT"
       },
       {
         "title": "Börse New York in Rot: S&P 500 zeigt sich zum Handelsstart schwächer - finanzen.ch",
@@ -134,6 +134,11 @@
         "published": "Sun, 25 Oct 2026 00:58:25 GMT"
       },
       {
+        "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
+        "published": "Sun, 25 Oct 2026 05:55:06 GMT"
+      },
+      {
         "title": "Unerwarteter Auktions-Flop: Dieser Traumwagen von Mercedes findet keinen Käufer! - Auto Bild",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkZteEJ3XzNjdnFhY2ZJMV9FVHVEZnMtdHZhZU04dVRPOUZRRlhEZlhpQWZqRnh6WFU1N0dqQm9ZX0h1Wm9VMUtBM3RUYWxDSTRYRTRiN0FDZTBxc3I4OWRXT3VhZVB0M085UjBsWnV5UXhjaGxFMGkwUzFfT3lCQzhQYUE1bzF4UlR5ZVlobw?oc=5",
         "published": "Sat, 24 Oct 2026 19:14:00 GMT"
@@ -142,11 +147,6 @@
         "title": "Mercedes-Benz AMG ONE – Verbrauch nach Norm und in der Praxis - Autohled.cz",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kSUhpMU5IcFhXNWlrY0wtel9weXFfX0xtTDNMOWNpUTBBTVZ5UW5LdE9HaXFJV0FBSk9JNnVvdjJFcjZicV9CSGljVmQ2UERVR1NJTUhWRlJWZks5dDdtaVhrU0hZZ2pWX3Br?oc=5",
         "published": "Sun, 25 Oct 2026 04:27:50 GMT"
-      },
-      {
-        "title": "Mercedes-Benz CLA 250+ Shooting Brake [Test] - autorevue.at",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSG1fX2haTVI0Ui1HUTVMRmRydVdGTldQX1NMWVdDaXF5cWg5Uk9DMWxMems3Q04wMHR6WU83ZVNSbmhPMlF1YjBUQ3NfaGp1RnFaeHdnemVDdmN3MXpvM004MExUdVRaTERXSmNVMXJDVklFWnJuZkNKRGQ?oc=5",
-        "published": "Fri, 23 Oct 2026 06:10:00 GMT"
       },
       {
         "title": "Baden-Württemberg: Justizauktion bringt 2 Millionen Euro ein: Luxusuhren und Sportwagen versteigert - tagesschau.de",
@@ -164,9 +164,9 @@
         "published": "Sat, 24 Oct 2026 02:23:41 GMT"
       },
       {
-        "title": "Mercedes-Benz Aktie: Margenziel-Kappung? - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFVLX0JxQVFleGd4S2lrLVFrSUkwWXU2YXRDaEJCdlRVb3Voa3hteW1Xd085NlRRWlJVaVFBdzZVUERwSDZrNFc5U1JleTdHSUFTYUdtT1NLWDZNSlZHTTBkV3R3TjRpdm5lY05INzdjdUg1Y1loUllWaTdiSEdZZmZlM04tV3ZhUEgzLWVnNmZDWHJh?oc=5",
-        "published": "Sat, 24 Oct 2026 00:48:06 GMT"
+        "title": "Mercedes will Zahl der Leiharbeiter in Deutschland deutlich senken - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJSMUI1RUFuZ09USmZUYXNmTmFEa01GdGpOcWlBc1Z2aElZZVNiTGo5RW5yak04bHZ0bTI2SmZIWmRsQVpMdlNGSVdPY0lrTTNXZHlEUEJUTndYdUxmUGZQTnROSkJHTkFTQmcyTWYxVFRkN242VnZCVGZBVkdFYWZIYloyUFA0WU5yWWd3TmtXZHNLQXBLZ1Y1bWdkck9BOHBoQkd4RXh3SnlObEtxN1ZB?oc=5",
+        "published": "Fri, 23 Oct 2026 10:09:29 GMT"
       }
     ],
     "Nvidia": [
@@ -230,29 +230,29 @@
         "published": "Sat, 24 Oct 2026 06:58:11 GMT"
       },
       {
-        "title": "Eurozone: Unternehmensstimmung trübt sich ein - Frankreichs Wirtschaft schrumpft - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemYyRVVmcGtPanhoZGk4S29lcnBnNXNEQjVJa01PaW5EdHFFdFd1c3FIbDZFY016MVk4S1QzZ0xEbnJlSkJQY08tSDdfaDc5Tm54dmNGV0ZwZEpaMElCNGQxUWF5LWNNSWlVcE0wV0FuemFaMmU1TkI1cmVoZVdqRUZMTWtsTUowSWVmMUcyaW5YRGVRWVhtTENaTzU4aVVRelJkZkVvbW44Y0w3VDc0dURQNmhwX2lMUkZiZVl30gHDAUFVX3lxTE1OUXJrUnZpOVZCaW1wcUhQUFdrMGc0ZExibzFzS1o1d1hwQm9DazBKWk96R2pUbmRYTlVGX1A1WWkxekNNd053SG0yYWUxc0xwa0puYmRoVFZvRDJfcHhtdGVnRWN4WG5seVJQZEVHTzF4eG5ldWJYSFVwT0llRU1VbHh2cGloMTJteExRc0djZlZqdEs3NHcyY1lMT1k2Sll5OGZPZWRtaEl4V1ZHVVhHWTNMNWxuVWpRWkYzWGhaQWltNA?oc=5",
-        "published": "Fri, 23 Oct 2026 08:23:00 GMT"
-      },
-      {
         "title": "Steht Südamerika vor einem neuen Rohstoffboom? - NZZ",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRpbmJZQmNicHBDSHNiaDBmSWNFRzVPbFNEb2twZlBldkVfTkJUbUdqSVQ4cWpjSWxaa3pZR051VWozN1FCcHJNWWdsSENmaF9vUnpIR3JqaHlsSmdUUHBpYmEzM3NDZjU4YnlfLWF2aWR1alQyQ3Vla2N1OTdOcDJTeXp0R1VlTE9XcmhPRXNiX3VFZmNydnhVdUY?oc=5",
         "published": "Sat, 24 Oct 2026 03:30:00 GMT"
       },
       {
-        "title": "Der Dax bekommt doppelt Druck - RND.de",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFNaWm5fMG9KbFNvUkY3S1lGZFd0R0Y1Sl9wYjJNS1V5VlIySUhIaFl0ZFpTdDlROVlkWEFVblJUaG1qZUJHT3RIb3dCblJYYlZQZmI5NENqeW1YbGZyYm1JQ2xfd1pxSEg3czJUVWFwZVBlOHZkX0w5WEdBaDgtQ0VmUzlabWM3ckxyVjJZemhKRVp4QnlVNU83NTNBM3RneGE5d0tZNA?oc=5",
-        "published": "Fri, 23 Oct 2026 12:35:13 GMT"
+        "title": "Cybersecurity-Aktien kehren zum Trend zurück - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDNjNWZIUE40SkIyMEZOVFVZMFlHQXl6Q1hOZzI3UWJyVzlfNW9ndko2UHh4Tl9zREVhTk1YNXkwb2RrSnlvNXJpb3ZnTy1UOUdQVmI4NTRmTk9wbl9aUmVWcnR0R1hVbkFmMDl1QnJMbGdMZE5vWWJhY2pCcW9LSGQwOUpsWHNZdVlsTjM5U0FfdlhuM0VNZHA5cktwUFhFeV8xWDlybC1nUlNJNlE?oc=5",
+        "published": "Fri, 23 Oct 2026 11:06:33 GMT"
       },
       {
-        "title": "Porsche SE, Mercedes und Co.: 63 Prozent Minus! Das sind die Aktien-Flops aus Baden-Württemberg - Stuttgarter Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc3hQYTM5dTRDSXZQM3VpRHI2dWxNMVBpSUgzUzRydDhwMjlZNGtHd3FmQnZDSU5aT1BSdl90OHR6TFVkc3FpbWc0RExrOW80RlpoTGgxRzcta3g1dHdJOFhTNGhrRkg4NzdhQVRUS0llSW9xZTFmUF9BX2I3aERwRGpLUzZveTJmcTVianBObGsyRTFGWGlkV2NnQkViMGF1NFJUa2JUdURVNk9ycnVBSWpiR1NZaGdTSFd6c0otY1BZZDRpajM3NkhDbEwwd1h0WjlXaWVheWU0X05jRHRSdDlHUW50UldqZnMtZQ?oc=5",
-        "published": "Sat, 24 Oct 2026 05:06:00 GMT"
+        "title": "Batteriespeicher und Strompreis: Was der Boom für Ihre Rechnung bedeutet - News.at",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmJ0SVJXMEx1U295MHEyMGY0cFlRTkNJbGlFWXR5d001TERXNjBsbmFaNE9YLUIwNzlCOWlmWjBmVkhJd0hkQ2JDZVZPcXpZWkVHei1LZUUtanJFclFBelA4dHROVGFERmJHTldFd0tBNTJVNkYtZXprU1hKTVNMaXRHU1RKWUNFazJyOHV1Q2hNcWhhVE5kcFhkeVlBVHVtUkE?oc=5",
+        "published": "Fri, 23 Oct 2026 10:10:00 GMT"
       },
       {
-        "title": "Schweizer KMU: Nur jedes vierte Unternehmen testet die Wiederherstellung aus Backups - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNS1HODk3R3h1WHBDWmxrOVRSY25veC1Pc2VzTmNPMjBCOXNzMDdLcU5WeldoOEpJUjFkVlZoT2J4d2hGZkxQMDc0VHRNMzJlRER2UmNSMk9wTEtnc2NnZ0xKeUp4Sldub1ZYb2ptQzZ4dVJ2XzVsOTdsZXZ3WTlHUnd0a3RlT1BUaUtrZ0xIOGpjUVBjTGFvVGNwNFc5TTdKYnhIWTFHRHNSaHM1RS1xUTNpU2lWVDRfZHE5bHh1U2tYSnJqWnVoa21B?oc=5",
-        "published": "Sun, 25 Oct 2026 02:22:34 GMT"
+        "title": "ROUNDUP/Eurozone: Schwache französische Wirtschaft belastet Unternehmensstimmung - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclNzUklQZnN5REphNFZfQ2pQeUZTVHlhVEFvamZIbnJqRmpyQUt2OVh4QkJyRU1WOElsMlltTjJGaVhfdkpTNkhjeHJ6eFowd3Q3emtOakhNaXNuM1FfZnl4ZllMVXhiaG83NndoNHp1cFhSbk1FVE1ZMV9yaVZaWm9NOWwzZTBMSElMNW1ac2tDUVZCSjV2RTliOTFfNlZSWEkzVUsyODlIMm12cDE4bGJBb051eFkwdWdZVkpBWkx2c1dwcGfSAcYBQVVfeXFMTnJTc1JJUGZzeURKYTRWX0NqUHlGU1R5YVRBb2pmSG5yakZqckFLdjlYeEJCckVNVjhJbDJZbU4yRmlYX3ZKUzZIY3hyenhaMHd0N3prTmpITWlzbjNRX2Z5eGZZTFV4YmhvNzZ3aDR6dXBYUm5NRVRNWTFfcmlWWlpvTTlsM2UwTEhJTDVtWnNrQ1FWQko1dkU5YjkxXzZWUlhJM1VLMjg5SDJtdnAxOGxiQW9OdXhZMHVnWVZKQVpMdnNXcHBn?oc=5",
+        "published": "Fri, 23 Oct 2026 09:48:00 GMT"
+      },
+      {
+        "title": "Fusion von Tesla mit SpaceX: Elon Musk findet es eine „gute Idee“ - Merkur",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTR0MzdsN19SUk1xb2FOa0x1dE5PejhvQUlCNU82R1Z2Zlc2QUxKZ3BmekY1UVhHemoyZVQ1M1htSnpNcnQyZ0dkcVhhZEQ4Y3pyTHp3ZWlOWmpmTXN1Tlh6X0d2Z0YwNUw5OFN4Q1BwdHVHLWR3VzlNdVlDSkNxNm04R2d6djZLYzZLaXJDak9kYVBQNnV6aGEzaTZzS1BtckxzaWpJTTczUWdjd1Q1Rmtn?oc=5",
+        "published": "Fri, 23 Oct 2026 09:45:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -275,11 +275,6 @@
         "title": "Streuplan: Kleine Missgeschicke auf dem Wanderweg - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3FRYi10bFJQMFRRNmJxSmhwUTd5ZDdzRUdIeERBMnljQTNzRmFzeW9LM1RGWm9lYjRuTHROdGFCdkdQY1pOZTlTenJLRFJ0Zkl5cWx0dWFSdXZRYk9PWUNMczhSckpOV1lfcXVSa2x6U1Q3anpHbkVERl9wUnRoUmJCRFJaUTBmdHQ2WQ?oc=5",
         "published": "Fri, 23 Oct 2026 13:18:51 GMT"
-      },
-      {
-        "title": "Higgsfield sichert sich frisches Series-B-Kapital von TCV und NVIDIA - Unite.AI",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEZyVEthMUFDdmVSMUhtWFNwWXg0M0NxNTVUUkNidTFUOVRnVUdGSTlmMWxjSF9wMXVwX2JmMDA2RE1VNEdhamJKS0VKVy1mSlZVTmp4LVByaGNQcC1QTmpYTjI5WVRCNkdldmUxT1IxNGpzYmU3a2xycnpWNjVqcEFvcnVwQnJhVW5lMTFZSQ?oc=5",
-        "published": "Fri, 23 Oct 2026 12:38:48 GMT"
       },
       {
         "title": "Quartalsbilanz: Omnicom erzielt nur noch 16 Prozent seines Umsatzes mit Werbung - Horizont.net",
@@ -331,6 +326,11 @@
     ],
     "Meine Aktien": [
       {
+        "title": "McDonald’s eröffnet am 3. November im Patertal - Der Ybbstaler",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFMdzR1WVlfYzMzZGN1RWNfd1NzU1NwU0pmSTZ1MUdSRk15QzdncFI1Sk56VVFPVzVwbWd6R1d3amg5MTRYTG85U2pvY18xNjgyTDA2elh2NDg2SlZadW9ZMGdJNzVCRHNpTDFkSnRwbUxfTVJnX2taakR2QjdUaENqcw?oc=5",
+        "published": "Sun, 25 Oct 2026 06:02:17 GMT"
+      },
+      {
         "title": "Nvidia-Chef löst Hype um kleinen KI-Roboter aus - Futurezone",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV25PWkwwdDN4NjZEN1BnVkREaE1KYlZIUGw5cUcxMTU0NWV2ZF9hVjBSOU91eTRBZGt1ZWo1S29zT084OEw3ZVBrRVF3UGo5UmJpVlRvSUdrNmd3TjNBNGQxU1E0QUJTQ291SUJIb2tGSEVmdDBMZFZ6WHJ0ejJya2hlT0ZibzVvd3A4T3VKSGtONlFzZXNURWtUMTBab19aeVZOQlFKQnBzbVJxNnhn0gG0AUFVX3lxTE4tN3VqdDRURWFtV0Y5Q1ozb2ZUOXB6QTlVR0dVb0p3WTY3aTQ0aHVLeFkzbmVxa1NQWkJVNlVsVHBGSS1WTmdldm94T1JTYXlZR0lvSC1FazFHSWtSSk56aE5zNFpQVlVGT0pLZW9xZXpuUm1sdFVxODBTRDFkT2lwT3hIOE51MVdBUWotR2Z6aWloRkhmZ0tVakRNeXZQSXZPMktTV1J4WVpaejNVMHYwZE5nUQ?oc=5",
         "published": "Sat, 24 Oct 2026 08:46:00 GMT"
@@ -341,14 +341,9 @@
         "published": "Sun, 25 Oct 2026 04:03:18 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Verrückt! - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44RmN5Yl92Y3VkdVBnSWlGWVVBbzN2andNYkFiR2RlNnVzblRDaFk0TXJQMFhMMkZZV2szVHhXTk56WEQ5NFRUbzRQVjMwZWpISFNXMjNtck52VklkWGdTVXRIdWxvRUNiUHcxY1VpRlNVWVAxVWZDVWRqZEpsSUU?oc=5",
-        "published": "Sat, 24 Oct 2026 15:25:46 GMT"
-      },
-      {
-        "title": "Nvidia im Verdacht: KI-Chips lagern, Gamer zahlen die Zeche - PC Games.de",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRURVeW9sZEt1dkNHNWNuTndBZUZ4MDM5TkVTVWNZQUgwU3l5bEF3RW1ZenNKNnpiWW0taUZ6REE4aWVESkdTSlA2MFRwelZUcXB0UDhHR29xNVdMUUlrNXJ3X2ppMl93MUFlbEU4aTJQYmxPM3dUTHZkaDF3Tko3aHVmeUpPbXI5SzZsRmwwNENTRUlpbFl2R2hQTnVRd1VBaVJlUA?oc=5",
-        "published": "Sat, 24 Oct 2026 11:30:00 GMT"
+        "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
+        "published": "Sun, 25 Oct 2026 05:55:06 GMT"
       },
       {
         "title": "Nvidia-Boss lässt Mega-Trinkgeld für Döner springen - oe24",
@@ -366,9 +361,9 @@
         "published": "Sat, 24 Oct 2026 15:50:00 GMT"
       },
       {
-        "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWpNR2ZBYWVDOTh6V2JNQ3V0am1WU3hnM2xOVTlGdURUQlZWX3EzMDh5YkxSVEhvdTRyV1FVWU5UanhXcDdERkY3MDBoLUs3eFV5NkllLVRjQzlwckN1dUM4SUM2aVJCVHJIdDNhejB4Y3pzRzh2Q3lWbXRZSlRpYnRzb1g2VDBIeWlVd1k1c2RzVmFXOFFMMnlCSmhHUTVicldaZHpCSEpiQ3BnaGR5Mk9lT1FPcXNYT0NfaEw1TmRVd3NWaDBz?oc=5",
-        "published": "Sun, 25 Oct 2026 00:58:25 GMT"
+        "title": "Nvidia im Verdacht: KI-Chips lagern, Gamer zahlen die Zeche - PC Games.de",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRURVeW9sZEt1dkNHNWNuTndBZUZ4MDM5TkVTVWNZQUgwU3l5bEF3RW1ZenNKNnpiWW0taUZ6REE4aWVESkdTSlA2MFRwelZUcXB0UDhHR29xNVdMUUlrNXJ3X2ppMl93MUFlbEU4aTJQYmxPM3dUTHZkaDF3Tko3aHVmeUpPbXI5SzZsRmwwNENTRUlpbFl2R2hQTnVRd1VBaVJlUA?oc=5",
+        "published": "Sat, 24 Oct 2026 11:30:00 GMT"
       }
     ]
   }
