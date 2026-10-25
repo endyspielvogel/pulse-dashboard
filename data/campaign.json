@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T18:51:24.391482+00:00",
+  "fetched_at": "2026-10-25T21:45:19.432173+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -27,14 +27,6 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Publicis names first CEO of Marcel as it becomes client-facing tool",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3pleWVKNk9tVERBMkN3RXNVQzVwXzR6ZzJfVHdoLXlpLWxVYm9iQ0lpQ1R0NEVLbGRpRDloYmNNalhla3hFQ0RleFhKNnZnVmtJb3RCQTNDWDlFbUtZZ1BTazBjQk9EbnFfVzQ4d1ZLeUFVWldvWjczOWZNdjVIWmZBYVNOeG55T1JuSmM2OGpQdWcwNldfcTJBYWpkRnpYZmJpZkRGbnJtanJzYVZTZW1kV3VKbU9Ic0pjWTNEMENnYUNnUjlvcm5lOXJzZw?oc=5",
-      "published": "22.10.2026",
-      "published_iso": "2026-10-22T12:56:46+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Review of the Week: Just Eat changes up the menu",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcV9lX09hTFlpYmtjOEluZVRzYlVHd2lLcDh2bUlzY0d1anRCWUdVeU4zMG9jdU9QMkc5MDB6REpvXzFscEFYeTM4TGxhNjNZOFVlZUFPSjJySElNYWw0dXB4Z0JlQTU2V1NDVlRnTWVaU1JBMXQtT0EySFZmYlpDUlFnc0pUWGRqZHRiaTdSTHVFdFMzVExpeThybjBvQi0zYUZPaWFQOTRER1EwUzFUa09kQQ?oc=5",
       "published": "22.10.2026",
@@ -51,10 +43,10 @@
       "source": "Campaign UK"
     },
     {
-      "title": "'A brilliant boss and strategist': a tribute to Jeremy Thorpe-Woods",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUpyR093aDNqUHJVYWxtWGpyc2pPdlM1b0FPbHhwVUx3cGdPMzN4Yi1fM0RULTZmOUZ1bVItakliTWVnejBDbmg0V1BwOXpjdWY5QzhJczNDRWkxQzR2NngwRE84MmRUWGRDTG56SHY4ME9hWUY0Wlp4T1JHOWVXMHRRNkdtZkdPTzlrcUdQMENEanhtYzRjNnpZNTRlcXhKVE5VdGVaTFEyVGtmU3k1cXJmenBBRHpDWnRBUkw0Z0luMmJPeVdrLUtn?oc=5",
+      "title": "Campaign Power 100 2026: Hall of Fame line-up",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWRicHBoU00tRXlNTlU5bHo2NGhkQ1M0UG95cjFaRHhPbFFhYncwc080YVhYSHZBaWRkSW1aaTdXUmhUOVcyN1l4cDJzUmM2V2pvbTJaa3B0OTczV3pkUUtUWk1CcEtfbmR2Y3JkbzZNZEVUSUZBY2lYb3k3LVhnRlJ3dnpDTFZic29nc2NOZWtmS1JjcjdsaHM2YVI3OW5GNDBoUkpsZnlMQ0ZpSkZJ?oc=5",
       "published": "21.10.2026",
-      "published_iso": "2026-10-21T10:08:31+00:00",
+      "published_iso": "2026-10-21T14:33:24+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -95,6 +87,14 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QS2hnQmgwZV9seGtacGNNRzVLb1c1YkxMMWxPSHd3ZFVwNFQ3Ym16azgxSWtEdElPb2U4WWxRYlhnY3B6ZC1Sa1M2emFULVRFNzFRTzJBcER3VW1vOUE?oc=5",
       "published": "06.10.2026",
       "published_iso": "2026-10-06T18:27:51+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Uncharted: staking out new territory with a trio of self-styled ‘girl geeks’",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUxTY2o1UXc4YnNaWVJLODBRZkRUT1ZqY3Y4SzZ4bHVIX19LTUtpbkotSkxHcG15WXY3UnNIdFpzNjlnTnlUX3hqcklldXBfQ05oTnRwTXpxS01HdWxCbG1TWDAtdVlmOFVHcFh3LWNyY3A3aFcwSnlSQThNWGtvRzZfU2xpeFFFd1ljYXFBamlQSmtEYjlnYmt0bjZfa1paeDhKZGlkQzA2VlVETmd0d3JmLWdrQkl4RWdVb3Q3X0l5c3kwbVNCRTBMeTMzMUR2UkxXQzZn?oc=5",
+      "published": "06.10.2026",
+      "published_iso": "2026-10-06T11:35:37+00:00",
       "description": "",
       "source": "Campaign UK"
     }
