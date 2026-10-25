@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T09:47:39.013300+00:00",
+  "fetched_at": "2026-10-25T12:56:14.308126+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -31,6 +31,14 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjkwVGU0UWNIbUgtdVpsUEJXSzE4RDRCQS1VX21BbExGS3pyaXRCRGZ3cHF4dEVqUUg2UUF1ZGlSTFI5X1I3dE9KSkkwT1NhVVNKQm90WnZlZF83QnpGY1VzZThtQ0JEci1XbVBHaVlTVG5Qc0RnV3JHb3NoV2VWTVRzcWJ6RWRjZHlRSV95X19Relh1RjJicE83OThhV2dDclJWakw3eFB6dGNMbHB2VXpUTDliWThPbHNJ?oc=5",
       "published": "23.10.2026",
       "published_iso": "2026-10-23T10:28:42+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Channel 4 names finalists for £1m 2026 Diversity in Advertising Award",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUswelY1ZUZHajZBZ19YUEUwODlmZjFWTXdsZjR0S2RDQVppS1U5RFk1SjQ5azVMaXRnenpXeE5DNS0zeF9xQnQwRlNxT2o2M0V0MmdhQmxkRkRKYjBacjhnTnRoWUx6S2tLRVo3dURjVHpJai11MDFBOVR3VkJvY3lUbERtNGxUejBpOGxobEdnOHBmUXg1SjQtbkVLOFg1b3NvZEJ2SlZKenZ4c0JzYmRVc0pvZVhKUnZtX2tRXzRqQzlXMnJSZWVRUU1NVGc?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T10:08:03+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN2lGeFI2aHVMOFcxSXRwdzgwUXZraUpQTUJwZk5xbHNEeXdXemRUcXdPdFpGQVJCUzBnZWVtdTF5MXJNc1NKbi1qbkdYMjFXeHpIMUZ5OExWZG4tZ0JSaURJNVlXVFh4VFZuU3Z0cHBGQ2RsNU9OTnVtNDBFSG1JSGxJSVVzeWJVdVgwaDZ2OVg5Y2w0TWdBTTFKX2pvM045RkhYUll2eEdSMDR3dEExV3d4dnh6X3A1alFBUVNxVXNHUQ?oc=5",
       "published": "22.10.2026",
       "published_iso": "2026-10-22T10:54:08+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Aldi and McCann Manchester part ways after more than 20 years",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaE1hc1JnSnY3a09ZTFU3V1NQa3ZRN3QzRDNQLXA4T0d0algwUVFKMV9JZTRMSkJublZ5V1lhanM2aDFfRHQtTFdUZFJQS01QZi13OWRkUnZtYmNOY09mWl9iXy1BWDNuUElHRDc4N2JmWHlZWUUtdDFRMjI1aFRKTWpfM2dkbXRXTENIdGRNYnVKNnJCeV9OektMSVpUOHBrNE9SNmJIc2FXVHk5d21RUFNtaGZBOEdyVVFfQnRocTQxX3RGRlE?oc=5",
-      "published": "22.10.2026",
-      "published_iso": "2026-10-22T10:44:08+00:00",
       "description": "",
       "source": "Campaign UK"
     }
