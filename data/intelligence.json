@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T09:00:05.106765+00:00",
+  "fetched_at": "2026-10-25T09:25:55.591408+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -33,14 +33,14 @@
         "published": "Sat, 24 Oct 2026 15:00:00 GMT"
       },
       {
-        "title": "McRib doch nicht vor Aus? Wende bei McDonald’s deutet sich an - DerWesten",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWtRd3JmRVpLODRuM2RvbUtqX2NfVzhQZ0pjQ29OZUpDVVF2bDV5dEdkb1hUS0poVExkaFltdzY0b1h0cVlMMkI2Nmg1X29vank0UmYyQjB6V3ZPQXJpNHo5UnlvY0RTbHlmcUZtRGlyeUJKeFZMd19UR3NNLWd5MFdzTVFTLWQxWVF1bU9VY3dWUQ?oc=5",
-        "published": "Sat, 24 Oct 2026 17:57:08 GMT"
-      },
-      {
         "title": "BOTSI®-Advisor Abstufung McDonald's von Rang 221 auf ... - boerse.de - boerse.de",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm9jZTYxNWNzUE10Wk5SRTc4em1CYlFxVkpKekRVdmw3VjJoRlRFN2RMUVd5a2VKMm4yc1M5bzRSZFM5bTROOEZwUUtkaUpNcVhhOTd4QlcwZkczdmFwUW4wNmtGcGV4d3E5Q1RqdnRxZFVHeERMSjJoMEVVVGxTT0xqVWFGTE5SWHZzWFh4UTlkcGVKM1JaR3ln0gGfAUFVX3lxTE1rbUVUcXNFbEM0WGtFN0V5THJDblV1ZHo0bV95MTNoemZPcGdJZ0xQZnRCajFnQm9yallFaWpnRHE0Tkp0cjRBRjNDajVuNHQzX0tROEFWOTUta3FBXzhrdlY3aldjVkpfeDZTci0xWjg4M2RzZkZ4ZF9ZZVFPdHlYVTVMU25IcG5ibTVjeC1yQy11NmRpVnRxTjd6VDdpMA?oc=5",
         "published": "Sat, 24 Oct 2026 05:21:00 GMT"
+      },
+      {
+        "title": "McRib doch nicht vor Aus? Wende bei McDonald’s deutet sich an - DerWesten",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWtRd3JmRVpLODRuM2RvbUtqX2NfVzhQZ0pjQ29OZUpDVVF2bDV5dEdkb1hUS0poVExkaFltdzY0b1h0cVlMMkI2Nmg1X29vank0UmYyQjB6V3ZPQXJpNHo5UnlvY0RTbHlmcUZtRGlyeUJKeFZMd19UR3NNLWd5MFdzTVFTLWQxWVF1bU9VY3dWUQ?oc=5",
+        "published": "Sat, 24 Oct 2026 17:57:08 GMT"
       }
     ],
     "Burger King": [
@@ -124,14 +124,14 @@
     ],
     "Mercedes-Benz": [
       {
-        "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
-        "published": "Sun, 25 Oct 2026 05:55:06 GMT"
-      },
-      {
         "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWpNR2ZBYWVDOTh6V2JNQ3V0am1WU3hnM2xOVTlGdURUQlZWX3EzMDh5YkxSVEhvdTRyV1FVWU5UanhXcDdERkY3MDBoLUs3eFV5NkllLVRjQzlwckN1dUM4SUM2aVJCVHJIdDNhejB4Y3pzRzh2Q3lWbXRZSlRpYnRzb1g2VDBIeWlVd1k1c2RzVmFXOFFMMnlCSmhHUTVicldaZHpCSEpiQ3BnaGR5Mk9lT1FPcXNYT0NfaEw1TmRVd3NWaDBz?oc=5",
         "published": "Sun, 25 Oct 2026 07:50:29 GMT"
+      },
+      {
+        "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
+        "published": "Sun, 25 Oct 2026 05:55:06 GMT"
       },
       {
         "title": "Summit Vans Matilda: Luxus-Camper auf Mercedes-Benz Sprinter AWD für lange Off-Grid-Abenteuer - Tuningblog",
@@ -149,6 +149,11 @@
         "published": "Sun, 25 Oct 2026 04:27:50 GMT"
       },
       {
+        "title": "Der Milliarden-Abgrund bei Mercedes: Konzernchef Källenius steuert die Auto-Ikone in den Ruin - InvestmentWeek",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHg1R2Q2WDRfQzc1MGZGWFFCQWdBUHhRY2hoTFBoeDlXLUN3TVYwMURnRjI2RjVURmh1cEJocElDQ1NCSXY2S2FKZVU5Y2Z0ekU3RHV4Mm9qR0duZVA4d0Vwa3hXUHVuQ3RYR3NvQ3Z0ZUNpbWxORGlIaTdKWGFoYzhSaWw0TWVrcTMzaC03cXA4WjJqQk1VWTFHRG15Qk5rcTdQUExUc2hySEFSNm1rRV9DTkREcHNFRFpvUGJ1U3d3QQ?oc=5",
+        "published": "Sun, 25 Oct 2026 09:00:00 GMT"
+      },
+      {
         "title": "Baden-Württemberg: Justizauktion bringt 2 Millionen Euro ein: Luxusuhren und Sportwagen versteigert - tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZHRPajNReFZlOTVGN1VnWHpBTkRycHUxc0ZDVU40b09DRmFiRVBpc3VNU1E4TW5CTUtaSGF3NlJseFZiTmRZZHdSM3AxOUg4U1VXQ1NNNWNCd3JvZGpINWtIYnpLN2ZQVF9uMU5lb19fcDU4QUVBSDFDQmVoM3VwbXZSS2FpOWZLUW5CTk9LSFRrejc1dFhGcTdHalYyczczTk1OMzhhTVBBdThzeUFjMDRoT1dnRGFmSkppOEI2dzFUdzU2SUo0UEg2cVJmQ0pJdlliNGhqSTZRR3JJZDBpc2phWHRPOXM?oc=5",
         "published": "Sat, 24 Oct 2026 16:35:00 GMT"
@@ -157,11 +162,6 @@
         "title": "Fotogalerie «Sternenregen – Humer, Granner & Co versteigert Mercedes-Sammlung in Feldkirchen (A)» - Zwischengas",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSV9LdGlNT21OYk5vVW5RZHhjOTIyNzExUjBpQWdTbG9ieWNUd3hRVEVRc2dIN2tKdVo0NDdfbElPMm5ld3BhWTNNem94d1dEcl9lYUtwOXVZWVpzcEIwUkh0SlZrZjBEbFUzV0JaOE16cm9zRTljVmtLbHJ1SkdTTU1qRkQ2bnY0cUNabWJTY1lTRjNMSnBTaHg1azdJYVI0Nm9vREdUek1tM3VMR0NGUnR2bXBmQWNmdnBBWWtxZEZYZjFr?oc=5",
         "published": "Sat, 24 Oct 2026 02:23:41 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Aktie: Margenziel-Kappung? - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFVLX0JxQVFleGd4S2lrLVFrSUkwWXU2YXRDaEJCdlRVb3Voa3hteW1Xd085NlRRWlJVaVFBdzZVUERwSDZrNFc5U1JleTdHSUFTYUdtT1NLWDZNSlZHTTBkV3R3TjRpdm5lY05INzdjdUg1Y1loUllWaTdiSEdZZmZlM04tV3ZhUEgzLWVnNmZDWHJh?oc=5",
-        "published": "Sat, 24 Oct 2026 00:48:06 GMT"
       }
     ],
     "Nvidia": [
@@ -176,9 +176,9 @@
         "published": "Sun, 25 Oct 2026 04:03:18 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Spektakuläres Kursziel! - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVdmNDktLXliYnpTdUNmcGhwOFByUE1qN0VXVUlBUkNGR0VkTVpGYXZURXlYNTdJNjNVQTBNbmZjRzJlTkVJNVcyYUtFWkR4ei0yZXQ4dlNwaE12bkRPR3NQUFNGUWh4M0xIV04zODdSYVpyZldaSzdYaUNsTWsyTmI0bkd5aFF1a0tFVlhrZDdOQQ?oc=5",
-        "published": "Sun, 25 Oct 2026 08:25:38 GMT"
+        "title": "Nvidia-Aktie: Verrückt! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44RmN5Yl92Y3VkdVBnSWlGWVVBbzN2andNYkFiR2RlNnVzblRDaFk0TXJQMFhMMkZZV2szVHhXTk56WEQ5NFRUbzRQVjMwZWpISFNXMjNtck52VklkWGdTVXRIdWxvRUNiUHcxY1VpRlNVWVAxVWZDVWRqZEpsSUU?oc=5",
+        "published": "Sat, 24 Oct 2026 15:25:46 GMT"
       },
       {
         "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
@@ -240,14 +240,14 @@
         "published": "Fri, 23 Oct 2026 09:48:00 GMT"
       },
       {
+        "title": "ETFs mit Rekordzulauf: Aber warum ist das Produkt so populär? - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFpDTnpJTkU2R2xtTjBLRi10bkoxTXNGTmxObmF3NU9yVmxmVVFxOXZ5YUpLV3hZSnhJdHVHRVkwVjhyY1hpb0pBTDZ0Z29yc2VlWl9ESjR2SXdaU2M0YzZkYzJFX19GSzdrUV9QOUtMNDBkd1BBZkhoam9TSHFYQzUxSkhUYlZfaUI0UHQyRFJ2Y3UyZ1BjN0hjdWUwNW9pbWJzVFQxMXVSZw?oc=5",
+        "published": "Sun, 25 Oct 2026 08:00:00 GMT"
+      },
+      {
         "title": "DRH Holdings (DRH) kann seine zweite Hauptversammlung nicht abhalten und muss mit dem Ausschluss von der Börse rechnen. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW1lRkVDU2owLVJsbDIyUXhUb2pDUC1FOGVqME5OX0FyM1BXTGV2WXEyTFVGcWUxMkMxY0laTUExaldKZkJiZVJFcDV5ekdYOFR0Y2w3amczZGg1RVd6dDhCbWFUSVM3RzhSdThTb19GYk9SOENQd2l2RXlBQ3lEZmFtdmxvNDl3THlBS3NIemhiU1dRS0ZVMk5aZzN1XzJ2SWpF?oc=5",
         "published": "Fri, 23 Oct 2026 23:12:36 GMT"
-      },
-      {
-        "title": "Fusion von Tesla mit SpaceX: Elon Musk findet es eine „gute Idee“ - Merkur",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTR0MzdsN19SUk1xb2FOa0x1dE5PejhvQUlCNU82R1Z2Zlc2QUxKZ3BmekY1UVhHemoyZVQ1M1htSnpNcnQyZ0dkcVhhZEQ4Y3pyTHp3ZWlOWmpmTXN1Tlh6X0d2Z0YwNUw5OFN4Q1BwdHVHLWR3VzlNdVlDSkNxNm04R2d6djZLYzZLaXJDak9kYVBQNnV6aGEzaTZzS1BtckxzaWpJTTczUWdjd1Q1Rmtn?oc=5",
-        "published": "Fri, 23 Oct 2026 09:45:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -336,9 +336,9 @@
         "published": "Sun, 25 Oct 2026 04:03:18 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Spektakuläres Kursziel! - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVdmNDktLXliYnpTdUNmcGhwOFByUE1qN0VXVUlBUkNGR0VkTVpGYXZURXlYNTdJNjNVQTBNbmZjRzJlTkVJNVcyYUtFWkR4ei0yZXQ4dlNwaE12bkRPR3NQUFNGUWh4M0xIV04zODdSYVpyZldaSzdYaUNsTWsyTmI0bkd5aFF1a0tFVlhrZDdOQQ?oc=5",
-        "published": "Sun, 25 Oct 2026 08:25:38 GMT"
+        "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
+        "published": "Sun, 25 Oct 2026 05:55:06 GMT"
       },
       {
         "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
