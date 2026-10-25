@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T12:29:35.201905+00:00",
+  "fetched_at": "2026-10-25T13:09:31.132667+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -23,6 +23,11 @@
         "published": "Sun, 25 Oct 2026 04:46:26 GMT"
       },
       {
+        "title": "McDonald’s Neckarau nach Sanierung wieder geöffnet - Mannheimer Morgen",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZE9SQU9LTWVmNW50eURZUWdaZXpGSFB1OFJncTNTcUFsZU1rMlBKU1RPVDlaMnhOcDdYQk5teW5aZENDR3cxZDZhSWZPVWxSbjVUak14amc3N016Yk1adk83Q2hWYnRQRlhiNlNIS1ltNzRFMVp0Qk5ZYjZpX01ZWHVEZWVMX3lURU9VZlF1c2VVQjdlY1lDWU9ld1RWYUowNkwtbzl0T0hIb05wRFJfNk92Q1ROTzFBa245TE50S0x1aDR4ei1BRnNDREM2Y3FHVmpObzRBRXJzYms?oc=5",
+        "published": "Sun, 25 Oct 2026 12:35:00 GMT"
+      },
+      {
         "title": "SU Vortuna Bad Leonfelden gegen TSV McDonalds St. Johann/Pongau - fan.at",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HejdZYTlaTkhnRzJCNGpDbGJEdWp4NEFZNDBmSmNqSkRfcTV2T0VNWk9IVmQ5R2J5SHdTMjVRX2dtanBYaUVhMW82X0MwN19sTUFDLUhNX0hFbnFiRmJJb043dHRPdDJxUTFZRjYtOFRtcHliN213dVhoRQ?oc=5",
         "published": "Sat, 24 Oct 2026 13:02:15 GMT"
@@ -33,22 +38,12 @@
         "published": "Sat, 24 Oct 2026 16:56:43 GMT"
       },
       {
-        "title": "WB246R | Call auf McDonald's von UBS | DE000WB246R5 | 16.06.2028 - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ubXNhLWc0N2NhWmZRZlpjQWxiekFoZEVuQ19TR2dvUUVYRkZIcXcyQk9MVmFrQXVGdnFaRGZSWTlxWVBibi1ZSHFsVzhPbjR5NkVNOVp2RjJfaFpET2pyMmM5dkZMVGRGQ1oyUWJB?oc=5",
-        "published": "Sat, 24 Oct 2026 12:50:26 GMT"
-      },
-      {
-        "title": "Warum es kein Problem darstellt, dass McDonalds, Microsoft und Google tokenisierte Aktien ablehnen - CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzYxX25XenRBOThYcDA2THlLRmxnNVRRRHVqMU04UFdsWG13WTUxekdmc1d2eVllVEprV01JMTRGbU1XR05GWGJaTS1lRXFFQXRUSEtaM1dXTkg5RWdqWEpIb2tfa2E0VWlKY0Jwd3dkXzkxMm51YUdfWHdJczFyX3R1X1dSb1E0TEN0S2JfQlBYcnlfUm82UUJDTnNfVFczLXhfY3lVc3ZidEctWkVzQnlPd1hHdFN5aF8xMGdOUXZicFRCaDZfRnd1RWs?oc=5",
-        "published": "Sat, 24 Oct 2026 15:00:00 GMT"
+        "title": "BOTSI®-Advisor Abstufung McDonald's von Rang 221 auf ... - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm9jZTYxNWNzUE10Wk5SRTc4em1CYlFxVkpKekRVdmw3VjJoRlRFN2RMUVd5a2VKMm4yc1M5bzRSZFM5bTROOEZwUUtkaUpNcVhhOTd4QlcwZkczdmFwUW4wNmtGcGV4d3E5Q1RqdnRxZFVHeERMSjJoMEVVVGxTT0xqVWFGTE5SWHZzWFh4UTlkcGVKM1JaR3ln0gGfAUFVX3lxTE1rbUVUcXNFbEM0WGtFN0V5THJDblV1ZHo0bV95MTNoemZPcGdJZ0xQZnRCajFnQm9yallFaWpnRHE0Tkp0cjRBRjNDajVuNHQzX0tROEFWOTUta3FBXzhrdlY3aldjVkpfeDZTci0xWjg4M2RzZkZ4ZF9ZZVFPdHlYVTVMU25IcG5ibTVjeC1yQy11NmRpVnRxTjd6VDdpMA?oc=5",
+        "published": "Sat, 24 Oct 2026 05:21:00 GMT"
       }
     ],
     "Burger King": [
-      {
-        "title": "Vegan-Trend: Burger King will auf pflanzliche Pommes umsteigen (Postillon TELEvision | Folge 51) - Der Postillon",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1SndSTm53NjhMWDJRWlR4NVV2Vk8xRF9rcGp0aFBTVm5VZ3V3aTV2X2cwZzJ5LTlpZG5mRGE1Vi1BQVR1ajltdWZuTTlRUC0weTE4VC10Y2NPZlRiNzV4em9KdmsxNnZxNDF3TURWcnVCOC1f?oc=5",
-        "published": "Fri, 23 Oct 2026 12:35:00 GMT"
-      },
       {
         "title": "Chick-fil-A-Chef stellt klar: Keine Öffnung an Sonntagen – das wird sich nicht ändern - kath.net",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8yRFdSMEQtRjB6ZlNseHZsTUJCLXVwSHo0UTIweW9PM3F2enRrYktubGJNMGRKXzk3OUd2d2tZZHU3RVdv?oc=5",
@@ -65,11 +60,6 @@
         "published": "Sat, 24 Oct 2026 03:40:00 GMT"
       },
       {
-        "title": "GTA 6 Burgers und Fried Chicken sind echt, kosten aber ihren Preis - games.gg",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVBlc29iTzdmN2xrNVVNTjN4bjQtaEg2S0J1akdKcmhFZ21wSVYyNEFMMWlCZkdSXzg1QjNqT1BYWW9SZWN2LTFhM1dWN1plMVUyQTZOVXNFdXhucUJZX05Tdk5GUElEQ0hNSkdGSW9CWXVnMGZmSm4wMHhvc3hkUlN4NHU2SHktU3dfTm5RREVwSlFSenl3?oc=5",
-        "published": "Fri, 23 Oct 2026 18:42:27 GMT"
-      },
-      {
         "title": "Zwischen Kultstatus und Gleichgültigkeit: Abschied vom McRib naht - Come-on",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWndIeHNaX0FNVXlyZno2d3NDTkxXR2FCQkVNay0yT0EtZC00TDd0b0puVHdkakd1UGR1RXJ2VlJOMThYMk5vUmRERy1sQzJTbmZJYzdoMUxRbjZ1c3hTcC1Qa29YZVg5TGVRRnNEZlAzWG1WWDZNUDJpellYQ21iZEVVTU9nT2FjMEJtV0Q3SUc5RnRtM0hEdngxTk1LUmFvOV81c3JUT3NDRkQ3dlNuWmVEZlpmZ19OaENRSXJVMA?oc=5",
         "published": "Sun, 25 Oct 2026 04:30:00 GMT"
@@ -78,6 +68,11 @@
         "title": "Zamp-Aktie: Zamp schloss 13. Debenture-Emission ab - ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWpyUW15M3hpcFZwaFpOSVQ3MnY5Y0VkcTk0NG1RRkRfRGFVTHNLYWpzeGNhRE4yX2k5TUVwdWtNMF9faDNHUnU2QU1sSzlLakZDS3hUUW10RlZuUWQ5UXFnMDcwWllOX3lNcE1PX1BWYzkwTUVlVHJyaUpyRkltNFk4ZE1sVHVYQ01vSVdxXzRTNkhYMnkzbEZlZVBERHg2MDdyMFl4U1ZzXzQ?oc=5",
         "published": "Sat, 24 Oct 2026 22:09:16 GMT"
+      },
+      {
+        "title": "GTA 6 Burgers und Fried Chicken sind echt, kosten aber ihren Preis - games.gg",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVBlc29iTzdmN2xrNVVNTjN4bjQtaEg2S0J1akdKcmhFZ21wSVYyNEFMMWlCZkdSXzg1QjNqT1BYWW9SZWN2LTFhM1dWN1plMVUyQTZOVXNFdXhucUJZX05Tdk5GUElEQ0hNSkdGSW9CWXVnMGZmSm4wMHhvc3hkUlN4NHU2SHktU3dfTm5RREVwSlFSenl3?oc=5",
+        "published": "Fri, 23 Oct 2026 18:42:27 GMT"
       }
     ],
     "Omnicom": [
@@ -99,14 +94,14 @@
     ],
     "Mercedes-Benz": [
       {
-        "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWpNR2ZBYWVDOTh6V2JNQ3V0am1WU3hnM2xOVTlGdURUQlZWX3EzMDh5YkxSVEhvdTRyV1FVWU5UanhXcDdERkY3MDBoLUs3eFV5NkllLVRjQzlwckN1dUM4SUM2aVJCVHJIdDNhejB4Y3pzRzh2Q3lWbXRZSlRpYnRzb1g2VDBIeWlVd1k1c2RzVmFXOFFMMnlCSmhHUTVicldaZHpCSEpiQ3BnaGR5Mk9lT1FPcXNYT0NfaEw1TmRVd3NWaDBz?oc=5",
-        "published": "Sun, 25 Oct 2026 10:05:07 GMT"
-      },
-      {
         "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
         "published": "Sun, 25 Oct 2026 05:55:06 GMT"
+      },
+      {
+        "title": "Autobauer: Exklusive Auswertung – So läuft die Modelloffensive von Mercedes - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYmhmVGN1MHJqaEx5OFRxS1J3Z3VCSklEa0tvNnRxcmc4WV9Ddk0taEtTakNxYTdBMFJGeWdlVHA5NFc3S0F6Q0owa1Q0ZDdpSlRZbFpEWkc0LTdMQUZpdWUyb3BiZUlySUxrdEZsOWVuUGFRV1lxY2RXQXNCVkxqcmdONERpdGtGSl8tcVdSR044TzZkTHpjNEIzTG1vQVpXcFl3cW8wOFJfbHF0OUQwQkh4eld1WklxSTdwZnB3WWdRYWNzRFhLXzZudDFBTmVYUWNhZzhB?oc=5",
+        "published": "Sun, 25 Oct 2026 10:49:00 GMT"
       },
       {
         "title": "Summit Vans Matilda: Luxus-Camper auf Mercedes-Benz Sprinter AWD für lange Off-Grid-Abenteuer - Tuningblog",
@@ -124,6 +119,11 @@
         "published": "Sat, 24 Oct 2026 19:14:00 GMT"
       },
       {
+        "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWpNR2ZBYWVDOTh6V2JNQ3V0am1WU3hnM2xOVTlGdURUQlZWX3EzMDh5YkxSVEhvdTRyV1FVWU5UanhXcDdERkY3MDBoLUs3eFV5NkllLVRjQzlwckN1dUM4SUM2aVJCVHJIdDNhejB4Y3pzRzh2Q3lWbXRZSlRpYnRzb1g2VDBIeWlVd1k1c2RzVmFXOFFMMnlCSmhHUTVicldaZHpCSEpiQ3BnaGR5Mk9lT1FPcXNYT0NfaEw1TmRVd3NWaDBz?oc=5",
+        "published": "Sat, 24 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "Mercedes-Benz AMG ONE – Verbrauch nach Norm und in der Praxis - Autohled.cz",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kSUhpMU5IcFhXNWlrY0wtel9weXFfX0xtTDNMOWNpUTBBTVZ5UW5LdE9HaXFJV0FBSk9JNnVvdjJFcjZicV9CSGljVmQ2UERVR1NJTUhWRlJWZks5dDdtaVhrU0hZZ2pWX3Br?oc=5",
         "published": "Sun, 25 Oct 2026 04:27:50 GMT"
@@ -132,11 +132,6 @@
         "title": "Der Milliarden-Abgrund bei Mercedes: Konzernchef Källenius steuert die Auto-Ikone in den Ruin - InvestmentWeek",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHg1R2Q2WDRfQzc1MGZGWFFCQWdBUHhRY2hoTFBoeDlXLUN3TVYwMURnRjI2RjVURmh1cEJocElDQ1NCSXY2S2FKZVU5Y2Z0ekU3RHV4Mm9qR0duZVA4d0Vwa3hXUHVuQ3RYR3NvQ3Z0ZUNpbWxORGlIaTdKWGFoYzhSaWw0TWVrcTMzaC03cXA4WjJqQk1VWTFHRG15Qk5rcTdQUExUc2hySEFSNm1rRV9DTkREcHNFRFpvUGJ1U3d3QQ?oc=5",
         "published": "Sun, 25 Oct 2026 09:00:00 GMT"
-      },
-      {
-        "title": "Luxusuhren und Autos: \"Größte Auktion in der Geschichte des Landes Baden-Württemberg\" - SWR",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzAzSVNGU09qZUYzU0R5UnY4ZlFKeW5abjJNYTNvOENVc1NDeEVPakFxZkhhZUR5R2pobDNUSmZTZG1XOWljUGdwQXZGamNTbGZ2Smk2eFAxOHhobGlUOGtpd2xwYURNajV0YjVJcHdsV2FOZ1p2WHhHSHVrMEtfTzh2Y0Nrazl6N2t3bzc0THB5LWFzRV9Pd1RXaGkxa0xZVEZ6Sll4Z19yYlpKSWJlLVJmR0MyUWc?oc=5",
-        "published": "Sat, 24 Oct 2026 16:35:53 GMT"
       }
     ],
     "Nvidia": [
@@ -149,6 +144,21 @@
         "title": "Nvidia-Chef löst Hype um kleinen KI-Roboter aus - Futurezone",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV25PWkwwdDN4NjZEN1BnVkREaE1KYlZIUGw5cUcxMTU0NWV2ZF9hVjBSOU91eTRBZGt1ZWo1S29zT084OEw3ZVBrRVF3UGo5UmJpVlRvSUdrNmd3TjNBNGQxU1E0QUJTQ291SUJIb2tGSEVmdDBMZFZ6WHJ0ejJya2hlT0ZibzVvd3A4T3VKSGtONlFzZXNURWtUMTBab19aeVZOQlFKQnBzbVJxNnhn0gG0AUFVX3lxTE4tN3VqdDRURWFtV0Y5Q1ozb2ZUOXB6QTlVR0dVb0p3WTY3aTQ0aHVLeFkzbmVxa1NQWkJVNlVsVHBGSS1WTmdldm94T1JTYXlZR0lvSC1FazFHSWtSSk56aE5zNFpQVlVGT0pLZW9xZXpuUm1sdFVxODBTRDFkT2lwT3hIOE51MVdBUWotR2Z6aWloRkhmZ0tVakRNeXZQSXZPMktTV1J4WVpaejNVMHYwZE5nUQ?oc=5",
         "published": "Sat, 24 Oct 2026 08:46:00 GMT"
+      },
+      {
+        "title": "Nvidia GTC Berlin 2026: KI, Datacenter, Greenpeace, Quanten, Robots, Autos und mehr! - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzhUZERIR1VqcFd2bm1sRG9uMWxocHlCcUVJZU01U25ubVJJckVSVkIyS2VGUGhvbjF2LXFmNUpXYVUtTFZMMWUyWC1UTXRRV2ZqbllsZ09rZzBuSkQwNm5BdHI1N1Z5RkI5UnVfenJxNkFqTXNwNFpGeGZkZkIwbHoySDQwMmpXNkI0cUl2OW5nbDdtTi1YSjA1eHpITUNqRzkyWklCZFBqb3lla3pOc0djOWY5d1dqTlpGckRyUzk5NThMWnhz?oc=5",
+        "published": "Sun, 25 Oct 2026 13:00:00 GMT"
+      },
+      {
+        "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
+        "published": "Sat, 24 Oct 2026 11:45:00 GMT"
+      },
+      {
+        "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlwWlduSlBnTXRDWnhka3B4U1g1emxrSTlfYkM0NnExd1pMcVEwbHpxQ1FuY3JkbThoMVBsTS1qMEQ5WUVwSzlERUZJTE81c3dsa0ZQRTgtWngtaW94OUJfSGtrNHE2dzBwVTFLcTdHNnR6em4wckZtWlVQaW9tb25EQy01MFRrNEVTbFYtVnNBMjhvZ2paQUhXbw?oc=5",
+        "published": "Sun, 25 Oct 2026 12:49:05 GMT"
       },
       {
         "title": "Während alle über OpenAI, Anthropic und Nvidia reden, verdient ein alter Bekannter im Hintergrund kräftig mit - GameStar",
@@ -164,26 +174,16 @@
         "title": "NVIDIA-Aktie schlägt Tesla, Microsoft, Palantir & Co: Die wichtigsten US-Technologiewerte von Dan Ives für 2027 - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2V6ajJhMS1PZHdpWkM1eFY3NC1kWVlIZFc3bFlLeE9ndGp4cUlrcldTVWo3dF90Nkw4amMxOUpuV0NBVExuSVdBT1E0LXI3U09iYU5CZXZpRlh1YWdOZGNwZjVWMVlkVDRBdVFFOERmb2VJMDNiWENzOFF1NjMwcXgyempMSThNYjBsaF9MUTFRbzdMZ003ak5Vcmo1cncxTk9IMGRRZEhWVDAtYUs4bkZGMXdKeUpQUjNPZTcyNEdvOUhoNkpZaGRrNkdkODRrQTlWVE1uN01Ga0dYaGxmWUlaQlNpTEU1Z25odmg0d2FHRW5LcVE4VTBpd01vLU1NUWJxWTlLTVhUNTJZVFRJMw?oc=5",
         "published": "Sat, 24 Oct 2026 21:41:00 GMT"
-      },
-      {
-        "title": "Nvidia Aktie: OpenShell nimmt KI-Agenten an die Leine - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbndHeEllTlVIcmJNQ2pkOWdfMU0zNmxySUhIRlBRS3N5dnotY2tHZEZFNTRhZjRYYlRDdFRLWk45TW9MdDFkQ0xYZHJMOVR0OU1Kd2Zvd25qNXZVUHpWUi1pTWhMTkJlZ2VvX2NkLVVsd25VdDVJRDhlbUpWR1djVVMwRC05Tkd4RGdyajBYOUk0Q3BBbFAxWkNUUFpQbkZqZ2lxazQ4OA?oc=5",
-        "published": "Sun, 25 Oct 2026 01:44:06 GMT"
-      },
-      {
-        "title": "Nvidia im Verdacht: KI-Chips lagern, Gamer zahlen die Zeche - PC Games.de",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRURVeW9sZEt1dkNHNWNuTndBZUZ4MDM5TkVTVWNZQUgwU3l5bEF3RW1ZenNKNnpiWW0taUZ6REE4aWVESkdTSlA2MFRwelZUcXB0UDhHR29xNVdMUUlrNXJ3X2ppMl93MUFlbEU4aTJQYmxPM3dUTHZkaDF3Tko3aHVmeUpPbXI5SzZsRmwwNENTRUlpbFl2R2hQTnVRd1VBaVJlUA?oc=5",
-        "published": "Sat, 24 Oct 2026 11:30:00 GMT"
-      },
-      {
-        "title": "SPIL baut Nvidia-Optik aus: CPO-Kapazität in Taiwan soll auf das 15-Fache steigen - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3BLSTQ3VWRGaHhXZkJZQjNPVDBhMGlhd3hNeWZJWFZ6QlBCUVVISE5nOU14OXp0NzNOeVJWSjA2RTd3YlNDQWY1T1lVd3NZX1o0VVR5TW1RekpTVFpDZEVKN0dJQ2ZCX0lQMU5STFRlN1l6TGt2U1JGSTJlZnZUeDVXbTRQM1dOcmdvVWRWcXFObG1EM3pTQ2hQeUYzMXhlMDUtM3JjVU5lMTJM?oc=5",
-        "published": "Sun, 25 Oct 2026 04:51:07 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
+      {
+        "title": "KI-Blase: Warum die Tech-Chefs vor einem Crash warnen – und was dahintersteckt - Kultur - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9DeFBCSm4xZm5WZ2RZNmJxbzAtUV8wU2YxWEJqb3dsV0VkTk82ajlFSnNYVXk0UU9Zemx4WGdEUzdUOTBLMlVEemFnc0dmczVERHhMRkd6ZHJLbFE4SndLNzVPczF2eVluVVhEd3JjbHZXUEJPQzQ5Znd3UlpsRWZNcWRJbGxsUU5JaVh6X2JyRU9FV1Jn?oc=5",
+        "published": "Sun, 25 Oct 2026 11:23:39 GMT"
+      },
       {
         "title": "Wie gefährdet sind die Aktienmärkte? Ist die Nervosität berechtigt? - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2xrN0U0bkZjRU1qeXByQkhNYVpPSjdRSS1hZ3djY3ZnQ3FfRG8yNEJLVkV2NDFpNVJsdVZVUjJycGdjdHZaRzdIdnN1Ukd0RTFNclpqdE5jZ2pVYjVhUXBwM0VQMllCLU9WazdOMVE3c3FMNTEyM0YtLWFOV0kzZnM3VzR6aUw1MVNNMW1KNzZDVmJmU3BUOEhnWm5fQnAwSWtfdlpJUWcxZzZJTzFNclU4NlhEdw?oc=5",
@@ -193,11 +193,6 @@
         "title": "Börse: Neunmonatszahlen und KI-Korrektur - Bock, Schaffhausen",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlFfSHJnM3pRRUxaS0lDUEFRU2w3dlZGWDRwcElpZ1ozeUlmNzN3UGRJNmozZU1xdnZRZWNleFBJU2Y5MFJQTHNwRmlsMmdmSkJJVnZXX3hvV2duWlIyNXNPTlhQLWpzT1p1T0VxU2tLUHhuUnVhN1gtRkNZUWg5enVHOGpXcFRoZzFULUVsWQ?oc=5",
         "published": "Sun, 25 Oct 2026 07:38:47 GMT"
-      },
-      {
-        "title": "Meta schockt SAP und Jenoptik nicht – die Not von Zuckerberg - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDkyUEtwUURIYll4VFpGcklHYnpPQktxVGFtR2NSSXBXVHJVR2tnY3NWaTRkaExlbUtWUXRVTGFaVVpZNXhZd0RzaS1MMU1Fb3lPWUo2ODl3cHZXUmNpXzBHV2dBLVdmcHNodjBmbjZPa0FsMmhmcWxpNy1fMm9hVnBxcjJpaHo0NDFYRmlSbHRoOC15Y2pMWWRDMmxwUU82SGh3Y0xuUUVsQVV1N004dV9vU2J3cjVuYjAxZHRQYw?oc=5",
-        "published": "Fri, 23 Oct 2026 13:07:27 GMT"
       },
       {
         "title": "Steht Südamerika vor einem neuen Rohstoffboom? - NZZ",
@@ -210,6 +205,11 @@
         "published": "Sun, 25 Oct 2026 08:00:00 GMT"
       },
       {
+        "title": "Warum Tesla zu SpaceX soll und Mark Zuckerberg mit Umzug drohte - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXpWdTN5dkhnX2ZCVnk1cmkzQXhlcWhRZGFLaGZCdnhRUGZ1QWpGZGpxNzFoSWFKNnZTS29MampVM3VCLTBSZjd4SGwzUldaN0dVbW94SXJyRVN1NHdDVjBYdHZQU2ZfeXN6b2xEVDBzLWdrcjNxZG5TeV9CYnR6LU9TSmNKckNIVm9QY0pZME9VaDIzYUJDREY5TW1XUVY5YWdaZW1OUUNCWDJ3SVRoR2dkS1RiZXBRYzJucEduQS1tdkNTRlg3T0x2dw?oc=5",
+        "published": "Fri, 23 Oct 2026 19:21:38 GMT"
+      },
+      {
         "title": "Wachstumschancen auch ohne KI: Das sind die nächsten 25 Börsenstars - WirtschaftsWoche",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTTBERnlyamZxNGFGQUZ3djhvazdibHl6MzhaZXFtRkN0NWhBc0VaZTNXb1ZlLTJKNHA5dFBIOEpUN3p6TW5NczZya25GdUM0TU5iOXVrNXh5VnlwMzRQbk1YZ2pnNWVsMUxVOWhwQzd5ZWVYZHo2NHdxREo2b01HeFpiZnFyOFgxdVd4eVlXVGhoTjloVnN5MXhYN0R3X2ozMU0yUXJDT3lRS0Q3ZE5SRzNYbS0wNnhDUVdv?oc=5",
         "published": "Sun, 25 Oct 2026 08:58:56 GMT"
@@ -218,11 +218,6 @@
         "title": "DRH Holdings (DRH) kann seine zweite Hauptversammlung nicht abhalten und muss mit dem Ausschluss von der Börse rechnen. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW1lRkVDU2owLVJsbDIyUXhUb2pDUC1FOGVqME5OX0FyM1BXTGV2WXEyTFVGcWUxMkMxY0laTUExaldKZkJiZVJFcDV5ekdYOFR0Y2w3amczZGg1RVd6dDhCbWFUSVM3RzhSdThTb19GYk9SOENQd2l2RXlBQ3lEZmFtdmxvNDl3THlBS3NIemhiU1dRS0ZVMk5aZzN1XzJ2SWpF?oc=5",
         "published": "Fri, 23 Oct 2026 23:12:36 GMT"
-      },
-      {
-        "title": "Experte warnt: Anleger stecken „fast sicher“ in einer KI-Blase - Börse Online",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnNNeTFCTnZsdFZ1Z0N6dWw3RlhzbnFnQU9aZE9jODBnLUtwdVFkdUlwVWc4TXpHazVqcmpKY19Bb1liR1JGLTVHeURoVW1qVFRiekZWSE1lSGNjRDFsNU5kMXB5ejJXcmQ3MnZRY0ZEY3hDNXgyVmliR2tjR0tiZnRsNnNSNk5tekVleVBoX2hYcWxBbENWTlU0d3RUbkh2czBvZUFUdi00US00NElSWUZmRzEyZFR0eklkZDFxbw?oc=5",
-        "published": "Sat, 24 Oct 2026 12:00:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -240,11 +235,6 @@
         "title": "Streuplan: Kleine Missgeschicke auf dem Wanderweg - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3FRYi10bFJQMFRRNmJxSmhwUTd5ZDdzRUdIeERBMnljQTNzRmFzeW9LM1RGWm9lYjRuTHROdGFCdkdQY1pOZTlTenJLRFJ0Zkl5cWx0dWFSdXZRYk9PWUNMczhSckpOV1lfcXVSa2x6U1Q3anpHbkVERl9wUnRoUmJCRFJaUTBmdHQ2WQ?oc=5",
         "published": "Fri, 23 Oct 2026 13:18:51 GMT"
-      },
-      {
-        "title": "Higgsfield sichert sich frisches Series-B-Kapital von TCV und NVIDIA - Unite.AI",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEZyVEthMUFDdmVSMUhtWFNwWXg0M0NxNTVUUkNidTFUOVRnVUdGSTlmMWxjSF9wMXVwX2JmMDA2RE1VNEdhamJKS0VKVy1mSlZVTmp4LVByaGNQcC1QTmpYTjI5WVRCNkdldmUxT1IxNGpzYmU3a2xycnpWNjVqcEFvcnVwQnJhVW5lMTFZSQ?oc=5",
-        "published": "Fri, 23 Oct 2026 12:38:48 GMT"
       },
       {
         "title": "Quartalsbilanz: Omnicom erzielt nur noch 16 Prozent seines Umsatzes mit Werbung - Horizont.net",
@@ -289,9 +279,9 @@
         "published": "Sun, 25 Oct 2026 10:22:11 GMT"
       },
       {
-        "title": "KI im Rangierbahnhof: Berkshire-Hathaway-Tochter integriert Technologie von Rail Vision - FinanzNachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcEFxMEE1eWRSN1pPVHlkd19ra2JwNlg5cUw2a2lEa0NlenNwa19sNlZzX3U4ZFN2Z0ZGUFBuX0xHUWVERkhwYWZra19BdFZTWWI1X2hqbERwd3FabDlwS0hRYkhMOU5pVVBqUUc2Ym1WS2p4SDB2UzQzZ0RVRFd3NFBTdHd2clRmS2ppVVE0R2ttSFBEeTFEMlVwVUMyUVNWbWR6Y0dTOEt0RnNlMmxtNFdpOV9TWmctOVppMnU0SXdnTGFSTmQzdnBJd2FSVS1na1RyM1FrakJmOHAxUy15bUt4SW5iYjk0OUJvUA?oc=5",
-        "published": "Sun, 25 Oct 2026 07:22:00 GMT"
+        "title": "KI und die Geopolitik: Experte sieht Demokratien bedroht - SRF",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFZ5T0NNemg5MGpWczBLdUM2WGMyN1VXMHZQbkZ1NGZ6akJGNS1xMERZSzBabDB5WUZTMnpYcjJKcFpLUlRPVm1yQXNWbmVmb1pScUJsckNIQVFfYVFrM1EteXNtM2U3dTFnSHNkbDhaU3ZqWUJVUkZacWE3a29RZko4T3FOODdLN0pOZEJGaExXRlBySVVyVm8yS1lJeG5NY2NWY2M3VTdjSm8?oc=5",
+        "published": "Sat, 24 Oct 2026 15:38:03 GMT"
       }
     ],
     "Meine Aktien": [
@@ -311,14 +301,19 @@
         "published": "Sat, 24 Oct 2026 08:46:00 GMT"
       },
       {
+        "title": "Nvidia GTC Berlin 2026: KI, Datacenter, Greenpeace, Quanten, Robots, Autos und mehr! - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzhUZERIR1VqcFd2bm1sRG9uMWxocHlCcUVJZU01U25ubVJJckVSVkIyS2VGUGhvbjF2LXFmNUpXYVUtTFZMMWUyWC1UTXRRV2ZqbllsZ09rZzBuSkQwNm5BdHI1N1Z5RkI5UnVfenJxNkFqTXNwNFpGeGZkZkIwbHoySDQwMmpXNkI0cUl2OW5nbDdtTi1YSjA1eHpITUNqRzkyWklCZFBqb3lla3pOc0djOWY5d1dqTlpGckRyUzk5NThMWnhz?oc=5",
+        "published": "Sun, 25 Oct 2026 13:00:00 GMT"
+      },
+      {
         "title": "Mercedes-Benz Aktie: Stuttgart und München zuerst! - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JuVDlTclhOMlFJVFdoMC05THc5MjEwWDE5cWdyZVlsQUtUSkh4VG9FVU91Vnp3OFNJUDJwQmpISHlES29HTDI5Z0tjYTBNMU8xanFzeTRDQkZDYXF4YkRKcjRhc3VuS2M1LVpJMUhwVDRoczZRZjRhNjZZcWoxYXc5cnpXTl93RElZbGl0UzJnOFdMVjd5WWZUTU0tMVhOdkNN?oc=5",
         "published": "Sun, 25 Oct 2026 05:55:06 GMT"
       },
       {
-        "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWpNR2ZBYWVDOTh6V2JNQ3V0am1WU3hnM2xOVTlGdURUQlZWX3EzMDh5YkxSVEhvdTRyV1FVWU5UanhXcDdERkY3MDBoLUs3eFV5NkllLVRjQzlwckN1dUM4SUM2aVJCVHJIdDNhejB4Y3pzRzh2Q3lWbXRZSlRpYnRzb1g2VDBIeWlVd1k1c2RzVmFXOFFMMnlCSmhHUTVicldaZHpCSEpiQ3BnaGR5Mk9lT1FPcXNYT0NfaEw1TmRVd3NWaDBz?oc=5",
-        "published": "Sun, 25 Oct 2026 10:05:07 GMT"
+        "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlwWlduSlBnTXRDWnhka3B4U1g1emxrSTlfYkM0NnExd1pMcVEwbHpxQ1FuY3JkbThoMVBsTS1qMEQ5WUVwSzlERUZJTE81c3dsa0ZQRTgtWngtaW94OUJfSGtrNHE2dzBwVTFLcTdHNnR6em4wckZtWlVQaW9tb25EQy01MFRrNEVTbFYtVnNBMjhvZ2paQUhXbw?oc=5",
+        "published": "Sun, 25 Oct 2026 12:49:05 GMT"
       },
       {
         "title": "Während alle über OpenAI, Anthropic und Nvidia reden, verdient ein alter Bekannter im Hintergrund kräftig mit - GameStar",
@@ -329,11 +324,6 @@
         "title": "NVIDIA-Aktie schlägt Tesla, Microsoft, Palantir & Co: Die wichtigsten US-Technologiewerte von Dan Ives für 2027 - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2V6ajJhMS1PZHdpWkM1eFY3NC1kWVlIZFc3bFlLeE9ndGp4cUlrcldTVWo3dF90Nkw4amMxOUpuV0NBVExuSVdBT1E0LXI3U09iYU5CZXZpRlh1YWdOZGNwZjVWMVlkVDRBdVFFOERmb2VJMDNiWENzOFF1NjMwcXgyempMSThNYjBsaF9MUTFRbzdMZ003ak5Vcmo1cncxTk9IMGRRZEhWVDAtYUs4bkZGMXdKeUpQUjNPZTcyNEdvOUhoNkpZaGRrNkdkODRrQTlWVE1uN01Ga0dYaGxmWUlaQlNpTEU1Z25odmg0d2FHRW5LcVE4VTBpd01vLU1NUWJxWTlLTVhUNTJZVFRJMw?oc=5",
         "published": "Sat, 24 Oct 2026 21:41:00 GMT"
-      },
-      {
-        "title": "SPIL baut Nvidia-Optik aus: CPO-Kapazität in Taiwan soll auf das 15-Fache steigen - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3BLSTQ3VWRGaHhXZkJZQjNPVDBhMGlhd3hNeWZJWFZ6QlBCUVVISE5nOU14OXp0NzNOeVJWSjA2RTd3YlNDQWY1T1lVd3NZX1o0VVR5TW1RekpTVFpDZEVKN0dJQ2ZCX0lQMU5STFRlN1l6TGt2U1JGSTJlZnZUeDVXbTRQM1dOcmdvVWRWcXFObG1EM3pTQ2hQeUYzMXhlMDUtM3JjVU5lMTJM?oc=5",
-        "published": "Sun, 25 Oct 2026 04:51:07 GMT"
       }
     ]
   }
