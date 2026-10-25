@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T14:24:35.793652+00:00",
+  "fetched_at": "2026-10-25T14:57:45.573456+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -63,11 +63,6 @@
         "title": "Zwischen Kultstatus und Gleichgültigkeit: Abschied vom McRib naht - Come-on",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWndIeHNaX0FNVXlyZno2d3NDTkxXR2FCQkVNay0yT0EtZC00TDd0b0puVHdkakd1UGR1RXJ2VlJOMThYMk5vUmRERy1sQzJTbmZJYzdoMUxRbjZ1c3hTcC1Qa29YZVg5TGVRRnNEZlAzWG1WWDZNUDJpellYQ21iZEVVTU9nT2FjMEJtV0Q3SUc5RnRtM0hEdngxTk1LUmFvOV81c3JUT3NDRkQ3dlNuWmVEZlpmZ19OaENRSXJVMA?oc=5",
         "published": "Sun, 25 Oct 2026 04:30:00 GMT"
-      },
-      {
-        "title": "Der erste Naterial by Leroy Merlin Store an der Algarve eröffnet in Alcantarilha - Portugal Resident",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenFINFVHNTlvUHdMV2RfUGxRZFIzendTbmpSR1NSaUtjdmtpV2RmbXEyc0RNNDV2MnctNGJBSmkwNTJpdXJVdWpLQjFuRTlfaTJMN0lYV0ptS0stT3AyQjE1TnZrTldXZWw5cXgyRWg1cW40ZDRxUWYwT1lKcU9UTWhHT2hkU2JfNmcwc0RVNWhHX3NVYWlST3dVbnVtMkVYTnJkbUFvZGZzR29UREt0Y1pB?oc=5",
-        "published": "Sat, 24 Oct 2026 15:46:28 GMT"
       },
       {
         "title": "Zamp-Aktie: Zamp schloss 13. Debenture-Emission ab - ad-hoc-news.de",
@@ -151,6 +146,11 @@
         "published": "Sun, 25 Oct 2026 13:00:00 GMT"
       },
       {
+        "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlwWlduSlBnTXRDWnhka3B4U1g1emxrSTlfYkM0NnExd1pMcVEwbHpxQ1FuY3JkbThoMVBsTS1qMEQ5WUVwSzlERUZJTE81c3dsa0ZQRTgtWngtaW94OUJfSGtrNHE2dzBwVTFLcTdHNnR6em4wckZtWlVQaW9tb25EQy01MFRrNEVTbFYtVnNBMjhvZ2paQUhXbw?oc=5",
+        "published": "Sun, 25 Oct 2026 12:49:05 GMT"
+      },
+      {
         "title": "Während alle über OpenAI, Anthropic und Nvidia reden, verdient ein alter Bekannter im Hintergrund kräftig mit - GameStar",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTU0clY1UXNjLV8xY2tDSS1PNzJxSWRBTlZCMWc1a3FlcWVFaXNzVV9qUlhuZWE3S0JFOXY5OHA3c3doSEdISUp2eWFSeEdYSG1IYWd2SXl5V3c1OTVXQU1VX1l1Z3pXZDZzS3gwNGxjU3d4Y0w3M2xfc1hGQTFOUklEWFI?oc=5",
         "published": "Sun, 25 Oct 2026 10:31:00 GMT"
@@ -159,11 +159,6 @@
         "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
         "published": "Sat, 24 Oct 2026 11:45:00 GMT"
-      },
-      {
-        "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlwWlduSlBnTXRDWnhka3B4U1g1emxrSTlfYkM0NnExd1pMcVEwbHpxQ1FuY3JkbThoMVBsTS1qMEQ5WUVwSzlERUZJTE81c3dsa0ZQRTgtWngtaW94OUJfSGtrNHE2dzBwVTFLcTdHNnR6em4wckZtWlVQaW9tb25EQy01MFRrNEVTbFYtVnNBMjhvZ2paQUhXbw?oc=5",
-        "published": "Sun, 25 Oct 2026 12:49:05 GMT"
       },
       {
         "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
@@ -175,14 +170,19 @@
   "topics": {
     "Wirtschaft": [
       {
+        "title": "Börse: Neunmonatszahlen und KI-Korrektur - Bock, Schaffhausen",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlFfSHJnM3pRRUxaS0lDUEFRU2w3dlZGWDRwcElpZ1ozeUlmNzN3UGRJNmozZU1xdnZRZWNleFBJU2Y5MFJQTHNwRmlsMmdmSkJJVnZXX3hvV2duWlIyNXNPTlhQLWpzT1p1T0VxU2tLUHhuUnVhN1gtRkNZUWg5enVHOGpXcFRoZzFULUVsWQ?oc=5",
+        "published": "Sun, 25 Oct 2026 07:38:47 GMT"
+      },
+      {
         "title": "KI-Blase: Warum die Tech-Chefs vor einem Crash warnen – und was dahintersteckt - Kultur - SZ.de - SZ.de",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9DeFBCSm4xZm5WZ2RZNmJxbzAtUV8wU2YxWEJqb3dsV0VkTk82ajlFSnNYVXk0UU9Zemx4WGdEUzdUOTBLMlVEemFnc0dmczVERHhMRkd6ZHJLbFE4SndLNzVPczF2eVluVVhEd3JjbHZXUEJPQzQ5Znd3UlpsRWZNcWRJbGxsUU5JaVh6X2JyRU9FV1Jn?oc=5",
         "published": "Sun, 25 Oct 2026 11:23:39 GMT"
       },
       {
-        "title": "Börse: Neunmonatszahlen und KI-Korrektur - Bock, Schaffhausen",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlFfSHJnM3pRRUxaS0lDUEFRU2w3dlZGWDRwcElpZ1ozeUlmNzN3UGRJNmozZU1xdnZRZWNleFBJU2Y5MFJQTHNwRmlsMmdmSkJJVnZXX3hvV2duWlIyNXNPTlhQLWpzT1p1T0VxU2tLUHhuUnVhN1gtRkNZUWg5enVHOGpXcFRoZzFULUVsWQ?oc=5",
-        "published": "Sun, 25 Oct 2026 07:38:47 GMT"
+        "title": "Wie gefährdet sind die Aktienmärkte? Ist die Nervosität berechtigt? - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2xrN0U0bkZjRU1qeXByQkhNYVpPSjdRSS1hZ3djY3ZnQ3FfRG8yNEJLVkV2NDFpNVJsdVZVUjJycGdjdHZaRzdIdnN1Ukd0RTFNclpqdE5jZ2pVYjVhUXBwM0VQMllCLU9WazdOMVE3c3FMNTEyM0YtLWFOV0kzZnM3VzR6aUw1MVNNMW1KNzZDVmJmU3BUOEhnWm5fQnAwSWtfdlpJUWcxZzZJTzFNclU4NlhEdw?oc=5",
+        "published": "Sat, 24 Oct 2026 04:00:00 GMT"
       },
       {
         "title": "Steht Südamerika vor einem neuen Rohstoffboom? - NZZ",
@@ -190,29 +190,24 @@
         "published": "Sat, 24 Oct 2026 03:30:00 GMT"
       },
       {
+        "title": "ETFs mit Rekordzulauf: Aber warum ist das Produkt so populär? - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFpDTnpJTkU2R2xtTjBLRi10bkoxTXNGTmxObmF3NU9yVmxmVVFxOXZ5YUpLV3hZSnhJdHVHRVkwVjhyY1hpb0pBTDZ0Z29yc2VlWl9ESjR2SXdaU2M0YzZkYzJFX19GSzdrUV9QOUtMNDBkd1BBZkhoam9TSHFYQzUxSkhUYlZfaUI0UHQyRFJ2Y3UyZ1BjN0hjdWUwNW9pbWJzVFQxMXVSZw?oc=5",
+        "published": "Sun, 25 Oct 2026 08:00:00 GMT"
+      },
+      {
         "title": "Warum Tesla zu SpaceX soll und Mark Zuckerberg mit Umzug drohte - FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXpWdTN5dkhnX2ZCVnk1cmkzQXhlcWhRZGFLaGZCdnhRUGZ1QWpGZGpxNzFoSWFKNnZTS29MampVM3VCLTBSZjd4SGwzUldaN0dVbW94SXJyRVN1NHdDVjBYdHZQU2ZfeXN6b2xEVDBzLWdrcjNxZG5TeV9CYnR6LU9TSmNKckNIVm9QY0pZME9VaDIzYUJDREY5TW1XUVY5YWdaZW1OUUNCWDJ3SVRoR2dkS1RiZXBRYzJucEduQS1tdkNTRlg3T0x2dw?oc=5",
         "published": "Fri, 23 Oct 2026 19:21:38 GMT"
       },
       {
+        "title": "Geldanlage: So funktioniert die Diversifizierung im Portfolio - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlY0NE9vajc1ZmlmWE1rYkkzUHRLTjJXZ3E5UnBiR3hiOEdCZDI2aXVLSFdSUTRHbHM0aHFtelF5YVFncHJod2VVVWhHNzBiNnB2QXJDWU84aERfOXhrNUxmckktSXpsdDVYSGs0bHhVelpuckUzNzJBei02RmhuTF9hUjNzM3g2UElBQl9ZTHBRZWZSSUFvVGdTSlczM2huUzRmZFZta0swS25CdXl3eA?oc=5",
+        "published": "Sat, 24 Oct 2026 08:00:00 GMT"
+      },
+      {
         "title": "DRH Holdings (DRH) kann seine zweite Hauptversammlung nicht abhalten und muss mit dem Ausschluss von der Börse rechnen. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW1lRkVDU2owLVJsbDIyUXhUb2pDUC1FOGVqME5OX0FyM1BXTGV2WXEyTFVGcWUxMkMxY0laTUExaldKZkJiZVJFcDV5ekdYOFR0Y2w3amczZGg1RVd6dDhCbWFUSVM3RzhSdThTb19GYk9SOENQd2l2RXlBQ3lEZmFtdmxvNDl3THlBS3NIemhiU1dRS0ZVMk5aZzN1XzJ2SWpF?oc=5",
         "published": "Fri, 23 Oct 2026 23:12:36 GMT"
-      },
-      {
-        "title": "Gold künstlich herstellen? US-Unternehmen meldet Durchbruch - sharedeals.de",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUN4RmJHTTNlbTRuMjdCNXFRWDI3b1ByNFIyUWtERDlhY2hZeTJkVE1pTkp3MExYV2xZRWRRTGo3cmJ6SjAxUFotUC13NnpLMnBvaWczS1VyWXdqaGFlbkhWNjRkYWNISXotbTN3SWJxdm1IdmNTZXpHb2tIaEZKUjY2MGg5NGRlQmN2bGEzbw?oc=5",
-        "published": "Fri, 23 Oct 2026 14:33:33 GMT"
-      },
-      {
-        "title": "Porsche SE, Mercedes und Co.: 63 Prozent Minus! Das sind die Aktien-Flops aus Baden-Württemberg - swp.de",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHNvWDhZTE1sYTBlbUd3MVozYmstREtNNWRURFAzUWl6SlVPc3hQVTZSQmpjdjgtbmhhXzJOVUE4YjkwMXdkS2UzZkI5a3RFRFRWREZOMGlCc25scGJjSmZNTDZwc3Y4a2ZLRGlhVG5UQTFBWHNFMEhBaEN4RHdkZW1XbkdGZkpFaUNBNjBpZ05OWGFVcjR6cUE2R3lFOFZTc1llQlc5YU80cWx1eklIUndVVkU1Zmp3aVg1Q2hXWjVxdndRR3BBSmZick1RaHpvTVE?oc=5",
-        "published": "Sat, 24 Oct 2026 05:06:00 GMT"
-      },
-      {
-        "title": "Kommunikation als Wirtschaftsfaktor: Treffpunkt der Unternehmer in Coswig - Die Sachsen News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUFpcnhVMVppaU8xdjZFdFhkRXdETDhDSXY2QU9xVVpNUE9jdnRZN0sxdHhDbnlRZE5IQTJLQkNPcTQtakh0TkIxVlpvekMydG92c21NUU9LdWozUGxOYWdNbG1yTFoxNkxYdDNwTHptekFpanROQmVzYVp0M2JmeThfZm93TmtxeHRDTG5IWEpFaFpnN2E2VW13SQ?oc=5",
-        "published": "Sun, 25 Oct 2026 08:14:36 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -220,11 +215,6 @@
         "title": "ChatGPT Werbung Österreich: 31 Märkte, Claude frei [2026] - shattered.io",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UXZwZjhtV2RaNEQ0ME1TSmVzUUpPUEx2Rk9sSUxOek9BbEFuMEEzMTJyU1E2Tlk1czIyU2FaQTNET2pwcVF2dWlPcjFxTWIzTVNJR1lrOU9tMnA4eWtIQld3R052by1VRC1VMWk0eFpzazJIT2RmX2M2a0Q4Q28?oc=5",
         "published": "Sun, 25 Oct 2026 09:14:17 GMT"
-      },
-      {
-        "title": "Emotionen pur: Dieser Merci-Spot bringt rührselige Werbung zurück in die Werbeblöcke - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVzJKUGFVcktVTHVmRUEzVUtYbXk2em5lbmxheU1Iam92dGpET3YxYnV4dDR1bDZUbUQzcExWRjZhNHpTRm1Ja0VtVzc3TDhzX3BnTmFMQ3FmNzMyVnV4dU1NXzVyd1I5RGF2UWxmem1qVGRmUWNpMmZvN2ZhX0hHVkplMmhpaV80X2IyOVJrWVdScmpOOGhoZFRJVy04YlJPcjVVRVEtV0Y4ZWViaFlSYU5fSWIxbm1wNC11dE1EcXYxbEhHRTlOVG4yaHZJZ0JxQ0RSUHphZw?oc=5",
-        "published": "Fri, 23 Oct 2026 14:42:47 GMT"
       }
     ],
     "Technologie & KI": [
@@ -234,14 +224,14 @@
         "published": "Sun, 25 Oct 2026 10:11:44 GMT"
       },
       {
+        "title": "Wie Europa seine KI-Unabhängigkeit retten kann – Bruno Giussani warnt - NZZ",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNeXVQZFUxMXVxSmdTaWg3U3BKdkppNXNWRVU0Q2tlbEFNMk9ia2hwVUFBMXQtSFRwNXFCYVNyZjZBbmE2OUNjalIxQmplVVNmUUd2ZF9BaC1kc3doWml3bDh2eXJYdGZkUXBJUXYwUlhGZy14OUhYY1lnLWpYSXFJSFVjNkFtbURiRThUai1majZLbGtoUGlzck43bHFYNzdCR1NPeWRfYkNJT0s2cko4UzJEbzBNU2VzNlVHcHdETDBBZWZJOUdCQW5ZaXBnTkhmbWhzel9tTDdlQWVudkcwX3psaTlxX2RJNklKc2d6ODIyZnh0RmFFa0ZBTzg1QURzNmsxWXRIaHU2cmp3OWpSVTh2cjh2WXB6RkQzcm1tTW1LREk2S2dmbDZqWlNvbWxZWWttLWc5TWlWVzFUYUh5cFNDUVVkTVl4RHZsX3ZOUnBZVlVLUFROdE5PeDFYZlVGbmlCNk9WaEZRM1U?oc=5",
+        "published": "Sun, 25 Oct 2026 14:10:49 GMT"
+      },
+      {
         "title": "KI im Beruf: 30 Prozent der EU-Beschäftigten nutzen die Technologie - BornCity",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXVuOWh5TnBBUzdFYmFRb1RqcVl2VWZsMzlLelg5N2ViLTd6dVZOLWNfdHA5aXlWOUtEN3lSdHVpSWgtWU00bHhWMF9IODJPS1RpellkV1BDRlFWU3V0Ulc3WndjazRIelRFU2UwbGNYR1hCa0N4aVhzelhtWXFoc2d5ZjBVdkNaV2ZqNkpDNXF5aFJNWGVkSDZ3?oc=5",
         "published": "Sun, 25 Oct 2026 05:54:04 GMT"
-      },
-      {
-        "title": "KI-Streit in Europa: EU-Tech-Chefs wehren sich gegen „Kapitulation“ - heise online",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFRka0YwWTItbWx4SUFfYjR2bWNhMXQ5OTNDZS1lWGxVWG1WLVVYb0RreW5UcG5BeTVnQ05iMGl6X0FFWWZLYVREdDBJaEpqaVRLSGsyZ29WaUp1OGlNUnVQNldyUzgtdmRUSUdjdDJtckExeTNBYi1zX2dVYkNuZUFFRUFjYjE3Rlk3SEFBVGUtcEN5QVlaWlZ4YTJEaXhVc0h0UlYycw?oc=5",
-        "published": "Sun, 25 Oct 2026 13:28:00 GMT"
       },
       {
         "title": "Wird KI die Menschheit auslöschen? Professor widerspricht - 20 Minuten",
@@ -249,19 +239,19 @@
         "published": "Sun, 25 Oct 2026 13:17:43 GMT"
       },
       {
-        "title": "Warum verbreiten Tech-CEOs die KI-Weltuntergangsszenarien? 6 Theorien - Watson",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSG1qS1llTzdKSkpBZG02TWdZMElyS0pCU0tQT0c0Ny1BZ01Mak4xR0ZUTmU2c1RHYVNVNHFBdGpqUG5lLWtkaFhhRUJTdGhjeVFWTnlvNlgwZE5SSGxjaE5PZDE2bjZwV2JDRm5UM0dESW9HM0dkWW5LMnVRd19KUjhCdWxaaS1FZVdDODUtT1FkQ1hMeTRqSlo3WndIZGFnQnczMVA1Z0MyT1U0RzAwVWtiQzNnVFNDcUhSaVdhRQ?oc=5",
-        "published": "Sun, 25 Oct 2026 03:48:21 GMT"
-      },
-      {
-        "title": "Wie Europa seine KI-Unabhängigkeit retten kann – Bruno Giussani warnt - NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNeXVQZFUxMXVxSmdTaWg3U3BKdkppNXNWRVU0Q2tlbEFNMk9ia2hwVUFBMXQtSFRwNXFCYVNyZjZBbmE2OUNjalIxQmplVVNmUUd2ZF9BaC1kc3doWml3bDh2eXJYdGZkUXBJUXYwUlhGZy14OUhYY1lnLWpYSXFJSFVjNkFtbURiRThUai1majZLbGtoUGlzck43bHFYNzdCR1NPeWRfYkNJT0s2cko4UzJEbzBNU2VzNlVHcHdETDBBZWZJOUdCQW5ZaXBnTkhmbWhzel9tTDdlQWVudkcwX3psaTlxX2RJNklKc2d6ODIyZnh0RmFFa0ZBTzg1QURzNmsxWXRIaHU2cmp3OWpSVTh2cjh2WXB6RkQzcm1tTW1LREk2S2dmbDZqWlNvbWxZWWttLWc5TWlWVzFUYUh5cFNDUVVkTVl4RHZsX3ZOUnBZVlVLUFROdE5PeDFYZlVGbmlCNk9WaEZRM1U?oc=5",
-        "published": "Sun, 25 Oct 2026 04:30:00 GMT"
+        "title": "Mistral- und DeepL-Chefs warnen vor KI-Kapitulation Europas - heise online",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFRka0YwWTItbWx4SUFfYjR2bWNhMXQ5OTNDZS1lWGxVWG1WLVVYb0RreW5UcG5BeTVnQ05iMGl6X0FFWWZLYVREdDBJaEpqaVRLSGsyZ29WaUp1OGlNUnVQNldyUzgtdmRUSUdjdDJtckExeTNBYi1zX2dVYkNuZUFFRUFjYjE3Rlk3SEFBVGUtcEN5QVlaWlZ4YTJEaXhVc0h0UlYycw?oc=5",
+        "published": "Sun, 25 Oct 2026 13:28:00 GMT"
       },
       {
         "title": "Er kündigte die Einrichtung eines Biosicherheitslabors an, in dem KI zum Einsatz kommt. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUVvRUUxODNFaFNwN1Q0M0I0b29QRnpJZk1iY2JJUFAtQVNJQU9BdWxVV0dxOG13a3VFQ1EtWWp6ZlZnTmhoVTRlMUl4WWlLV00xUXB2V0w2NGhsMG9sdS1xVHoxWXp5bXhubkIxZndYNloxY3ZUQXo2SnhUd1RKV0paMUxFOUg1NHhUNXl5dVZGZE55UXMySQ?oc=5",
         "published": "Sun, 25 Oct 2026 10:35:51 GMT"
+      },
+      {
+        "title": "Warum verbreiten Tech-CEOs die KI-Weltuntergangsszenarien? 6 Theorien - Watson",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSG1qS1llTzdKSkpBZG02TWdZMElyS0pCU0tQT0c0Ny1BZ01Mak4xR0ZUTmU2c1RHYVNVNHFBdGpqUG5lLWtkaFhhRUJTdGhjeVFWTnlvNlgwZE5SSGxjaE5PZDE2bjZwV2JDRm5UM0dESW9HM0dkWW5LMnVRd19KUjhCdWxaaS1FZVdDODUtT1FkQ1hMeTRqSlo3WndIZGFnQnczMVA1Z0MyT1U0RzAwVWtiQzNnVFNDcUhSaVdhRQ?oc=5",
+        "published": "Sun, 25 Oct 2026 03:48:21 GMT"
       },
       {
         "title": "KI: Moonshot bremst Hacking-Fähigkeiten des neuesten Modells - Handelsblatt",
@@ -296,14 +286,14 @@
         "published": "Sun, 25 Oct 2026 13:00:00 GMT"
       },
       {
-        "title": "Während alle über OpenAI, Anthropic und Nvidia reden, verdient ein alter Bekannter im Hintergrund kräftig mit - GameStar",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTU0clY1UXNjLV8xY2tDSS1PNzJxSWRBTlZCMWc1a3FlcWVFaXNzVV9qUlhuZWE3S0JFOXY5OHA3c3doSEdISUp2eWFSeEdYSG1IYWd2SXl5V3c1OTVXQU1VX1l1Z3pXZDZzS3gwNGxjU3d4Y0w3M2xfc1hGQTFOUklEWFI?oc=5",
-        "published": "Sun, 25 Oct 2026 10:31:00 GMT"
-      },
-      {
         "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlwWlduSlBnTXRDWnhka3B4U1g1emxrSTlfYkM0NnExd1pMcVEwbHpxQ1FuY3JkbThoMVBsTS1qMEQ5WUVwSzlERUZJTE81c3dsa0ZQRTgtWngtaW94OUJfSGtrNHE2dzBwVTFLcTdHNnR6em4wckZtWlVQaW9tb25EQy01MFRrNEVTbFYtVnNBMjhvZ2paQUhXbw?oc=5",
         "published": "Sun, 25 Oct 2026 12:49:05 GMT"
+      },
+      {
+        "title": "Während alle über OpenAI, Anthropic und Nvidia reden, verdient ein alter Bekannter im Hintergrund kräftig mit - GameStar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTU0clY1UXNjLV8xY2tDSS1PNzJxSWRBTlZCMWc1a3FlcWVFaXNzVV9qUlhuZWE3S0JFOXY5OHA3c3doSEdISUp2eWFSeEdYSG1IYWd2SXl5V3c1OTVXQU1VX1l1Z3pXZDZzS3gwNGxjU3d4Y0w3M2xfc1hGQTFOUklEWFI?oc=5",
+        "published": "Sun, 25 Oct 2026 10:31:00 GMT"
       },
       {
         "title": "NVIDIA-Aktie schlägt Tesla, Microsoft, Palantir & Co: Die wichtigsten US-Technologiewerte von Dan Ives für 2027 - Finanzen.net",
