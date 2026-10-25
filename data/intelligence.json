@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T16:25:41.020428+00:00",
+  "fetched_at": "2026-10-25T16:58:42.004011+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -141,14 +141,14 @@
         "published": "Sat, 24 Oct 2026 08:46:00 GMT"
       },
       {
+        "title": "Nvidia GTC 2026: Berliner Event enthüllt KI, Quanten und Robotik und fordert mehr Mut - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzhUZERIR1VqcFd2bm1sRG9uMWxocHlCcUVJZU01U25ubVJJckVSVkIyS2VGUGhvbjF2LXFmNUpXYVUtTFZMMWUyWC1UTXRRV2ZqbllsZ09rZzBuSkQwNm5BdHI1N1Z5RkI5UnVfenJxNkFqTXNwNFpGeGZkZkIwbHoySDQwMmpXNkI0cUl2OW5nbDdtTi1YSjA1eHpITUNqRzkyWklCZFBqb3lla3pOc0djOWY5d1dqTlpGckRyUzk5NThMWnhz?oc=5",
+        "published": "Sun, 25 Oct 2026 13:00:00 GMT"
+      },
+      {
         "title": "Nvidia Aktie: Huang sieht keine Speicherschwemme - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTRVTWlJQjlSelNMa0ZCWjF0bVBvTFNEeTI3cEpyeU9MbVlsMmZtZWN3cU5mUExNQTlHSFpJcGhLS25waEw0Y3RpcEd5OUtIUXUzUlpYOG40SmdtaWtRZjNxVEpCQThyb0kyQ3FNLXd6OXR1RlZNdmVibENiNXVUSjdCYnNJYk41Z2trckROVGs5a1ljMVRBYUVzVlh3X042?oc=5",
         "published": "Sun, 25 Oct 2026 13:16:07 GMT"
-      },
-      {
-        "title": "Nvidia GTC Berlin 2026: KI, Datacenter, Greenpeace, Quanten, Robots, Autos und mehr! - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzhUZERIR1VqcFd2bm1sRG9uMWxocHlCcUVJZU01U25ubVJJckVSVkIyS2VGUGhvbjF2LXFmNUpXYVUtTFZMMWUyWC1UTXRRV2ZqbllsZ09rZzBuSkQwNm5BdHI1N1Z5RkI5UnVfenJxNkFqTXNwNFpGeGZkZkIwbHoySDQwMmpXNkI0cUl2OW5nbDdtTi1YSjA1eHpITUNqRzkyWklCZFBqb3lla3pOc0djOWY5d1dqTlpGckRyUzk5NThMWnhz?oc=5",
-        "published": "Sun, 25 Oct 2026 13:00:00 GMT"
       },
       {
         "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
@@ -156,29 +156,24 @@
         "published": "Sat, 24 Oct 2026 13:57:26 GMT"
       },
       {
-        "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
-        "published": "Sat, 24 Oct 2026 11:45:00 GMT"
-      },
-      {
         "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlwWlduSlBnTXRDWnhka3B4U1g1emxrSTlfYkM0NnExd1pMcVEwbHpxQ1FuY3JkbThoMVBsTS1qMEQ5WUVwSzlERUZJTE81c3dsa0ZQRTgtWngtaW94OUJfSGtrNHE2dzBwVTFLcTdHNnR6em4wckZtWlVQaW9tb25EQy01MFRrNEVTbFYtVnNBMjhvZ2paQUhXbw?oc=5",
         "published": "Sun, 25 Oct 2026 12:49:05 GMT"
       },
       {
-        "title": "Nvidia im Verdacht: KI-Chips lagern, Gamer zahlen die Zeche - PC Games.de",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRURVeW9sZEt1dkNHNWNuTndBZUZ4MDM5TkVTVWNZQUgwU3l5bEF3RW1ZenNKNnpiWW0taUZ6REE4aWVESkdTSlA2MFRwelZUcXB0UDhHR29xNVdMUUlrNXJ3X2ppMl93MUFlbEU4aTJQYmxPM3dUTHZkaDF3Tko3aHVmeUpPbXI5SzZsRmwwNENTRUlpbFl2R2hQTnVRd1VBaVJlUA?oc=5",
-        "published": "Sat, 24 Oct 2026 11:30:00 GMT"
+        "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
+        "published": "Sat, 24 Oct 2026 11:45:00 GMT"
+      },
+      {
+        "title": "„Jedes Unternehmen wird ein KI-Unternehmen werden“ – Nvidia will Europas Fabriken erobern - WELT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0dkTU9lNFpNNUpQSHpGRkxla2ZiNHF6ZEdza3NMUUNKX1RVN3F1WjVLdXk4RWhSbmpiTWlXckhDaUgzbm5FMHM2Nnk4ODh6UHRrR2t6a2VrUkhYQTVaSllpN1lUUUdYdTUyVXM2NnZuTXdsTWdDRG9qY1ZZN1dIX0o3UTRfb0xreHN2YlloY29uNGl1TzdIVUlldGJwNEZjSzZhZzFVY1Jyc24xS014UUdaaEI4Xzk5VGVNaVd3M2s1RGc2MklYWllR?oc=5",
+        "published": "Sun, 25 Oct 2026 13:32:54 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
-      {
-        "title": "KI-Blase: Warum die Tech-Chefs vor einem Crash warnen – und was dahintersteckt - Kultur - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9DeFBCSm4xZm5WZ2RZNmJxbzAtUV8wU2YxWEJqb3dsV0VkTk82ajlFSnNYVXk0UU9Zemx4WGdEUzdUOTBLMlVEemFnc0dmczVERHhMRkd6ZHJLbFE4SndLNzVPczF2eVluVVhEd3JjbHZXUEJPQzQ5Znd3UlpsRWZNcWRJbGxsUU5JaVh6X2JyRU9FV1Jn?oc=5",
-        "published": "Sun, 25 Oct 2026 11:23:39 GMT"
-      },
       {
         "title": "Wie gefährdet sind die Aktienmärkte? Ist die Nervosität berechtigt? - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2xrN0U0bkZjRU1qeXByQkhNYVpPSjdRSS1hZ3djY3ZnQ3FfRG8yNEJLVkV2NDFpNVJsdVZVUjJycGdjdHZaRzdIdnN1Ukd0RTFNclpqdE5jZ2pVYjVhUXBwM0VQMllCLU9WazdOMVE3c3FMNTEyM0YtLWFOV0kzZnM3VzR6aUw1MVNNMW1KNzZDVmJmU3BUOEhnWm5fQnAwSWtfdlpJUWcxZzZJTzFNclU4NlhEdw?oc=5",
@@ -213,6 +208,11 @@
         "title": "Vom Börsenflop zum KI-Knaller? - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORUo1U1ZrbHpveFNPanR2ek5iY2JVOGR4Nk5MVndmTUdiMXF6RXNHUkU4ZzNFU2tuS19sUkwzVVFWYXUxZGtpaENIYnFGeHZnNlJETkNpZE9Yb1gxTC04U0p6YXc4Z2lmbVpzazk1d2tnMEg1ZkNIa1lQaERrMmxEUm5QUWJjUDFPMUExMGdpcVFjTG5UMmVROWRkbVphWWN5SXc?oc=5",
         "published": "Sun, 25 Oct 2026 09:33:08 GMT"
+      },
+      {
+        "title": "KI-Blase: Warum die Tech-Chefs vor einem Crash warnen – und was dahintersteckt - Kultur - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9DeFBCSm4xZm5WZ2RZNmJxbzAtUV8wU2YxWEJqb3dsV0VkTk82ajlFSnNYVXk0UU9Zemx4WGdEUzdUOTBLMlVEemFnc0dmczVERHhMRkd6ZHJLbFE4SndLNzVPczF2eVluVVhEd3JjbHZXUEJPQzQ5Znd3UlpsRWZNcWRJbGxsUU5JaVh6X2JyRU9FV1Jn?oc=5",
+        "published": "Sun, 25 Oct 2026 11:23:39 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -234,11 +234,6 @@
         "published": "Sun, 25 Oct 2026 05:54:04 GMT"
       },
       {
-        "title": "Wird KI die Menschheit auslöschen? Professor widerspricht - 20 Minuten",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVZMX3h6N2pKbzBQbUtSam43cHlhSHgyT0FRb19ZdHI3dFlFcWZzVk1Oek9OcGtWREJyOTBJU0M1cWlkeVh4WFJyZjNaVU03N1N0MXUyMUFnemxZR0JvQlVsc0ZiRmJkeTlfU1lfOTUyOEZHNUZGa1hrSkYwT2Y0Xy1iLWFPSzhKV3NBMXVlU2ItSHJkVGthU1NReUpWZw?oc=5",
-        "published": "Sun, 25 Oct 2026 13:17:43 GMT"
-      },
-      {
         "title": "Mistral- und DeepL-Chefs warnen vor KI-Kapitulation Europas - heise online",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFRka0YwWTItbWx4SUFfYjR2bWNhMXQ5OTNDZS1lWGxVWG1WLVVYb0RreW5UcG5BeTVnQ05iMGl6X0FFWWZLYVREdDBJaEpqaVRLSGsyZ29WaUp1OGlNUnVQNldyUzgtdmRUSUdjdDJtckExeTNBYi1zX2dVYkNuZUFFRUFjYjE3Rlk3SEFBVGUtcEN5QVlaWlZ4YTJEaXhVc0h0UlYycw?oc=5",
         "published": "Sun, 25 Oct 2026 13:28:00 GMT"
@@ -249,31 +244,36 @@
         "published": "Sun, 25 Oct 2026 15:24:00 GMT"
       },
       {
-        "title": "Er kündigte die Einrichtung eines Biosicherheitslabors an, in dem KI zum Einsatz kommt. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUVvRUUxODNFaFNwN1Q0M0I0b29QRnpJZk1iY2JJUFAtQVNJQU9BdWxVV0dxOG13a3VFQ1EtWWp6ZlZnTmhoVTRlMUl4WWlLV00xUXB2V0w2NGhsMG9sdS1xVHoxWXp5bXhubkIxZndYNloxY3ZUQXo2SnhUd1RKV0paMUxFOUg1NHhUNXl5dVZGZE55UXMySQ?oc=5",
-        "published": "Sun, 25 Oct 2026 10:35:51 GMT"
-      },
-      {
         "title": "Wie Europa seine KI-Unabhängigkeit retten kann – Bruno Giussani warnt - NZZ",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNeXVQZFUxMXVxSmdTaWg3U3BKdkppNXNWRVU0Q2tlbEFNMk9ia2hwVUFBMXQtSFRwNXFCYVNyZjZBbmE2OUNjalIxQmplVVNmUUd2ZF9BaC1kc3doWml3bDh2eXJYdGZkUXBJUXYwUlhGZy14OUhYY1lnLWpYSXFJSFVjNkFtbURiRThUai1majZLbGtoUGlzck43bHFYNzdCR1NPeWRfYkNJT0s2cko4UzJEbzBNU2VzNlVHcHdETDBBZWZJOUdCQW5ZaXBnTkhmbWhzel9tTDdlQWVudkcwX3psaTlxX2RJNklKc2d6ODIyZnh0RmFFa0ZBTzg1QURzNmsxWXRIaHU2cmp3OWpSVTh2cjh2WXB6RkQzcm1tTW1LREk2S2dmbDZqWlNvbWxZWWttLWc5TWlWVzFUYUh5cFNDUVVkTVl4RHZsX3ZOUnBZVlVLUFROdE5PeDFYZlVGbmlCNk9WaEZRM1U?oc=5",
         "published": "Sun, 25 Oct 2026 04:30:00 GMT"
       },
       {
+        "title": "Er kündigte die Einrichtung eines Biosicherheitslabors an, in dem KI zum Einsatz kommt. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUVvRUUxODNFaFNwN1Q0M0I0b29QRnpJZk1iY2JJUFAtQVNJQU9BdWxVV0dxOG13a3VFQ1EtWWp6ZlZnTmhoVTRlMUl4WWlLV00xUXB2V0w2NGhsMG9sdS1xVHoxWXp5bXhubkIxZndYNloxY3ZUQXo2SnhUd1RKV0paMUxFOUg1NHhUNXl5dVZGZE55UXMySQ?oc=5",
+        "published": "Sun, 25 Oct 2026 10:35:51 GMT"
+      },
+      {
         "title": "Warum verbreiten Tech-CEOs die KI-Weltuntergangsszenarien? 6 Theorien - Watson",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSG1qS1llTzdKSkpBZG02TWdZMElyS0pCU0tQT0c0Ny1BZ01Mak4xR0ZUTmU2c1RHYVNVNHFBdGpqUG5lLWtkaFhhRUJTdGhjeVFWTnlvNlgwZE5SSGxjaE5PZDE2bjZwV2JDRm5UM0dESW9HM0dkWW5LMnVRd19KUjhCdWxaaS1FZVdDODUtT1FkQ1hMeTRqSlo3WndIZGFnQnczMVA1Z0MyT1U0RzAwVWtiQzNnVFNDcUhSaVdhRQ?oc=5",
         "published": "Sun, 25 Oct 2026 03:48:21 GMT"
+      },
+      {
+        "title": "KI: Moonshot bremst Hacking-Fähigkeiten des neuesten Modells - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2Flc1VZNHJtYWNhd0pGZi1uTDJQV3k1VmZWYnliSzhlNUFMWWo5Wk1uLVNFYjlmTnV3NUctSGpTWUI2Wm1nNmZLejR0eVg5cUJoZ1EwVGpQQW5uUVM2MDc4U0Y2QUY4LWFWTklPWEV2TzJieHdQRi1YRHBPN1pMaHE4QktJSXJ4dl92MWdvTnZFRzh6VVA2VW5CczZHWC1sZEhKZVpCMHNlYkRCZVV1WnNVV2lMUQ?oc=5",
+        "published": "Sat, 24 Oct 2026 08:34:18 GMT"
       }
     ],
     "Meine Aktien": [
       {
-        "title": "Nvidia packt Prozessor, Grafikkarte und Speicher auf einen Chip - Forschung und Wissen",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkw4TVN5Y0JJdDJ1WkRmcEFCS1RQUWRqcVdpd1cwTVpRQjRpZUtMYmswTGlKa3BjbXJRemNiWDcyeVZJV2tBTWZZU3pBY3V0OU1mQzQyWms1a3JSbmVxR2VHMjBGOHgzT1BTLUg1MkUzR0ExMGt6SkhJaXZpRndiXzdCb3Njd1ZSZTZ5Ymdma2hLdWh4eG44VnY1a2piQ2ZXMmllSlY2dTAwaU5QX1hJOUotcDNybGk4QUJwSEZEdUFOcWlxa1Vr?oc=5",
-        "published": "Sun, 25 Oct 2026 04:03:18 GMT"
-      },
-      {
         "title": "McDonald’s eröffnet am 3. November im Patertal - Der Ybbstaler",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFMdzR1WVlfYzMzZGN1RWNfd1NzU1NwU0pmSTZ1MUdSRk15QzdncFI1Sk56VVFPVzVwbWd6R1d3amg5MTRYTG85U2pvY18xNjgyTDA2elh2NDg2SlZadW9ZMGdJNzVCRHNpTDFkSnRwbUxfTVJnX2taakR2QjdUaENqcw?oc=5",
         "published": "Sun, 25 Oct 2026 06:02:17 GMT"
+      },
+      {
+        "title": "Nvidia packt Prozessor, Grafikkarte und Speicher auf einen Chip - Forschung und Wissen",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkw4TVN5Y0JJdDJ1WkRmcEFCS1RQUWRqcVdpd1cwTVpRQjRpZUtMYmswTGlKa3BjbXJRemNiWDcyeVZJV2tBTWZZU3pBY3V0OU1mQzQyWms1a3JSbmVxR2VHMjBGOHgzT1BTLUg1MkUzR0ExMGt6SkhJaXZpRndiXzdCb3Njd1ZSZTZ5Ymdma2hLdWh4eG44VnY1a2piQ2ZXMmllSlY2dTAwaU5QX1hJOUotcDNybGk4QUJwSEZEdUFOcWlxa1Vr?oc=5",
+        "published": "Sun, 25 Oct 2026 04:03:18 GMT"
       },
       {
         "title": "Nvidia-Chef löst Hype um kleinen KI-Roboter aus - Futurezone",
@@ -281,14 +281,14 @@
         "published": "Sat, 24 Oct 2026 08:46:00 GMT"
       },
       {
+        "title": "Nvidia GTC 2026: Berliner Event enthüllt KI, Quanten und Robotik und fordert mehr Mut - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzhUZERIR1VqcFd2bm1sRG9uMWxocHlCcUVJZU01U25ubVJJckVSVkIyS2VGUGhvbjF2LXFmNUpXYVUtTFZMMWUyWC1UTXRRV2ZqbllsZ09rZzBuSkQwNm5BdHI1N1Z5RkI5UnVfenJxNkFqTXNwNFpGeGZkZkIwbHoySDQwMmpXNkI0cUl2OW5nbDdtTi1YSjA1eHpITUNqRzkyWklCZFBqb3lla3pOc0djOWY5d1dqTlpGckRyUzk5NThMWnhz?oc=5",
+        "published": "Sun, 25 Oct 2026 13:00:00 GMT"
+      },
+      {
         "title": "Nvidia Aktie: Huang sieht keine Speicherschwemme - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTRVTWlJQjlSelNMa0ZCWjF0bVBvTFNEeTI3cEpyeU9MbVlsMmZtZWN3cU5mUExNQTlHSFpJcGhLS25waEw0Y3RpcEd5OUtIUXUzUlpYOG40SmdtaWtRZjNxVEpCQThyb0kyQ3FNLXd6OXR1RlZNdmVibENiNXVUSjdCYnNJYk41Z2trckROVGs5a1ljMVRBYUVzVlh3X042?oc=5",
         "published": "Sun, 25 Oct 2026 13:16:07 GMT"
-      },
-      {
-        "title": "Nvidia GTC Berlin 2026: KI, Datacenter, Greenpeace, Quanten, Robots, Autos und mehr! - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzhUZERIR1VqcFd2bm1sRG9uMWxocHlCcUVJZU01U25ubVJJckVSVkIyS2VGUGhvbjF2LXFmNUpXYVUtTFZMMWUyWC1UTXRRV2ZqbllsZ09rZzBuSkQwNm5BdHI1N1Z5RkI5UnVfenJxNkFqTXNwNFpGeGZkZkIwbHoySDQwMmpXNkI0cUl2OW5nbDdtTi1YSjA1eHpITUNqRzkyWklCZFBqb3lla3pOc0djOWY5d1dqTlpGckRyUzk5NThMWnhz?oc=5",
-        "published": "Sun, 25 Oct 2026 13:00:00 GMT"
       },
       {
         "title": "NVIDIA RTX Spark: Plattform zielt auf dünne Laptops statt Gaming-PCs - BornCity",
@@ -296,14 +296,14 @@
         "published": "Sun, 25 Oct 2026 12:49:05 GMT"
       },
       {
-        "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
-        "published": "Sat, 24 Oct 2026 11:45:00 GMT"
+        "title": "Während alle über OpenAI, Anthropic und Nvidia reden, verdient ein alter Bekannter im Hintergrund kräftig mit - GameStar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTU0clY1UXNjLV8xY2tDSS1PNzJxSWRBTlZCMWc1a3FlcWVFaXNzVV9qUlhuZWE3S0JFOXY5OHA3c3doSEdISUp2eWFSeEdYSG1IYWd2SXl5V3c1OTVXQU1VX1l1Z3pXZDZzS3gwNGxjU3d4Y0w3M2xfc1hGQTFOUklEWFI?oc=5",
+        "published": "Sun, 25 Oct 2026 10:31:00 GMT"
       },
       {
-        "title": "NVIDIA-Aktie schlägt Tesla, Microsoft, Palantir & Co: Die wichtigsten US-Technologiewerte von Dan Ives für 2027 - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2V6ajJhMS1PZHdpWkM1eFY3NC1kWVlIZFc3bFlLeE9ndGp4cUlrcldTVWo3dF90Nkw4amMxOUpuV0NBVExuSVdBT1E0LXI3U09iYU5CZXZpRlh1YWdOZGNwZjVWMVlkVDRBdVFFOERmb2VJMDNiWENzOFF1NjMwcXgyempMSThNYjBsaF9MUTFRbzdMZ003ak5Vcmo1cncxTk9IMGRRZEhWVDAtYUs4bkZGMXdKeUpQUjNPZTcyNEdvOUhoNkpZaGRrNkdkODRrQTlWVE1uN01Ga0dYaGxmWUlaQlNpTEU1Z25odmg0d2FHRW5LcVE4VTBpd01vLU1NUWJxWTlLTVhUNTJZVFRJMw?oc=5",
-        "published": "Sat, 24 Oct 2026 21:41:00 GMT"
+        "title": "„Jedes Unternehmen wird ein KI-Unternehmen werden“ – Nvidia will Europas Fabriken erobern - WELT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0dkTU9lNFpNNUpQSHpGRkxla2ZiNHF6ZEdza3NMUUNKX1RVN3F1WjVLdXk4RWhSbmpiTWlXckhDaUgzbm5FMHM2Nnk4ODh6UHRrR2t6a2VrUkhYQTVaSllpN1lUUUdYdTUyVXM2NnZuTXdsTWdDRG9qY1ZZN1dIX0o3UTRfb0xreHN2YlloY29uNGl1TzdIVUlldGJwNEZjSzZhZzFVY1Jyc24xS014UUdaaEI4Xzk5VGVNaVd3M2s1RGc2MklYWllR?oc=5",
+        "published": "Sun, 25 Oct 2026 13:32:54 GMT"
       }
     ]
   }
