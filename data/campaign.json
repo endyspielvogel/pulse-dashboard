@@ -1,12 +1,60 @@
 {
-  "fetched_at": "2026-10-25T21:45:19.432173+00:00",
+  "fetched_at": "2026-10-26T01:12:27.446489+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Has the emergence of the 'big three' 'clarified' and 'simplified' the market?",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0s3bVpyM3lUTEgxTjNrWVlxeHFHLXpKM0lYR3JBRVRiaU43X1h1TC04WFNpcWZCZy1la0JmWmIyaVlSOWpwSGdkZkJDbUFyRVZJLWxNb3BWdkNfVXhoTGhqNUxmcFViM3N2N0NoNkkwVDBsQXVLWjU3RmFUb0c0Mmg0bjF2Z2ZiMlh6UVpDbmdaUEhnTFVwb3d4Z3p6TVBMNGF6R3lxbDlrUWNYdWVpeUVsMVVNV2JLWFlmVm10YTFlaG1CWDFKTGg2U3d1NGFoMEE?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T15:54:09+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "See all this week’s Ads of the Day",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzljLVQ4MEJXYXZJY0R2ZHRiYmZCdnZqWVU5RWhSbkZJcjZFaUlSLTRLbHZDY3FhaElnY3p2QjNha082Yl9lYVpGLWFKQU5zRXRTZ1BLTk5uNENXeWJMQzN5dldJd0hGUW1TbmNCUHF4czctX0ZnejhmZDAyS0Vobmh5SUhEYmloMlI5OGdobWtHZ1puYnU5UG11V29RS1UzSEE?oc=5",
       "published": "23.10.2026",
       "published_iso": "2026-10-23T12:08:51+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Westfield Rise and Lionsgate launch Hunger Games activation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWVEN1c2bDRlUVJvbEtRa3o3Mko5dUJqYUY3N0RMMkVBbnFHbzBSVENqX3RwRThXdWxseWFQNzNUeXFaVXVWbElab240NlROdHlIYUNkME1YY1BYUWd4Q0t2YzI1WWNleTk4ZktaR1ZoS1haVFRxQkNFSXFVVXZZUFJMWVQteHR4OVZUMTBZc2tJUEY4NUljUHNMTHFwNGxpQXBKY0hndUozQzZNX3o4UUE2WTc2Q1FaZ3pITWY1QzJoazg?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T10:38:47+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Tour de France launches media review in Great Britain",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjkwVGU0UWNIbUgtdVpsUEJXSzE4RDRCQS1VX21BbExGS3pyaXRCRGZ3cHF4dEVqUUg2UUF1ZGlSTFI5X1I3dE9KSkkwT1NhVVNKQm90WnZlZF83QnpGY1VzZThtQ0JEci1XbVBHaVlTVG5Qc0RnV3JHb3NoV2VWTVRzcWJ6RWRjZHlRSV95X19Relh1RjJicE83OThhV2dDclJWakw3eFB6dGNMbHB2VXpUTDliWThPbHNJ?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T10:28:42+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Channel 4 names finalists for £1m 2026 Diversity in Advertising Award",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUswelY1ZUZHajZBZ19YUEUwODlmZjFWTXdsZjR0S2RDQVppS1U5RFk1SjQ5azVMaXRnenpXeE5DNS0zeF9xQnQwRlNxT2o2M0V0MmdhQmxkRkRKYjBacjhnTnRoWUx6S2tLRVo3dURjVHpJai11MDFBOVR3VkJvY3lUbERtNGxUejBpOGxobEdnOHBmUXg1SjQtbkVLOFg1b3NvZEJ2SlZKenZ4c0JzYmRVc0pvZVhKUnZtX2tRXzRqQzlXMnJSZWVRUU1NVGc?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T10:08:03+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "WPP retains Coca-Cola global media as Omnicom wins North America",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3dYOEdSdWdYMUZDNkMzMkUzRGF4aDlRZ2RjaGhMck80VEtJUFJwYVQyeFdaNnJmSkhEUmJmMmZkMWxkemNNa0tuN1pSNVlabXN2eVo4TTBNcU9rS1FhQjl0Y09VU3BBY1VvWnczTjJLeXY4bjdSdVkteWhKZjdyQ0tSOF9mN053LTZnZGlzYW1USnoycFhoc0duSi1aYnowenZLakt0Y2p6VnFYcHJRam0xSzlpRk9zNUpVdjlvaHZxVzVaWGFDYWZ3?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T08:21:07+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "John Wren calls merger headwinds ‘substantially done’ as Omnicom posts 7.2% growth",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYWFkUXhVLTZZeUh6Rk1QUEZldnVWdDFralVfT1k4NzBTSG1UX1FSQnlOQWt2dGo4emp4ZmFRN1BOQnltVW5RUTZNWTFiX1Y5dWpGR2xUeVNTMGVfZEM1YTkweGdGUGZnR3I3Z0RpWnp5V3VBYXY3YVFwel9fWmUzQTZUVVlUYUJmQjNLSGNTbmwwazhNWlprZml0dTNMY0o3eXVMZ1UwWFpTUENuNmpQMjZuUWI2WVB1dThCWHBiSnRmcWN1azVXSXhsV3ZQQkg5Qjk3c2ptQTVRNU5ZWEE?oc=5",
+      "published": "22.10.2026",
+      "published_iso": "2026-10-22T21:50:42+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -35,66 +83,18 @@
       "source": "Campaign UK"
     },
     {
-      "title": "BBC Children in Need campaign highlights importance of youth workers",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFlGWDFtYU5POHhnSFBLeUF2WDRLV0twYmxlbTE4ZGlucXdpYlJSbWZyRG5IZ0ZCWXo5ZldwdWdueThDSm4wSi1VUmNRVkRnempqV1otdTlvSVdQajlaWkkzdG00T3YtSXhGRl9BZDhER3I3UUFEVkdsNnd1UE81YzJndFpBR0RJRnVGR1B1cDZnRUhjNFNVckZKSExuV0tDWElWQ3J2b1R6UjN6aGZhRzlsMXVWUUx6ZjVNdXlrMmVKbDB0R0NoYW1sRUYyZzg?oc=5",
+      "title": "Aldi and McCann Manchester part ways after more than 20 years",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaE1hc1JnSnY3a09ZTFU3V1NQa3ZRN3QzRDNQLXA4T0d0algwUVFKMV9JZTRMSkJublZ5V1lhanM2aDFfRHQtTFdUZFJQS01QZi13OWRkUnZtYmNOY09mWl9iXy1BWDNuUElHRDc4N2JmWHlZWUUtdDFRMjI1aFRKTWpfM2dkbXRXTENIdGRNYnVKNnJCeV9OektMSVpUOHBrNE9SNmJIc2FXVHk5d21RUFNtaGZBOEdyVVFfQnRocTQxX3RGRlE?oc=5",
       "published": "22.10.2026",
-      "published_iso": "2026-10-22T10:11:44+00:00",
+      "published_iso": "2026-10-22T10:44:08+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Campaign Power 100 2026: Hall of Fame line-up",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWRicHBoU00tRXlNTlU5bHo2NGhkQ1M0UG95cjFaRHhPbFFhYncwc080YVhYSHZBaWRkSW1aaTdXUmhUOVcyN1l4cDJzUmM2V2pvbTJaa3B0OTczV3pkUUtUWk1CcEtfbmR2Y3JkbzZNZEVUSUZBY2lYb3k3LVhnRlJ3dnpDTFZic29nc2NOZWtmS1JjcjdsaHM2YVI3OW5GNDBoUkpsZnlMQ0ZpSkZJ?oc=5",
-      "published": "21.10.2026",
-      "published_iso": "2026-10-21T14:33:24+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "I forgot how to use my computer. This is what menopause at work really looks like",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX1ZKRmZRRmdGR2Y1dVRQYXczRDFXOEpwV0FkWlJNR1o1QlByR1ZCbW44OG9nckVqSGVGeFh3ZHEzSXNXeVNZZVhTQ3JNbFN4QWJpaF9fYjd3aDdQY1lnQ2NjUHhNaV9Kd1l1RFFwWUV4SW8td3BiSVhJMXNrZVNlZGJRRTRjYTZMd0pGeGNsVUp2c1V0NVhkV1lmU0F5b0NCMzN3NndxU0pFaWIxVFB0MzctbzF3TVVGazkyeTlTTmpybk5UdFExWW5HVkNSYnctWDdHSk9iMV9OVlZ2RUw4?oc=5",
-      "published": "16.10.2026",
-      "published_iso": "2026-10-16T09:39:51+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Just Eat marketer on ditching 'Did somebody say' platform as VCCP work launches",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeklwc0FmVVJxWkV3bFcxWnRnSEFoMGkya29wNUdJamlYSmduaVRSaE5xb19DZW9DeldiRGgwaE5pTXNlOWhJQ2EtYmFtUGdzaUpzcDBXelNZcmQyUERTanUyOXV4R195Zm5LY2M3Q21xMWZvUmdOMl9ramFHY041dno4UEhraEU1YUVpYkVMcVJJc0Q0OElTbVZ5TW1STC1MU1ZSNWNXSmV5Qk05Q0lBVldrMmFraUtlTlJVNXFhazRaTk9ucVI2Y1VkZmNFQUZvOWdPWnc5T0ZxcjQ?oc=5",
-      "published": "15.10.2026",
-      "published_iso": "2026-10-15T07:00:00+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "The Work: Private view",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHN1dTYtcURsMnVaWW4tWGlucWhtbFBqZEtMZ0pGVVFWSGE4WkRqdHAyZ2ZWVWpnYW90dzcxQkpwN0lfenR5QUR6eWVDb3pKbTNFRGlZMkgyVTY5S29yWDBUdE1jdTRHYnVuNFM4R2VrdDNYVzktUUQxSENLVzJDeUt0OVgtQk8zWGRqTVVjd2o?oc=5",
-      "published": "14.10.2026",
-      "published_iso": "2026-10-14T12:00:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Aviva's debut Saatchis work uses Monopoly to spotlight menopause",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUFjdmhtTXQ0d1pvdjhiZjQzS2hWUHR4c19vTmthMHcwQkM5THNaN3o4NktJZjdGOVc4Mk1KdW12V3NwY3lTVE5NdVRpQk9VWWtxeVU2Y3dfY3duci0xUWhONFFlVnhzbGgzTjlRNVlaRGJjcEJSQ2hRUGw3Z0NlMkZTbnp3OVhDWEpKakNWSWZyOW1ZbHhieG9WSGFmc0g2c0xXbVYybjh3aFFQMkNycEppZGRraTNDMGpQa1ZMM2JNbmV2c2FvTU1n?oc=5",
-      "published": "14.10.2026",
-      "published_iso": "2026-10-14T07:00:00+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Agenda 2027",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QS2hnQmgwZV9seGtacGNNRzVLb1c1YkxMMWxPSHd3ZFVwNFQ3Ym16azgxSWtEdElPb2U4WWxRYlhnY3B6ZC1Sa1M2emFULVRFNzFRTzJBcER3VW1vOUE?oc=5",
-      "published": "06.10.2026",
-      "published_iso": "2026-10-06T18:27:51+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Uncharted: staking out new territory with a trio of self-styled ‘girl geeks’",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUxTY2o1UXc4YnNaWVJLODBRZkRUT1ZqY3Y4SzZ4bHVIX19LTUtpbkotSkxHcG15WXY3UnNIdFpzNjlnTnlUX3hqcklldXBfQ05oTnRwTXpxS01HdWxCbG1TWDAtdVlmOFVHcFh3LWNyY3A3aFcwSnlSQThNWGtvRzZfU2xpeFFFd1ljYXFBamlQSmtEYjlnYmt0bjZfa1paeDhKZGlkQzA2VlVETmd0d3JmLWdrQkl4RWdVb3Q3X0l5c3kwbVNCRTBMeTMzMUR2UkxXQzZn?oc=5",
-      "published": "06.10.2026",
-      "published_iso": "2026-10-06T11:35:37+00:00",
+      "title": "RNIB picks The Kite Factory as media agency",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTi1KRGFnYmg2d05ScjF3OThiWU1fZzZXT3pNWDZ0clRkc0FXSWFXVEZVZVhITi1QdlNSTVZKb05oYTBjd0dTbVpjNmkxUUllZkJzV0o0eWl3VUltQ2l6cy15ZGZRS2FYR1hIZ2hUbUd2bzFZblZqTGhXZUpNVkxVMDhQUUlEUWFTZXM3Ui0xLUptVHYtLV9keHNrQk8tMTFoV1pUSUI0QUpLVE1UN3c?oc=5",
+      "published": "22.10.2026",
+      "published_iso": "2026-10-22T10:16:42+00:00",
       "description": "",
       "source": "Campaign UK"
     }
