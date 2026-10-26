@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-10-26T07:09:14.482793+00:00",
+  "fetched_at": "2026-10-26T10:00:24.252638+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "See all this week’s Ads of the Day",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzljLVQ4MEJXYXZJY0R2ZHRiYmZCdnZqWVU5RWhSbkZJcjZFaUlSLTRLbHZDY3FhaElnY3p2QjNha082Yl9lYVpGLWFKQU5zRXRTZ1BLTk5uNENXeWJMQzN5dldJd0hGUW1TbmNCUHF4czctX0ZnejhmZDAyS0Vobmh5SUhEYmloMlI5OGdobWtHZ1puYnU5UG11V29RS1UzSEE?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T12:08:51+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "AMV BBDO names CEO as Xavier Rees departs",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaElyWUxUTTRQVk02V3luclpyOFJzQWxaYlBFck5NRDQ5MUdXQWoyUllrMXZIWVpqeTk1N3dpNzZlejZHU3kxV0p5OW5TSEdzejRKY1E1dTRDbHdtaVJBU3lWRDhXM0JRSGo0c3V3ODhUeE1KMTA4TDdOeWx5MDZuSUdSa1hlQk9GQUxoSVRJbFg2QkdubmtVbzgzWXlDNVUtMkg5NWxzc3pKbFU?oc=5",
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRHhHRjc4UzBlVmRhWXo4Q09SU2VNdzJDNUdWX3F6aW9UN1BESnhFVmJFZ0t2NU51Wk5nUmx6UWdxQ1F3a0ZNMDlkZ1NNS0h1TmdDSWlaOTJ0WVdWZVRfTHdaeTdQdzBpdEdpSERERm1SajFwajNvUXR5UVBXd09KTmp6eVV2eU5CV05fXzVyM1N1bjhVSjFXOE9JSHVxek91UU1zeGwxdndGSEhYYlJvT3JaTDRwc3V2VnFSakVOUmVmNjc5Rktv?oc=5",
       "published": "06.10.2026",
       "published_iso": "2026-10-06T07:00:00+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "This is the future of work for the creative industry",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT25CUDhFTURJd05WYVluZ0ZjOHVUMFJBYlRrdXIzY0czQ1lYTXE1ZXlsbDZoR1ROWG9iaHFJUm5mQzk1X3VhRVgyU1dmYUNqSnRIZ0tDemdYeThUdEZ6bWhVTDF2TVhHaEFNNDQxaE5tanluMVJPTFd2Ymw5b3pRTzNOYXd0TjJKa0wwaEdLNkVhRGVDa0hCbW1zajFDMG5LQThYdnNoY1JWMzhEUjQtTnlqTGdYdVlOVEE?oc=5",
-      "published": "02.10.2026",
-      "published_iso": "2026-10-02T22:08:29+00:00",
       "description": "",
       "source": "Campaign UK"
     }
