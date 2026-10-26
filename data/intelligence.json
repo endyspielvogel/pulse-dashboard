@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T06:45:50.566153+00:00",
+  "fetched_at": "2026-10-26T07:49:08.269255+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -16,11 +16,6 @@
         "title": "Ende des McRib: Fans des McDonald's-Burgers starten gleich mehrere Petitionen - Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjJ6ckJRVDdMV2VNcmxDcDdMb1VhU0J2ZnBvRjdKVHgyT21kTE9GOE92NDZycE80Q0FDLXZ1UWVZbkZJOG1acEJOaXBodFlhcUdEcnJwTExVTXgwMV9VaUFJVEZnblMyNXQwQ2JKcGFwNHBndVJMdzU4UlphdDMyWWZza1ZSNFUwOUtsUk5KOVl4X3V1bkhiaEtNeGpVOGU1d0FqR0NENUlLOVhTaGdsbEF2akdpUU9McFRZamhNZmdpakgtSUZlOUhqb0NpUnpiVjg4QU9DY3cyWnExM2d4REh1bw?oc=5",
         "published": "Mon, 26 Oct 2026 05:02:22 GMT"
-      },
-      {
-        "title": "McDonald's Aktie Prognose 2026 & Kursziel - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUNyQWhGT2tiS2k2aURVZTNlSndKNHJxTW16X2c5M0hKYXlmalNSMHNpZFRPLTV2ckRFYTUtaTR4OGhCajVsWFVpbTVZZXJzbWhxMmlNVVhwYWN5QjVLM3p6aHJRNVNpMXliQzB1TXhrX1Q0alFNSXlBbVhHNGI1VkdrSQ?oc=5",
-        "published": "Sat, 24 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "SU Vortuna Bad Leonfelden gegen TSV McDonalds St. Johann/Pongau - fan.at",
@@ -41,6 +36,11 @@
         "title": "McDonald’s Neckarau nach Sanierung wieder geöffnet - Mannheimer Morgen",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZE9SQU9LTWVmNW50eURZUWdaZXpGSFB1OFJncTNTcUFsZU1rMlBKU1RPVDlaMnhOcDdYQk5teW5aZENDR3cxZDZhSWZPVWxSbjVUak14amc3N016Yk1adk83Q2hWYnRQRlhiNlNIS1ltNzRFMVp0Qk5ZYjZpX01ZWHVEZWVMX3lURU9VZlF1c2VVQjdlY1lDWU9ld1RWYUowNkwtbzl0T0hIb05wRFJfNk92Q1ROTzFBa245TE50S0x1aDR4ei1BRnNDREM2Y3FHVmpObzRBRXJzYms?oc=5",
         "published": "Sun, 25 Oct 2026 12:35:00 GMT"
+      },
+      {
+        "title": "Warum es kein Problem darstellt, dass McDonalds, Microsoft und Google tokenisierte Aktien ablehnen - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzYxX25XenRBOThYcDA2THlLRmxnNVRRRHVqMU04UFdsWG13WTUxekdmc1d2eVllVEprV01JMTRGbU1XR05GWGJaTS1lRXFFQXRUSEtaM1dXTkg5RWdqWEpIb2tfa2E0VWlKY0Jwd3dkXzkxMm51YUdfWHdJczFyX3R1X1dSb1E0TEN0S2JfQlBYcnlfUm82UUJDTnNfVFczLXhfY3lVc3ZidEctWkVzQnlPd1hHdFN5aF8xMGdOUXZicFRCaDZfRnd1RWs?oc=5",
+        "published": "Sat, 24 Oct 2026 15:00:00 GMT"
       }
     ],
     "Burger King": [
@@ -94,14 +94,19 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Mercedes-Benz stellt vor: Überarbeitete C-Klasse: Verbrenner starten ab 42.982 Euro - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0tKZ2JzTnhVUmlxSm8yaktOTE1FMGVpM25ieXFfT3YySXJoMnJVNW95RzhrczB3UUhOUExkTWUwcGtPSEV1NHdoa1Fvb3o1SlNNS2lHXzNWcEdBc0lXdDAwSlJoMDJmazdxODd4Qkt2VzVYTGxVeDJqQ09acFJ6OXZLd1FGTGFWZURoQXdrREg4ZzU2dGVpRXZPb2V6ME9qSEtLYWxzT0RhRTFxVUJaRnJnS1hWZTRYZUF6RTFTZ2JsSzhMU2xXYWk4QWV6dmRvYzJsbkdSSzRVZw?oc=5",
+        "published": "Sun, 25 Oct 2026 23:01:05 GMT"
+      },
+      {
         "title": "Mercedes-Benz Aktie: Elektro-CLA hat sechs Monate Wartezeit - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUpvMWdKRWN4aExkXzRqa283bjd0emhfQndRLXBpR012T2o1NHBnNTZYMzVtc0haQkRPSTJtOHcxQWFrZ2RpblpSdUVwTXk0SnFOUkxGZUk4UlNCMkJyMVA4RjBZVl9tbmRfNXVqbkFNNDlyR015SDJZazRYZHdyVmFkNE9oeXhOOHEwMFdvX2tZSVdhQVRIb1FoVlpkVzMzSWJ5YjYtdmg4STBnZHJB?oc=5",
         "published": "Mon, 26 Oct 2026 02:20:07 GMT"
       },
       {
-        "title": "Mercedes-Benz stellt vor: Überarbeitete C-Klasse: Verbrenner starten ab 42.982 Euro - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0tKZ2JzTnhVUmlxSm8yaktOTE1FMGVpM25ieXFfT3YySXJoMnJVNW95RzhrczB3UUhOUExkTWUwcGtPSEV1NHdoa1Fvb3o1SlNNS2lHXzNWcEdBc0lXdDAwSlJoMDJmazdxODd4Qkt2VzVYTGxVeDJqQ09acFJ6OXZLd1FGTGFWZURoQXdrREg4ZzU2dGVpRXZPb2V6ME9qSEtLYWxzT0RhRTFxVUJaRnJnS1hWZTRYZUF6RTFTZ2JsSzhMU2xXYWk4QWV6dmRvYzJsbkdSSzRVZw?oc=5",
-        "published": "Sun, 25 Oct 2026 23:01:05 GMT"
+        "title": "Mercedes CLA und GLC: Hohe E-Auto-Nachfrage sorgt für sechs Monate Lieferzeit - ecomento.de",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcG1peEFsdGNJQmVqS0IycW1xWXJCQ2NIVHVZMEJicm5QWnpFbWdzckhBS211SlQ3cHRVSXU1a3FKeEMtQmdvTFVsZGpqUFVfSjhRSGIzcU9DZERtSFE3NkVFSHdLc3JNanpUVzNYd3RLX0FTcDdLdGM5Z0JfZThhdEF3Vl9KRFBCemJzUXBFZHh1MDZaZGoxajRBU1pna21oNy1xZWVuNFlnSERGeHc?oc=5",
+        "published": "Mon, 26 Oct 2026 07:22:41 GMT"
       },
       {
         "title": "Unerwarteter Auktions-Flop: Dieser Traumwagen von Mercedes findet keinen Käufer! - Auto Bild",
@@ -124,11 +129,6 @@
         "published": "Sun, 25 Oct 2026 23:03:06 GMT"
       },
       {
-        "title": "Mercedes-Benz: Das sind die neuen Konditionen für Abfindung und Turboprämie - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWpNR2ZBYWVDOTh6V2JNQ3V0am1WU3hnM2xOVTlGdURUQlZWX3EzMDh5YkxSVEhvdTRyV1FVWU5UanhXcDdERkY3MDBoLUs3eFV5NkllLVRjQzlwckN1dUM4SUM2aVJCVHJIdDNhejB4Y3pzRzh2Q3lWbXRZSlRpYnRzb1g2VDBIeWlVd1k1c2RzVmFXOFFMMnlCSmhHUTVicldaZHpCSEpiQ3BnaGR5Mk9lT1FPcXNYT0NfaEw1TmRVd3NWaDBz?oc=5",
-        "published": "Sat, 24 Oct 2026 07:00:00 GMT"
-      },
-      {
         "title": "Mercedes-Benz eActros 400 für AVG Köln: Weniger Akku bringt mehr Nutzlast - Eurotransport",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPamRZeU01cGgxRUllTnNsQ0kzdDVsTmRwTWM2REc4NEpFYXpKaVFqQ2c1Q0lsNjI5Zi1LbDVGd3VSWGNwUmtiMnM4azNKc214Wk01OW9HOHRUcG82VHpCbDNHcDA5a2puWWNzSHlxRDZmQUNxWmFBMExLUlNhaDRDT3Q5NA?oc=5",
         "published": "Sun, 25 Oct 2026 18:34:04 GMT"
@@ -139,6 +139,11 @@
         "title": "Nvidia Microducks: Mini-Roboterenten lösen Bestellwelle aus - FAZ",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHlhaDVhRGpWYnhDcDN2YW9HXzBrYVh6cTNXUGFPS1lpYjN4TGlPRlFad3dVUXVPSjVBVV9pcG1RYVJSbHlEbkxWcldjTmcxMzNBeXZ2LXg2SjNoUnNBeHo1MmJNa1JTV3hQOHRUU3Z1YlJJSWNOelhTdXJkX2RrUjZCYy1vd09RVU1VTkpBWGpEb1hDa2RSaGpqUjItSzFrZlBqMUpja09JeTdvY3pDNHZkRTA2WGhQWlF2Ny16WV9McHc?oc=5",
         "published": "Sun, 25 Oct 2026 20:03:36 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie: 10-Milliarden-Deal im KI-Streit jetzt in Gefahr? - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzdUS3daeVJJS1JLUVdqdUg3Nm9nZmVTZUJ1ZHVzcW9iWVdIVV81UHl3ZzdSMlEtSlNHejg0NDdCalU4NHVGSVVHVC02bmkzTndaNmJycXIwTmtFSjhweFRpNHh2RG1NWHlseXg5amNPb2hsWEJOZzJxaEpsVE5Td0VSZzNQcDlMeU51aVRGWlZaeVF0Nm1zYU4wZDJwa01EdndNb000N2FGNXk1bUVac0JYSHNVdHE4X1hPUVktSnd3TVE3a3Y4RWV6eHgtZzA?oc=5",
+        "published": "Mon, 26 Oct 2026 06:55:45 GMT"
       },
       {
         "title": "Nvidia diskutiert jährliche Gebühr von 2.000 US-Dollar pro GPU für den Betrieb von KI-Agenten - Notebookcheck",
@@ -166,14 +171,9 @@
         "published": "Sun, 25 Oct 2026 04:03:18 GMT"
       },
       {
-        "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcTRrZDU4SGJMS1U0UjZ6LVNCNEFwZV9PcDZDaExncHptZE5rNDR2UXJqVUdCTWp4bVVocmpzMks2SnF3Z3laSmdrVTVva1pwY3c?oc=5",
-        "published": "Sat, 24 Oct 2026 22:02:14 GMT"
-      },
-      {
-        "title": "Neue Geforce-Treiber sorgen für Video-Freezes und Black Screens - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFIQWo5d0JoaVdVSGxpVE5oSkF1WkpjWjFGWlJleWZjTHlfVGJ5ajNrSzVoT3hJLVUwZTZGZEFNS3hYT29wUXA3UWhvaVlrdG9UMXhHMUJhNXBwbEdUOVVNOWFEd2lEZDB0eExSdUNobjVsZS1kOXJ4OFYwc01mekN2M1RfdVd1VjBVcVVkR1dEN25JVGNEeWd0QzZtNkJ2TlVRZ1VrWXdhb1dMQWE2em1YYkJqSDA?oc=5",
-        "published": "Sat, 24 Oct 2026 11:45:00 GMT"
+        "title": "Nvidias KI-Bremse geknackt: RTX 4090 rechnet doppelt so schnell - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRk9pb1hLYnhvaWI2c3Z3NUJ3dTdRWS1BSDdCWkpRRl84d3dEWTRQQUtlTXVyNjgwdkVHc3RyblVRU0FKOTBuQ2RGd0dZNmtUVEt6aWNjb3JiWDdtck5oSjZ1SXdoUHc1YlNJTWxtY2VhTUR6WERQNFMxV19xR1VCakpISFFRQ3U3NXoyalJLQnZvZ1ZIMUtvOFZKa1oyWW0zbC05TGFJVHZQYWc5QjJwck9jcGQ4dWN3T0l2QTlsZnQ0cGpJ?oc=5",
+        "published": "Sun, 25 Oct 2026 17:30:00 GMT"
       }
     ]
   },
@@ -195,14 +195,14 @@
         "published": "Mon, 26 Oct 2026 04:00:00 GMT"
       },
       {
-        "title": "ETFs mit Rekordzulauf: Aber warum ist das Produkt so populär? - Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFpDTnpJTkU2R2xtTjBLRi10bkoxTXNGTmxObmF3NU9yVmxmVVFxOXZ5YUpLV3hZSnhJdHVHRVkwVjhyY1hpb0pBTDZ0Z29yc2VlWl9ESjR2SXdaU2M0YzZkYzJFX19GSzdrUV9QOUtMNDBkd1BBZkhoam9TSHFYQzUxSkhUYlZfaUI0UHQyRFJ2Y3UyZ1BjN0hjdWUwNW9pbWJzVFQxMXVSZw?oc=5",
-        "published": "Sun, 25 Oct 2026 08:00:00 GMT"
-      },
-      {
         "title": "Börsenwoche 26.-30.10.: Vorsicht ist geboten vor einem wichtigen Widerstandsniveau. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1Joc3I1Y2V1ZmRQVURwcC15Rk1UbEtrbXVlRTlfM1hzX0gwdlpLakVuOXRPZnUtbHBZaHBoYUdIOHA2TjlQUW04Z0QtSHRzb3hRYWd5eDh4RU9TWVZfM3hiSVA5Rkp2bGlvZVR6SFpCLURBWlp3UVhDZTBnUlZXeENVRTZ3QnBGTmJN?oc=5",
         "published": "Mon, 26 Oct 2026 03:30:57 GMT"
+      },
+      {
+        "title": "ETFs mit Rekordzulauf: Aber warum ist das Produkt so populär? - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFpDTnpJTkU2R2xtTjBLRi10bkoxTXNGTmxObmF3NU9yVmxmVVFxOXZ5YUpLV3hZSnhJdHVHRVkwVjhyY1hpb0pBTDZ0Z29yc2VlWl9ESjR2SXdaU2M0YzZkYzJFX19GSzdrUV9QOUtMNDBkd1BBZkhoam9TSHFYQzUxSkhUYlZfaUI0UHQyRFJ2Y3UyZ1BjN0hjdWUwNW9pbWJzVFQxMXVSZw?oc=5",
+        "published": "Sun, 25 Oct 2026 08:00:00 GMT"
       },
       {
         "title": "KI-Blase: Warum die Tech-Chefs vor einem Crash warnen – und was dahintersteckt - Kultur - SZ.de - SZ.de",
@@ -249,14 +249,14 @@
         "published": "Sun, 25 Oct 2026 10:11:44 GMT"
       },
       {
+        "title": "KI gegen den Personalmangel, Fraunhofer-Verbund IUK-Technologie, Story - PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXo1RW0tNDRtUzZOaTJXUEp3U291NzJFTE15cS1fVlcyN1JDckt4Tk5HbnNHdlhhTEdrMFV1azdQVmdzZnlSMFh2dUt0M1VTYjBJdTZ3ZFQ2eWJidnV3a0NVdWtObjU1dTBTbjBWWmlkVVp2UTB3cTRCUTdoejNwREpTa1ZBZkcxZzZpd0dYVnVWUWI1ZFNnMTctMmNZNHl6YWNEa2t3RGtrZUhoa0VDVmIwQVRodEI1YXc?oc=5",
+        "published": "Mon, 26 Oct 2026 07:15:00 GMT"
+      },
+      {
         "title": "Digitale Transformation der Redaktion: Der Mensch ist der Schlüssel zur Effektivität von KI. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2RERGN4RmduY0tJeGNwamJOTUh5TXNndzFSYURNYUszYlFaRHpraVRGek05aXo0V2NzMEI0ZGRfd1lUNFNlZ2hxczJrMkhFOEI1cFVadU5HeHVZcThEU056ZmxQcHhwMThYTUFkLXBOYVhzZ0dXR3JtdXplVnNXUzFBa0xzWHJEZUNYMmMwanRiaXcxMG5lM2xQYw?oc=5",
         "published": "Mon, 26 Oct 2026 02:50:51 GMT"
-      },
-      {
-        "title": "„Magnificent Seven“: Welche Unternehmen laut Apollo-Chefökonom bisher vom KI-Boom profitieren - t3n",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkg5ejRiMG5XM1FkeU1KRHdhWG92NGJtU0xCbXdMMTMtak9kT1dxQW9aT0dOWUVMX3VMczR0NzNrN3c5S01yVzJjck8yUXdIbTJkYTdaRGpIa1pVd3ZpNEczMDQyWk1fN0hWcW9oRGNJRUZLS1B1NUoxcDYwbnVwRUswc3E0RXl6bEQ3alAwTFpQY1NMcmJiUzZsU2JjcjN5Zkl2QTlnNjJ1Ti1aXzlrRnphN0w5d2JfSVJIeA?oc=5",
-        "published": "Sun, 25 Oct 2026 18:45:06 GMT"
       },
       {
         "title": "Pennsylvania: KI-Werbung muss ab 21. Dezember sichtbar gekennzeichnet sein - BornCity",
@@ -264,9 +264,9 @@
         "published": "Sun, 25 Oct 2026 21:30:06 GMT"
       },
       {
-        "title": "KI braucht eine offene Unternehmenskultur - Springer Nature Link",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bjRnM1NGLVNpMjZ3SlNZMmFIV180QnBhQjVwUnJteTNjbWVGTERtZURqU1ZGTGJ3d3cwaTFsVnJOaElETzR1aXBCRzJEczFfVXg0ZGNSeERxWnB5WGZJX194X0JNOGJhX0U0?oc=5",
-        "published": "Mon, 26 Oct 2026 05:29:09 GMT"
+        "title": "Befragung von Tieto Germany - Schatten-KI in Deutschland: Wenn Beschäftigte ihre eigenen Regeln machen - LEADERSNET.de",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01ESC1jbkhic2ZrdnNtdEV2aDAzZ1hab0JCMmZJNjFLT2J4Vk83MHBITzBlUFVRdDZ3RGR1ZF9XRzljQzhKVzBmaU5BUkQtQkJrM3lKMldGTUhrbjhTOGJfb1JsbEhWSVlWUVZpTUx0REVmXy1GZlZtTUxuVkxsNFRjTnRYVUZyOGVJMFkzMWdaYVNlTC16QWI3V09HbDF6MFRJ?oc=5",
+        "published": "Mon, 26 Oct 2026 05:00:00 GMT"
       }
     ],
     "Meine Aktien": [
@@ -274,6 +274,11 @@
         "title": "Nvidia Microducks: Mini-Roboterenten lösen Bestellwelle aus - FAZ",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHlhaDVhRGpWYnhDcDN2YW9HXzBrYVh6cTNXUGFPS1lpYjN4TGlPRlFad3dVUXVPSjVBVV9pcG1RYVJSbHlEbkxWcldjTmcxMzNBeXZ2LXg2SjNoUnNBeHo1MmJNa1JTV3hQOHRUU3Z1YlJJSWNOelhTdXJkX2RrUjZCYy1vd09RVU1VTkpBWGpEb1hDa2RSaGpqUjItSzFrZlBqMUpja09JeTdvY3pDNHZkRTA2WGhQWlF2Ny16WV9McHc?oc=5",
         "published": "Sun, 25 Oct 2026 20:03:36 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie: 10-Milliarden-Deal im KI-Streit jetzt in Gefahr? - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzdUS3daeVJJS1JLUVdqdUg3Nm9nZmVTZUJ1ZHVzcW9iWVdIVV81UHl3ZzdSMlEtSlNHejg0NDdCalU4NHVGSVVHVC02bmkzTndaNmJycXIwTmtFSjhweFRpNHh2RG1NWHlseXg5amNPb2hsWEJOZzJxaEpsVE5Td0VSZzNQcDlMeU51aVRGWlZaeVF0Nm1zYU4wZDJwa01EdndNb000N2FGNXk1bUVac0JYSHNVdHE4X1hPUVktSnd3TVE3a3Y4RWV6eHgtZzA?oc=5",
+        "published": "Mon, 26 Oct 2026 06:55:45 GMT"
       },
       {
         "title": "Nvidia diskutiert jährliche Gebühr von 2.000 US-Dollar pro GPU für den Betrieb von KI-Agenten - Notebookcheck",
@@ -304,11 +309,6 @@
         "title": "Nvidia packt Prozessor, Grafikkarte und Speicher auf einen Chip - Forschung und Wissen",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkw4TVN5Y0JJdDJ1WkRmcEFCS1RQUWRqcVdpd1cwTVpRQjRpZUtMYmswTGlKa3BjbXJRemNiWDcyeVZJV2tBTWZZU3pBY3V0OU1mQzQyWms1a3JSbmVxR2VHMjBGOHgzT1BTLUg1MkUzR0ExMGt6SkhJaXZpRndiXzdCb3Njd1ZSZTZ5Ymdma2hLdWh4eG44VnY1a2piQ2ZXMmllSlY2dTAwaU5QX1hJOUotcDNybGk4QUJwSEZEdUFOcWlxa1Vr?oc=5",
         "published": "Sun, 25 Oct 2026 04:03:18 GMT"
-      },
-      {
-        "title": "McDonald’s eröffnet am 3. November im Patertal - Der Ybbstaler",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFMdzR1WVlfYzMzZGN1RWNfd1NzU1NwU0pmSTZ1MUdSRk15QzdncFI1Sk56VVFPVzVwbWd6R1d3amg5MTRYTG85U2pvY18xNjgyTDA2elh2NDg2SlZadW9ZMGdJNzVCRHNpTDFkSnRwbUxfTVJnX2taakR2QjdUaENqcw?oc=5",
-        "published": "Sun, 25 Oct 2026 06:02:17 GMT"
       }
     ]
   }
