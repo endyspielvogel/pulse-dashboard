@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-26T00:34:49.855676+00:00",
+  "fetched_at": "2026-10-26T01:27:05.011916+00:00",
   "countries": {
     "AT": [
       {
-        "title": "brazil election 2026",
+        "title": "brazil election",
         "volume": "100+"
       },
       {
@@ -13,6 +13,10 @@
       {
         "title": "kim kardashian",
         "volume": "100+"
+      },
+      {
+        "title": "heute",
+        "volume": "2000+"
       },
       {
         "title": "antonelli",
@@ -35,54 +39,50 @@
         "volume": "200+"
       },
       {
-        "title": "brasilien wahl",
-        "volume": "500+"
-      },
-      {
-        "title": "informer",
-        "volume": "500+"
+        "title": "blic",
+        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "ty okada",
-        "volume": "500+"
-      },
-      {
-        "title": "rashee rice",
-        "volume": "500+"
-      },
-      {
-        "title": "demarcus lawrence",
-        "volume": "200+"
-      },
-      {
-        "title": "grizzlies vs kings",
-        "volume": "2000+"
-      },
-      {
-        "title": "lamelo ball",
-        "volume": "5000+"
-      },
-      {
-        "title": "ken jeong",
-        "volume": "2000+"
-      },
-      {
-        "title": "is taylor swift in seattle for chiefs game",
-        "volume": "5000+"
-      },
-      {
-        "title": "76ers game",
+        "title": "timberwolves",
         "volume": "10000+"
       },
       {
-        "title": "querétaro - cruz azul",
+        "title": "travis kelce",
+        "volume": "5000+"
+      },
+      {
+        "title": "jalen williams",
+        "volume": "2000+"
+      },
+      {
+        "title": "wild vs canucks",
         "volume": "1000+"
       },
       {
-        "title": "la galaxy vs lafc",
+        "title": "thunder game",
+        "volume": "1000+"
+      },
+      {
+        "title": "kc",
+        "volume": "5000+"
+      },
+      {
+        "title": "tristan da silva",
+        "volume": "10000+"
+      },
+      {
+        "title": "pacheco",
         "volume": "500+"
+      },
+      {
+        "title": "jj mccarthy first giants start win",
+        "volume": "2000+"
+      },
+      {
+        "title": "justin watson",
+        "volume": "1000+"
       }
     ]
   }
