@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T16:14:18.863969+00:00",
+  "fetched_at": "2026-10-26T19:04:47.410651+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -7,6 +7,14 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzljLVQ4MEJXYXZJY0R2ZHRiYmZCdnZqWVU5RWhSbkZJcjZFaUlSLTRLbHZDY3FhaElnY3p2QjNha082Yl9lYVpGLWFKQU5zRXRTZ1BLTk5uNENXeWJMQzN5dldJd0hGUW1TbmNCUHF4czctX0ZnejhmZDAyS0Vobmh5SUhEYmloMlI5OGdobWtHZ1puYnU5UG11V29RS1UzSEE?oc=5",
       "published": "23.10.2026",
       "published_iso": "2026-10-23T12:08:51+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "ECD Tom Houser exits ITV Creative",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVduMVhmNlhSem9QNEE2cTJQUE9iemxrZWt1MGEtNDZDYUpENkRtZlJWdzE2VEt4QXNCeTlFbEhTQk5lbTRpTFBGU2s3WW9HZmFfQ2lGdFdvWUwyOXo2SXUxb1ZCeElmbVU2djM5cmV3TFRZUTgxaXRiTG95RWhuTlVaMHZuUG5NNi1mc0l2QmJZSURfTENMR2JuNk5TRExy?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T10:07:18+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -51,10 +59,18 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Campaign Power 100 2026: Hall of Fame line-up",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWRicHBoU00tRXlNTlU5bHo2NGhkQ1M0UG95cjFaRHhPbFFhYncwc080YVhYSHZBaWRkSW1aaTdXUmhUOVcyN1l4cDJzUmM2V2pvbTJaa3B0OTczV3pkUUtUWk1CcEtfbmR2Y3JkbzZNZEVUSUZBY2lYb3k3LVhnRlJ3dnpDTFZic29nc2NOZWtmS1JjcjdsaHM2YVI3OW5GNDBoUkpsZnlMQ0ZpSkZJ?oc=5",
-      "published": "21.10.2026",
-      "published_iso": "2026-10-21T14:33:24+00:00",
+      "title": "Nando’s shortlists four agencies in UK media review",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWNydEJJMC1rdWwyRXVJMXFFWFRpTTV6NHQteUxKdTZodjBTMjYwZmx3SHp6Wm9Bb1pfamxVemtrczBzeHRyME56SXNaNGdWbG1zcVhRR3FhQWtPLUxxRHA3UW1GVFNyOUhNeFBwV3BIc1NnZTFWSWIyNmktZUpVazdzYzB6OHRkQlNRcGo2el82VW1CeE0yTVlnQ001a3k5aVA1YUpuTmVNS2VIU0phcHZ1YlhhODdz?oc=5",
+      "published": "20.10.2026",
+      "published_iso": "2026-10-20T09:18:37+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "OpenAI debuts ChatGPT Voice UK campaign with grandpas completing tasks",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUE2bFdHSGVzb2VISFNqMmRyelFMdjltVnVYUjhTR2xVY1N2TVpnS3poSlpwY0lpVFRfNHpfN1BfckN0ejBqRVV0ZUV0LTc0bHhidnZsS21PZ0FnYm1nTW1PMk84bkZRbVRjeTdyRW1ucURHTDR1ZW8yVE5lMklGR3R1bFVXd2dFWjM4NzRkRnJqdkdIb256eTlpSE1EVmd6bUl1RUtNV1QtZ2NneExoN0NFUTN1VHpNbGQ3ZEF2TXhSOXRTeGtMQWhvWkU3eTN4QkE?oc=5",
+      "published": "19.10.2026",
+      "published_iso": "2026-10-19T14:20:36+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -79,22 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSk1lbGRzSmNQS2ZvSzR0X3pRRV9FN2w2MkZYR1MyanlEZWxJNTNmZjVOTjdrTTRfU2h4aFZJMHJLQXRHWkpNczRnVHdweFhUdV9kdnp3NFpLNVh2STRpWVJiVlR3X1VjS2F6Q0p4Nzlfa3VqU1p0NUdwei1hQ0RqdmtXT19pM3ZRVUQ1QS1GTXpUdkFMbGVDRDVKbEgxRlotaGJWSmJJcG0wVnZlalRHR2dNeHV6b3FCVDNmSGV6ZDNSa1k?oc=5",
       "published": "14.10.2026",
       "published_iso": "2026-10-14T05:52:59+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "AI and the illusion of a creative heartland worth defending",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWk4yQk5rME9pYWgwcXFOY0ZSUmdES01qT3hNRlQxVFJoX0xHU29aWmlpTmEwaGcwYzZyRmo5dklSSG54QXY4NHBRcUNkV0lQTzltZkxzcTVjVmExamQyS1h0T2NLdkt2MkJjcmhBQnU5VG1FTjVVRmFxd29mUWhVaXdlR3hhc2hEQ3BpNDNFOTRmeWsxczA5bXhkaWNFeXBUeU9uSE1jOFR4b2k2azRHN2dJdGl5SjZLemJWQk9GZEFxV1E?oc=5",
-      "published": "07.10.2026",
-      "published_iso": "2026-10-07T07:00:00+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Agenda 2027",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QS2hnQmgwZV9seGtacGNNRzVLb1c1YkxMMWxPSHd3ZFVwNFQ3Ym16azgxSWtEdElPb2U4WWxRYlhnY3B6ZC1Sa1M2emFULVRFNzFRTzJBcER3VW1vOUE?oc=5",
-      "published": "06.10.2026",
-      "published_iso": "2026-10-06T18:27:51+00:00",
       "description": "",
       "source": "Campaign UK"
     }
