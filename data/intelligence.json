@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T23:31:58.597190+00:00",
+  "fetched_at": "2026-10-26T23:58:50.040173+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -28,11 +28,6 @@
         "published": "Mon, 26 Oct 2026 16:00:14 GMT"
       },
       {
-        "title": "McDonald’s in der Krise: Warum die Kultaktie derzeit so stark unter Druck steht - Fuldaer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXpBSmg2UzU3dnFrMUp1ckxpMzFtZ3ZSeTR0ZWJjeWk5N3dfbmZleWlIazVCSG93SmlPNGw5UlMwdWI2bDN0NHNWc0VUYlpsQXhqOXA1bVdrNHFkZzdfWll5Tmtrcll1R2dCdVRKRkd6UENINzdlWUE1YnJSYm9NZEZZbzJIS0pIOElxbU5Vbk9TTnBDUzAzWDZGLXJIM2U5T0JFNlRhQWlvR1lOaEo0U1VfQ2VyVU9iRmlINDQ3YzRlRGZuTHI4dmFYM3oybE0?oc=5",
-        "published": "Mon, 26 Oct 2026 17:44:05 GMT"
-      },
-      {
         "title": "McDonald's Eppingen eröffnet am 27. Oktober 2026 - L’Express Franchise",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbm5RaE9XM0t2Qmd4UUVNNUM0M2pQeDBpWnR0OWNtaXlTSzhTeHhUbWZveDFWX0ZrNDduc0Fwcl96M3NkakdkaldLcFFRZTRXQU5vckFLd0d3MFNGdFdDeF9BNVVGcVpMc183ODBYMllsV1U5bUpWekYwbFhkTk5PTTNBZUZ5QzF3bXBNZ1hR?oc=5",
         "published": "Mon, 26 Oct 2026 08:44:57 GMT"
@@ -41,6 +36,11 @@
         "title": "Werbung: Warum McDonald's die Zusammenarbeit mit der Fifa nach 32 Jahren beendet - MOZ.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaENqTlkzek4waEZJdS1hQWUyWjRjamF6bUtSdHZraDlnQkQ5X1BLbVhleXZucmx2UFFCUVoxYzd2UXFhRE54eDdNaTFmWlhXeWlHM09PY3p4cms3cV83OWpaY2NlYkdvVm9QMlJTbDBmN2JFRXViUlN3UXBZYk9PZ05SdGRseVJnZkhqYVBvdGxZSzFZVXVwSDREM2VXQkVLLWFqR1M1QnhJOHpZTWc?oc=5",
         "published": "Mon, 26 Oct 2026 14:06:47 GMT"
+      },
+      {
+        "title": "Ende des McRib: Fans des McDonald's-Burgers starten gleich mehrere Petitionen - Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjJ6ckJRVDdMV2VNcmxDcDdMb1VhU0J2ZnBvRjdKVHgyT21kTE9GOE92NDZycE80Q0FDLXZ1UWVZbkZJOG1acEJOaXBodFlhcUdEcnJwTExVTXgwMV9VaUFJVEZnblMyNXQwQ2JKcGFwNHBndVJMdzU4UlphdDMyWWZza1ZSNFUwOUtsUk5KOVl4X3V1bkhiaEtNeGpVOGU1d0FqR0NENUlLOVhTaGdsbEF2akdpUU9McFRZamhNZmdpakgtSUZlOUhqb0NpUnpiVjg4QU9DY3cyWnExM2d4REh1bw?oc=5",
+        "published": "Mon, 26 Oct 2026 05:02:22 GMT"
       }
     ],
     "Burger King": [
@@ -65,11 +65,6 @@
         "published": "Mon, 26 Oct 2026 12:01:19 GMT"
       },
       {
-        "title": "[Familiendrama Fordert Zugriff!] - Einsatzfahrten Zu SEK-Einsatz In Alsdorf Coppe Italia Juve (ccQS0Y2NLE) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3ZoZlVuUDFpTGhhNUl6REVYMFZORGVOOFdQUDlmeDZyZVVpcm8zSGhKMWN3LTh2Ylk5R3g0WTNjN24xSmFVMVlnZHpWZWhQSzlORG5uOTNVdUZycm9qRUpid2t1aGdfdTNHbGNrS0RrVHNCOU1pOU5KTWZrX0RtOFF3?oc=5",
-        "published": "Mon, 26 Oct 2026 02:46:08 GMT"
-      },
-      {
         "title": "Zwischen Kultstatus und Gleichgültigkeit: Abschied vom McRib naht - Come-on",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWndIeHNaX0FNVXlyZno2d3NDTkxXR2FCQkVNay0yT0EtZC00TDd0b0puVHdkakd1UGR1RXJ2VlJOMThYMk5vUmRERy1sQzJTbmZJYzdoMUxRbjZ1c3hTcC1Qa29YZVg5TGVRRnNEZlAzWG1WWDZNUDJpellYQ21iZEVVTU9nT2FjMEJtV0Q3SUc5RnRtM0hEdngxTk1LUmFvOV81c3JUT3NDRkQ3dlNuWmVEZlpmZ19OaENRSXJVMA?oc=5",
         "published": "Sun, 25 Oct 2026 04:30:00 GMT"
@@ -78,6 +73,11 @@
         "title": "Chick-fil-A-Chef stellt klar: Keine Öffnung an Sonntagen – das wird sich nicht ändern - kath.net",
         "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE94RXN0QTBFb2hpNGo1cDVLSnR0R2U0M3hJMWMwSDNIRldKSmlzUGxwT295ME91dnBtOW81Z1VYTFM?oc=5",
         "published": "Sun, 25 Oct 2026 10:20:02 GMT"
+      },
+      {
+        "title": "[Familiendrama Fordert Zugriff!] - Einsatzfahrten Zu SEK-Einsatz In Alsdorf Coppe Italia Juve (ccQS0Y2NLE) - Unisba Media",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3ZoZlVuUDFpTGhhNUl6REVYMFZORGVOOFdQUDlmeDZyZVVpcm8zSGhKMWN3LTh2Ylk5R3g0WTNjN24xSmFVMVlnZHpWZWhQSzlORG5uOTNVdUZycm9qRUpid2t1aGdfdTNHbGNrS0RrVHNCOU1pOU5KTWZrX0RtOFF3?oc=5",
+        "published": "Mon, 26 Oct 2026 02:46:08 GMT"
       }
     ],
     "Omnicom": [
@@ -161,6 +161,11 @@
     ],
     "Nvidia": [
       {
+        "title": "Nvidia Aktie Prognose 2026 & Kursziel - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YZHYtV2VJemdjZHlfY0dZTlpuV2pnbkMybS0tQzA5MzZjSERtcGVkdUVTd3pMaUFQOG1NVUp5cEgwRzh4cVBWYVR6Z0E4bWozUV9mQ25xRDZXT0xCMVc0VjlvQnJqRF92QzRMZEc4T25qaXEwRzBQYUJmTjBndw?oc=5",
+        "published": "Mon, 26 Oct 2026 21:15:44 GMT"
+      },
+      {
         "title": "Nvidia-Aktie: 10-Milliarden-Deal im KI-Streit jetzt in Gefahr? - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzdUS3daeVJJS1JLUVdqdUg3Nm9nZmVTZUJ1ZHVzcW9iWVdIVV81UHl3ZzdSMlEtSlNHejg0NDdCalU4NHVGSVVHVC02bmkzTndaNmJycXIwTmtFSjhweFRpNHh2RG1NWHlseXg5amNPb2hsWEJOZzJxaEpsVE5Td0VSZzNQcDlMeU51aVRGWlZaeVF0Nm1zYU4wZDJwa01EdndNb000N2FGNXk1bUVac0JYSHNVdHE4X1hPUVktSnd3TVE3a3Y4RWV6eHgtZzA?oc=5",
         "published": "Mon, 26 Oct 2026 06:55:45 GMT"
@@ -169,11 +174,6 @@
         "title": "Nvidia-Chef startet einen Enten-Hype: Doch es gibt schlechte Nachrichten zu den süßen Microducks - GameStar",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbE1yY1Frd3VpU3NraWpYeE8wdVBEZzJFWnFXeUtoQ05JSTVheW1tUHUzcmtHYmtxNUxSWmlwSjBNd1R2ZWhzLU5WTmZaMmhoeXlNam9VZzkweHJEVFoyRFBLdllRN3hfWWVhNFo3aXRNNFdiVE85THV3ZEZnaGJfX2dB?oc=5",
         "published": "Mon, 26 Oct 2026 13:34:00 GMT"
-      },
-      {
-        "title": "Nvidia Aktie: Rasgon hält an Kursziel fest - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVTdEQXhhQk1pd1E3SjNLR01vVWlZbjhTX1JTa255WHlwTndRNGlOWFdaXzR1WExaSmZBT1Y0cXVLby1jX2pEQ3Jmd2xiaUpDbi1faFdSYjUyVGtLa3BrdDdDTkdSUGtsbmpiTkRyVy0yYVFhTXBXMUVueXowQjQ2c1p1aUVFbXVhVXhaYUxzRVl3RjVhbng4MnZn?oc=5",
-        "published": "Mon, 26 Oct 2026 23:02:06 GMT"
       },
       {
         "title": "Merkel sorgte für den Atomausstieg: Nvidia schielt auf deutsche Kernkraftwerke - PCGH",
@@ -220,29 +220,29 @@
         "published": "Mon, 26 Oct 2026 13:54:15 GMT"
       },
       {
-        "title": "Anthropic leitet Börsengang ein: Prospekt eingereicht - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qT1JHU05ONlk3NDVDTGtsVlY5aUc5dFJUeTBYczFLbUJKelFoUzkxQWRWQkYyQi1CS2xBM2k2Zm9yMHJmYmVVNGRsR1FsMmFuaDFXbnBDN1Y4Wlhpa0tHSHJDdDZrLTZFal9rWENFVk4ySWpsMGVtUg?oc=5",
-        "published": "Mon, 26 Oct 2026 15:16:00 GMT"
-      },
-      {
         "title": "Anthropic: KI-Entwickler beantragt Börsengang in den USA - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSzBrZkVVMmhucXBvV0tuUFVhay1sTnlGNXBaVlBKR3NuOFNOZjNSaHdweWU4YWlURG5DWHl5ZVBvZVdMRk13NTlMM3hhYzNUSjZOekxKeWEtNlZWOEtqcXVEbGhpTUFEdkg4T2RTc2dfT0N2Mko2bENGSklfb0JXTGdqOFhTYXFKVWlrb2xwUWpVR1BOYXYzd1gzMlNjREZzbEJ4dW9yV0lkSG9IMXRQRy01NlVENkJwWmlYeGx1ZHcxVjNuc0hYUV92VlhyQ0JUN2pBYkhqX0U?oc=5",
         "published": "Mon, 26 Oct 2026 20:36:00 GMT"
       },
       {
-        "title": "Anthropic reichte Prospekt für geplanten Börsengang ein - Südtirol News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3htWlV5a3JSTEtvZHNtZGVOLWlZcTZOMDlmRUZoT0VEZU5PTWZJNVU2d1o2ckFYQUlzVmZjR1lwRGRQUWdYWm94U1NFaHpEdVdzejRnSy00bUY0WEtXcFZ2ejVpWkRJWWhPYmRoeXR5TlFNUWlHQzRjSlN6bzdKcVZ0TEVFT0Vkek9nNVNQZjAzMkhwdUNmZHgtUFRjUQ?oc=5",
-        "published": "Mon, 26 Oct 2026 15:38:00 GMT"
-      },
-      {
-        "title": "Anthropic will an die Börse: Diese Zahlen überraschen Investoren und Experten - Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEhrbWpEM0staDJyV1BzcHI3a1VXbVlZdEg2ZXNfUHpSZE9qeEQ3M1FJVWp3OXljUU1GYVMtdDk4ME1KbW5reHQ1ZzhvSDRFRmNBSUc1VzdZVWx3cGFtRVE4X19jUXBVUUhpU09kNXNuWDBZaThlLUk1SEp0Zy1zLVpILTY4MFJyUklXVzFBcUVDcTk2NXZ5WXVhWTU?oc=5",
-        "published": "Mon, 26 Oct 2026 16:09:42 GMT"
-      },
-      {
         "title": "Sozialist Lula gewinnt Brasilien-Wahl – ETF stürzt ab: Anleger fürchten Wirtschaftskurs - Merkur",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHJTUDhzTlp3TnM4VU1oMjQ2dTl2Y09nLUx0WDJ3aTlNMWluaTR4S25EUG11Z3ZSQ0YzbW9jNGJub2dfY1VpODROYVFoOWp6dThablhWeEM4UFBhZkRTM2tRLTk1RkYxU0hFY3RWYnJfcVc5d1d1ZFdRVERuakEtNEZMeWxSUGZNQV9iNlc2ZmZjSG5ZMGdyNG1BWFZESWQz?oc=5",
         "published": "Mon, 26 Oct 2026 09:34:07 GMT"
+      },
+      {
+        "title": "KI-Entwickler Anthropic stellt Antrag für Börsengang - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlCZ0h4MDM0MkFyU0lyTmJURVY5OUFnRlBLRGZKYjVzaTdBWUM2Rk5SYUZWZ05vUnhZR0xaTkNsZVdCUG1aVXRGQU9zVm16SW5ueG9SdFdQOU9LdUpnd1ptbVY2a01lcjVzdXRzaWdZcjM5LXI3Y053ZkRfUGlRbmxkVEdHTTJ1Zy1PYlkzM0JHU1BMYW92bDdiN3BUblRiLTk5YkJmUjh6Ry04dzc3LXV3N0ZqOGM?oc=5",
+        "published": "Mon, 26 Oct 2026 16:56:55 GMT"
+      },
+      {
+        "title": "KI-Pionier Anthropic beantragt Börsengang in den USA - Watson",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3l1c3FyekdFMzdwUzNfU1IxeTZHM2N5RTRYMkVINFVFQ2o5RTF3S1ozdml1WHhBN0xWeml0bzZhbnBUamNkRG95TkE0c1FOamJFWlhvb0VDZFFCeHR1U0RRQWY1RzRvclFzZEJzYjh0NHVEeGp5a1AzTkJvb2NGMWFidENOVWRpNXR6RFpnVDV1OGhzb1h0WHBhWjY1SkI4QWp0SE1pQld6ZWVKRlM1UVRRaXhTZHd3NVZjdk14anBfQQ?oc=5",
+        "published": "Mon, 26 Oct 2026 14:43:09 GMT"
+      },
+      {
+        "title": "Lula-Wiederwahl: Brasiliens Börse stellt sich auf Unruhe ein - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNandDeFdrQ05fMFFoMGoybmlKRkE3MnM3WXd0QXNzWDUzd3RZZjFxbFdwa0NSWTV5MW9vakEtQWxPTGt3REZyTjR5Q3VvN285UWdEU0hGLXkzOERKVGhBbU00VEtxVzhORldOLUJ0RXlqbTFhemFZUEFjSG84QkxHOWYyYmRtMW5mMEpXX2I5b01JSGpwV19KcFBjZWNhajA4V0NBRElOQVVrQXBrSUROd2VTbVZNY0ZVMTdhb2ZyRDZ0MnJXejdYMQ?oc=5",
+        "published": "Mon, 26 Oct 2026 14:20:41 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -250,11 +250,6 @@
         "title": "Connected TV und Programmatic Advertising - Netflix erweitert die Werbekooperation mit The Trade Desk - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1F2M2tTcFpFeGFhbGF2OExvTFpIYmhtMTJKQTIwelBYRTh4S2dkOXBLVjZQX19MUmoyVXUwR0t1bGgwN183VUVnSDlYUFhXTHBhUng0RHdzcXE5SlpIeW9sS2JHWVIyRVF1NkMzSDJGNjM0MFJNX0F4ODR2SXFTVGl3VFFRME8xREQ1SHVCbjFLRW1EdGpyemZkVFNpa0FD?oc=5",
         "published": "Mon, 26 Oct 2026 08:47:03 GMT"
-      },
-      {
-        "title": "ChatGPT-Werbung: 31 Märkte, Claude bleibt frei [2026] - shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UXZwZjhtV2RaNEQ0ME1TSmVzUUpPUEx2Rk9sSUxOek9BbEFuMEEzMTJyU1E2Tlk1czIyU2FaQTNET2pwcVF2dWlPcjFxTWIzTVNJR1lrOU9tMnA4eWtIQld3R052by1VRC1VMWk0eFpzazJIT2RmX2M2a0Q4Q28?oc=5",
-        "published": "Sun, 25 Oct 2026 09:14:18 GMT"
       },
       {
         "title": "Dentsu Creative CMO Report 2026: CMOs zwischen KI-Hype und Sorge vor Slop - Horizont.net",
@@ -284,14 +279,14 @@
         "published": "Mon, 26 Oct 2026 14:00:20 GMT"
       },
       {
-        "title": "KI-Offensive von China: Mit KI zur Digitalisierung der Bahntechnik - digitalbusiness CLOUD",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTVmU19qbG16LWlkNC1BWTA3RXlKWUFOYUx5SHE4VTNEajhuNmoyT3p2dmpXdUtfZl9PektaV3JrZ0lyMTdXMmZpRzBDRkZXanBiZlNzaENYSVgwUkJjMHRFaWVhdmszMjV1a0hNaDBSNzBrdVpEcWpOSy11UHczV1NnVzdmS2d6cTlFYWwzMzRwUEh4bWQwempsYnpieWRUZ3B1TWZWVXI3bEdSWDRVeDBBd3h0ZWNGNm1venRONjB2dTFqSDFURG5NZEVfNTVUYUdwTE1nSQ?oc=5",
-        "published": "Mon, 26 Oct 2026 16:45:00 GMT"
-      },
-      {
         "title": "KI-Blase platzt? Warum ein Tech-Investor jetzt bei diesen 12 Aktien Chancen sieht - WELT",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQW9yZjRSTTkzd1pxa2h4QVdKNEw5aV85NG5ZdGtBNUxQYnk3bzNpSnAteTl5bXNkVS1NUmFQM3VfeFBkMENhM1htUFFjM2xNU1NDY25MTDZHNjJwREtfTFVmTS1YUXhtSmgyWjM2OGtxVjhYREN5d3VHQjRRcHYwYUc2TVZWWnl0STYyR3pIMTBYa052am9iMVZoS3NXcGsycEpNVUJSMi1tZEZ6ZkVBRWlJQTJKeU9ZRWVNLS1QNjFsdDhUNmM3UXFjTmZxdENyMjJLNTlXVWplTHM?oc=5",
         "published": "Mon, 26 Oct 2026 23:27:11 GMT"
+      },
+      {
+        "title": "KI-Offensive von China: Mit KI zur Digitalisierung der Bahntechnik - digitalbusiness CLOUD",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTVmU19qbG16LWlkNC1BWTA3RXlKWUFOYUx5SHE4VTNEajhuNmoyT3p2dmpXdUtfZl9PektaV3JrZ0lyMTdXMmZpRzBDRkZXanBiZlNzaENYSVgwUkJjMHRFaWVhdmszMjV1a0hNaDBSNzBrdVpEcWpOSy11UHczV1NnVzdmS2d6cTlFYWwzMzRwUEh4bWQwempsYnpieWRUZ3B1TWZWVXI3bEdSWDRVeDBBd3h0ZWNGNm1venRONjB2dTFqSDFURG5NZEVfNTVUYUdwTE1nSQ?oc=5",
+        "published": "Mon, 26 Oct 2026 16:45:00 GMT"
       },
       {
         "title": "Künstliche Intelligenz ist jetzt an der Spitze, doch kaum jemand hat es bemerkt - BeInCrypto",
@@ -351,9 +346,9 @@
         "published": "Mon, 26 Oct 2026 10:30:49 GMT"
       },
       {
-        "title": "Meta-Aktie gibt nach: Konzern will mit Aktienverkäufen Kapital einsammeln - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTB3N1dsOEZrRW10VDVNU0Z4VXk3UkwyY3BCYXlkb280R2JQWE5Rd1dielEtdGYwVm9vTTVHZjQ3UEFLZ3M4QkIxUFlGUHpmZzRDUlh1Y2hWWkUyaXVib3I5LUtpcGg1MW53eXJPNUlITVVhdkRHSjBGcTIxTlBmdkx4dkNxQzhXOURVSE0tSXpLZkFIaXUxTjhxRTN2azI1dFR2TkZxc2lQaExoMnFOODJsZndCVGNGTER1cDQwU1lfSGlf?oc=5",
-        "published": "Mon, 26 Oct 2026 20:02:00 GMT"
+        "title": "Nvidia Microducks: Mini-Roboterenten lösen Bestellwelle aus - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHlhaDVhRGpWYnhDcDN2YW9HXzBrYVh6cTNXUGFPS1lpYjN4TGlPRlFad3dVUXVPSjVBVV9pcG1RYVJSbHlEbkxWcldjTmcxMzNBeXZ2LXg2SjNoUnNBeHo1MmJNa1JTV3hQOHRUU3Z1YlJJSWNOelhTdXJkX2RrUjZCYy1vd09RVU1VTkpBWGpEb1hDa2RSaGpqUjItSzFrZlBqMUpja09JeTdvY3pDNHZkRTA2WGhQWlF2Ny16WV9McHc?oc=5",
+        "published": "Sun, 25 Oct 2026 20:03:36 GMT"
       }
     ]
   }
