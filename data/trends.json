@@ -1,7 +1,39 @@
 {
-  "fetched_at": "2026-10-27T15:40:00.548913+00:00",
+  "fetched_at": "2026-10-27T16:27:06.118969+00:00",
   "countries": {
     "AT": [
+      {
+        "title": "israel wahl",
+        "volume": "100+"
+      },
+      {
+        "title": "atp wien",
+        "volume": "200+"
+      },
+      {
+        "title": "dfb pokal",
+        "volume": "100+"
+      },
+      {
+        "title": "großfamilie",
+        "volume": "500+"
+      },
+      {
+        "title": "erste bank open",
+        "volume": "500+"
+      },
+      {
+        "title": "gewalt",
+        "volume": "500+"
+      },
+      {
+        "title": "flugzeugabsturz",
+        "volume": "200+"
+      },
+      {
+        "title": "wärme",
+        "volume": "200+"
+      },
       {
         "title": "khachanov",
         "volume": "200+"
@@ -9,80 +41,48 @@
       {
         "title": "playstation",
         "volume": "100+"
-      },
-      {
-        "title": "rhein",
-        "volume": "100+"
-      },
-      {
-        "title": "kreisverkehr",
-        "volume": "100+"
-      },
-      {
-        "title": "handball",
-        "volume": "200+"
-      },
-      {
-        "title": "carlos alcaraz",
-        "volume": "1000+"
-      },
-      {
-        "title": "motocross",
-        "volume": "500+"
-      },
-      {
-        "title": "sozialhilfe",
-        "volume": "2000+"
-      },
-      {
-        "title": "anklage",
-        "volume": "500+"
-      },
-      {
-        "title": "tommy paul",
-        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "houston weather",
+        "title": "kawhi leonard",
+        "volume": "2000+"
+      },
+      {
+        "title": "essen vs rb leipzig",
+        "volume": "1000+"
+      },
+      {
+        "title": "alex pretti",
         "volume": "500+"
       },
       {
-        "title": "weather houston",
+        "title": "gta 6 delay",
+        "volume": "1000+"
+      },
+      {
+        "title": "gta 6",
+        "volume": "2000+"
+      },
+      {
+        "title": "victor julian duque fbi wanted",
+        "volume": "500+"
+      },
+      {
+        "title": "citi aadvantage new card benefits",
+        "volume": "500+"
+      },
+      {
+        "title": "indio falconer downey",
         "volume": "200+"
       },
       {
         "title": "arthur fils",
-        "volume": "200+"
-      },
-      {
-        "title": "yella beezy",
         "volume": "500+"
       },
       {
-        "title": "deion sanders videographer uncle neely",
+        "title": "houston weather",
         "volume": "1000+"
-      },
-      {
-        "title": "alcaraz",
-        "volume": "500+"
-      },
-      {
-        "title": "joy behar",
-        "volume": "500+"
-      },
-      {
-        "title": "carlos alcaraz",
-        "volume": "5000+"
-      },
-      {
-        "title": "robinhood",
-        "volume": "1000+"
-      },
-      {
-        "title": "kyle larson",
-        "volume": "10000+"
       }
     ]
   }
