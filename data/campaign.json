@@ -1,100 +1,100 @@
 {
-  "fetched_at": "2026-10-27T09:55:38.616365+00:00",
+  "fetched_at": "2026-10-27T13:05:19.931224+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Beavertown offers ‘unbecoming’ makeovers at Halloween pop-up",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWYxV085MFQyWVJ0S0FqUEhyek9tN29aekNtUlJGMUxMLXBpLVlrVnlHNnlDckVyVmRxTDNKelczV3pNbmlreGdtV3dfYWx4MThnU24wYVRZWGlubnVNVndCb0RfRTJJWTNLaEJmOXdSNlA0UUJuNnpuZTdvMnFaV0ozN2ZBOVR0OXFPLVZIdU96WWp2b0dac183Q2NrQUVwUTRmbmxfdVFfdlVZZlo3Qkp0dVdnbXp3RHJjVnhoWkJyUQ?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T13:02:31+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Power 100 2026: top five in consumer goods",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTRvNXl4Ukd4VE02bWllX0FsQnVTT3p6MktVdmd5TTItSWZzdUlPeGVvRjNqbWJiVFlFSi1iVTdETFhEcnUwLUhiS3hTUnpfU2hLZmxDaDNGMEJaaWtkbm5SZHFKMVZEeUp3dFdsclZBWFlucG1pb0hwWlk1cDExV2lpREZxZnl2Wk5kSEVQeUlpZEVJNkxRT3NHbFZLVzhWdFVuei1yRndPUUU?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T12:54:38+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Why Deloitte sees sports sponsorship as 'huge opportunity' for real impact",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0FrS2tjRV84R3dfb3RsblhCekxJeEFLNHhWaS1mSjhXUE96TnhFeTNSQmlvSFYtLXRoWmRlUy1lY0ktamkzNE1nNVVjRkk3eDVGcmtyNmlUUElidC1qajZhRlVHenR2SG1WOENBbk5kOTJjazdBbEd4MWdTSENUU1VwOWFJUDhJMjAxVXRndUp4SksybDJvUzdhNlMyOWp3NXladHh0NjEwZXNCTFI4VUJSbkhZUV9Ocld3UEc3ME8tSTFJcFBSQklxMGtTTi12SmFJag?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T12:22:35+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Cancer Research UK confirms agency appointment",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVNCU3pTbmJUdlBpby1kY1dSbGVPd0h6REpydmRyS2owR3p0cFZfWGR2RFZYU09vSmZvd00zbjJFNU5mV1NMM1M4aWtQYWxXWkpob3ZiRnlsSE1ZX3VPYldzVEtHUWcwYTRwSmhGRDZGUHVzVkVSQVNDa0pGTlJ6MWVvYXVLdW9qYzJDUHBlUVNwdWtmYTl3SWlzQldYSVdxa3BsYkRPY1BLRGR4OEE1V0d3?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:54:33+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Perfume Shop plays on scent of enduring love and memories in Christmas ad",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWo0WndpVjl2YnlUb0RlU195X2QxV3FIaWphaFotMHE3UVZ4a21wQUFCOVFEeUlSMjFYeDRfcURIOGlydEZRb0l1V01wVU1Pbmlhdkc2RFhFTjF4UWtMaUlkODk1ZTBPcUtKVGJkQ09iSFI5dzRKb3d6cFpCV2VSOHlQUG1vVUluNU1HUzhnemJCU21tNFFlMlUtWWhGUnU2Szk2MFowMjFGWXVoOWxBRDA4S3ZUbFItOTNWMjEyWDFfTHJmNzRwS0xqVDRiT0xLTHg2d0VrbFRhSjg?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:48:45+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Stagwell buys Freestar to boost owned media capabilities",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnU5ZnhhQ3NVQzRGQnd1N0V1b1dfVXBua2FyMkdBMXc5TGpGd2FmZTN6MkxyVDAxdG5GNXFTNTNOWFJIZXBHajdKa2hhOXlHQ21tcHVObERPNFFOQlgycFU1QVNYbVJ1ZGJFaUF2RkZUYW5qRnFiZlp4SVpfbGFRMTJhYnNaWXNlTkFQX2Y0akUwd19HX2JJSC1MQWlwMHVrLTZHdXBWYjdSbEo1RDZJOW1VNjJkTE1VaklJX1F1NA?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:48:45+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Sixteen campaigns that made the Mother-Ikea partnership",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFB2bmJUTzMyX1NBZHh0MlR5SDBsWlNDd2lSMktfQjRNV0RsV2w1QTJxbWlEanJfUzAzTEp1SlNOakFUTDRUT3BRRGlCRHVVb3hWMzVIM0tDS29TdkViWE9lOXowZU1BQVh2bmdXN3JhLWpSQm5BVURFN2QzUUxFTjU0TWZ0bW4tZFlPbUFsS2otdFV6UUZjanNHdE1kdUF6WlZDa3gyTDk3SWoyWHdkU2MxX3dkRjFfVHlxaVl3?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:42:27+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Spin hires Born Social's Kate Higham as CEO",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFhSME1zdWpGcGV5RWM4cndBNURSOE02YmxjN0RUQktyang2VW9Gemp4dnA2M3ZvMzgtVm5oQVdpY2tZRnJMeEdLYjIwal9HSkZvYzhPVDlHbGh3SThqV2Q0emkzNVk3U2NJQlJxb2xHZG45RC1wR1lSandFM19Hc25jbzNLSlZ2dmZFbjk5Q29mUlpaOFprSHpUSXF1YnM2Wmx6cmYyak9HQkcwaEE?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:35:10+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Disney+ to feature Channel 4 shows in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUZTbFBEUF9sckdma3F1OVUyeXJydG1OX1Rqbmw5WmVBQUNKQjJFSzZRTFhmRmQ0SWZKZ3lwVWVZNm1vSlF1MFE4bUNVVVAwNEVCU180Yy01N3U5aTZFN2lOSjhiNEt5c2ROeGtTN0poSEQ4amJmekI3Sm1Xa2lGRnBzYllUTlEwWGJ6WlFFRDBiVHphNEYzdWU4am1LSDJJeGdpMVY0OEFIdnM?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:35:10+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Channel 4 shows to join Disney+ in 2027",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXNhYmp5bXpiOHpObkZWSy05ZW9rRkpEbVZfOHkzWGZEQ3AtaVVELTdNTHhmRU5Oa3d1ZEFhYlYwdzhoTzNmMnVJa3RpWXBEd1F5dGh3cmk3VzNaTGdiN2pBeHNydWs0bUpSM25SS1I1M2g3UmdzRl94dTljZWtHTV9SMmFmWjJZVDJrZ01xZW1mWlNWTzFpOFE3aUNXZXpreER3Wk5wNA?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:14:29+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Perfume Shop’s Christmas ad turns a perfume into family tradition",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa0wwZ2RCaUVmLU5GejFONWo2M3RUSUVXODh4SV9kUUlHUklzc2U3S0N3MWEzNTBGa2FMMEhaNDBGcGRaWlItdDVMc2RqekRBX2hoT2psT3RCZTMtYWNrYkRQMU5Rc0hLUUxIbWQzV0R3RGNXaWtkSF9PV1dhOGhoSC05N1BGVnptMDdGY0hsNndQY0c4QVZjcE5FbEhZU21tRUwzTXgyWTgwV3c3azN3TG5sMHN1QmxVN2s5Q19aWFVMVWdwcU1fZmd1SEJNWnZj?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:02:19+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Why Knox is sponsoring Newcastle United FC to launch its drinks brand in the UK",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXVmOVJqTVpuQkVvUTRvaWxMYk5zb29kNkVYZnNjNkJOcVU2SU0tM2hBS21lcXF4UmF5ZWlPRktCcGhEZjFsSUE5TlJ1akdyWnk5UExTVEVPLVFsWGJxTmhsVldqd3B2QXFjUVNuTmVPWFl5UFhQeEhZLVZuNXFkeWxRNDdET21MWmIwdFpWeUdWWVJUajBrTmR2TjBrQ2JxVUFGd1Z2ZDJteFBlU0stdl9GMjU5S2xBa09mcmpxN3NfaHpoUzZtZExRYXIwN1pPcTVqSFh0Q09WQXZ4UGc?oc=5",
       "published": "27.10.2026",
       "published_iso": "2026-10-27T09:42:01+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Why Deloitte sees sports sponsorship as a “huge opportunity” for real impact",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTBaa0NKLVh3U3lsZF9VSTVBV1Q5SjBmRjlnWkZsMUxJcWxBZ0NCUVRJeWR6eThjcXBBOEhMYUQzRUZkdzEtcGx1eUlVWWRBaXBRNHluQmQyRkNmWHkwZWduUmZjbWRHNDBXdVRaQmpEemNuRDd2OHNiaHJGRUJKM3F3ektXTzdwN3dmWldWWnQ1dl9KVW91QmExQ09EMjZoakFPNmRCLXdVaDIwYUNIZEZrbDJIRjBWRFZGNGdoOXJlclpTZjhDWndwYmNmUXNBeEFBTTNITQ?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T09:33:45+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "How sports drink Knox is aiming to be front of mind via its front-of-shirt signing with Newcastle United FC",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSzNZN2diQjhTdW51Z0ZUTXI4UTRHV0M0c2hTYVQ4MGtNYk1TN1h6Z3U0UFJrVjMxQ255YS13eEIxYlNzZXJ1Q1BCbmV2TTZTQVJISklpTXRBanluMU9IRDVKSG0zSVB0YzU3RTZMY1FRZE5HR0o3MWF0NHdPUS01WWNRNFJIQzdsalZKeE9CTlFUblNmRUZiSy1uUmE2VzFVeV9YMEkzNGJlWVdETkJ1QjdZbHpmYlUwVGlJTVRyY3hGZWRPalZUQjAxTGc4VEJmN0tPYnFpZlUxWmhYS0ktNTlTVGtfRE9vLWQ5UkRIYVRaalo3QnFfQk5qdF9XLXJmVENV?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T09:31:57+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Haygarth management buys majority stake from Omnicom",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWVnamRxbGVDWWtJcHpXaTBhelRzNl9RVHdxUE9ZZ2g2LWxRaGpmQksyOUFhc3dlNGJQZDlha3FyMEQ5UFhlamF6T2VFWmppZG9hQVF1TTJPalV6WHBrWjBKQ2pYNWU5QjFFLTdGN0w0c3JBc2tQd0xlSy1qV2ZIV0cxM0RxcFNHRXk2alkyYTNKTU5ZQUhZQ1E2REE3NTBkWXY5cG02c3I4ZUc4eEhobm5zYnRuSElhWkE?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T06:19:18+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "What makes Campaign’s Power 100 marketers influential?",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHJBX1c4bl9VWjFzOGZZNzVTSnJGTjhKWE5abERxN2gxMGh2UXFEYjhBalVjbGxDamdhM2FubWlaMEdpNFlGekxWWHo0M1lOYXZfcEpmRktJWUhxY3lnek9Jc01sZExadDFHQWtQLXEta2p5X0hvb0tIQ1lmd19wSFlzeVhkckV6UFNlY3NWLXhKQXZFVjhGVXZRZERDMllxN3VHb2NEQUhHal9EekJnWWlodHdmdU11ZDNj?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T06:11:29+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Coca-Cola gives local business owners the royal treatment",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWJBbjRrUnB6eGRWaFh5UzVJVW9LandPelFzQy1zN3NjOXVHNDljWG1OSFh0MzBXeWlFSmNJUFY4Z2JyZmtOYjlTS0ZndG1QWEkyVW1uaWhDM05DandLQV9zOUp2M0dpd1AwaFZxUS1oWnN0ekV3bWxkem1zZDhMNUlfbEc0bFBrdjg1QW05RlhCRmZFLTlTY2NDclJ2Z2pRejlkN3gyWmlGYmVQeS16SW0yLTdyc1lQRHRjd2l4QnM?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T00:05:44+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "McCann global CCO Andrés Ordóñez made global chairman",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOE03bkFZaUhhcGlxMjhaVVgwUXdSM0lxZWFlN0pySWhKa2dTNmxtOGhMTjl4ZDczaExQRk9HbG80UnhSaUxySnpiRXpyV3ZZRkVoQlFlSk5DXzRhTjZhVDNZdDhIenVhSXNHdHAybFJLVWxkSVo2WFpuUlFkLVRpTXdPcURBcXZqdEoyNlVUa25Ld056SGhMSTVTQVlKb2FqNGxjWDJlZ0R5NWd0TldUNmlJZi04MVgxZk9v?oc=5",
-      "published": "26.10.2026",
-      "published_iso": "2026-10-26T17:05:21+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "All that glitters: build cultures that make people exceptional",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2Nmd3poSmVjSHdtUjVMaHRRRG9sSDJXd2xxa3NCQzJFc0Ewb05XUmZqdjNGaXhGdWlxYkt6VU1remQ5ekNibXQzOXhjV1IwaVNtZS12ZWpOMUI5aU83dGRQa2NPWnBCclh0VFVRQ3lMWTA3Z2VwR3p6cG1uX1NDVmJSNDZwY0V5M2pfSWxNNWJIYWVxV2FfQWlRdkZ0MTE2VjRyb1BEZlBlZVRBZGFVV3RTejhYTGU3dTBmVjhxZ0tzU1VRT0E?oc=5",
-      "published": "26.10.2026",
-      "published_iso": "2026-10-26T14:57:19+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Plusnet aims for Plusso points with introduction of new mascot in social-first brand platform",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMG5xM0JNMC05NmZFUTk2UENicVVtLTFka2RzNktIRk1TcUJVWWVQc0lkY2hVMDdTUy1ZQ0lFZ252NTZ3Uy1fcHVFM2djaDJCeWs5aWpFOVhGVFBvQ0dsaHAyaGV6TG5FUjhQblhmRFA3Rml1WmhESFQzX3ZjVzdHS3liWTNwdXJZTDhoRGtzdWZaUEFIQnRubmRNX2htZUVHVmJDWFBFTFoxNHNuUkRobWE0OGk3XzdIdEhMWDI4RFBSVjVla0dJdzN2NjdzelVteEczNnBWNm1RX3cxNWNMRnJlbEZfT1U1cVp6NXlTYW4?oc=5",
-      "published": "26.10.2026",
-      "published_iso": "2026-10-26T14:49:54+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "McDonald's walks away from 32-year Fifa World Cup sponsorship",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWRHWElqVm0za09QQll0NV9vTnNWdkVYZGpMLXJiQWpxSTlYSHFldVRGLVE3ZEE5Uk9YLTc4S3ZOdlpNY1VKaElLdEo5aVdndDZfTDNoUzBZOVhibV9TanNjUUYyRFZrWmt1LUVRM05PbWtyejRkMHB3aTlVTUp1ZHFPcFhKQnZuUUQzdmVfengzZTJkdWN6TkdjLUhha2Z4ektqRzhUU00wWUVwaEd1a2NEaVVtTmlrOVJvYXFRQnNPWVhHRGc?oc=5",
-      "published": "26.10.2026",
-      "published_iso": "2026-10-26T14:35:12+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "AI Father, who art in heaven",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGF3ZXBKODVhbVMyb0l3Y3NJazR1MHpvYUlJbUphQVB5NG5RZzlHQS1XQzJhUVJjVDNSclZIZTNsVkFwd19BWUpNSlFRQlJGTFpsX3M5Qmtac19SR2o3dHhUQzJlSTgwRUJHcFJnTjFtbTc3RlV3dy00WG9kcVYzQnpQaEFIeTV0Y2EtckxEVGRRRkE4SE1RMg?oc=5",
-      "published": "26.10.2026",
-      "published_iso": "2026-10-26T12:23:58+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Common Interest expands US footprint with Mirimar investment",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdkJ5VFI1b3B5elV3emQ4eDFQNC12ZnJfa3A4cTI1bk9BTFBaVWxjalpYczBUN2ZkSFZqcFpDVkUycXc0ZXFPRm5xcEhqS0hvM1hyQ0IzQWdPY1A1R0YzWGdoYUNNTWV3WS16RXhCRzFYVEJQZ3EwUHJXX3hlQlhYQm03OGQ0cklucmNISDBOaUc5LWVsWlpIZGZTQzkxa1NkWms2eXZQb05WNVo1NlV5ZHZCOWJMdkVfMGJYc3pXclppQV9H?oc=5",
-      "published": "26.10.2026",
-      "published_iso": "2026-10-26T11:49:42+00:00",
       "description": "",
       "source": "Campaign UK"
     }
