@@ -1,14 +1,30 @@
 {
-  "fetched_at": "2026-10-27T08:21:24.853289+00:00",
+  "fetched_at": "2026-10-27T09:07:15.346212+00:00",
   "countries": {
     "AT": [
       {
+        "title": "actionspiel",
+        "volume": "100+"
+      },
+      {
+        "title": "infineon",
+        "volume": "200+"
+      },
+      {
+        "title": "florian david fitz",
+        "volume": "100+"
+      },
+      {
+        "title": "rettungshund",
+        "volume": "100+"
+      },
+      {
         "title": "stubaier gletscher",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "der halbwax",
-        "volume": "1000+"
+        "volume": "2000+"
       },
       {
         "title": "monaco",
@@ -25,64 +41,48 @@
       {
         "title": "michael van gerwen",
         "volume": "100+"
-      },
-      {
-        "title": "nuggets – warriors",
-        "volume": "100+"
-      },
-      {
-        "title": "bergrettung",
-        "volume": "1000+"
-      },
-      {
-        "title": "nachrichten",
-        "volume": "1000+"
-      },
-      {
-        "title": "jannik sinner",
-        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "earthquake now",
+        "title": "antonia ruzic",
+        "volume": "500+"
+      },
+      {
+        "title": "pak vs sl",
+        "volume": "1000+"
+      },
+      {
+        "title": "333",
+        "volume": "1000+"
+      },
+      {
+        "title": "dsa",
         "volume": "200+"
       },
       {
-        "title": "earthquake",
+        "title": "apple iphone duo",
+        "volume": "500+"
+      },
+      {
+        "title": "cricinfo",
         "volume": "200+"
       },
       {
-        "title": "and",
+        "title": "new york",
         "volume": "100+"
       },
       {
-        "title": "ipad mini 8",
-        "volume": "5000+"
-      },
-      {
-        "title": "matthew perry",
-        "volume": "2000+"
-      },
-      {
-        "title": "stanley",
+        "title": "black friday 2026",
         "volume": "100+"
       },
       {
-        "title": "wa",
-        "volume": "100+"
-      },
-      {
-        "title": "phantom blade zero release date",
+        "title": "sa vs aus",
         "volume": "200+"
       },
       {
-        "title": "rockstar games",
-        "volume": "100+"
-      },
-      {
-        "title": "nz vs ind",
-        "volume": "5000+"
+        "title": "claire liu",
+        "volume": "1000+"
       }
     ]
   }
