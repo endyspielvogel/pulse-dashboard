@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T22:06:59.051111+00:00",
+  "fetched_at": "2026-10-27T22:38:11.009850+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -11,6 +11,11 @@
         "title": "McDonald's Deutschland: Die Mission: World Menu-Produkte - Horizont",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zSTZ0MkVaSDRYQlBDT3hZcnlXRDZoTE41Nzc3dXNnbU5fMjdTV0R0Y1dZQzlGVXZ4ZklOUzJGNHBqTlFjeEdUbVIybjNFRjc1NXFmOFNTYzNWM2tqbUctV3lpb3Z4X2kwS212bWFZekhnQ0RPY3ZMTU5n?oc=5",
         "published": "Tue, 27 Oct 2026 20:12:54 GMT"
+      },
+      {
+        "title": "Abschied vom McRib - McDonald’s nimmt Burger aus dem Standardsortiment - TAGESKARTE",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEZDZWdxcTdXS1RKTzNsSEJ2VGJqRkpmVElRWWdkVl9lRlkyNW03em1WM3pIckd6eVU2cVN5MkJCMzJBYjFjSjNvOFltcnpBUnRqVVB6djNTWTNCVmx2aHBPWjBsVm9mVHUzOUhabURnbUFDaDYzdWt4N0szaVZpVVZWWXliMURaTHBSQ2Jab0R6eEJUUmpPOUh4MnlmR2JnTDYwanV1TU9nOU1lR2M3SG1ac19Kdmxk?oc=5",
+        "published": "Tue, 27 Oct 2026 21:46:54 GMT"
       },
       {
         "title": "MCDONALD'S - HEUTE endet eine EPOCHE! - stock3",
@@ -28,19 +33,14 @@
         "published": "Tue, 27 Oct 2026 08:22:14 GMT"
       },
       {
-        "title": "McDonald’s beendet Sponsoring der Fußball-WM nach 32 Jahren - TAGESKARTE",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1B1Nm50Q3BoaUlXLXVhM0V5dlBYazBtS0E5eUM2aTJMTVlDNXBLWERuVHRoSlZ4RW9wUnlzLWt0NlI1Z0RoX0Nfd2gzcWxiaGxNY0VuVm1OZnBValhHakZoU0RGSWw2OHNPVm9DZ1R4UTVEbjZ3bUVnaGt3NGpoeXhHY3RsYy1ralZPUmp0MFF1X2t4RGJwRlR0dkhWRXR4RFRqemRQMEwxM3c?oc=5",
-        "published": "Tue, 27 Oct 2026 18:35:35 GMT"
-      },
-      {
         "title": "Sportsponsoring: McDonald's beendet Fifa-Partnerschaft nach 32 Jahren - Horizont.net",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZERoVmwzY0FJVGFhZDBCMFZFblU3ZlN0V1JVaDhjRWtmOGNpeWl0NWZYOTNjNFRQQ0xSU0RHZGtqRkVnb2pLS2NVQktQWDMxdnZ5SGdKR0lUaHFjR1dGWHI5Z2lUXzBVT0d4UUMzN3JuR3hrem0yN2lvMzRVR2NlZjZLVG9xTmRIeFVkOWxBOVJhdmRXWm9GbTB4MmxJWDhiQXhIUw?oc=5",
         "published": "Tue, 27 Oct 2026 14:01:00 GMT"
       },
       {
-        "title": "Limitierte McDonald's Fry Mark Maus besteht aus recycelten Happy Meals - Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORk9VRHNUZXpBdlVzQ2NLeXZhd1cwcC0xNjRQaVJGbkV2RjRwTmd4ckM3ek12U3FPdjFwQ2ZOOEUyVXVJaVo0VnZWVzJzZElmVXVPNlhIX0R4TmlxXzVPdkYzQ24tenZOQzVBVGlfLWlNbDd2Y2hPcVhlNHRMQTViTGJUemVFTFNNX2x6RDY2UDZxYW0zNmFBVEx4cDZIb3h0RUhkZENiN0NUWHVYcGE0MXVmanFTUQ?oc=5",
-        "published": "Tue, 27 Oct 2026 20:07:00 GMT"
+        "title": "Der „McRib“ hat heute nach 37 Jahren seinen letzten Tag - STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHpIeWxVTVNwbXJsYUZXLXlyU2pXd0FLVXlLaVFidC03TVM4WEpJRUh4bXNJMXVsak9sR2x6aExIdUNBYnRmVUdjVVFrUHFzSVlWTEZIb29DTnFySVJEMzlIbUhlUzJfNlV4dGJZMTNpdkFDRWpxVEgzQXFZZG92U2F2blFXLTVsbjgxNGRIZmVwVi1mUVJkZGg2R0l5SUtZTXJHVFliREhnS1lSRzg3QWNJWUx1ZXVUbEFZZg?oc=5",
+        "published": "Tue, 27 Oct 2026 07:09:00 GMT"
       }
     ],
     "Burger King": [
@@ -134,11 +134,6 @@
         "published": "Tue, 27 Oct 2026 12:28:47 GMT"
       },
       {
-        "title": "Diesel im Test: Darum ist die Facelift-C-Klasse als C 250 d eine verlockende Wahl - Auto Motor und Sport",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPck5aNW94cldhRnNXNlBaSnR0SDQzWVMxUXEzcnFpM1JtS1pRTkJZM3lOTi1HWWVaOHcyQU9TWS14U3FMNUFFRmlETkdUUmhOTVpVb2dRR3MxSlcwWVJrRDViRkRycFpVLXFiemx2RE1RZXdjRkgxZ0RSNmZCQ29hN2F0LUp4NXVQOFBzYmhzSi1QUWhfN25yVFBWVFZlTV9xaVUyeGcxWHpuMVNDcmRybjJHdy1obGlpZWo0?oc=5",
-        "published": "Tue, 27 Oct 2026 17:18:04 GMT"
-      },
-      {
         "title": "MERCEDES-BENZ senkt Prognose für 2026: China-Schwäche und steigende Kosten belasten - stock3",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmRrdGpMd0VmN1NHY1J4NTd0X3JyVElrQ3R0YmJSeGJjZmRNQ1ZicjdwXzBFakkxalVNNmdkUjBOZGZoSlBqWTNadzNjU0pPYUpCenNWNFRsckVNWEFMTjdQS0tKR19SMDZfOWpzS0FEckdQd2NDZEJEM3BXb0JLc1lKUG9vOHlRWjByc3ZzR1VhR2k1UEc5QWNPQ3UtSm1WdFpZZVdCcllONXY4Ry1LVkZHeW9OZVBR?oc=5",
         "published": "Tue, 27 Oct 2026 09:40:00 GMT"
@@ -157,6 +152,11 @@
         "title": "Mercedes-Benz senkt Gewinnprognose - China und Kosten belasten - 4investors.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnTDRyNnF1OFM3WnkzZE1JLTA4STBGM3FQOEtOYVBTMW5IbzJxd2xHRGw1WTI1Y1FSSHkyUVdVUFZnM2xfdkZ1bGRidmFEMUg1Wi1CbW9DOWhUV29BMGVqSVBIM18xNHZwbWp4b0lYb04zTHRGQ09wR1AtVXg?oc=5",
         "published": "Tue, 27 Oct 2026 09:02:37 GMT"
+      },
+      {
+        "title": "DAX stemmt sich gegen die Korrektur: Mercedes-Benz-Group-Aktie bricht dramatisch ein - BörsenNEWS.de",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTZya3FneFF6LWQtM2dtY0Z2ZHRHQTRrbkctdWU1Q3JfOXR6S3NTeHJsVllGdjdSN3NTS0VWT2ZLdU00ckl5ZUp4a09hV1BiUnNkVlJTU0lVZHpyclpNd012N3BmYUFUTy0xaTF3bF9wd0QtU0xsSk5ZYUQ4RGtWV2FZdWxyaVh0ZFFzRW1iN0R5eXdINThNQW56NnJXVlBKTWJCbWNuZnlqUU96aUUwRFJuNUsyT016VkJmOXIzWWtOYkx3aE1ZaGdxbmcteDkwamJiRmhsOXVEOXZZWWxGTzVyVWN0QQ?oc=5",
+        "published": "Tue, 27 Oct 2026 10:45:00 GMT"
       }
     ],
     "Nvidia": [
@@ -164,6 +164,11 @@
         "title": "Oracle Aktie legt kräftig zu: Hardware-Offensive mit Nvidia und Google 🤖 - XTB.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWRDTDBULV9ZdGJMRFFOMTFwQ0xMY0QxZXdjVVVuTnhNWlJZNW5sS2pmNWx5OGNPbXRPdF9UMUJMVnAyLWpWNGVGTWdkNGtvM3pZQXI5UlF5MHBVTFNDcGZpVGpub1haWWd0WHVDSi1uLThaMzEyUzk3dXhWNWNxNENkX1ZFZlA5MVlyaDJJR0p2cEoybXNnTGMzZzMtbDl5QVRKZzZoM3ZPekR6aTRWZzhxYXFLY0psRDQwYQ?oc=5",
         "published": "Tue, 27 Oct 2026 17:19:00 GMT"
+      },
+      {
+        "title": "Kreativität entfesseln – mnews - medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ25BeHBCNnp0bHhiZWxnWGRFb0FpZi01d3QyY25lWF8xNTY0WTJwZHQzZmpMczgxSGxxVDlnMmtqUXAwaXdxUHNFWmYwT2lpQlJUbjVadGI0X3V2aU1YTktwZU9xUWtmQVUtRVlsRjVmQnBiZWsyMFZLTW9XcHljaks3TXlsc3RR?oc=5",
+        "published": "Tue, 27 Oct 2026 18:41:45 GMT"
       },
       {
         "title": "Nvidia Aktie: Vera Rubin jetzt bei Oracle verfügbar - Börse Express",
@@ -176,11 +181,6 @@
         "published": "Tue, 27 Oct 2026 15:01:31 GMT"
       },
       {
-        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
-        "published": "Tue, 27 Oct 2026 18:10:43 GMT"
-      },
-      {
         "title": "Krypto-Wette auf Nvidia-Chips: Wird Rechenleistung zur neuen Anlageklasse? - BTC-ECHO",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2VkUXM5MkhmNlllOHphc3hyNF9DS05ocGMyOWFHRnpmek9ScndGMGctZVdtSEg2V2hfYmZPRU9ibllSckFibEtiOERCMDdaNk1Od1JONzFaWXlZdWJNSnFsNDRQTEVfX0NRSXZ2dU9BWllUbVRXSlRoMmdzSFRBcXVUODNsRGt1dTRveVljTEFTQU5MNFctQUxIaTBfUGRrcEp0NWhfZnNGc1Y1RURwaw?oc=5",
         "published": "Tue, 27 Oct 2026 15:27:08 GMT"
@@ -191,14 +191,14 @@
         "published": "Tue, 27 Oct 2026 18:16:38 GMT"
       },
       {
+        "title": "Neue Impulse für Meta-Aktie: 25 Milliarden Dollar für KI-Ausbau - NVIDIA steigt als Investor ein - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdlZIWExLTk9iemlsNFRmUGRRTjNCcTQyZVRpd3ZhN0Zfei1rRVpqdHhkMGV6anZDYVJRb3lQbWV3SXFVQm1iVll2dkVNMUh0MDhSNWtCR3pGY1JOLTdNNnpJdmNHU3p3dDlwaTdxR1ZEZ0EwTlJ1NThneVYwWmRnYnNpN2dpelhNbkFQYndvRUZWb01mZkN4TlJGOFZ1SXp3UjJSbUt4ME1PeXBDQXZUNDdYS3RwamlMbHVfWjNOR0JEYnZFOFhHZlhsbkRoRXphWXBXcFdSZlp4YV84dlBtMmpYRmhtaGMxWmluaXIxZUdUN1Z0MmRNOUZvU1JUZ2NzbUp0SQ?oc=5",
+        "published": "Tue, 27 Oct 2026 19:57:08 GMT"
+      },
+      {
         "title": "Turbo für alte Nvidia-Grafikkarten: Versteckte Leistungsbremse geknackt - Giga",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXR3bXVGWXdvc3kzWHZIZWdTb2Q0ak1MUUwyaDByRHhVSDZDNmxLdHFLMHg3UnVCRjl6dVJHVzlyV0NKR0M4Uk9oTENtUkRGQm5JQTVRNDVjNm1TN3ZnYWd6d3JvXzFyVUNQLUFEY3pOUmNuSlFlSnF2cUMwYlZ6QmNmamRDdVZSX0NTcFE0UFFjOTZRaW1zaVJHN3VHUEktUDdaeTlZdjU0UThpalBhWWZyVVFpT2xYR0t1eWFfMFBBdw?oc=5",
         "published": "Tue, 27 Oct 2026 15:30:00 GMT"
-      },
-      {
-        "title": "Nvidia, OpenAI, Oracle: Wie sich die KI-Konzerne gegenseitig Milliarden zuschieben - Golem.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmdSM05ibWJabklkMWxiT1haNlVQenl5a0o2RU5DeWFWTTZKWFRsQkppRzBQLU9ZVnExTG5tVGptbFE3N25iS0wwTE1FcjNVeEE5VmNBY00yUVhmYy1MbVlqeHRjVHRzTGltXzN1Q2ZTNTY5aU9fWkk4S195djFQOUxYakNVNkd4c0RQU1VvNGhWNk1tUnl6bFVWZFppS292ZmN2cFlCdGoxUHB5dThhc1ZUZ21vUk5UREFWLS1oMA?oc=5",
-        "published": "Tue, 27 Oct 2026 09:34:02 GMT"
       }
     ]
   },
@@ -235,14 +235,14 @@
         "published": "Mon, 26 Oct 2026 16:17:51 GMT"
       },
       {
+        "title": "Anthropic zukünftig wertvollstes Unternehmen der Welt? Was Experten zum Börsenprospekt sagen - Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0tpYUFob2djdlNLaEV1SkF4Q1VTZ0JYN0tVRzZqLVp6NVV4QktXWFhnTkxvRWFkVGtoUTJHb1FpMjBVVmpTZ2NsOVBUZG1yejFVSHhUVHhaVExQOE1iajJaZEo1cUpuaVFrT0xXb05sUGRzb3I0bG5zamc5WFZ3cWw4dnZNWTBSMzdiY1BCQURSMmlTb0UyQmxoZEpfT0NhR20zRVFnNHpadnJvTkZWcGk3YS1jVmZyb19MLUZudDU2anJ1bDExVDZDb05wVld3bFE?oc=5",
+        "published": "Tue, 27 Oct 2026 09:10:02 GMT"
+      },
+      {
         "title": "Anthropic, Notenbanken und Bilanzen: Warum sich die Börsen in einer „Woche der Wahrheit“ befinden - RP Online",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU25YckNOT3hPY2dtQkdKZENfLWxvMnhudHFNam0zY1VsZXd4TmJ5Qk1YNURiUFZfdUxyLXVBQU9yQXEwc2swLXFXUzF2U1hHVmNUbGNCM0xrYnVRNkJuQWhJSDgtVG1rVjc1X1ZFczVzaWk4bEV1REFOSWlPYjVsa3dFRG9CQ1dxQ3pLZXNvbkNRWmdiUDFlalRYYzNsUQ?oc=5",
         "published": "Tue, 27 Oct 2026 15:13:00 GMT"
-      },
-      {
-        "title": "Jetzt ist es offiziell – Anthropic meldet Börsengang an - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1B4a0VsWDRNaUYxUThjMjV1b2p4VjhXQk5tTWk5OHFHVW5nZ0Q2SUhwd1dqN2xJLWFYV05JaDlNU2NTaFhMLTEyTWN5SEptNHd0RlFRUnR4ZERWSTFiaFVFdXlGMmVYUWFzSXh5b2tYalFzVWNVaFdLS3BzNHk5SlRmdGs1S3Z0QUE4dVVmaS0tTlBZdzlpTjFMZ2dTTkVra1RZ?oc=5",
-        "published": "Mon, 26 Oct 2026 14:42:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -262,11 +262,6 @@
         "published": "Mon, 26 Oct 2026 23:00:00 GMT"
       },
       {
-        "title": "Die 10 besten SEO-Agenturen in Singapur, die Sichtbarkeit in Kunden verwandeln - Business Model Analyst",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEVqaHhqYlZJV1pxQ0hfSkhIY1R6b2JRM182N0VlMW5YTl9JLVNLYUh1RlN0M1dWaEt0NVZ3WEtkMkFxWmxHZjhDallQa0NoUVl0bzZNTjlSWFZsb041WjNwa0I4a1psVHl2WEJleG5TTXdHaFlHeHFmV3ZuNHplTEhvaFBXLXBzLVFvaTd4UlBQTVpIaVdYWGQwVmQ1a2E2bDRPZEZGdW9ZUGRBWHZYbm1ndFA?oc=5",
-        "published": "Mon, 26 Oct 2026 12:46:26 GMT"
-      },
-      {
         "title": "Mit dieser Kampagne will Firefox ehemalige Nutzer zurückgewinnen - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUotS21kc0hUNVNoZ0d1XzBoZzN1LUpEZmgyYktNd1Bja1BSbDNOMXJhMTRVWmFWbEl5cXhib0tuZXdVYVpreFN1akg1WG9MTHpkXzF5ZGowczlIMGMyRW41bE84OWFSMXRvOVF5M1l2NDNaNmE0TjVlVXhWNXU3SUJRcDVHemZrM2QyVndRODJ6eVFEM3dUNExqUU90UlNjSFI5TU1tU1NKQVU?oc=5",
         "published": "Tue, 27 Oct 2026 08:45:46 GMT"
@@ -277,14 +272,9 @@
         "published": "Mon, 26 Oct 2026 06:00:00 GMT"
       },
       {
-        "title": "Connected TV und Programmatic Advertising - Netflix erweitert die Werbekooperation mit The Trade Desk - Meedia.de",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1F2M2tTcFpFeGFhbGF2OExvTFpIYmhtMTJKQTIwelBYRTh4S2dkOXBLVjZQX19MUmoyVXUwR0t1bGgwN183VUVnSDlYUFhXTHBhUng0RHdzcXE5SlpIeW9sS2JHWVIyRVF1NkMzSDJGNjM0MFJNX0F4ODR2SXFTVGl3VFFRME8xREQ1SHVCbjFLRW1EdGpyemZkVFNpa0FD?oc=5",
-        "published": "Mon, 26 Oct 2026 08:47:03 GMT"
-      },
-      {
-        "title": "McDonald’s beendet 32-jähriges Fifa-Sponsoring aus Unzufriedenheit - Meedia.de",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3lDdkFxRnhrRlZ2R3Etb1VlTmxkVXNIdEZ2TXBrZXl1SVBtQ1M5akt0Tk14blZRRVZZZGlzNFFKemlHRkFNMEFzVGp0dWFuckJmc0FEVTc1VHR1M0QxLUw2Wm1YbDN2VWJsQk5LbEJYeF9JZ2pTRUx0emV2WG50UHpYVkQxcVcwLVZHRVg5cmVjQjExNXJMRERUdFlhNzdlcWhOTXhVVnpPR0RFd2c?oc=5",
-        "published": "Mon, 26 Oct 2026 09:49:00 GMT"
+        "title": "Generative Engine Optimization - Die KI sorgt für ein Comeback des Advertorials - Meedia.de",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTk0Q1BZLUxNX1dheEVvcHFHVU9CLXB6end0VGRhdzRQdk94U2tEMDlNbDIxVU5WTHI0VDFxQl9ib0R0Q1E0ODB4azNWTUlSZXllQ0JXNUtqTUp0cHhXdXBLVkhtMUNESVhtSnY2S3VJQ0dUNUxQMkFOeFhYcmkwa052ZmxraFEzUGdwdXdUNzhGSm8?oc=5",
+        "published": "Mon, 26 Oct 2026 08:03:21 GMT"
       }
     ],
     "Technologie & KI": [
@@ -346,6 +336,16 @@
         "published": "Tue, 27 Oct 2026 13:10:00 GMT"
       },
       {
+        "title": "MCDONALD'S - HEUTE endet eine EPOCHE! - stock3",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0RU56SWJSSl96eG9PUC1XVkg3UngyOTJDM3dMdFM3Xzc2WjhXNlEyRDVSODh0aXNuUHNkODB1R1ZhWlRxRUR6S1lWd2JOOHYxSkFlQWpyVkZlaXI2WGthbVd4eDh4UnVweVNFc3hlN0dTS0dF?oc=5",
+        "published": "Tue, 27 Oct 2026 17:55:41 GMT"
+      },
+      {
+        "title": "Abschied vom McRib - McDonald’s nimmt Burger aus dem Standardsortiment - TAGESKARTE",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEZDZWdxcTdXS1RKTzNsSEJ2VGJqRkpmVElRWWdkVl9lRlkyNW03em1WM3pIckd6eVU2cVN5MkJCMzJBYjFjSjNvOFltcnpBUnRqVVB6djNTWTNCVmx2aHBPWjBsVm9mVHUzOUhabURnbUFDaDYzdWt4N0szaVZpVVZWWXliMURaTHBSQ2Jab0R6eEJUUmpPOUh4MnlmR2JnTDYwanV1TU9nOU1lR2M3SG1ac19Kdmxk?oc=5",
+        "published": "Tue, 27 Oct 2026 21:46:54 GMT"
+      },
+      {
         "title": "Mercedes-Benz-Aktie rutscht ab: Margenausblick 2026 gestutzt, China-Schwäche verschärft sich - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM2MtQjNvQ1JpYVBrMkQ5NkFCWmpRUlM5Y1VSSkJzMUltTkJWa1VFeTZCeWtLdVd2akpUYlFGU1VmTXB2b244V2FDMUZoZlRzeXY0ZFM3M29ma19rNDhiMXZmSGRwNG9lX1NscWJrWUg5N3FRejhibjNfZmNnZ2dWaDVpUmlLUXNfRTZncUxPNkIyMTh6NGN4Z0lENE5VQlBQT25ONG8wVGtpa1J5aHVwcVJ2SVk3b0U0eXlaR25VTXE5VHdPZU8wMGl4RzFVQlFiMFZkenk4Y3lzR0hp?oc=5",
         "published": "Tue, 27 Oct 2026 16:50:01 GMT"
@@ -356,19 +356,9 @@
         "published": "Tue, 27 Oct 2026 17:48:28 GMT"
       },
       {
-        "title": "MCDONALD'S - HEUTE endet eine EPOCHE! - stock3",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0RU56SWJSSl96eG9PUC1XVkg3UngyOTJDM3dMdFM3Xzc2WjhXNlEyRDVSODh0aXNuUHNkODB1R1ZhWlRxRUR6S1lWd2JOOHYxSkFlQWpyVkZlaXI2WGthbVd4eDh4UnVweVNFc3hlN0dTS0dF?oc=5",
-        "published": "Tue, 27 Oct 2026 17:55:41 GMT"
-      },
-      {
-        "title": "Oracle Aktie legt kräftig zu: Hardware-Offensive mit Nvidia und Google 🤖 - XTB.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWRDTDBULV9ZdGJMRFFOMTFwQ0xMY0QxZXdjVVVuTnhNWlJZNW5sS2pmNWx5OGNPbXRPdF9UMUJMVnAyLWpWNGVGTWdkNGtvM3pZQXI5UlF5MHBVTFNDcGZpVGpub1haWWd0WHVDSi1uLThaMzEyUzk3dXhWNWNxNENkX1ZFZlA5MVlyaDJJR0p2cEoybXNnTGMzZzMtbDl5QVRKZzZoM3ZPekR6aTRWZzhxYXFLY0psRDQwYQ?oc=5",
-        "published": "Tue, 27 Oct 2026 17:19:00 GMT"
-      },
-      {
-        "title": "DAX-Schluss: Infineon und Siemens Energy geben den Takt vor – Mercedes-Benz sackt ab - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGlha1Z6SFpQN2Ixb1ZqQWpqTko5RTdyUm5peTRkUnpXQml4Z1Vna1ZMWlpoTG1fa214Y21oeDYwOUdmUC1wUUFqbml2a0hDbHBDZ2hQemZRVU5SSEZQbExsbmJmeWlmZXdjZjlsZXcxU2lhdnk4YnhBeVExdlJaeWZZSk0zWWRxU25xbE5Tb3VQSnV5NWxaMUZoMlpIMS1Rb3JyQXNHOFpEV2VIQXJhNWZqZVp5Zndjck1zWXk4ZU0wcjZiMk1mbzB5b2JJRnFzS0thOTRONlpRQllxQW9tQ3dvdk5iUWhBZm1N?oc=5",
-        "published": "Tue, 27 Oct 2026 16:38:32 GMT"
+        "title": "Kreativität entfesseln – mnews - medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ25BeHBCNnp0bHhiZWxnWGRFb0FpZi01d3QyY25lWF8xNTY0WTJwZHQzZmpMczgxSGxxVDlnMmtqUXAwaXdxUHNFWmYwT2lpQlJUbjVadGI0X3V2aU1YTktwZU9xUWtmQVUtRVlsRjVmQnBiZWsyMFZLTW9XcHljaks3TXlsc3RR?oc=5",
+        "published": "Tue, 27 Oct 2026 18:41:45 GMT"
       }
     ]
   }
