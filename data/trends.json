@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T02:21:51.184008+00:00",
+  "fetched_at": "2026-10-27T03:00:51.925850+00:00",
   "countries": {
     "AT": [
       {
@@ -23,10 +23,6 @@
         "volume": "200+"
       },
       {
-        "title": "thierry henry",
-        "volume": "200+"
-      },
-      {
         "title": "socrates award",
         "volume": "1000+"
       },
@@ -41,48 +37,52 @@
       {
         "title": "unai simon",
         "volume": "500+"
+      },
+      {
+        "title": "pere romeu",
+        "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "anthony edwards",
-        "volume": "5000+"
+        "title": "sal frelick",
+        "volume": "2000+"
       },
       {
-        "title": "natalie nakase",
+        "title": "liv morgan",
+        "volume": "2000+"
+      },
+      {
+        "title": "bryce hopkins",
+        "volume": "500+"
+      },
+      {
+        "title": "ebola",
+        "volume": "500+"
+      },
+      {
+        "title": "sal frelick wife",
+        "volume": "500+"
+      },
+      {
+        "title": "hunger games",
+        "volume": "2000+"
+      },
+      {
+        "title": "nobody wants this season 4",
         "volume": "1000+"
       },
       {
-        "title": "jaren jackson jr",
+        "title": "abdifatah yusuf guilty verdict reinstated",
         "volume": "500+"
       },
       {
-        "title": "nobody wants this season 3 cast",
+        "title": "emma roberts",
         "volume": "500+"
       },
       {
-        "title": "heat score",
+        "title": "kel'el ware",
         "volume": "500+"
-      },
-      {
-        "title": "wendy's company",
-        "volume": "200+"
-      },
-      {
-        "title": "jay z",
-        "volume": "50000+"
-      },
-      {
-        "title": "wnba",
-        "volume": "20000+"
-      },
-      {
-        "title": "dante moore",
-        "volume": "2000+"
-      },
-      {
-        "title": "mavs",
-        "volume": "2000+"
       }
     ]
   }
