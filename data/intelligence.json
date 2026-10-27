@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-27T06:42:20.594104+00:00",
+  "fetched_at": "2026-10-27T07:44:15.363350+00:00",
   "brands": {
     "McDonald’s": [
+      {
+        "title": "McDonald's: Der McRib verabschiedet sich aus dem Standardsortiment - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUtfeExZXzRNbV93ZURiTVJWZnV5SHFGZ09CaFFCSmUweVNORXpIakhMNFFaa0FDN2lMNVVEQXRIekI4cTNJcnI4V1JyY08xeUZYTVQ4SVpoV0JUVW9CMEdjX3VUUnZZVl9zSG9EY2FOUVZpalNFeEJlVVpESGlfb2hueko1djh6ZjVPM0tJaWw1VUZyVWsweTJwTzIwNW51b3lXUjg0N1JKNHhGbG1UeWptUWdXaEI3V0NRbzBjeHhiOTg?oc=5",
+        "published": "Tue, 27 Oct 2026 06:34:53 GMT"
+      },
       {
         "title": "McDonald's veröffentlicht French-Fries-Maus aus recycelten Happy-Meal-Spielzeugen - Hypebeast",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3hkWV9OdFRFUW5DaVBiUmZ4SFhjbWx2ZEZ4WUxtVmN4NGlmRzU4UkZXTnlMVEU4dHFKQUMtc1JWSnFoU3BoWnpyRFh5YU9qbXNjemEwakFGamg2c3BzdlRmSlZyV0ZkZXNlNGFMNnlBUmRaSHlJbmM3cEJ4ZHR6ZTdDaUxMMzZwTjUxQ1pEVThMa0tZWFAtd2JBTVp0em5CT1pzZ0diNWFTLXo2ZjVRUks4ckVJUQ?oc=5",
@@ -11,6 +16,11 @@
         "title": "McDonalds Aktie News: McDonalds zieht am Montagabend an - finanzen.ch",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWm15UTVFdEJtNm4xMVVrYlgzUWZMbWd6OENKQVpEMU8yb291UkdLenRxeFRMWm9VeXdZcjZ5MlBsbHEtbEFxVHE4UlN4c3BHSkpaSGt4ems3LWJvZkRxTEFDTHVCRUJ2eGJTTGN4VktDREpoVEhOdVE4My1ZM2loZEtfYlR3d1Frd19hQjhiZ0N6RDV4SkZ2eg?oc=5",
         "published": "Mon, 26 Oct 2026 20:28:37 GMT"
+      },
+      {
+        "title": "Letzter Tag bei McDonald's: Warum der McRib ausverkauft wird - Stuttgarter Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHUwR2tYWlVaTm5pQ25SdXhWWjhsRnhEbHpYQXhrUENhUnBLQjQ5TWNhRkczYndEUl8wY3NieHhiQ3hncUI3Q3FNalA1U0hIOTRZc21udlNldGtUN0QxU3dhaEE1dzBxT3FYVGNlb2pnVXB4U0FGTWRZQk9LSlVwV3hPWFU4dzloYW9VNU1tYnZOZzQzajhqd19nT3czX1c5aVo2cnRLTVd0djZlemM4RnhmUE1vMFB3ZEN0dA?oc=5",
+        "published": "Tue, 27 Oct 2026 07:11:45 GMT"
       },
       {
         "title": "Burger „McRib“ hat heute nach 37 Jahren seinen letzten Tag - STERN.de",
@@ -28,19 +38,9 @@
         "published": "Tue, 27 Oct 2026 05:30:00 GMT"
       },
       {
-        "title": "Er entstand als Notlösung: Warum es mir egal ist, dass es den McRib nicht mehr gibt - CHIP",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSXdyV01TUUVaWlNxSW83cnVWazd6cmR1WUp4WWgtcGJualRZNTdDQkxwTUl2Y0RQLVhVNDJyN1VabzZXcVQtQjl4R0NWQ3czczB6cnp1WS1VMVV1ZTU0eDIzYVNYYm1MaUhZWEwwTEotZ2VhOUp2WkNsNHJCeHpVaUJVSDJQemVWci0tLUdoQ0xqaU43Wk9fV20wckpoSE05UEpIZjBLRVpKODBMSzJOcXRFbm1DLVZram95R2Fma3VqU1RLQVBhbDdTaVdpdE93RFVCVjBaWXhlcS1vYnRrRzNxSC1XcG9kZy0zUFo0QTk1QjlLcEI0c1ZYelJDeUYyZzFPQk9B?oc=5",
-        "published": "Mon, 26 Oct 2026 14:16:03 GMT"
-      },
-      {
-        "title": "Der McRib verabschiedet sich aus dem Standardsortiment - inFranken.de",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjhOLVR3SWhTbmRJOXRLX1FFZXh5aXNBRjhDeU5ZZGxJamFlRW9aSmRRZ1htaVBjaVQyNHRPRTVFYmIwckhIUWpUTnhBQURFekRKRmFOX3RIeVdEMDlZZ3l5dlFBOW91ZXRwbkpldE05dDVPbVh2em9sQVR1NW1hSE41Z0s4TDY3RmZoMEZ0RnJBcm5Wd2M3RVY5dVVtaE40X2tqWWNn?oc=5",
-        "published": "Tue, 27 Oct 2026 03:00:26 GMT"
-      },
-      {
-        "title": "Werbung: Warum McDonald's die Zusammenarbeit mit der Fifa nach 32 Jahren beendet - Lausitzer Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjFGM1dhSlBJa0xIVm1oWUlXX09wOTRteC1YWFMwUDd1ZEdBdzQyeDJIazVJMTdDS3JycFNPZ1V5dGdwczJfUzZRekM5NUN3bElRY0VEWnloY2VPbVMxd3dkZmhNM2I3ZXRZWmdfUWhUS0JYSTlwYUF2cEhEeGxKTk1qTTVkdjljSjRwQVE4TDhGeVVnZHBvajROMU1jX2pBWmMyM0hVeUI1ZVpBU1QxYnowcGh6dw?oc=5",
-        "published": "Mon, 26 Oct 2026 14:06:47 GMT"
+        "title": "Familie Schnell er­öff­net Mc­Do­nald’s in Ep­pin­gen - EPPINGEN.org",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTVSZnVTUVRMeUdDMU5XZDQ3RVlWY3NyLTJZbVNlaFZmbDkwZy1qMV9IU2p3OHo0bHlDczd5LTNBSWs3VGc5R3dGSXE2SDA2SmM0ZGduVmk2N21ELXFZWHA2VHRzako5UFg1S0cwOWFmV09ZQ0VzeG5WZ2V2dmdzWGxDX3dhUkdvMEUyY0hMZ1JoSVZPNmQ4UVdqTlJnV0pPeUE?oc=5",
+        "published": "Mon, 26 Oct 2026 16:00:14 GMT"
       }
     ],
     "Burger King": [
@@ -63,11 +63,6 @@
         "title": "Warum wurde Wendy's Chinas Plan zur Eröffnung von 1000 Läden nicht umgesetzt? Haidilao wird vorgeworfen, die Verhandlungen nicht abgeschlossen zu haben - eu.36kr.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sSkpYSWw4djE4NFR0dktUM1psVDlDZl9zcmdxT3lITllwLWpZaXNKbHJBTlU0Nkx0TVpkc2NOaUhkWWlvekdmX25ENHNoTXNyVzlv?oc=5",
         "published": "Mon, 26 Oct 2026 15:45:00 GMT"
-      },
-      {
-        "title": "Chick-fil-A-Chef stellt klar: Keine Öffnung an Sonntagen – das wird sich nicht ändern - kath.net",
-        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE94RXN0QTBFb2hpNGo1cDVLSnR0R2U0M3hJMWMwSDNIRldKSmlzUGxwT295ME91dnBtOW81Z1VYTFM?oc=5",
-        "published": "Sun, 25 Oct 2026 10:20:02 GMT"
       },
       {
         "title": "Was Uns Stark Macht – Sophia über Teambilding Bei 1Komma5° [DE/EN Sub] Burger King (ueBx7hGlP7) - Unisba Media",
@@ -119,6 +114,11 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Verbrenner legt nach - Neue Mercedes C-Klasse: Viel Holz in der Hütt‘n - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jNlk3bGdxRF9Nbzl5SkE5cUV0Z0hNYjhhY0lUOXFTYktxcl9tQ1NkVjhKVW5SYlEyS3YtdnBFbWJDdw?oc=5",
+        "published": "Mon, 26 Oct 2026 23:01:00 GMT"
+      },
+      {
         "title": "Ausblick: Mercedes-Benz Group (ex Daimler) öffnet die Bücher zum abgelaufenen Quartal - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb0NMZlhEREF3bnY5NzdJOV9qdmZXdEtlTXVzSV9QZm12cE9JY0lwbGM1a3N3cXdFT2w5RXpyVVdzTmVxXzNLNXFlWnl3R29kU2VuYnR3dDhWM0U0WVIydFFsbzJXMTZNQ0x2VnJ3NVl6ZUNOYU1GT05YTzl6YWRHakduLU5xOGZWaXU2NVBMMGRxTVRYT0hZNEJfcmRxVTZlYWpiaWFvYmhyTmFxcDJyTl84RDg2VjRlV2hrMlRSMVZ5eGg5MG9XMjZRYkYwY3pNVFZ6RA?oc=5",
         "published": "Tue, 27 Oct 2026 06:01:06 GMT"
@@ -129,9 +129,9 @@
         "published": "Tue, 27 Oct 2026 06:00:00 GMT"
       },
       {
-        "title": "Verbrenner legt nach - Neue Mercedes C-Klasse: Viel Holz in der Hütt‘n - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jNlk3bGdxRF9Nbzl5SkE5cUV0Z0hNYjhhY0lUOXFTYktxcl9tQ1NkVjhKVW5SYlEyS3YtdnBFbWJDdw?oc=5",
-        "published": "Mon, 26 Oct 2026 23:01:00 GMT"
+        "title": "Autobauer: Mercedes bietet bis zu 330.000 Euro Abfindung in der Produktion - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcm5ZSWt4WUlWMXNOLXZFYzFlbjF0SER1cXY2UlY3bWRXUnJabnE3LVJKSzU5LVhpZHlBSzVWM0RIUFlpUFpodzRvckVfVXNhY0ZZMzhycmJ3anp1Mm5zZ3dyak4zczRmUVZlUGtXX0RYTFZCUklFdDlGYWtqSTZmZUFBV2hzbHNwUjU3aFNjRHA2SDAwQXRJdXg5djlCUU51YUVkT0c1VzZ5cU9vUnpScVdhNVJEN2t6eHlqM05TUENGaVo5bnVGd01HWDZfdUVfbnhjWXZB?oc=5",
+        "published": "Tue, 27 Oct 2026 03:00:00 GMT"
       },
       {
         "title": "Mercedes C-Klasse Facelift (2026) im Test: Gegen den Strom - AutoScout24",
@@ -144,19 +144,14 @@
         "published": "Mon, 26 Oct 2026 12:42:55 GMT"
       },
       {
-        "title": "Mercedes-Benz Aktie: 1,1 Millionen Aktien zurückgekauft - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2VwTEl0Z0szcU16ZXZWS1M0MlZjRHN4M25HZDVZZlVTY3VzaUgzcThhT1c5UmxFdlcwbUlFVXczMDNFdnVDT0hmdEw2cGJ3dzk0c2QwcWY5S3FrZGFMeExxYkRHVmtPTXVpeWJCUk5OQUtpMTJOeEhZbjdoWEY0SEJ2NUlDZGF1bWVTZGdpM2RYbF9ZS0xHWldzc000LTJ4OS1qWlJINXZYQQ?oc=5",
-        "published": "Tue, 27 Oct 2026 02:00:09 GMT"
-      },
-      {
         "title": "Diesel im Test: Darum ist die Facelift-C-Klasse als C 250 d eine verlockende Wahl - Auto Motor und Sport",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPck5aNW94cldhRnNXNlBaSnR0SDQzWVMxUXEzcnFpM1JtS1pRTkJZM3lOTi1HWWVaOHcyQU9TWS14U3FMNUFFRmlETkdUUmhOTVpVb2dRR3MxSlcwWVJrRDViRkRycFpVLXFiemx2RE1RZXdjRkgxZ0RSNmZCQ29hN2F0LUp4NXVQOFBzYmhzSi1QUWhfN25yVFBWVFZlTV9xaVUyeGcxWHpuMVNDcmRybjJHdy1obGlpZWo0?oc=5",
         "published": "Mon, 26 Oct 2026 23:11:18 GMT"
       },
       {
-        "title": "Autobauer: Mercedes bietet bis zu 330.000 Euro Abfindung in der Produktion - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcm5ZSWt4WUlWMXNOLXZFYzFlbjF0SER1cXY2UlY3bWRXUnJabnE3LVJKSzU5LVhpZHlBSzVWM0RIUFlpUFpodzRvckVfVXNhY0ZZMzhycmJ3anp1Mm5zZ3dyak4zczRmUVZlUGtXX0RYTFZCUklFdDlGYWtqSTZmZUFBV2hzbHNwUjU3aFNjRHA2SDAwQXRJdXg5djlCUU51YUVkT0c1VzZ5cU9vUnpScVdhNVJEN2t6eHlqM05TUENGaVo5bnVGd01HWDZfdUVfbnhjWXZB?oc=5",
-        "published": "Tue, 27 Oct 2026 03:00:00 GMT"
+        "title": "Mercedes-Benz Aktie: 1,1 Millionen Aktien zurückgekauft - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2VwTEl0Z0szcU16ZXZWS1M0MlZjRHN4M25HZDVZZlVTY3VzaUgzcThhT1c5UmxFdlcwbUlFVXczMDNFdnVDT0hmdEw2cGJ3dzk0c2QwcWY5S3FrZGFMeExxYkRHVmtPTXVpeWJCUk5OQUtpMTJOeEhZbjdoWEY0SEJ2NUlDZGF1bWVTZGdpM2RYbF9ZS0xHWldzc000LTJ4OS1qWlJINXZYQQ?oc=5",
+        "published": "Tue, 27 Oct 2026 02:00:09 GMT"
       }
     ],
     "Nvidia": [
@@ -166,9 +161,19 @@
         "published": "Mon, 26 Oct 2026 21:15:44 GMT"
       },
       {
+        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
+        "published": "Tue, 27 Oct 2026 06:10:42 GMT"
+      },
+      {
         "title": "Nvidia-Chef startet einen Enten-Hype: Doch es gibt schlechte Nachrichten zu den süßen Microducks - GameStar",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbE1yY1Frd3VpU3NraWpYeE8wdVBEZzJFWnFXeUtoQ05JSTVheW1tUHUzcmtHYmtxNUxSWmlwSjBNd1R2ZWhzLU5WTmZaMmhoeXlNam9VZzkweHJEVFoyRFBLdllRN3hfWWVhNFo3aXRNNFdiVE85THV3ZEZnaGJfX2dB?oc=5",
         "published": "Mon, 26 Oct 2026 13:34:00 GMT"
+      },
+      {
+        "title": "Wie Cisco, Merck Co., Nvidia, Goldman Sachs, Walt Disney und UnitedHealth für Gesprächsstoff im Dow Jones sorgten - Börse Social",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDJDTnRlYW9DMTZBdnpGZm5QRXBia19WbkdUcG9zTGhhdy00TUVPTnJwdTNJUTZ4dGhzZGR4R0xFYUpVcU5qUEtYUnVyajA1Ung1OTVSRTMycHJnZEhtdlJIZDYxcWNaczR4cC1xZmkxNG9OZEgyQzI1aU80R0owSURCWm1Zb0U0cVM3amR0bmhmdVZSQUFZRVhORG05MVJyNHFsUVhFNEVEZjBPbUVsRjZFdDBRQlgyUXF0OTRNa2xkcW4xRlBkc3RtUi0wRGRWZi16V3ZZUTdaV0tBSlB2NGN3?oc=5",
+        "published": "Tue, 27 Oct 2026 04:15:00 GMT"
       },
       {
         "title": "Nvidia-Aktie: Es geht jetzt erst richtig los! - Finanztrends",
@@ -181,24 +186,14 @@
         "published": "Mon, 26 Oct 2026 06:55:45 GMT"
       },
       {
-        "title": "NVIDIA Aktie News: NVIDIA zeigt sich am Nachmittag freundlich - finanzen.ch",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnhqT25EaGJCVVFjR0d4UUpSZE1oaXBPN0tYRWt3c25DVDN2ZXU3ZFNodFM0b193a2NTcmo4bVRCeEh5RkVMTEdPM2xtdnVSZmJFWm03LXF2THFMNEZZMnlwWXk2by1LQnVaM3ctVGQ4Njh0OXJXMWRIMEdMdDJjeW5OUHFBMjR5UktLazE2QXg0ekNw?oc=5",
-        "published": "Tue, 27 Oct 2026 03:32:02 GMT"
-      },
-      {
         "title": "Nvidia Microducks: Mini-Roboterenten lösen Bestellwelle aus - FAZ",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHlhaDVhRGpWYnhDcDN2YW9HXzBrYVh6cTNXUGFPS1lpYjN4TGlPRlFad3dVUXVPSjVBVV9pcG1RYVJSbHlEbkxWcldjTmcxMzNBeXZ2LXg2SjNoUnNBeHo1MmJNa1JTV3hQOHRUU3Z1YlJJSWNOelhTdXJkX2RrUjZCYy1vd09RVU1VTkpBWGpEb1hDa2RSaGpqUjItSzFrZlBqMUpja09JeTdvY3pDNHZkRTA2WGhQWlF2Ny16WV9McHc?oc=5",
         "published": "Sun, 25 Oct 2026 20:03:36 GMT"
       },
       {
-        "title": "Injective startet GPU-Futures: Kontrakte bilden Nvidia-Mietpreise ab - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakd0djhWT0R6akFFZS1SR0ZONU8xU0ZWbFBNb2Nqdm4wVlIteVRDZGxIU1dlWEU2dDROcmpkdGJiTUlIMHAyal9iN0dWaUlXQ3VMbzUtbGpQank5b05zNWJOMGRhYmNsbjVQamtJSGwycWdoTUVUNWxlYngxOERJek1TdEFfOUFXVXFFVmhtQXFCUmZTMU9YZkZR?oc=5",
-        "published": "Tue, 27 Oct 2026 05:00:04 GMT"
-      },
-      {
-        "title": "Merkel sorgte für den Atomausstieg: Nvidia schielt auf deutsche Kernkraftwerke - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTltMllVQzE3YTFRT0dUNFIyU1RpaWhOdENlT3FjN2xtdkJyT1hXOXZ0V3hpbGZNUDZVcXRtN29PLWhFM1dqczRQenRyd1p4MWdnMVhLVzFmeFBHQ3pHR1ZqM0l0clgwUnEyanFCQWItR0E5TWh3d0pKWU8zMXFCWVBheWowWDBrcHNwWXRGZ0JrSHV6UWVuZjBxdmNNSGQydDZzYzdEeWxzWXR2R3ZnMlJVMlFqa0FaRlcxMVVFSGhZRlpmU0QyTERPVW5KVjEtSzBXN2VUS2NtMGpk?oc=5",
-        "published": "Mon, 26 Oct 2026 18:15:00 GMT"
+        "title": "NVIDIA Aktie News: NVIDIA zeigt sich am Nachmittag freundlich - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnhqT25EaGJCVVFjR0d4UUpSZE1oaXBPN0tYRWt3c25DVDN2ZXU3ZFNodFM0b193a2NTcmo4bVRCeEh5RkVMTEdPM2xtdnVSZmJFWm03LXF2THFMNEZZMnlwWXk2by1LQnVaM3ctVGQ4Njh0OXJXMWRIMEdMdDJjeW5OUHFBMjR5UktLazE2QXg0ekNw?oc=5",
+        "published": "Tue, 27 Oct 2026 03:32:02 GMT"
       }
     ]
   },
@@ -210,14 +205,14 @@
         "published": "Mon, 26 Oct 2026 14:42:00 GMT"
       },
       {
-        "title": "Anthropic veröffentlicht Börsenprospekt - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOem56SnE2TXZ0MTJXaUNoeXNVZmRzRXdaTU1WZ0FzdldxOW56ODcyWDJtdnlydWR3TFJpalR2T0lWS2JHQ2tZa21mbWRMZzl5dmluMUl5QTlYd1lCWE9OQmZkTk4xNzZWU0ZSMjByM1N2ZGNvSUtyZXNKbzYtaHlMQkR6X295WjRNUVQ5U1hid1dBMlctQ191cjI3YlFWVmpHaDYxaHNzMmRUcDhkWHZKeGp2dmJnQ3Y2T1JpaFB3UWc?oc=5",
-        "published": "Tue, 27 Oct 2026 03:39:46 GMT"
-      },
-      {
         "title": "Künstliche Intelligenz: KI-Konzern Anthropic bereitet Börsengang für November vor - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVBCOTkyT2lMaVUzV3Y1V3pqR3h3c3U0M09GNTJuWms3cVVsb3lfZUpnQTVyd0JBeTBadmhqZjNadTBDOFFTNDRYNWxGMHI0bDBOSi1pNnBRNTBuWlNzaE5vWGRCQWJDNFc3VXI2T081THVqR09iRnBzNG5ibUVKVXFQZjQzbHlySFlyWHNROHpZb3dGdEJtdkVJRW8tak00a3dR?oc=5",
         "published": "Mon, 26 Oct 2026 16:17:51 GMT"
+      },
+      {
+        "title": "Anthropic veröffentlicht Börsenprospekt - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOem56SnE2TXZ0MTJXaUNoeXNVZmRzRXdaTU1WZ0FzdldxOW56ODcyWDJtdnlydWR3TFJpalR2T0lWS2JHQ2tZa21mbWRMZzl5dmluMUl5QTlYd1lCWE9OQmZkTk4xNzZWU0ZSMjByM1N2ZGNvSUtyZXNKbzYtaHlMQkR6X295WjRNUVQ5U1hid1dBMlctQ191cjI3YlFWVmpHaDYxaHNzMmRUcDhkWHZKeGp2dmJnQ3Y2T1JpaFB3UWc?oc=5",
+        "published": "Tue, 27 Oct 2026 03:39:46 GMT"
       },
       {
         "title": "Anthropic strebt an die Börse: Das KI-Unternehmen setzt auf Wachstumskapital - NZZ",
@@ -225,27 +220,32 @@
         "published": "Mon, 26 Oct 2026 13:54:15 GMT"
       },
       {
-        "title": "Anthropic leitet Börsengang ein: Prospekt eingereicht - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qT1JHU05ONlk3NDVDTGtsVlY5aUc5dFJUeTBYczFLbUJKelFoUzkxQWRWQkYyQi1CS2xBM2k2Zm9yMHJmYmVVNGRsR1FsMmFuaDFXbnBDN1Y4Wlhpa0tHSHJDdDZrLTZFal9rWENFVk4ySWpsMGVtUg?oc=5",
-        "published": "Mon, 26 Oct 2026 15:16:00 GMT"
-      },
-      {
         "title": "Anthropic: KI-Entwickler beantragt Börsengang in den USA - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSzBrZkVVMmhucXBvV0tuUFVhay1sTnlGNXBaVlBKR3NuOFNOZjNSaHdweWU4YWlURG5DWHl5ZVBvZVdMRk13NTlMM3hhYzNUSjZOekxKeWEtNlZWOEtqcXVEbGhpTUFEdkg4T2RTc2dfT0N2Mko2bENGSklfb0JXTGdqOFhTYXFKVWlrb2xwUWpVR1BOYXYzd1gzMlNjREZzbEJ4dW9yV0lkSG9IMXRQRy01NlVENkJwWmlYeGx1ZHcxVjNuc0hYUV92VlhyQ0JUN2pBYkhqX0U?oc=5",
         "published": "Mon, 26 Oct 2026 20:36:00 GMT"
       },
       {
-        "title": "Anthropic will an die Börse: Diese Zahlen überraschen Investoren und Experten - Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEhrbWpEM0staDJyV1BzcHI3a1VXbVlZdEg2ZXNfUHpSZE9qeEQ3M1FJVWp3OXljUU1GYVMtdDk4ME1KbW5reHQ1ZzhvSDRFRmNBSUc1VzdZVWx3cGFtRVE4X19jUXBVUUhpU09kNXNuWDBZaThlLUk1SEp0Zy1zLVpILTY4MFJyUklXVzFBcUVDcTk2NXZ5WXVhWTU?oc=5",
-        "published": "Mon, 26 Oct 2026 16:09:42 GMT"
+        "title": "Sozialist Lula gewinnt Brasilien-Wahl – ETF stürzt ab: Anleger fürchten Wirtschaftskurs - Merkur",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHJTUDhzTlp3TnM4VU1oMjQ2dTl2Y09nLUx0WDJ3aTlNMWluaTR4S25EUG11Z3ZSQ0YzbW9jNGJub2dfY1VpODROYVFoOWp6dThablhWeEM4UFBhZkRTM2tRLTk1RkYxU0hFY3RWYnJfcVc5d1d1ZFdRVERuakEtNEZMeWxSUGZNQV9iNlc2ZmZjSG5ZMGdyNG1BWFZESWQz?oc=5",
+        "published": "Mon, 26 Oct 2026 09:34:07 GMT"
       },
       {
-        "title": "Anthropic reichte Prospekt für geplanten Börsengang ein - Südtirol News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3htWlV5a3JSTEtvZHNtZGVOLWlZcTZOMDlmRUZoT0VEZU5PTWZJNVU2d1o2ckFYQUlzVmZjR1lwRGRQUWdYWm94U1NFaHpEdVdzejRnSy00bUY0WEtXcFZ2ejVpWkRJWWhPYmRoeXR5TlFNUWlHQzRjSlN6bzdKcVZ0TEVFT0Vkek9nNVNQZjAzMkhwdUNmZHgtUFRjUQ?oc=5",
-        "published": "Mon, 26 Oct 2026 15:38:00 GMT"
+        "title": "KI-Entwickler Anthropic stellt Antrag für Börsengang - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlCZ0h4MDM0MkFyU0lyTmJURVY5OUFnRlBLRGZKYjVzaTdBWUM2Rk5SYUZWZ05vUnhZR0xaTkNsZVdCUG1aVXRGQU9zVm16SW5ueG9SdFdQOU9LdUpnd1ptbVY2a01lcjVzdXRzaWdZcjM5LXI3Y053ZkRfUGlRbmxkVEdHTTJ1Zy1PYlkzM0JHU1BMYW92bDdiN3BUblRiLTk5YkJmUjh6Ry04dzc3LXV3N0ZqOGM?oc=5",
+        "published": "Mon, 26 Oct 2026 16:56:55 GMT"
+      },
+      {
+        "title": "Japanische Unternehmen entschädigen Nutzer, während Cyberangriffe die Wirtschaft schwer treffen - MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZlNzdkRPMGIxdlJ3VjgwMWRnYmY2NTBMSnAzQ09Wcmg4VmtnRjdSTmlvTnU0VFFHekdON3c4NW1PQlZMM1FTbkVxR3NmdllVZmJYOFFCejFwUE9aNks3RDQyTHdkN2FtLWNMaUgwVHZrYjcwcFVsN2ZsWUVJT0xMbzJNUXczcE9vTkFyUm5xeUtJYUpfN2lfVUxHMUZJY3FNdFdXVlBOQk0xRU0zdWFJSWwxdklOVkFjeGtnUW9yb2RtQm5wQzJ2R1IwenhNNFZfd2FOMUhaTkliaDI5UGZ1dXBqQjlVWEw5LTRodzNZR0dkQQ?oc=5",
+        "published": "Mon, 26 Oct 2026 01:49:27 GMT"
       }
     ],
     "Werbung & Marketing": [
+      {
+        "title": "ChatGPT-Werbung: 31 Märkte, Claude bleibt frei [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UXZwZjhtV2RaNEQ0ME1TSmVzUUpPUEx2Rk9sSUxOek9BbEFuMEEzMTJyU1E2Tlk1czIyU2FaQTNET2pwcVF2dWlPcjFxTWIzTVNJR1lrOU9tMnA4eWtIQld3R052by1VRC1VMWk0eFpzazJIT2RmX2M2a0Q4Q28?oc=5",
+        "published": "Sun, 25 Oct 2026 09:14:18 GMT"
+      },
       {
         "title": "Connected TV und Programmatic Advertising - Netflix erweitert die Werbekooperation mit The Trade Desk - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1F2M2tTcFpFeGFhbGF2OExvTFpIYmhtMTJKQTIwelBYRTh4S2dkOXBLVjZQX19MUmoyVXUwR0t1bGgwN183VUVnSDlYUFhXTHBhUng0RHdzcXE5SlpIeW9sS2JHWVIyRVF1NkMzSDJGNjM0MFJNX0F4ODR2SXFTVGl3VFFRME8xREQ1SHVCbjFLRW1EdGpyemZkVFNpa0FD?oc=5",
@@ -255,11 +255,6 @@
         "title": "Dentsu Creative CMO Report 2026: CMOs zwischen KI-Hype und Sorge vor Slop - Horizont.net",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3RuYkxONnhMTS00bTU0Nl9sQ0tGUTdNOGtpRUhTd3JBX0RSWmhmZXc2T1FlZTBtZU1tMzd6X2ZCbTJmeEV6Y1VQV3NxQzYzWWZyUUh6ZHZOOUhlWTdnTWExeVdONUk5N3k3akI2Rm1VcFlObDZxY1VUMThLOEVhSlpEUDZjQWJqOHBGVVdiT01sWHRpeVBRNWY5d2hZZXZTQlhqYlRwZTgwbDJLNlZvR2Z6MW44SXpOWS01SEtNcEdFUzJF?oc=5",
         "published": "Mon, 26 Oct 2026 06:00:00 GMT"
-      },
-      {
-        "title": "McDonald’s beendet 32-jähriges Fifa-Sponsoring aus Unzufriedenheit - Meedia.de",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3lDdkFxRnhrRlZ2R3Etb1VlTmxkVXNIdEZ2TXBrZXl1SVBtQ1M5akt0Tk14blZRRVZZZGlzNFFKemlHRkFNMEFzVGp0dWFuckJmc0FEVTc1VHR1M0QxLUw2Wm1YbDN2VWJsQk5LbEJYeF9JZ2pTRUx0emV2WG50UHpYVkQxcVcwLVZHRVg5cmVjQjExNXJMRERUdFlhNzdlcWhOTXhVVnpPR0RFd2c?oc=5",
-        "published": "Mon, 26 Oct 2026 09:49:00 GMT"
       },
       {
         "title": "Generative Engine Optimization - Die KI sorgt für ein Comeback des Advertorials - Meedia.de",
@@ -311,6 +306,11 @@
     ],
     "Meine Aktien": [
       {
+        "title": "Nvidia Aktie Prognose 2026 & Kursziel - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YZHYtV2VJemdjZHlfY0dZTlpuV2pnbkMybS0tQzA5MzZjSERtcGVkdUVTd3pMaUFQOG1NVUp5cEgwRzh4cVBWYVR6Z0E4bWozUV9mQ25xRDZXT0xCMVc0VjlvQnJqRF92QzRMZEc4T25qaXEwRzBQYUJmTjBndw?oc=5",
+        "published": "Mon, 26 Oct 2026 21:15:44 GMT"
+      },
+      {
         "title": "Neue C-Klasse: Noch näher an der E-Klasse - NÖN.at - Niederösterreichische Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamNoNGN4c001QUxxQXJIV3JVSFY4a2p6NWRWLW9UYVYxZ042blVsMkNIWG1Dd3hLcm5tWFhJbGltcEwtVFFNT1d4WTFhckQxb3liUFMxbXc5bEp4Q3FPb3JGU055U2tlMHVOMUZTQ2FlUWhOQ1Z6aFZZOVVtcVJJRHJQelN5M0MyNVZfcXpWTmhjN0NmTzBpbFBlbWtFUjNrcHZ3Q2duenpHTlhhdC1WcQ?oc=5",
         "published": "Tue, 27 Oct 2026 06:00:00 GMT"
@@ -321,9 +321,9 @@
         "published": "Tue, 27 Oct 2026 06:01:06 GMT"
       },
       {
-        "title": "Verbrenner legt nach - Neue Mercedes C-Klasse: Viel Holz in der Hütt‘n - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jNlk3bGdxRF9Nbzl5SkE5cUV0Z0hNYjhhY0lUOXFTYktxcl9tQ1NkVjhKVW5SYlEyS3YtdnBFbWJDdw?oc=5",
-        "published": "Mon, 26 Oct 2026 23:01:00 GMT"
+        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
+        "published": "Tue, 27 Oct 2026 06:10:42 GMT"
       },
       {
         "title": "Nvidia-Aktie: Jetzt wird es groß! - Börse Express",
@@ -331,24 +331,19 @@
         "published": "Tue, 27 Oct 2026 06:15:44 GMT"
       },
       {
+        "title": "Die Börse schläft, doch Analysten trommeln: LVMH, dynaCERT und Mercedes-Benz mit bis zu 650 % Luft nach oben - Wallstreet Online",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRm5TSW1TOHQ4ZnlJTWl5UkJnWVlHTV9oejJFVTQ4V2FvckpmLWw5ai1LRG5aZUxfN09fN281bGZSa3R1RjRLUUh0NXozNHAtMWJ4RW5Zc2RDTnVQbEswU0txRmxXY1BwSS1LNkJDSldBTjl6cnRsMW0xY1IzRnRDVU5EMTNPWlZnbDdOUi1McG90OXlIWjlvOTNKUzE5M2NZVVB6aUdnSGJhaHpIU19lc2VJUTJoV0tJeXMzSE9peVE?oc=5",
+        "published": "Tue, 27 Oct 2026 04:30:56 GMT"
+      },
+      {
         "title": "Nvidia-Chef startet einen Enten-Hype: Doch es gibt schlechte Nachrichten zu den süßen Microducks - GameStar",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbE1yY1Frd3VpU3NraWpYeE8wdVBEZzJFWnFXeUtoQ05JSTVheW1tUHUzcmtHYmtxNUxSWmlwSjBNd1R2ZWhzLU5WTmZaMmhoeXlNam9VZzkweHJEVFoyRFBLdllRN3hfWWVhNFo3aXRNNFdiVE85THV3ZEZnaGJfX2dB?oc=5",
         "published": "Mon, 26 Oct 2026 13:34:00 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Es geht jetzt erst richtig los! - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtRF9sUjg3bnpJWkFndlBKNEh4LXN3aWF4Q2pIWTRabEF0a01IdHhSX1Z6M1FUWDVSel94U0U2anFEZm8wYmFlM0w3SzBGUUNLZEtReDM2RFloWUdKQVZpcmlSdU1SeDg4RTYxQWtFYkRvWThsQ3k1LUNmclVZTnc?oc=5",
-        "published": "Tue, 27 Oct 2026 05:27:58 GMT"
-      },
-      {
-        "title": "Injective startet GPU-Futures: Kontrakte bilden Nvidia-Mietpreise ab - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakd0djhWT0R6akFFZS1SR0ZONU8xU0ZWbFBNb2Nqdm4wVlIteVRDZGxIU1dlWEU2dDROcmpkdGJiTUlIMHAyal9iN0dWaUlXQ3VMbzUtbGpQank5b05zNWJOMGRhYmNsbjVQamtJSGwycWdoTUVUNWxlYngxOERJek1TdEFfOUFXVXFFVmhtQXFCUmZTMU9YZkZR?oc=5",
-        "published": "Tue, 27 Oct 2026 05:00:04 GMT"
-      },
-      {
-        "title": "Nvidia: Erst Döner, dann Super-Zahlen? - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUJteUMzYktMcHJUa1RRUWNKeW9xR0dyd1k5dllYTy1UTzZlYWlXTWYwNUV3XzlzazRyekp1cURfZUo3cUFqVHlMOGJrbUxSSHUyQ2tBdzRKSm45WkJKcU1wa2Q5NWJib0V0cWxvWktveWdBRkYyRTN2ZldiNjdqWElWVUhNOHlEN2hjUjJCOXI4VjZ0Q2pUdTVrbjUzUWNOS0ZOV2h3?oc=5",
-        "published": "Mon, 26 Oct 2026 16:15:00 GMT"
+        "title": "McDonald's: Der McRib verabschiedet sich aus dem Standardsortiment - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUtfeExZXzRNbV93ZURiTVJWZnV5SHFGZ09CaFFCSmUweVNORXpIakhMNFFaa0FDN2lMNVVEQXRIekI4cTNJcnI4V1JyY08xeUZYTVQ4SVpoV0JUVW9CMEdjX3VUUnZZVl9zSG9EY2FOUVZpalNFeEJlVVpESGlfb2hueko1djh6ZjVPM0tJaWw1VUZyVWsweTJwTzIwNW51b3lXUjg0N1JKNHhGbG1UeWptUWdXaEI3V0NRbzBjeHhiOTg?oc=5",
+        "published": "Tue, 27 Oct 2026 06:34:53 GMT"
       }
     ]
   }
