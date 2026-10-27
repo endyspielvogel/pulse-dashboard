@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-27T03:06:48.017481+00:00",
+  "fetched_at": "2026-10-27T03:36:32.582531+00:00",
   "brands": {
     "McDonald’s": [
+      {
+        "title": "McDonald's veröffentlicht French-Fries-Maus aus recycelten Happy-Meal-Spielzeugen - Hypebeast",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3hkWV9OdFRFUW5DaVBiUmZ4SFhjbWx2ZEZ4WUxtVmN4NGlmRzU4UkZXTnlMVEU4dHFKQUMtc1JWSnFoU3BoWnpyRFh5YU9qbXNjemEwakFGamg2c3BzdlRmSlZyV0ZkZXNlNGFMNnlBUmRaSHlJbmM3cEJ4ZHR6ZTdDaUxMMzZwTjUxQ1pEVThMa0tZWFAtd2JBTVp0em5CT1pzZ0diNWFTLXo2ZjVRUks4ckVJUQ?oc=5",
+        "published": "Tue, 27 Oct 2026 03:12:56 GMT"
+      },
       {
         "title": "McDonalds Aktie News: McDonalds zieht am Montagabend an - finanzen.ch",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWm15UTVFdEJtNm4xMVVrYlgzUWZMbWd6OENKQVpEMU8yb291UkdLenRxeFRMWm9VeXdZcjZ5MlBsbHEtbEFxVHE4UlN4c3BHSkpaSGt4ems3LWJvZkRxTEFDTHVCRUJ2eGJTTGN4VktDREpoVEhOdVE4My1ZM2loZEtfYlR3d1Frd19hQjhiZ0N6RDV4SkZ2eg?oc=5",
@@ -13,19 +18,14 @@
         "published": "Mon, 26 Oct 2026 09:49:00 GMT"
       },
       {
-        "title": "McDonald's-Aktie: Morgan Stanley bestätigt Hold für die McDonald's-Aktie mit 297,00 US-Dollar - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGxiNjFtMEFfVWJfeHlpdU9MT1JWbzVWNlhpSmthTmR5X3l1RXFEWG90cDZUbW9SbXRpNExPY21HcHRyZW84eTNTMzU5MVJMc1lYN0FMQjFfUXdjLVNldnIxeVpSdm45N2VrTHd2aF9hMG4zMTlBTnpqeGdSbXZqS3d0clM2MWtCMkg2Z2tSLWNxWnhrUU45YVZRQUkxVl9ZbEVlT2dJNzFfMDBRSUNRMXVGd0dVUzFlTDkzSE5yRGtHeGdjMkNxS0FmSHRDR21tY1dQaHFRRWFyRldZdnI5dTJrbHJ5UTRuY1RwNWtR?oc=5",
-        "published": "Mon, 26 Oct 2026 16:11:09 GMT"
+        "title": "Burger „McRib“ hat heute nach 37 Jahren seinen letzten Tag - STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDU5MlpQQ3d6clZDSk9CaGxiMC0yb0JQdGhmV29IQS1aX0hYcE5DYnVGcU9SUHZZajJWTG5KbHduOTNQbktkd2hBNE8yNkpkbTE0UXVoUGhfYVhacU9UdHdTUlQ4M0R3X0ZBdEp0cDZSS1pPbjJ1ZkxpR1ZXQjd2MVJKS2p4ZzJOcmY2MmxxZlpQc2YzS3lCNjl2V1JuZERsc1RzOGtrNA?oc=5",
+        "published": "Tue, 27 Oct 2026 02:14:00 GMT"
       },
       {
         "title": "McDonald’s eröffnet am 3. November im Patertal - Der Ybbstaler",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFMdzR1WVlfYzMzZGN1RWNfd1NzU1NwU0pmSTZ1MUdSRk15QzdncFI1Sk56VVFPVzVwbWd6R1d3amg5MTRYTG85U2pvY18xNjgyTDA2elh2NDg2SlZadW9ZMGdJNzVCRHNpTDFkSnRwbUxfTVJnX2taakR2QjdUaENqcw?oc=5",
         "published": "Sun, 25 Oct 2026 06:02:17 GMT"
-      },
-      {
-        "title": "Burger „McRib“ hat heute nach 37 Jahren seinen letzten Tag - STERN.de",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDU5MlpQQ3d6clZDSk9CaGxiMC0yb0JQdGhmV29IQS1aX0hYcE5DYnVGcU9SUHZZajJWTG5KbHduOTNQbktkd2hBNE8yNkpkbTE0UXVoUGhfYVhacU9UdHdTUlQ4M0R3X0ZBdEp0cDZSS1pPbjJ1ZkxpR1ZXQjd2MVJKS2p4ZzJOcmY2MmxxZlpQc2YzS3lCNjl2V1JuZERsc1RzOGtrNA?oc=5",
-        "published": "Tue, 27 Oct 2026 02:14:00 GMT"
       },
       {
         "title": "Er entstand als Notlösung: Warum es mir egal ist, dass es den McRib nicht mehr gibt - CHIP",
@@ -38,9 +38,9 @@
         "published": "Mon, 26 Oct 2026 16:00:14 GMT"
       },
       {
-        "title": "McDonald's Eppingen eröffnet am 27. Oktober 2026 - L’Express Franchise",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbm5RaE9XM0t2Qmd4UUVNNUM0M2pQeDBpWnR0OWNtaXlTSzhTeHhUbWZveDFWX0ZrNDduc0Fwcl96M3NkakdkaldLcFFRZTRXQU5vckFLd0d3MFNGdFdDeF9BNVVGcVpMc183ODBYMllsV1U5bUpWekYwbFhkTk5PTTNBZUZ5QzF3bXBNZ1hR?oc=5",
-        "published": "Mon, 26 Oct 2026 08:44:57 GMT"
+        "title": "Der McRib verabschiedet sich aus dem Standardsortiment - Zeitungsverlag Waiblingen",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlp1YXJTR203VmlJcEhlWkdZdzF1Z1JPSmRVR25vV1VzNzN2MmtlaTRtZzRRZnlkWVNMZll0N0FZdHhFYU9naUVwa3FKaUlHZWUxMFhId09DT2kxT1gxbGNuSmxVMVFxSmk3a1QycjRkbDNLeVZhOUVsWk0zaXZ1T29sMVB6YmxqOVNVckhEMzlpS2YxcEdjZFlTaVl3emQ0cXFiOGw4RDFFWlNFRThIcWlFal9Kdw?oc=5",
+        "published": "Tue, 27 Oct 2026 03:04:00 GMT"
       }
     ],
     "Burger King": [
@@ -92,24 +92,24 @@
         "published": "Mon, 26 Oct 2026 08:18:09 GMT"
       },
       {
-        "title": "S&P 500 aktuell: S&P 500-Anleger greifen am Montagmittag zu - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2RrcGt6M3FyRTFZNGg2V2hlbDA5RjZyYm5sUVhWRVBacERfQ0Q4MGtPYlA2VVNIQkM4MjZmVkZhRFd2NHRxdWlVQzJMdHYyTl9oemtHVmkyRzJMMnFhYzdKUFZIbFFLOVdkWEVSVzN0amIzNWVIa2M3VW9kMnVZemVONHVOdmRTV2F4WHNYallfRXpDZEIzUmR3S20xS01MT0VtV1RwbW5vdmwySzZrc1dR?oc=5",
-        "published": "Mon, 26 Oct 2026 17:00:50 GMT"
-      },
-      {
         "title": "Omnicom Group., Inc. : erhält Kaufen-Rating von Barclays - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTVmTmNhSjJQc20xUTBLWV9fdVRKdENic2dpbFpzM05lZkVmTlVxb0NEb0dOMV9kVVBjVFJVVGdGNGNJYjNSVDBmYUdJTkc4dktXRWtxOHZBTUxLRDNmWF9HMkVRaFROWUNMRGhHWWx3NzVmMXVxeDRZTWRyOS1kSHlfekRrdjRDb3JScnNXYjFyM0FNeXhYZHlYR2ZxSEFKcmM0WjJFeFVnLUs2ajNMM0xHSXQyODc1Snc?oc=5",
         "published": "Mon, 26 Oct 2026 15:09:49 GMT"
       },
       {
-        "title": "Börse New York in Grün: S&P 500 notiert zum Start des Montagshandels im Plus - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkhRN1NQUjFwWVVQZjhJMkdCYWRrR0w2YjBMYnEwbkxMUzhCbUkybFBZNzA4ZXJfeEx0YUI0X3hrdjhnT0lyekpRa0NJZk1QVEFES0p5bHZvVkhWbFJnbS1fQWZVcU1TN3ItLUdjaGZla1ZRRGNJQUx0ZWdKcUpOZkFLTkgwVFhaUUZ6c3FmNlh4Qjl2WGhnallEd1hTLUxTTjNoUnAwTEJwTW9xWHVCeUlCWXZvUkNPZlY3bGJHR1BvYzA0TThLQnhJQQ?oc=5",
-        "published": "Mon, 26 Oct 2026 15:01:33 GMT"
+        "title": "S&P 500 aktuell: S&P 500-Anleger greifen am Montagmittag zu - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2RrcGt6M3FyRTFZNGg2V2hlbDA5RjZyYm5sUVhWRVBacERfQ0Q4MGtPYlA2VVNIQkM4MjZmVkZhRFd2NHRxdWlVQzJMdHYyTl9oemtHVmkyRzJMMnFhYzdKUFZIbFFLOVdkWEVSVzN0amIzNWVIa2M3VW9kMnVZemVONHVOdmRTV2F4WHNYallfRXpDZEIzUmR3S20xS01MT0VtV1RwbW5vdmwySzZrc1dR?oc=5",
+        "published": "Mon, 26 Oct 2026 17:00:50 GMT"
       },
       {
         "title": "Omnicom Group., Inc. : Rothschild & Co Redburn behält die Bewertung Kaufen bei - MarketScreener Deutschland",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUzYxSHByNF94Smp1YmplcDZZVnY4Z3EtV1hUaGpCcm1aUnA0aXBmcWpGSGtGdzBiQ01Idy1JRXkzSDNrLU91S2tOeUFUaUFlNElHMXlWRTNiT1RrbnVqM00zRGFsY1Q3TTJhWmhFNnk1MlYxc3RWRlJqeUdFOUZONlNQaHdseE9KMXBkTEZUOGEzaUlVdTZNQlpPU1NPb18zRXhVT1JOZjZaeDl1c2Uyd0dNOGtpaHVnT29qWTJvWVVSUEhJTVFlZG1kUl81NzRmbEpZQQ?oc=5",
         "published": "Mon, 26 Oct 2026 15:09:58 GMT"
+      },
+      {
+        "title": "Börse New York in Grün: S&P 500 notiert zum Start des Montagshandels im Plus - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkhRN1NQUjFwWVVQZjhJMkdCYWRrR0w2YjBMYnEwbkxMUzhCbUkybFBZNzA4ZXJfeEx0YUI0X3hrdjhnT0lyekpRa0NJZk1QVEFES0p5bHZvVkhWbFJnbS1fQWZVcU1TN3ItLUdjaGZla1ZRRGNJQUx0ZWdKcUpOZkFLTkgwVFhaUUZ6c3FmNlh4Qjl2WGhnallEd1hTLUxTTjNoUnAwTEJwTW9xWHVCeUlCWXZvUkNPZlY3bGJHR1BvYzA0TThLQnhJQQ?oc=5",
+        "published": "Mon, 26 Oct 2026 15:01:33 GMT"
       },
       {
         "title": "Gute Stimmung in New York: Börsianer lassen S&P 500 zum Start steigen - finanzen.ch",
@@ -129,14 +129,14 @@
         "published": "Mon, 26 Oct 2026 23:01:00 GMT"
       },
       {
+        "title": "Mercedes C-Klasse Facelift (2026) im Test: Gegen den Strom - AutoScout24",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemdjQTBFaFBpQ3J1eEZyV01aOUN4SzdsR0Z4eEs0YkYtQ21pZFAyUG1kc1kwU2pFSWpKcXBueEs5TkxxRkhnX0xKQkNOa3NqRnExYXlKdldXNXhPVzdEb3liWDRmYmtUV0FuSWFvSU1YTXo1UkVkcU1JVk9nalJHc2t0VHVVT2pBRXZOTE5XSmtYR2NTQllMeEV4cTVsYndUUlhDRFlCNlRMWVc4Ti02TV9n?oc=5",
+        "published": "Tue, 27 Oct 2026 02:54:52 GMT"
+      },
+      {
         "title": "Mercedes-Benz: Nur noch zwei Tage... - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGVaRTF4ZzJIM3dkbFVnVXl3OFRNQ2JRZTFObGt2R2YyM3RPWlltWDN1UU11NnRIenhfVmhhWF9USTZMVm1jLXIzbndySGdTc2ZWNEtjdnJBTEhHMllUMGxPalBuQ1lSaENqWlVUWVFnT00xRmRLaWdqZlY1RVh1eG9wdFU4OGtEM2o5WWhpXzN0MUE?oc=5",
         "published": "Mon, 26 Oct 2026 12:42:55 GMT"
-      },
-      {
-        "title": "Mercedes C-Klasse Facelift (2026) im Test: Gegen den Strom - AutoScout24",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemdjQTBFaFBpQ3J1eEZyV01aOUN4SzdsR0Z4eEs0YkYtQ21pZFAyUG1kc1kwU2pFSWpKcXBueEs5TkxxRkhnX0xKQkNOa3NqRnExYXlKdldXNXhPVzdEb3liWDRmYmtUV0FuSWFvSU1YTXo1UkVkcU1JVk9nalJHc2t0VHVVT2pBRXZOTE5XSmtYR2NTQllMeEV4cTVsYndUUlhDRFlCNlRMWVc4Ti02TV9n?oc=5",
-        "published": "Tue, 27 Oct 2026 02:51:11 GMT"
       },
       {
         "title": "Mercedes-Benz Aktie: 1,1 Millionen Aktien zurückgekauft - Börse Express",
@@ -149,6 +149,11 @@
         "published": "Tue, 27 Oct 2026 02:15:58 GMT"
       },
       {
+        "title": "Mercedes C-Klasse: AMG prüft duale Antriebsstrategie für den neuen C 63 - Motorsport-Total.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazF5WmdiUExNSmVMckhqVGhBUURWeHN4RmJFQlI5MTk0NlNNZFg2ZEd1NU9NbUhxYnVXUW1sZHV3WEhXSEJhZGpvM2NvTWRXbzJhSFZSOGJRbE1mOFZWZTBra0tSeUE3MjIwbi1iV0hHT0FUSTBnaTY4RzRaT0JjclZoNHpBWlFMT3MzQmdOdFFYcl9BcVpZYUpWc0l2ZE4xampUdEVYbGN0WG04Z3dnZVBsencyOFYxRTlNSkdhdnQ4QQ?oc=5",
+        "published": "Mon, 26 Oct 2026 15:25:04 GMT"
+      },
+      {
         "title": "Mercedes-Benz: Sparpläne verschärfen die Skepsis zur Aktie - Onvista",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjJmOUVxbFlpZ0xOa1pUY2swYmhmOXg4MUVxb2czSEhoaDNyX0ZOanJOMmxzVWJHZHotWU1mcFJkNEtjRUNVRFdmcEd6N2VpV0RzZXF4d0tGWGNxcmozZmpaU01UWE9YcWk5WmJFRVF6aldBbGdsWjJ5MUZOY2lfZzhnTzZlN2lvQTJMclJsS2tseTRva0NmSTA1eThhUjdfUVJZOWxFR2FSSjNldUItU0dsRUhsZ054dkN3?oc=5",
         "published": "Mon, 26 Oct 2026 15:16:17 GMT"
@@ -157,11 +162,6 @@
         "title": "Daimler Buses: Ljubljana schafft 35 Mercedes-Benz eCitaro an – größtes Flottenmodernisierungsprojekt in der Geschichte des ÖPNV-Betreibers LPP - busplaner",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMERidGx1cHhEemdTSmtzbkJEM2FCNVJjQkNwS0ZLWS1TWlFhc05kZ2g2RVU1djFsWEpTNWgxZ3JMbnV5VFpFbVh5aUh5b0ZGMHoxUDFHLXNOS2tKNDFLUGxFQmY5VzFwMXFaQThoMFhEdjVTLVhyNzl6TS1JSnJ0MWlsdGJuRG9KdnZTaDNGQ1Y2eExfeExIZkhCbHM0UU5oM0xSdkNVOFBhMUFUWHgyU2dRVnBfek5nSEVzN1pTZkFteWk2Mmp4SE5mZjJzaW1XU2VrZ29nTjRveUozTTMyazFqNkJSdnQwSEtINVh1MEs0Z0g5OVNlY2RFeFktUHhkamNfT09xNG5pVVVka2c?oc=5",
         "published": "Mon, 26 Oct 2026 09:49:30 GMT"
-      },
-      {
-        "title": "Mercedes C-Klasse: AMG prüft duale Antriebsstrategie für den neuen C 63 - Motorsport-Total.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazF5WmdiUExNSmVMckhqVGhBUURWeHN4RmJFQlI5MTk0NlNNZFg2ZEd1NU9NbUhxYnVXUW1sZHV3WEhXSEJhZGpvM2NvTWRXbzJhSFZSOGJRbE1mOFZWZTBra0tSeUE3MjIwbi1iV0hHT0FUSTBnaTY4RzRaT0JjclZoNHpBWlFMT3MzQmdOdFFYcl9BcVpZYUpWc0l2ZE4xampUdEVYbGN0WG04Z3dnZVBsencyOFYxRTlNSkdhdnQ4QQ?oc=5",
-        "published": "Mon, 26 Oct 2026 15:25:04 GMT"
       }
     ],
     "Nvidia": [
@@ -181,6 +181,11 @@
         "published": "Mon, 26 Oct 2026 06:55:45 GMT"
       },
       {
+        "title": "NVIDIA Aktie News: NVIDIA zeigt sich am Nachmittag freundlich - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnhqT25EaGJCVVFjR0d4UUpSZE1oaXBPN0tYRWt3c25DVDN2ZXU3ZFNodFM0b193a2NTcmo4bVRCeEh5RkVMTEdPM2xtdnVSZmJFWm03LXF2THFMNEZZMnlwWXk2by1LQnVaM3ctVGQ4Njh0OXJXMWRIMEdMdDJjeW5OUHFBMjR5UktLazE2QXg0ekNw?oc=5",
+        "published": "Tue, 27 Oct 2026 03:32:02 GMT"
+      },
+      {
         "title": "Nvidia Microducks: Mini-Roboterenten lösen Bestellwelle aus - FAZ",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHlhaDVhRGpWYnhDcDN2YW9HXzBrYVh6cTNXUGFPS1lpYjN4TGlPRlFad3dVUXVPSjVBVV9pcG1RYVJSbHlEbkxWcldjTmcxMzNBeXZ2LXg2SjNoUnNBeHo1MmJNa1JTV3hQOHRUU3Z1YlJJSWNOelhTdXJkX2RrUjZCYy1vd09RVU1VTkpBWGpEb1hDa2RSaGpqUjItSzFrZlBqMUpja09JeTdvY3pDNHZkRTA2WGhQWlF2Ny16WV9McHc?oc=5",
         "published": "Sun, 25 Oct 2026 20:03:36 GMT"
@@ -198,12 +203,7 @@
       {
         "title": "Investitionsgipfel: Ausgerechnet Nvidia-Chef Jensen Huang tritt als Deutschland-Botschafter auf - WELT",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUDhzWllmZmRoVEo2T3FDOFV2cURJeGF2Ylh6WGxqb1RoX2FrVXFheGg3QTlWNlFSWFk0QkE3TktiQ3lpYl9CZGotd3V2QWs3a1RHU0FmZmsyQmNZbVdXQVZhdUdoa2ZUS0QtWW9paEtrRjc2dlM3a29ycTRwLVFoTHdLOGhuS0NlNE5Ha3c5T1pockp6Szl1OFRtUk5OWldNeFI5SmdCU25ScTJxVkh3REFyQjlFNGFSdnhOZmJZbkpMT2h3MlQ4cXVFc0xkTHNmMWtZc0w1VmVmUlhzdHFuR3kweUNnNzRzUEpaOV9FYkM?oc=5",
-        "published": "Tue, 27 Oct 2026 00:48:32 GMT"
-      },
-      {
-        "title": "Für Vera Rubin: NVIDIA reduziert Vorgaben für HBM4-Geschwindigkeit und NVLink-Interconnect - Hardwareluxx",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVjNzUUhxUVpmam1pWENqSUZuUXd0bkQ0WjJpWnVzVHhueGwtUE15NUNaM3RmUGdJcW13X1Z4WHRobVdKWFFzRWJkcFdBWDFXMnhtSFVIekZSRzhTZXlhNGk2b3FOcElKX2RBdXJySFVXMkh6STR0dE1LMWlwUk5RZUZqSkpqTE9xaGx6T0s0QS1zeGEza2YyMTRWelJFcmgzMmlDU2N5RlBfdXlnVDZfSmRpN0xER3pNNW5mWnpWeDVHRldEVlRudG9tRWZLRkFfckdSdmllRW9rQzVxUnVObUJJdVJpMGcza3M2MTQ0WHY0NVhKRWFuYTBn?oc=5",
-        "published": "Mon, 26 Oct 2026 10:30:49 GMT"
+        "published": "Tue, 27 Oct 2026 02:18:34 GMT"
       }
     ]
   },
@@ -220,11 +220,6 @@
         "published": "Mon, 26 Oct 2026 16:17:51 GMT"
       },
       {
-        "title": "Anthropic leitet Börsengang ein: Prospekt eingereicht - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qT1JHU05ONlk3NDVDTGtsVlY5aUc5dFJUeTBYczFLbUJKelFoUzkxQWRWQkYyQi1CS2xBM2k2Zm9yMHJmYmVVNGRsR1FsMmFuaDFXbnBDN1Y4Wlhpa0tHSHJDdDZrLTZFal9rWENFVk4ySWpsMGVtUg?oc=5",
-        "published": "Mon, 26 Oct 2026 15:16:00 GMT"
-      },
-      {
         "title": "Anthropic strebt an die Börse: Das KI-Unternehmen setzt auf Wachstumskapital - NZZ",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLS1jVFU5Nmc5RkNRbW1vR0xQb3Z0QTZ4aXJKdk5GWnJlZmRiTWtvS1Y0dHBLdk9xa2cwV3dDdURHbUZWSWF2a0kyMTF6RVBueEZBMHVHMDgwYnVIOGVTTnZSenZaQ1QtUVZFdVJzZVB4V2ZBR25fdEVib25WdDhsUkphS2RsTXR0dWFSRzNpWGU5TW9rbWUzd292NGpJSFBpUG9lWmRlcy1QNE9WU19neTNESC1OZEVtQ0VkWGFPUUNwNFJ0eG5KOWNkRkJLS3R4Mml3M1dmVHU?oc=5",
         "published": "Mon, 26 Oct 2026 13:54:15 GMT"
@@ -235,27 +230,27 @@
         "published": "Mon, 26 Oct 2026 20:36:00 GMT"
       },
       {
-        "title": "Anthropic will an die Börse: Diese Zahlen überraschen Investoren und Experten - Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEhrbWpEM0staDJyV1BzcHI3a1VXbVlZdEg2ZXNfUHpSZE9qeEQ3M1FJVWp3OXljUU1GYVMtdDk4ME1KbW5reHQ1ZzhvSDRFRmNBSUc1VzdZVWx3cGFtRVE4X19jUXBVUUhpU09kNXNuWDBZaThlLUk1SEp0Zy1zLVpILTY4MFJyUklXVzFBcUVDcTk2NXZ5WXVhWTU?oc=5",
-        "published": "Mon, 26 Oct 2026 16:09:42 GMT"
-      },
-      {
-        "title": "Anthropic reichte Prospekt für geplanten Börsengang ein - Südtirol News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3htWlV5a3JSTEtvZHNtZGVOLWlZcTZOMDlmRUZoT0VEZU5PTWZJNVU2d1o2ckFYQUlzVmZjR1lwRGRQUWdYWm94U1NFaHpEdVdzejRnSy00bUY0WEtXcFZ2ejVpWkRJWWhPYmRoeXR5TlFNUWlHQzRjSlN6bzdKcVZ0TEVFT0Vkek9nNVNQZjAzMkhwdUNmZHgtUFRjUQ?oc=5",
-        "published": "Mon, 26 Oct 2026 15:38:00 GMT"
-      },
-      {
         "title": "Sozialist Lula gewinnt Brasilien-Wahl – ETF stürzt ab: Anleger fürchten Wirtschaftskurs - Merkur",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHJTUDhzTlp3TnM4VU1oMjQ2dTl2Y09nLUx0WDJ3aTlNMWluaTR4S25EUG11Z3ZSQ0YzbW9jNGJub2dfY1VpODROYVFoOWp6dThablhWeEM4UFBhZkRTM2tRLTk1RkYxU0hFY3RWYnJfcVc5d1d1ZFdRVERuakEtNEZMeWxSUGZNQV9iNlc2ZmZjSG5ZMGdyNG1BWFZESWQz?oc=5",
         "published": "Mon, 26 Oct 2026 09:34:07 GMT"
+      },
+      {
+        "title": "KI-Entwickler Anthropic stellt Antrag für Börsengang - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlCZ0h4MDM0MkFyU0lyTmJURVY5OUFnRlBLRGZKYjVzaTdBWUM2Rk5SYUZWZ05vUnhZR0xaTkNsZVdCUG1aVXRGQU9zVm16SW5ueG9SdFdQOU9LdUpnd1ptbVY2a01lcjVzdXRzaWdZcjM5LXI3Y053ZkRfUGlRbmxkVEdHTTJ1Zy1PYlkzM0JHU1BMYW92bDdiN3BUblRiLTk5YkJmUjh6Ry04dzc3LXV3N0ZqOGM?oc=5",
+        "published": "Mon, 26 Oct 2026 16:56:55 GMT"
+      },
+      {
+        "title": "KI-Pionier Anthropic beantragt Börsengang in den USA - Watson",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3l1c3FyekdFMzdwUzNfU1IxeTZHM2N5RTRYMkVINFVFQ2o5RTF3S1ozdml1WHhBN0xWeml0bzZhbnBUamNkRG95TkE0c1FOamJFWlhvb0VDZFFCeHR1U0RRQWY1RzRvclFzZEJzYjh0NHVEeGp5a1AzTkJvb2NGMWFidENOVWRpNXR6RFpnVDV1OGhzb1h0WHBhWjY1SkI4QWp0SE1pQld6ZWVKRlM1UVRRaXhTZHd3NVZjdk14anBfQQ?oc=5",
+        "published": "Mon, 26 Oct 2026 14:43:09 GMT"
+      },
+      {
+        "title": "Lula-Wiederwahl: Brasiliens Börse stellt sich auf Unruhe ein - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNandDeFdrQ05fMFFoMGoybmlKRkE3MnM3WXd0QXNzWDUzd3RZZjFxbFdwa0NSWTV5MW9vakEtQWxPTGt3REZyTjR5Q3VvN285UWdEU0hGLXkzOERKVGhBbU00VEtxVzhORldOLUJ0RXlqbTFhemFZUEFjSG84QkxHOWYyYmRtMW5mMEpXX2I5b01JSGpwV19KcFBjZWNhajA4V0NBRElOQVVrQXBrSUROd2VTbVZNY0ZVMTdhb2ZyRDZ0MnJXejdYMQ?oc=5",
+        "published": "Mon, 26 Oct 2026 14:20:41 GMT"
       }
     ],
     "Werbung & Marketing": [
-      {
-        "title": "ChatGPT-Werbung: 31 Märkte, Claude bleibt frei [2026] - shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UXZwZjhtV2RaNEQ0ME1TSmVzUUpPUEx2Rk9sSUxOek9BbEFuMEEzMTJyU1E2Tlk1czIyU2FaQTNET2pwcVF2dWlPcjFxTWIzTVNJR1lrOU9tMnA4eWtIQld3R052by1VRC1VMWk0eFpzazJIT2RmX2M2a0Q4Q28?oc=5",
-        "published": "Sun, 25 Oct 2026 09:14:18 GMT"
-      },
       {
         "title": "Connected TV und Programmatic Advertising - Netflix erweitert die Werbekooperation mit The Trade Desk - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1F2M2tTcFpFeGFhbGF2OExvTFpIYmhtMTJKQTIwelBYRTh4S2dkOXBLVjZQX19MUmoyVXUwR0t1bGgwN183VUVnSDlYUFhXTHBhUng0RHdzcXE5SlpIeW9sS2JHWVIyRVF1NkMzSDJGNjM0MFJNX0F4ODR2SXFTVGl3VFFRME8xREQ1SHVCbjFLRW1EdGpyemZkVFNpa0FD?oc=5",
@@ -326,9 +321,9 @@
         "published": "Mon, 26 Oct 2026 23:01:00 GMT"
       },
       {
-        "title": "Nvidia Aktie Prognose 2026 & Kursziel - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YZHYtV2VJemdjZHlfY0dZTlpuV2pnbkMybS0tQzA5MzZjSERtcGVkdUVTd3pMaUFQOG1NVUp5cEgwRzh4cVBWYVR6Z0E4bWozUV9mQ25xRDZXT0xCMVc0VjlvQnJqRF92QzRMZEc4T25qaXEwRzBQYUJmTjBndw?oc=5",
-        "published": "Mon, 26 Oct 2026 21:15:44 GMT"
+        "title": "Mercedes-Benz Aktie: 1,1 Millionen Aktien zurückgekauft - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2VwTEl0Z0szcU16ZXZWS1M0MlZjRHN4M25HZDVZZlVTY3VzaUgzcThhT1c5UmxFdlcwbUlFVXczMDNFdnVDT0hmdEw2cGJ3dzk0c2QwcWY5S3FrZGFMeExxYkRHVmtPTXVpeWJCUk5OQUtpMTJOeEhZbjdoWEY0SEJ2NUlDZGF1bWVTZGdpM2RYbF9ZS0xHWldzc000LTJ4OS1qWlJINXZYQQ?oc=5",
+        "published": "Tue, 27 Oct 2026 02:00:09 GMT"
       },
       {
         "title": "Nvidia-Chef startet einen Enten-Hype: Doch es gibt schlechte Nachrichten zu den süßen Microducks - GameStar",
@@ -356,9 +351,9 @@
         "published": "Sun, 25 Oct 2026 20:03:36 GMT"
       },
       {
-        "title": "Für Vera Rubin: NVIDIA reduziert Vorgaben für HBM4-Geschwindigkeit und NVLink-Interconnect - Hardwareluxx",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVjNzUUhxUVpmam1pWENqSUZuUXd0bkQ0WjJpWnVzVHhueGwtUE15NUNaM3RmUGdJcW13X1Z4WHRobVdKWFFzRWJkcFdBWDFXMnhtSFVIekZSRzhTZXlhNGk2b3FOcElKX2RBdXJySFVXMkh6STR0dE1LMWlwUk5RZUZqSkpqTE9xaGx6T0s0QS1zeGEza2YyMTRWelJFcmgzMmlDU2N5RlBfdXlnVDZfSmRpN0xER3pNNW5mWnpWeDVHRldEVlRudG9tRWZLRkFfckdSdmllRW9rQzVxUnVObUJJdVJpMGcza3M2MTQ0WHY0NVhKRWFuYTBn?oc=5",
-        "published": "Mon, 26 Oct 2026 10:30:49 GMT"
+        "title": "NVIDIA Aktie News: NVIDIA zeigt sich am Nachmittag freundlich - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnhqT25EaGJCVVFjR0d4UUpSZE1oaXBPN0tYRWt3c25DVDN2ZXU3ZFNodFM0b193a2NTcmo4bVRCeEh5RkVMTEdPM2xtdnVSZmJFWm03LXF2THFMNEZZMnlwWXk2by1LQnVaM3ctVGQ4Njh0OXJXMWRIMEdMdDJjeW5OUHFBMjR5UktLazE2QXg0ekNw?oc=5",
+        "published": "Tue, 27 Oct 2026 03:32:02 GMT"
       }
     ]
   }
