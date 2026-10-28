@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T22:13:57.168053+00:00",
+  "fetched_at": "2026-10-28T23:09:07.425009+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -8,14 +8,14 @@
         "published": "Wed, 28 Oct 2026 08:48:39 GMT"
       },
       {
+        "title": "Mc Donald's bringt ab heute die Radios, den 1955 Burger und das beste McFlurry der Welt zurück - GamePro",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DT1NjUFpPdFA4SFFmd2JfYTFVbmtBakwzc08wZmFnZjEzSTNFdmFxNnZaWTFDQ2ZQS2F6ajd5UVRjSVBFNEtyOGdRZlk5cnZxV09qbWVEcHlZRUdRTTlQcDY4dVZzM2tSMGdJZWlR?oc=5",
+        "published": "Wed, 28 Oct 2026 23:03:37 GMT"
+      },
+      {
         "title": "McRib fliegt aus dem Sortiment – die Geschichte eines deutschen Sonderfalls - WirtschaftsWoche",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVGhHTFF6WmZxVDdSZEttUEhtVnRlWTJWWHVKNjVsV2I2SDR2STVJbzFpWC1UTFdnZjZlRGJHTUUzdnd1Ylh0RVdySUwxNWVyRE0yU2dveE5RYnVfWFM5R0pxdTJQSkc5SWg0QkowVmllVXFsd2NFVkdmbFpKYVktbERUdkd6c090ZUUwOHRVX0hVdUJ3TE95UTdWUGg0SUlSdGwwY3ZhVkxaNkdKeVRDX2drZG9QNXNSbWRuS3hsLUtkVU9QbGc?oc=5",
         "published": "Wed, 28 Oct 2026 21:26:51 GMT"
-      },
-      {
-        "title": "Mc Donald's bringt ab heute die Radios, den 1955 Burger und das beste McFlurry der Welt zurück - GamePro",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DT1NjUFpPdFA4SFFmd2JfYTFVbmtBakwzc08wZmFnZjEzSTNFdmFxNnZaWTFDQ2ZQS2F6ajd5UVRjSVBFNEtyOGdRZlk5cnZxV09qbWVEcHlZRUdRTTlQcDY4dVZzM2tSMGdJZWlR?oc=5",
-        "published": "Wed, 28 Oct 2026 20:03:13 GMT"
       },
       {
         "title": "McDonald’s holt die bunten Mini-Radios zurück: Diese 5 Kult-Songs sind dabei - Giga",
@@ -28,14 +28,14 @@
         "published": "Tue, 27 Oct 2026 16:30:42 GMT"
       },
       {
-        "title": "Warum der schweinerne McRib seinen Platz auf der Speisekarte von McDonald's verliert - derStandard.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaE9KUVBabEFVdHVpdFlHSTRQTzB2QUt5SkRRVHd1Y0RCMWNFbUUzT2NzaXNVXzl5R09pX2FWbTRjWmRGcXdVbmJ3Zk1CVm4wT1FqRGtnN2tCS1NxZHZLV1YwSkl4YjZQMUlKWmVUZ0pldkVDa2h1RzZUMkNpdzZsYk5hMDFaRnk5c3BIWVlaX2thYTFpOGw2SUpUMmtMNFM4dE1FYWg1SHlEcTZyOXdVcUZHWkh3anJGZzhYVTZGMUhkNGt2dW1QT0JR?oc=5",
-        "published": "Wed, 28 Oct 2026 07:00:00 GMT"
-      },
-      {
         "title": "McDonald's Deutschland: Die Mission: World Menu-Produkte - Horizont",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zSTZ0MkVaSDRYQlBDT3hZcnlXRDZoTE41Nzc3dXNnbU5fMjdTV0R0Y1dZQzlGVXZ4ZklOUzJGNHBqTlFjeEdUbVIybjNFRjc1NXFmOFNTYzNWM2tqbUctV3lpb3Z4X2kwS212bWFZekhnQ0RPY3ZMTU5n?oc=5",
         "published": "Tue, 27 Oct 2026 20:12:54 GMT"
+      },
+      {
+        "title": "Warum der schweinerne McRib seinen Platz auf der Speisekarte von McDonald's verliert - derStandard.de",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaE9KUVBabEFVdHVpdFlHSTRQTzB2QUt5SkRRVHd1Y0RCMWNFbUUzT2NzaXNVXzl5R09pX2FWbTRjWmRGcXdVbmJ3Zk1CVm4wT1FqRGtnN2tCS1NxZHZLV1YwSkl4YjZQMUlKWmVUZ0pldkVDa2h1RzZUMkNpdzZsYk5hMDFaRnk5c3BIWVlaX2thYTFpOGw2SUpUMmtMNFM4dE1FYWg1SHlEcTZyOXdVcUZHWkh3anJGZzhYVTZGMUhkNGt2dW1QT0JR?oc=5",
+        "published": "Wed, 28 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "1955 Burger, McFarmer & Kultradio: McDonald's lässt nach McRib-Aus Nostalgiker-Herzen höher schlagen - Horizont.net",
@@ -60,19 +60,14 @@
         "published": "Wed, 28 Oct 2026 15:03:00 GMT"
       },
       {
-        "title": "Burger King eröffnet exklusives Restaurant: Warum Burger King jetzt auf Holzweißig setzt - Mitteldeutsche Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0pWSk5qeWdtZndwYUtlNTVGSlVGbGMtTzU1OG5IWU9VcE5qNUd2M0VmSFZWZjNWT3NiTU9YaWVPTWRNMlV6NjZEYnZremFNdzRlZFRzWUVkV0R5dHUxM1pobjMwY3BJM29XbTVKR2QxblFTbXFXT0xiSkE5R29RNDk2SDBlaWRUcnVMUk5VRVl0QQ?oc=5",
-        "published": "Wed, 28 Oct 2026 22:03:00 GMT"
+        "title": "An der B100: Burger King eröffnet exklusives Restaurant - Warum die Kette jetzt auf Holzweißig setzt - Mitteldeutsche Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3IwN3A1eG84VjJReTdFU3B6SEsyZDd3dllwTHNQSlBMbWRKU2FRRFZHUDJ6MHFrV1c5bFhvTHRmSmluOTdCZ3k5WUR2VjBFdWFWUURlVlJJcE1nTXBJcExXM2dEM2RzT1Z0ajRNR3N4bGczUmZKVGpodEN5QW4xblJzOHMtOFBuTWZseFQ5WHZMT2dPTl91RDEyeG82YUlVYi15OTFoTm5vSV9uQnBhTmdPcE1hcDMzRVFPcWpNN2FGLXFVdWVHUg?oc=5",
+        "published": "Wed, 28 Oct 2026 22:22:00 GMT"
       },
       {
         "title": "Ein schwarzer Tag für McRib-Fans: Heute ist Schluss mit dem Kult-Burger - STERN.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVd3ODVDYkZ4VTVocTN0LTk0VXZrX29LbUNTYlA0VDQ5VmlqNVJaTDdZM2cta0E0eHNuXzhIZlZDZTlLOXN5cTY1SWhyTlB4N1gxc3EtZ2Q2QmllemZWcUdDN3p5ZlNzLThna3ByNzNORURHTGVKYWJGbjdsMjE4Y2xibklneEZWdHg5WUg3RUhxWGh4Q2dDbGMxZ2RLSWVXV0hZQ01QMm4xcWF6R2JXOA?oc=5",
         "published": "Tue, 27 Oct 2026 09:24:00 GMT"
-      },
-      {
-        "title": "ARD verschiebt «Hirschhausen und die Pflege» - Quotenmeter.de",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mMkxxWF8tZEtUMFBQMXRnSlFCa1FoTE9LZllibnhUWDJ4ZFZEVktheEFpUWVuTlpTSFplNFZIRWRwVFNRaEpWb3lCR2tXMHN5d2Y4VEVHNXI1bmY5ZE95Q3dLMDMtZmZ5NVMxMUQ4OFRxSmZC?oc=5",
-        "published": "Tue, 27 Oct 2026 10:53:47 GMT"
       },
       {
         "title": "McRib wird eingestellt: Das Ende einer einzigartigen matschig-leckeren Burger-Ära - RP Online",
@@ -83,13 +78,18 @@
         "title": "Lu Hagl leitet bei Saint Elmo’s München das Kreativteam - www.markt-kom.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0tOY0gyM19FY3pIU25PWGozVlNkZVVBNWtnMEdvTTh2cmFUTWYwSUNaMGZpTzhrbTlxaXhKWm1iVWZGcHc3NHIzeW9YbTFVcjh4S083U1daV0RxTV9kVHZTNzhHLTJaRTFBOVFhbno2dElpSks0Yy1VX2NTcnBqMW1PcF85eWg5WW1oN2VEY2N2cGhuem9yTHM3cFpXSk9UV242LVpnMWc?oc=5",
         "published": "Tue, 27 Oct 2026 12:59:32 GMT"
+      },
+      {
+        "title": "Der „McRib“ hat heute nach 37 Jahren seinen letzten Tag - STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHpIeWxVTVNwbXJsYUZXLXlyU2pXd0FLVXlLaVFidC03TVM4WEpJRUh4bXNJMXVsak9sR2x6aExIdUNBYnRmVUdjVVFrUHFzSVlWTEZIb29DTnFySVJEMzlIbUhlUzJfNlV4dGJZMTNpdkFDRWpxVEgzQXFZZG92U2F2blFXLTVsbjgxNGRIZmVwVi1mUVJkZGg2R0l5SUtZTXJHVFliREhnS1lSRzg3QWNJWUx1ZXVUbEFZZg?oc=5",
+        "published": "Tue, 27 Oct 2026 07:09:00 GMT"
       }
     ],
     "Omnicom": [
       {
-        "title": "Aktivste Aktien heute: US-Markt - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeC1uYTVBZkU0bEw5cUUyQVlLM2paUlJ1Mll5NVc5b3MyWFo5R3NMQW9mZ25UbXNtSF9BZmJJTUY4dTNWeW9rZUhIQ3NDNkFkRXdsd2VfZ3UxcEFzTGE1RDV5N0tjT3RacTdJZEFUd18zX1VyYjFva2lLWHdlZVpDM21hblpMNWFxNWR1aA?oc=5",
-        "published": "Wed, 28 Oct 2026 03:21:50 GMT"
+        "title": "US-Aktien auf 52-Wochen-Tief & neue Markttiefs - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0Uzd0V0WmRrbVdfRVNwNlcyS3ptc1FRMUo2cXlDaHZOTzg2UVNaWldwdmZpUjMyaDBwRUduU3NBcGl0ZWczd2FydV9LWVlsR3lVazJyek5Mam9Wc2FOVEt5OXdZTGVEd1lyaEZfNXhlcmNUbGhaTGFway0xeEFFdzVjUQ?oc=5",
+        "published": "Wed, 28 Oct 2026 06:39:06 GMT"
       },
       {
         "title": "Freundlicher Handel in New York: S&P 500-Anleger greifen am Mittag zu - finanzen.ch",
@@ -97,9 +97,9 @@
         "published": "Wed, 28 Oct 2026 02:15:00 GMT"
       },
       {
-        "title": "US-Aktien auf 52-Wochen-Tief & neue Markttiefs - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0Uzd0V0WmRrbVdfRVNwNlcyS3ptc1FRMUo2cXlDaHZOTzg2UVNaWldwdmZpUjMyaDBwRUduU3NBcGl0ZWczd2FydV9LWVlsR3lVazJyek5Mam9Wc2FOVEt5OXdZTGVEd1lyaEZfNXhlcmNUbGhaTGFway0xeEFFdzVjUQ?oc=5",
-        "published": "Wed, 28 Oct 2026 06:39:06 GMT"
+        "title": "Aktivste Aktien heute: US-Markt - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjdQYXFqZ1J1VENnd0x5c2d2dlVrRlZUaGkzVy1hcGZ0NlNHYTFjYUd0VEdGRGFyVTQ4TXphaHlfcXM3TnVPOE9jczZocGRLMzdQSVlrc0h1RzBqdWMzUXRuV3IzRFFNUGxSZ18wTmFrTmE5bFFxSHJNVHZycklVbjExU2tpVk85TU93Qg?oc=5",
+        "published": "Tue, 27 Oct 2026 20:21:58 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -139,9 +139,9 @@
         "published": "Wed, 28 Oct 2026 12:28:00 GMT"
       },
       {
-        "title": "Mercedes-Benz Aktie: Källenius will China-Risiko senken - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2h5cjZoUWJoS21xTFItQW10TnNTeFFnVzl1aXNLZVZLTHVGakNxQkFyWkt4RDU2b0ItcmZKb3l2bUtreGtIWnRXNjFub1lvbnE2M1R0SU84NmRLMFBTNEFQZmtIT2tYTXh5amdFb180Y08tc2laU2FQa0N6UEFOZ2xGM0VrYm5jZUdYa0RNSXlIQ1RzYnd1WS1CYzQzMGp5b3FlaVR4MDNFZk0?oc=5",
-        "published": "Wed, 28 Oct 2026 16:55:07 GMT"
+        "title": "Wie der Absturz in China Mercedes unter Druck setzt: Konzern überdenkt Strategie - SWR",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT1lGUktuajRIUjAxVHVUbkVMRVZfQnNLT0F3bjVhWkFWZExJTW9Gc0xtX25BclpPU1BDRVJHdDM4dG1PeWdSc2ZRMnNOcW52UkxtZWVCLVdaQ2dmaXJ6UTF6TkIxTE41SmppR1NuSjM1STc4alpMSnJuTXU5bVdIaWt2eV9SMkpFcDh6YjJRZHRYQzdBVmFrNzB1VGlGR3NUYXR6aDl1cER4T3BzaFM0S2xGWjVJQXdoNGJQTGxpbkdJTWVZZGRjR0JUckVCZDVCZW5EZUp3?oc=5",
+        "published": "Wed, 28 Oct 2026 11:56:31 GMT"
       }
     ],
     "Nvidia": [
@@ -166,11 +166,6 @@
         "published": "Wed, 28 Oct 2026 20:47:59 GMT"
       },
       {
-        "title": "Adobe und NVIDIA beschleunigen Photoshop, Premiere und Substance 3D - DOCMA.info",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDI4alRUdm4yZmFsTEdKTHRHcGQyVXV4T3NqN0lSVzBSOEtnNkQycWh5THp3RHE1anVacHlHUnNzeG9kMGlPa2xLTU1kTnRYMXR4bFM0Q2RVUHQ5RzBuOEJGRVBfS3ZCeGdTak1FM3JTNWZMMGN1M3hKT1NBM3lwUnJqT09wSjJzUUpibVNtRVBpM0dLdkhvV3h0ZFdpRUhHRlE?oc=5",
-        "published": "Wed, 28 Oct 2026 19:10:46 GMT"
-      },
-      {
         "title": "Nvidia-Aktie: Sie bricht durch! - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR21nbHAweVlpMGcxMC1oMHkza1I1T0x1YTlnVEdLOExZSElwWHVxTlNoQ2xQWk1PN2JSZWVHazlSM2JlVEh0ZTB2aEFRSVVkSXBTcFpPdjdGbFBvMTZUbUhybmVHRVBOcVhGbEM3VTExOHdIZThGZUMtdER0NGRYcHRqVWd5eU1u?oc=5",
         "published": "Wed, 28 Oct 2026 05:15:09 GMT"
@@ -181,9 +176,14 @@
         "published": "Wed, 28 Oct 2026 18:22:36 GMT"
       },
       {
-        "title": "Nvidia Aktie Prognose, Kursziel & Analysten - Onvista",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wNGpNczdkcnlab1BXb1d1MFlDX2xYY01VVEpYMlpOb2g0ellVaDhZU1V3STctUHBpd1E2WkdOa1diSk9mbDVRYllNT0RVRDk0QW1mSVV5aDlnVER2VjRTREczNnk4Qk0zU1laeW96UXIxZw?oc=5",
-        "published": "Wed, 28 Oct 2026 14:01:50 GMT"
+        "title": "Leak: Nvidia stellt RTX 5090 und RTX 5080 wegen drohendem KI-Crash ein - Notebookcheck",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXN5ZFhhRmg1Y1dPRThHUW5JNWhSdURPQWpZemZqYmQwUFJsNVJsTUdlcXQtRThYYkY3OHpTZWxnUGtpODFwbWlFeWNtT3l0TUFfMDNmOGtRMUllZWVmbGxPS0czVmUteUxnM29uTEREaTZjaEc4R1lneDlHUkwwYmYyR2NBYWZRSjdmdDRLSUI1bDFSRlNmb2FzbGVaNDduMkJHeno4OUk4WEsxSEQtcjVfZEg?oc=5",
+        "published": "Wed, 28 Oct 2026 10:07:00 GMT"
+      },
+      {
+        "title": "RTX-Spark-Laptops: NVIDIA bringt Transkription in 40 Sprachen und GPU-Regler - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHRlLTQyN2RVUS0xdjhVOF8yT2dIbzlyeld1SjV3RHJad0ZXb2o0UnFRdnRIbjZkeGtBODQ1QS12WTVZVVcwc2cwWVc3SHdWVTFLcHJnSG00RGpyX2lFa3I0OVVkSUV5Z1R5T0w5YkpWMThJM0lLcFEzWUJDYk9DeWNBbmExMFRYeUlnY2RndFp3and4d3hSa2toRzEtc0dmMzZzeg?oc=5",
+        "published": "Wed, 28 Oct 2026 22:38:04 GMT"
       }
     ]
   },
@@ -200,6 +200,11 @@
         "published": "Wed, 28 Oct 2026 11:36:00 GMT"
       },
       {
+        "title": "Börsendebüt - Werkstoffkonzern TK Accelis mit Gewinnen an Börse gestartet - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR0QwQnluZUZWNVdzVHJJWDlYcGJPTVdBTHM3TGJpR0NLQXN2YmhZU041eV92SnVkT2VlVzFDR3Y4NnFpbVJjX29Ud0kyUjdSaFRJc1Iza0h2VDl3bmNrckE3bUJ4WVQwU0dsUzhqcmJqbGxrUzkzMVBKUkpwQl92bmFlM1Q5QUltbFVfTjdNUk9jMUNXdll6NlNVS294YW54NUV2NVUyMTFjX0lnYi0zOVh2OTIwMHVoWEU2b0N4VHlsMi1kTEZVU2swRVY4bFlndGhNNV9VUWRsOERmN0Q4OU5uVG40aGFWTGdHbllpU2k5Zlo3VGc?oc=5",
+        "published": "Wed, 28 Oct 2026 10:51:09 GMT"
+      },
+      {
         "title": "Anthropic-Börsengang: Wie Dario und Daniela Amodei die Macht sichern - FAZ",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEhnM1BvLWZFclNnVnZDTlZyUDh6REFsdXNwejdpdjVxWmVWLTZsekt5WFRzUUxRblJRLVBRYXNRc3ZteUhUakdqaWJDckcwV3B6OU1CdE1VbTBEaW5ONUcwVDNtTHlhdFJOaHVQLXQtLWhKbEp0LTZtX1loeE5sSjdUam5XbWlZTWZscVlaOVpwT1QwMml2Zm93aUxOYUdzUDB4SHFzMHFyTm1OTG91OWJFTkxWWEFxVlg0My1YdlZCbVdfbkoyeGx4RGJ3cXc?oc=5",
         "published": "Tue, 27 Oct 2026 19:54:09 GMT"
@@ -208,11 +213,6 @@
         "title": "Anthropic-Börsengang sichert den Geschwistern Amodei die Macht - SRF",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzFtZjFIdE1TZFdMSXY3RFkxS3h2UTdhRWZvbTVOZC1MeExEVkpEWkJDWk9PcUJ3S3NsTVFtRkhKVzdhbTJ1elZUR3ZvaV91OUpzM042Y09ZcXFVdkJDNWlrLWJxU3RHOWQ2ejdmX0hNRlhJUWhvUzNiQkl2UVZjT09lVVBkZ1FqNzVDODRpMjBkaUZmLWM4QkpGdVotY0MxUzNuVm8yLXNGZDdDZ1FJeE9BT21XS3RsTEpZUnhRVmN1dw?oc=5",
         "published": "Wed, 28 Oct 2026 05:53:05 GMT"
-      },
-      {
-        "title": "Börsendebüt - Werkstoffkonzern TK Accelis mit Gewinnen an Börse gestartet - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR0QwQnluZUZWNVdzVHJJWDlYcGJPTVdBTHM3TGJpR0NLQXN2YmhZU041eV92SnVkT2VlVzFDR3Y4NnFpbVJjX29Ud0kyUjdSaFRJc1Iza0h2VDl3bmNrckE3bUJ4WVQwU0dsUzhqcmJqbGxrUzkzMVBKUkpwQl92bmFlM1Q5QUltbFVfTjdNUk9jMUNXdll6NlNVS294YW54NUV2NVUyMTFjX0lnYi0zOVh2OTIwMHVoWEU2b0N4VHlsMi1kTEZVU2swRVY4bFlndGhNNV9VUWRsOERmN0Q4OU5uVG40aGFWTGdHbllpU2k5Zlo3VGc?oc=5",
-        "published": "Wed, 28 Oct 2026 10:51:09 GMT"
       },
       {
         "title": "Anthropic will an die Börse: So viel Macht gewinnt das KI-Unternehmen - SWR",
@@ -225,9 +225,9 @@
         "published": "Tue, 27 Oct 2026 15:32:46 GMT"
       },
       {
-        "title": "Jio Platforms legt grössten Börsengang Indiens hin - Watson",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbU5sSWRweW52LVY4a1hDYkdUc3l6Nkl5dXY0V05HYVhnWmktMjdUamdTN2tYZW95VFhRSUpOQnNILXo0aEV3VmdSaGNUS1ZtUVZ1b0ZMODZIWVQwREs5VlNJaWhsd0otdjdneFlCSjVpSEl3SFp1bFJUVDlQTGg4TVEtSTdoQkRhMy1sa3N5NTg5SFktNE1ST1VUMzMtc0FpTGtqSHB3?oc=5",
-        "published": "Wed, 28 Oct 2026 12:07:45 GMT"
+        "title": "8 vielversprechende Schweizer Aktien für Jahresend-Rally - Blick",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaEVJalpaRFcyaU5DLThOLXY5eWFyLWVLb2Z6SEc4YkdOUVRDQUk0T3IyWUFkY0NQZnhJNkRxdUVpaU1YcXh6NUhDMjlGSGQ3U3dRQU11ZHg0SnF0c0FIMkxDeG5Mc1A2VnRvNTdSMlFnbXhnZFNhRThrZHJfZU5kSWV1SDlZaF8zX041S245eV9mc2hQWnNGSUh3?oc=5",
+        "published": "Tue, 27 Oct 2026 16:22:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -242,11 +242,6 @@
         "published": "Wed, 28 Oct 2026 16:13:05 GMT"
       },
       {
-        "title": "Performance Marketing im KI-Zeitalter: Neoh, Walter Group und otago geben Einblicke – mnews - medianet.at",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnBOWllyUlpQTHJzUWNKMURKZUZEdnF2cFczNlFpNFNXWFhLSnhRN3hwbm11bXBnQTd6QUVfdmJnWDMtUTdZQTJDN3ZDZUk4MmphczRPM0c3R3lwTDViYkplcFpsTHNKZ1k0SjRqcWhnTEY1SEFqRktDSUNkVlVZY19xRmJSNGhRcmVmSWRIS1h2NzJ5LTdfNzdQZmV2UXo1Z2czTU1kdENxdFlUVDlXSkdyN3lNR28wRzZZMU9NWmdoUVdXdjU3eTVYb0doNjRuZmxR?oc=5",
-        "published": "Mon, 26 Oct 2026 23:00:00 GMT"
-      },
-      {
         "title": "Big Idea-Agenturgruppe \"rettet\" Bremer Agentur - new-business.de",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0FvSG9iMjhPR3EyUkJxRV9vZ0lQc2hUcXR6d2xMMUpUR0hRVmxJcGNGWVJnSVo5R3diVHhXOGpaVzdhR0VSejhMSW1ZM0tHM3MyTDIzbnBya0c4cXZZazFNeGxSU1dTOVBPQzRiUmlDdnNoS2lVdUxuT2RZcFBnT3VRZw?oc=5",
         "published": "Wed, 28 Oct 2026 14:30:59 GMT"
@@ -255,9 +250,24 @@
         "title": "Mehr als 70 Speaker bestätigt: So hochkarätig wird die Premiere des Campaign Festivals - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcHo4anlWdkVBWlcxek8zak1rNHNXQm9ocjRLY3BjS2p2SV9Jc0JadFVMcGVmMjYzZGsxRE1wMmJSVnczNGxIMVRNZExLTUJrcWhPZy1pSGNpRkZjQWF2cDl2NWhzeU1vUkhOdzBqNUo1bjBDaEthekZRa3V6YVpJdDNYNS1Ed0xISGk5Qkp4YzI4b1plcDlJd2JTT2ZhbXpIMzFRTUdLUE9DOWtwcHNENHl0d1pUM0xHNUNlYW5iQWgzV0NTQU1yZw?oc=5",
         "published": "Wed, 28 Oct 2026 07:54:35 GMT"
+      },
+      {
+        "title": "Retail Media - flaconi verlängert Partnerschaft mit Criteo um drei Jahre - Meedia.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlJBeVJ5OW5BbkRXblk5VHV0MEh0NDB1NDhZMFBGOVZfNGw4Wll5aE9iV09NeHdUOV9fSnc3aGdYSFl2c2JDYjRqUElpdEFSSmF1emV3cjFnWlRoUW8wLXktX3l2WmJwQ3NOMVg2NllEV0VWMThseFg3N2REckdkczZnNmRRRnpRaWU3V25pUkI1eXRwQnBKSnpHZzZvR25lS3c?oc=5",
+        "published": "Tue, 27 Oct 2026 09:06:06 GMT"
       }
     ],
     "Technologie & KI": [
+      {
+        "title": "ChatGPT in Schulen: Was KI für Schüler und Lehrpersonen verändert - Blick",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNENLNUdMSDV3N0MxRmhpZ2hQQVJray1TZTRRVUo3a2JhTGFpdThLY0E4SVk1SVZsUVlYUFhJdkpMNENWN21TR2VBTGNwcG9TTEZSbnVpQkNvQ18xblNiU0hrZkVIVzNoR0NCNjY4YzhaWGNLT0VFOFhIakJHRndUMGdCbUNmYVRlSm8tNnMzNElrYzZYcHprWXVadFRkemYwU0dWM0hWU3ZOeUo4bnd4Ng?oc=5",
+        "published": "Wed, 28 Oct 2026 21:43:17 GMT"
+      },
+      {
+        "title": "Wie Künstliche Intelligenz Sexismus und Hass befeuert - MOMENT.at",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uRlRMblVJRHFZV2dyOHVXVVlJYkVaQW9hRWNfZkRWT1ZuSDdwa292S1pmQ2Y5bjVZdW92OTFOQnZiNVNjbVBtZTFjMWNzbHFvdWlLSlhZTUNtVGVCY0Jwdk1NZWk5RkU1VnEwb3JB?oc=5",
+        "published": "Wed, 28 Oct 2026 14:15:00 GMT"
+      },
       {
         "title": "Technologie: Warum KI bei Trumpf nicht mehr wegzudenken ist - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1RrSW53U0MtVFFTZjBmUG14cDBaWnRfOUkxSE9kWmNFYzJ1UjdmOTNTTm92LVR5a2NHNnRTUlVhVnN5TzU1RXZvMTduZ3c1c2V4M1JjSDJqSzVlY0x4QVZUNWJ1Mk1HY1pJNWpyQXRscHkxU3hxVmJnT0NNWTZMN2p6aGFlWVM1R3J6TC0wSFY3QkpJRFhNS1JhQzNRVXZXTWQyYjRSb21DUUFuR2lMZ3hLQ2ZYSzRnNkhnVS1XOXJIQQ?oc=5",
@@ -284,19 +294,9 @@
         "published": "Wed, 28 Oct 2026 08:32:19 GMT"
       },
       {
-        "title": "ChatGPT in Schulen: Was KI für Schüler und Lehrpersonen verändert - Blick",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNENLNUdMSDV3N0MxRmhpZ2hQQVJray1TZTRRVUo3a2JhTGFpdThLY0E4SVk1SVZsUVlYUFhJdkpMNENWN21TR2VBTGNwcG9TTEZSbnVpQkNvQ18xblNiU0hrZkVIVzNoR0NCNjY4YzhaWGNLT0VFOFhIakJHRndUMGdCbUNmYVRlSm8tNnMzNElrYzZYcHprWXVadFRkemYwU0dWM0hWU3ZOeUo4bnd4Ng?oc=5",
-        "published": "Wed, 28 Oct 2026 10:17:17 GMT"
-      },
-      {
         "title": "KI im Schulalltag: Lehrkräfte hoffen auf Entlastung – manche lassen sogar schon Noten ungeprüft von der Technologie vergeben - News4teachers",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLTUzc2JCdHBtckZ1LTI4UzdTYUFBeHZsWDc5aHN2VGhtVnFVNlA0ZVl2a0FORjdmM2VOVF9XRTh5WXRNVTUzS01jcUNXOUxzeXQ2RUhvZXk3QmdSdjA5RS04dWpsaWRrZ1dJTm9RQ0NkNFNjUEhQejBtT2xyYjVxMDZXVXZrcFBCNVhNZm5Kdm9TQnNveUg5ZEhRa2I4NEZqZjZDVXcwNE1HMzVSODNLa0c2c3BpU0ROcU83cHRTRGdOLWpaalpzU1EyaFJKWDcwVU13S053SklHN09UTFlOdlJkcEpSazhJUi1IMk52Q3RFa03SAfsBQVVfeXFMT3BtbDFESFNwd1MyLWF6UjYyXy1KVGJHRDFHODQ1NUVvQUs3WWNKODdFXzYtaTFlRk5XUFEzZi1hWmtjenRETkJ0ZnpiNmhZZmhOTllVTkRwbVBLd18yX2lWN09SSDlGRnRKLWJvSjRsYldhY3ZELUE3TGNwekk0OFgxb3IyMlJud0FZUUJtRDRhYzY0bXZ6cmd3RG5DdzRCYVVwenlwRUZ0Q1Nkb1REQXowNUg0VGVaWDFPc3RBVDVLNGpuUHpoVXpvaXlYa0xmUldRNUh3WGZZN1Q3YllfWTJDSXVVeVAyWWdMNkl2enh1R3NuUWhzTndTTUk?oc=5",
         "published": "Wed, 28 Oct 2026 13:08:16 GMT"
-      },
-      {
-        "title": "Indiens KI-Gesetz: Frontier-Modelle könnten vor dem Start geprüft werden - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2hCWXp4bnJCWnZJcDVHWXVrWk4xbWIzNnowR1pfdzBOakNObzZjUFh5SGRBT1djX0RyMUV1YVJ2RDBSZzc3RXV3RlNXWGp0Z1ROWEFXZ3k4QUNzczNhS2Q3SkoyUF94Y192Z0tEUThhc0JJOWJJNGxGRjVBTF9YZmRkS3NCUldYZWtPa2ppbGYtTTRDT2J2d1BCZGhJN0llWUE?oc=5",
-        "published": "Wed, 28 Oct 2026 10:40:05 GMT"
       }
     ],
     "Meine Aktien": [
@@ -336,9 +336,9 @@
         "published": "Wed, 28 Oct 2026 10:09:20 GMT"
       },
       {
-        "title": "An führende Verantwortliche von \"Mercedes Benz\" - The Holy See",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzJfUUlLV1F0UVI2V201eXZZSHkzbHd4Q1Z4MGVhaU13OEdCNE42RGVtcW5zWllNVFNWZkRjXzRRNm55Sk5XSEl6Y1VYTkJmTzViZDJCMEJaTDMtZ2tFOVlPeGVRcnJCVnlXeE1McVhGUmxWdkwwOWdGcE1Ucm9XVHotczk0b2xMbUl1RTFKUURlSTQyRWtpdmtQUElLSnllNm5TWnhLczhKN2VudGJUekd4cnBWUXk1em1sQ0Z3Y1Q?oc=5",
-        "published": "Wed, 28 Oct 2026 13:56:21 GMT"
+        "title": "Nvidia Aktie: Lieferung chinesischer Bestellungen nicht garantiert - Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTk1QYTZqUTJqekRhV0tOVWQ1U3VzcUNhT1F0eE1fWVo3blk3TjBZeXhiZXUyQ1lKVDI3c0lwb3FFVVZYRU9RMGJYVm9YYmIwaHEyVkJCRDRadlo1UWpLVEZSazM3M0dzaWZGeFVuU0x1elV5SFFyZHg4cm5mT1pZMFNrZHRIVjhNNTBybGVuVEYtWFpPRTVwanY3WnVrQlRo?oc=5",
+        "published": "Wed, 28 Oct 2026 20:47:59 GMT"
       }
     ]
   }
