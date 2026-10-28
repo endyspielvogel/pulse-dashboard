@@ -124,7 +124,19 @@ header{display:flex;align-items:center;justify-content:space-between;gap:25px;pa
 .pulse-culture-link{font-size:12px;font-weight:750;color:#b9dcff;text-decoration:none}
 .pulse-culture-meta{font-size:11px;color:#9fb0c9;margin-top:9px}
 @media(max-width:760px){.pulse-culture{padding:16px}.pulse-culture-grid{grid-template-columns:1fr}.pulse-culture-preview{height:220px}}
-</style></head><body><div class="wrap"><header id="top"><a aria-label="supergut PULSE" class="brandmark" href="#top">supergut<span>.</span></a><nav class="nav"><a class="nav-current" href="#top">Dashboard</a><a href="#ticker-strip">Märkte</a><a href="#news-radar">News</a><a href="#trend-radar">Trends</a><a href="#stock-charts">Meine Aktien</a></nav><div class="live-status"><i></i> Live <span id="local-clock"></span></div></header><section class="overview"><div class="overview-intro"><span class="micro">PULSE. V6.8</span><h1>Marktüberblick</h1><p>Aktuelle Kurse. Relevante Nachrichten. Echte Insights.</p></div><div class="ticker" id="ticker-strip"><div class="ticker-loading">Börsenkurse werden geladen …</div></div></section><section class="cannes-section" id="cannes-lions" aria-label="Cannes Lions 2026 Winning Work">
+</style><style>
+/* PULSE V6.9 — Mäcci Brand Pulse; no fabricated trend metrics */
+.macci-strip{position:relative;display:grid;grid-template-columns:minmax(190px,24%) minmax(0,1fr);align-items:center;margin:-3px 0 19px;border:1px solid #264363;border-radius:16px;background:linear-gradient(105deg,#0b1b35,#08172b);overflow:hidden;min-height:80px}
+.macci-intro{padding:15px 22px;border-left:4px solid #ffbc28}.macci-intro strong{display:block;font-size:15px;letter-spacing:.5px;color:#fff}.macci-intro small{display:block;color:#aabbd3;font-size:11px;margin-top:5px}
+.macci-window{overflow:hidden;min-width:0;mask-image:linear-gradient(to right,transparent,#000 4%,#000 96%,transparent)}
+.macci-track{display:flex;width:max-content;align-items:center;animation:macci-scroll 48s linear infinite}
+.macci-window:hover .macci-track{animation-play-state:paused}
+.macci-item{white-space:nowrap;display:inline-flex;align-items:center;gap:9px;margin-right:37px;text-decoration:none;color:#edf5ff;font-size:14px;font-weight:750}
+.macci-item b{color:#ffc846;font-weight:850}.macci-item em{font-size:11px;color:#9fc2e8;font-style:normal;font-weight:500}.macci-item:hover em{text-decoration:underline}
+@keyframes macci-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.macci-track{animation:none}.macci-window{overflow-x:auto;mask-image:none}}
+@media(max-width:760px){.macci-strip{grid-template-columns:1fr}.macci-intro{padding:12px 16px}.macci-window{padding:13px 0}}
+</style></head><body><div class="wrap"><header id="top"><a aria-label="supergut PULSE" class="brandmark" href="#top">supergut<span>.</span></a><nav class="nav"><a class="nav-current" href="#top">Dashboard</a><a href="#ticker-strip">Märkte</a><a href="#news-radar">News</a><a href="#trend-radar">Trends</a><a href="#stock-charts">Meine Aktien</a></nav><div class="live-status"><i></i> Live <span id="local-clock"></span></div></header><section class="overview"><div class="overview-intro"><span class="micro">PULSE. V6.9</span><h1>Marktüberblick</h1><p>Aktuelle Kurse. Relevante Nachrichten. Echte Insights.</p></div><div class="ticker" id="ticker-strip"><div class="ticker-loading">Börsenkurse werden geladen …</div></div></section><section class="macci-strip" aria-label="Mäcci Brand Pulse"><div class="macci-intro"><strong>MÄCCI BRAND PULSE</strong><small>Österreich · Suchinteresse, keine Verkaufszahlen</small></div><div class="macci-window"><div class="macci-track" id="macci-track" aria-label="Produktlinks zu Google Trends"></div></div></section><section class="cannes-section" id="cannes-lions" aria-label="Cannes Lions 2026 Winning Work">
   <div class="cannes-heading"><div><div class="eyebrow">01 / CREATIVE EXCELLENCE · CANNES LIONS 2026</div><h2>CANNES LIONS — WINNING WORK ↗</h2><p>Jeden Tag drei andere Grand-Prix-Arbeiten aus 2026 · Wechsel um 00:00 Uhr (Wien).</p></div><a class="source-link" href="https://www.canneslions.com/" target="_blank" rel="noopener noreferrer">CANNES LIONS ↗</a></div>
   <div class="cannes-grid" id="cannes-daily-grid" aria-live="polite"></div>
 </section><section class="pulse-culture" id="social-pulse"><div class="pulse-culture-head"><div><div class="eyebrow">02 / SOCIAL INTELLIGENCE</div><h2>SOCIAL PULSE ↗</h2><p>Internationaler Mix: TikTok · Instagram Reels · YouTube Shorts. Täglich wechselnde Fundstücke und Trendberichte.</p></div><span class="muted" id="social-pulse-updated">Aktualisierung wird geprüft …</span></div><div class="pulse-culture-grid" id="social-pulse-grid"></div></section>
@@ -274,5 +286,16 @@ async function load(){const day=viennaDay();if(day===shownDay)return;shownDay=da
  meta.textContent=selected.length===3?'Auswahl: '+day+' · Datenstand: '+(data.fetched_at||'unbekannt'):'Quellenübersicht · noch keine vollständige Tagesauswahl';
  }}
 load();setInterval(load,60000);
+})();
+</script><script>
+/* Each product links to its actual Google Trends page. No unsourced numbers. */
+(function(){
+ const products=['Big Mac','Chicken McNuggets','Happy Meal','McFlurry','McPlant','Pommes McDonald’s','McChicken','McCafé'];
+ const host=document.getElementById('macci-track');
+ function item(name){
+  const a=document.createElement('a');a.className='macci-item';a.href='https://trends.google.com/trends/explore?date=now%207-d&geo=AT&q='+encodeURIComponent(name);a.target='_blank';a.rel='noopener noreferrer';a.title='Google Trends Österreich öffnen: '+name;
+  const b=document.createElement('b');b.textContent=name.toUpperCase();const e=document.createElement('em');e.textContent='Suchtrend ansehen ↗';a.append(b,e);return a;
+ }
+ for(let repeat=0;repeat<2;repeat++)for(const p of products)host.append(item(p));
 })();
 </script></body></html>
