@@ -1,10 +1,30 @@
 {
-  "fetched_at": "2026-10-28T13:01:50.530801+00:00",
+  "fetched_at": "2026-10-28T14:03:30.706157+00:00",
   "countries": {
     "AT": [
       {
-        "title": "frontalzusammenstoß",
+        "title": "graz",
+        "volume": "2000+"
+      },
+      {
+        "title": "juweliergeschäft",
+        "volume": "100+"
+      },
+      {
+        "title": "merida tennis",
         "volume": "500+"
+      },
+      {
+        "title": "daniil medwedew",
+        "volume": "200+"
+      },
+      {
+        "title": "mary von dänemark",
+        "volume": "100+"
+      },
+      {
+        "title": "frontalzusammenstoß",
+        "volume": "1000+"
       },
       {
         "title": "wildpark johannismühle",
@@ -12,77 +32,57 @@
       },
       {
         "title": "kurier",
-        "volume": "5000+"
+        "volume": "10000+"
       },
       {
         "title": "seiersberg",
-        "volume": "2000+"
+        "volume": "5000+"
       },
       {
         "title": "prinzessin",
         "volume": "200+"
-      },
-      {
-        "title": "entscheidung",
-        "volume": "200+"
-      },
-      {
-        "title": "eurofighter typhoon",
-        "volume": "200+"
-      },
-      {
-        "title": "gasexplosion",
-        "volume": "1000+"
-      },
-      {
-        "title": "horoskop heute",
-        "volume": "100+"
-      },
-      {
-        "title": "minibagger",
-        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "amc",
-        "volume": "500+"
-      },
-      {
-        "title": "juju watkins",
+        "title": "tony shalhoub",
         "volume": "200+"
       },
       {
-        "title": "michele tafoya",
-        "volume": "200+"
-      },
-      {
-        "title": "kiwi",
-        "volume": "200+"
-      },
-      {
-        "title": "psicología",
-        "volume": "200+"
-      },
-      {
-        "title": "paul anthony kelly",
-        "volume": "500+"
-      },
-      {
-        "title": "prince harry, duke of sussex",
-        "volume": "500+"
-      },
-      {
-        "title": "trump administration local police ice agreements",
-        "volume": "200+"
-      },
-      {
-        "title": "ryan gosling",
+        "title": "sophia bush",
         "volume": "2000+"
       },
       {
-        "title": "jojo siwa engaged",
+        "title": "nelson peltz",
+        "volume": "1000+"
+      },
+      {
+        "title": "broderick jones trade steelers cowboys",
         "volume": "200+"
+      },
+      {
+        "title": "matthew rhys",
+        "volume": "200+"
+      },
+      {
+        "title": "tallon griekspoor",
+        "volume": "200+"
+      },
+      {
+        "title": "sls stock",
+        "volume": "200+"
+      },
+      {
+        "title": "amc theaters",
+        "volume": "2000+"
+      },
+      {
+        "title": "fandango",
+        "volume": "2000+"
+      },
+      {
+        "title": "fomc",
+        "volume": "2000+"
       }
     ]
   }
