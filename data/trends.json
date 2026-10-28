@@ -1,18 +1,26 @@
 {
-  "fetched_at": "2026-10-28T12:11:23.292419+00:00",
+  "fetched_at": "2026-10-28T13:01:50.530801+00:00",
   "countries": {
     "AT": [
       {
+        "title": "frontalzusammenstoß",
+        "volume": "500+"
+      },
+      {
         "title": "wildpark johannismühle",
-        "volume": "200+"
+        "volume": "2000+"
       },
       {
         "title": "kurier",
         "volume": "5000+"
       },
       {
+        "title": "seiersberg",
+        "volume": "2000+"
+      },
+      {
         "title": "prinzessin",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "entscheidung",
@@ -20,7 +28,7 @@
       },
       {
         "title": "eurofighter typhoon",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "gasexplosion",
@@ -32,57 +40,49 @@
       },
       {
         "title": "minibagger",
-        "volume": "200+"
-      },
-      {
-        "title": "könig charles iii.",
-        "volume": "100+"
-      },
-      {
-        "title": "christina födermayr",
-        "volume": "1000+"
+        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "mark cuban",
+        "title": "amc",
+        "volume": "500+"
+      },
+      {
+        "title": "juju watkins",
         "volume": "200+"
       },
       {
-        "title": "mta",
+        "title": "michele tafoya",
         "volume": "200+"
       },
       {
-        "title": "jim boyd boston news",
-        "volume": "5000+"
-      },
-      {
-        "title": "artiva",
-        "volume": "100+"
-      },
-      {
-        "title": "scripps layoffs",
-        "volume": "100+"
-      },
-      {
-        "title": "nyc marathon 2026",
+        "title": "kiwi",
         "volume": "200+"
       },
       {
-        "title": "arby's deep fried turkey gobbler",
+        "title": "psicología",
+        "volume": "200+"
+      },
+      {
+        "title": "paul anthony kelly",
+        "volume": "500+"
+      },
+      {
+        "title": "prince harry, duke of sussex",
+        "volume": "500+"
+      },
+      {
+        "title": "trump administration local police ice agreements",
+        "volume": "200+"
+      },
+      {
+        "title": "ryan gosling",
         "volume": "2000+"
       },
       {
-        "title": "julia roberts",
+        "title": "jojo siwa engaged",
         "volume": "200+"
-      },
-      {
-        "title": "el pais",
-        "volume": "100+"
-      },
-      {
-        "title": "nigeria",
-        "volume": "100+"
       }
     ]
   }
