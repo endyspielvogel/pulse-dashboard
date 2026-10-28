@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T08:26:02.958071+00:00",
+  "fetched_at": "2026-10-28T09:16:23.785627+00:00",
   "countries": {
     "AT": [
       {
@@ -8,7 +8,7 @@
       },
       {
         "title": "trinkgeld",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "lakers – trail blazers",
@@ -16,15 +16,11 @@
       },
       {
         "title": "ted bundy",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "türkei",
         "volume": "500+"
-      },
-      {
-        "title": "atp wien zverev",
-        "volume": "20000+"
       },
       {
         "title": "überschlag",
@@ -40,12 +36,36 @@
       },
       {
         "title": "wolfsberger ac",
-        "volume": "1000+"
+        "volume": "2000+"
+      },
+      {
+        "title": "gta 6",
+        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "black friday",
+        "title": "alianza - marathón",
+        "volume": "100+"
+      },
+      {
+        "title": "jake gyllenhaal",
+        "volume": "100+"
+      },
+      {
+        "title": "oil rig sinks",
+        "volume": "500+"
+      },
+      {
+        "title": "laptop",
+        "volume": "200+"
+      },
+      {
+        "title": "tokyo open",
+        "volume": "500+"
+      },
+      {
+        "title": "sinja kraus",
         "volume": "200+"
       },
       {
@@ -53,36 +73,16 @@
         "volume": "200+"
       },
       {
-        "title": "janice tjen",
-        "volume": "200+"
-      },
-      {
-        "title": "sneako",
+        "title": "japan open",
         "volume": "100+"
       },
       {
-        "title": "ali g who iz i",
-        "volume": "500+"
-      },
-      {
-        "title": "pink",
+        "title": "black friday",
         "volume": "200+"
       },
       {
-        "title": "coach",
-        "volume": "1000+"
-      },
-      {
-        "title": "king tides flooding",
-        "volume": "500+"
-      },
-      {
-        "title": "la",
-        "volume": "100+"
-      },
-      {
-        "title": "paula badosa",
-        "volume": "200+"
+        "title": "newport beach flooding",
+        "volume": "5000+"
       }
     ]
   }
