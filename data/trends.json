@@ -1,9 +1,13 @@
 {
-  "fetched_at": "2026-10-29T21:49:18.652759+00:00",
+  "fetched_at": "2026-10-29T22:28:08.813325+00:00",
   "countries": {
     "AT": [
       {
         "title": "bugatti chiron gestohlen",
+        "volume": "500+"
+      },
+      {
+        "title": "binance",
         "volume": "200+"
       },
       {
@@ -36,53 +40,49 @@
       },
       {
         "title": "ezb chefin lagarde",
-        "volume": "200+"
-      },
-      {
-        "title": "neuer zwergplanet",
         "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "wolverine",
+        "title": "blue jackets vs hurricanes",
         "volume": "1000+"
       },
       {
-        "title": "kate middleton royal motherhood role",
+        "title": "mammoth vs penguins",
+        "volume": "1000+"
+      },
+      {
+        "title": "sc state vs morgan state",
+        "volume": "500+"
+      },
+      {
+        "title": "bitcoin price",
+        "volume": "2000+"
+      },
+      {
+        "title": "jets vs lightning",
+        "volume": "500+"
+      },
+      {
+        "title": "keke palmer",
+        "volume": "1000+"
+      },
+      {
+        "title": "coinbase",
+        "volume": "1000+"
+      },
+      {
+        "title": "cheesecake factory near me",
+        "volume": "5000+"
+      },
+      {
+        "title": "glenville football",
         "volume": "200+"
       },
       {
-        "title": "ben shelton",
-        "volume": "1000+"
-      },
-      {
-        "title": "serena williams",
-        "volume": "1000+"
-      },
-      {
-        "title": "daniel jones ashland oregon",
-        "volume": "2000+"
-      },
-      {
-        "title": "north texas football",
-        "volume": "500+"
-      },
-      {
-        "title": "btc",
-        "volume": "2000+"
-      },
-      {
-        "title": "ahmad hardy",
-        "volume": "500+"
-      },
-      {
-        "title": "nasdaq composite",
-        "volume": "500+"
-      },
-      {
-        "title": "law & order: special victims unit arcana",
-        "volume": "500+"
+        "title": "seattle mariners",
+        "volume": "200+"
       }
     ]
   }
