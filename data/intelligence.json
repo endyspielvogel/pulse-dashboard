@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T04:43:38.729707+00:00",
+  "fetched_at": "2026-10-29T05:40:59.958019+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -8,14 +8,14 @@
         "published": "Wed, 28 Oct 2026 08:48:39 GMT"
       },
       {
+        "title": "Mc Donald's bringt ab heute die Radios, den 1955 Burger und das beste McFlurry der Welt zurück - GamePro",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DT1NjUFpPdFA4SFFmd2JfYTFVbmtBakwzc08wZmFnZjEzSTNFdmFxNnZaWTFDQ2ZQS2F6ajd5UVRjSVBFNEtyOGdRZlk5cnZxV09qbWVEcHlZRUdRTTlQcDY4dVZzM2tSMGdJZWlR?oc=5",
+        "published": "Thu, 29 Oct 2026 05:04:13 GMT"
+      },
+      {
         "title": "McRib-Aus bei McDonald’s: Die Geschichte eines deutschen Sonderfalls - WirtschaftsWoche",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVGhHTFF6WmZxVDdSZEttUEhtVnRlWTJWWHVKNjVsV2I2SDR2STVJbzFpWC1UTFdnZjZlRGJHTUUzdnd1Ylh0RVdySUwxNWVyRE0yU2dveE5RYnVfWFM5R0pxdTJQSkc5SWg0QkowVmllVXFsd2NFVkdmbFpKYVktbERUdkd6c090ZUUwOHRVX0hVdUJ3TE95UTdWUGg0SUlSdGwwY3ZhVkxaNkdKeVRDX2drZG9QNXNSbWRuS3hsLUtkVU9QbGc?oc=5",
         "published": "Thu, 29 Oct 2026 03:33:58 GMT"
-      },
-      {
-        "title": "Mc Donald's bringt ab heute die Radios, den 1955 Burger und das beste McFlurry der Welt zurück - GamePro",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DT1NjUFpPdFA4SFFmd2JfYTFVbmtBakwzc08wZmFnZjEzSTNFdmFxNnZaWTFDQ2ZQS2F6ajd5UVRjSVBFNEtyOGdRZlk5cnZxV09qbWVEcHlZRUdRTTlQcDY4dVZzM2tSMGdJZWlR?oc=5",
-        "published": "Thu, 29 Oct 2026 02:03:27 GMT"
       },
       {
         "title": "McDonald's-Aktie: Champions-Check im Monat Oktober - boerse.de - boerse.de",
@@ -38,9 +38,9 @@
         "published": "Tue, 27 Oct 2026 20:12:54 GMT"
       },
       {
-        "title": "Warum der schweinerne McRib seinen Platz auf der Speisekarte von McDonald's verliert - derStandard.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaE9KUVBabEFVdHVpdFlHSTRQTzB2QUt5SkRRVHd1Y0RCMWNFbUUzT2NzaXNVXzl5R09pX2FWbTRjWmRGcXdVbmJ3Zk1CVm4wT1FqRGtnN2tCS1NxZHZLV1YwSkl4YjZQMUlKWmVUZ0pldkVDa2h1RzZUMkNpdzZsYk5hMDFaRnk5c3BIWVlaX2thYTFpOGw2SUpUMmtMNFM4dE1FYWg1SHlEcTZyOXdVcUZHWkh3anJGZzhYVTZGMUhkNGt2dW1QT0JR?oc=5",
-        "published": "Wed, 28 Oct 2026 07:00:00 GMT"
+        "title": "Endlich wieder bei Mecces: Der 1955® Burger und die Radios sind zurück bei McDonald's Deutschland! - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMDBJUEREYU95cTZoOHFWNFZxSnR3WkZNTzVmTW1JbFZhemtmX3NBa2xpQktfMWZkd3JtQnU2MlNKUHhsbVdDdEZGTzM1VEk2TTd5NnJJaTQtM1ExQ2VFSnRzWWtXcHNFUzhuQ09yTEIxOFlydmtwc093VUREMUY4MEhIOVVQbWU5VjRBSElzcGJTbHVpMFQtcGhTUXNUM3dzZk9oRnJHN21BaVFJUEp3eUlzSGVDNHpiaDhuYzlyVHlydDRuR3Baay1BM1AtMnN5TTFSdVVieXBSNW5ZaXRNcG96Z1NJOWdTX2VrbXlEOXhCYU9tVjdqbXBpS2l6ZmMtU2tLdW1sSTJwdw?oc=5",
+        "published": "Wed, 28 Oct 2026 11:00:25 GMT"
       }
     ],
     "Burger King": [
@@ -119,19 +119,14 @@
         "published": "Wed, 28 Oct 2026 13:35:00 GMT"
       },
       {
+        "title": "Mercedes-Benz-Aktie kaum bewegt: Gewinnplus nach schwachem Vorjahreszeitraum - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd6WVNKMDBRN3kybEl5eDJRdXc0Y3lXZV94YzY1OFFTVG15YTFLSkswTWVXQ08zVVBJYjZKNzRpVU1GbTgxeTViUl9nRks5WG5RdHhJbFNSM2E5eWY5QmxBSExsWXgzTUZ5b3lZYklMUGgzZlVqTWJ5aU5keGQ1ZDBYbUlOcUR5WC1KMEhpZ2JkbnhJbGFnQ1dOTzBGS2RnYU1kWV93VUx5bzdKRHBCMk5JVGN4c3VUVlI0QUg2OWxrVU5kLWR2LQ?oc=5",
+        "published": "Wed, 28 Oct 2026 10:08:39 GMT"
+      },
+      {
         "title": "Leo XIV.: Das Papamobil ist ein „Instrument der Begegnung“ - Vatican News",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEdtZE1wdm9kcEJ2V1ZSOHZLeXhQdDFnSDVDZzlzXzk5Z29iNHVVM1RFdjMzcEVUUk44U3NOeEV3NE5VbWMwNzBEamQzR1VhdnFhMXdBR3BJaENaRFdzSGtPYXYwOTJqWEZCWk02Y1ZEc3d1eFJGMERoMlF3VllmazBVOXQ3Q2VWbi00ZUFUWjhKeTVhWUs3Y0ctSVBYUkZVdUs0aG40VVcxSGM?oc=5",
         "published": "Wed, 28 Oct 2026 10:09:20 GMT"
-      },
-      {
-        "title": "An führende Verantwortliche von \"Mercedes Benz\" - The Holy See",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzJfUUlLV1F0UVI2V201eXZZSHkzbHd4Q1Z4MGVhaU13OEdCNE42RGVtcW5zWllNVFNWZkRjXzRRNm55Sk5XSEl6Y1VYTkJmTzViZDJCMEJaTDMtZ2tFOVlPeGVRcnJCVnlXeE1McVhGUmxWdkwwOWdGcE1Ucm9XVHotczk0b2xMbUl1RTFKUURlSTQyRWtpdmtQUElLSnllNm5TWnhLczhKN2VudGJUekd4cnBWUXk1em1sQ0Z3Y1Q?oc=5",
-        "published": "Wed, 28 Oct 2026 13:56:21 GMT"
-      },
-      {
-        "title": "Jefferies & Company Inc. verleiht Mercedes-Benz Group (ex Daimler)-Aktie Buy in jüngster Analyse - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRjhERDhCYWFCaVRpa25ERmwtYy15RDlaMXAtNkJzaXdnWHNnWklDUURkREdvOGhHbjQ5WDF2dThXbzJXM29jU1ZlTnRqWVBTc05zWGtfaXRKR0g1RHJQeG4wcEtPSnRzYnl0SjVIMXg4d3lCRVFXb0s0Q1drUXFTV2UyT282d1oteDM3d1ZXbWUwLWgyeUpVZXg4OUtZR20yU05Sak8xcmF6TXNSZzZzeGhpY0N4WWNvZU53VWZfX21VdERiQWFXVGtja2hKNThrMnE4dk11b0paLWhsN3NNRFNn?oc=5",
-        "published": "Wed, 28 Oct 2026 09:49:47 GMT"
       },
       {
         "title": "Mercedes-Benz-Aktie im Plus: Mehr Gewinn nach schwachem Vorjahresquartal - Finanzen.net",
@@ -142,6 +137,11 @@
         "title": "Wie der Absturz in China Mercedes unter Druck setzt: Konzern überdenkt Strategie - SWR",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT1lGUktuajRIUjAxVHVUbkVMRVZfQnNLT0F3bjVhWkFWZExJTW9Gc0xtX25BclpPU1BDRVJHdDM4dG1PeWdSc2ZRMnNOcW52UkxtZWVCLVdaQ2dmaXJ6UTF6TkIxTE41SmppR1NuSjM1STc4alpMSnJuTXU5bVdIaWt2eV9SMkpFcDh6YjJRZHRYQzdBVmFrNzB1VGlGR3NUYXR6aDl1cER4T3BzaFM0S2xGWjVJQXdoNGJQTGxpbkdJTWVZZGRjR0JUckVCZDVCZW5EZUp3?oc=5",
         "published": "Wed, 28 Oct 2026 11:56:31 GMT"
+      },
+      {
+        "title": "Mercedes EQC gebraucht: Ein wirklich schlaues 408-PS-Schnäppchen? - Auto Bild",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXdwdHBEQzR2clQydi1yLVF6SWZHNjVicTRad0hCUjdrR1lMTXRCZGlKZE14enN5SXRkd09oalRxRlA0ZGZEZ2l6MnJHeVhIN09oMC13ZU5OTS0weFJBUTdvT2ZDd2tDTENYZlNrRXNZM0xVZ3N5UTBBT3hiN3NGY3d2SHo?oc=5",
+        "published": "Thu, 29 Oct 2026 05:00:00 GMT"
       }
     ],
     "Nvidia": [
@@ -151,14 +151,14 @@
         "published": "Wed, 28 Oct 2026 16:00:00 GMT"
       },
       {
+        "title": "Nvidia-Aktie: Sensationelle 320 Dollar! - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG1GelRwWGhzQl83U3F0anp6S1BiaXVLdkNZYnpOZW1fSXF1STN1dUJvQUxzRVMxUnducDg0cW5DWG1VNUJjeGNlUHVZWW5GeTBSRDU5Yk81NFdmQU1BSFZ1Unl3Z1ltLUJXQ0oyZjNvVTFlekhHRXlYaTVsWGM0ek8zMXhic21fMUZoak9xSE9ieXM?oc=5",
+        "published": "Thu, 29 Oct 2026 05:05:36 GMT"
+      },
+      {
         "title": "Nvidia Aktie: Lieferung chinesischer Bestellungen nicht garantiert - Finanztrends",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTk1QYTZqUTJqekRhV0tOVWQ1U3VzcUNhT1F0eE1fWVo3blk3TjBZeXhiZXUyQ1lKVDI3c0lwb3FFVVZYRU9RMGJYVm9YYmIwaHEyVkJCRDRadlo1UWpLVEZSazM3M0dzaWZGeFVuU0x1elV5SFFyZHg4cm5mT1pZMFNrZHRIVjhNNTBybGVuVEYtWFpPRTVwanY3WnVrQlRo?oc=5",
         "published": "Wed, 28 Oct 2026 21:46:13 GMT"
-      },
-      {
-        "title": "Nvidia-Aktie über 50-Tage-Linie - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjJmR2dhYmJTaV93bUhfbjVQMUF6V245RjktRVpIN2NGTXN1cTJEZkIyQ1M0RzZKRkRRVGJGMnlESHN6M2Q2OFB6eHg4aU82WWRjTjdCQ1VaZ0JUVjJobEdCLUZQZVpMUk03TUZpMjBnZjZockhhWS05bjZKeEhySg?oc=5",
-        "published": "Wed, 28 Oct 2026 07:24:00 GMT"
       },
       {
         "title": "Dow Jones 30 Industrial-Wert NVIDIA-Aktie: So viel hätten Anleger mit einem Investment in NVIDIA von vor 5 Jahren verdient - finanzen.at",
@@ -166,24 +166,24 @@
         "published": "Wed, 28 Oct 2026 15:03:51 GMT"
       },
       {
-        "title": "Nvidia Aktie: US-Justiz nimmt Hugging-Face-Deal ins Visier - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3pRRXIxZHIxaFRrVmMzZV9WUllZQ0h4OTl5UUZnVXhlcG53bnRWcl9YQ09wRUlSUGM3VzF5cWMxSVBvZnlZR2U5MGFYeGZwcTJfdU1lYkx2eG1MQmF5VFA2ei1ZLUh4S1lDanVqT1ZrdnVKOExQakRLUnFWQXh4a2I1dVZXSmlzYVNfdGFFN0R6am9LbDZrZ29yWVJTdEVpUGo2ajZydEFjRnB0cUE?oc=5",
-        "published": "Wed, 28 Oct 2026 23:02:08 GMT"
-      },
-      {
-        "title": "Adobe und NVIDIA beschleunigen Photoshop, Premiere und Substance 3D - DOCMA.info",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDI4alRUdm4yZmFsTEdKTHRHcGQyVXV4T3NqN0lSVzBSOEtnNkQycWh5THp3RHE1anVacHlHUnNzeG9kMGlPa2xLTU1kTnRYMXR4bFM0Q2RVUHQ5RzBuOEJGRVBfS3ZCeGdTak1FM3JTNWZMMGN1M3hKT1NBM3lwUnJqT09wSjJzUUpibVNtRVBpM0dLdkhvV3h0ZFdpRUhHRlE?oc=5",
-        "published": "Wed, 28 Oct 2026 19:10:46 GMT"
-      },
-      {
-        "title": "Nvidia Aktie Prognose, Kursziel & Analysten - Onvista",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wNGpNczdkcnlab1BXb1d1MFlDX2xYY01VVEpYMlpOb2g0ellVaDhZU1V3STctUHBpd1E2WkdOa1diSk9mbDVRYllNT0RVRDk0QW1mSVV5aDlnVER2VjRTREczNnk4Qk0zU1laeW96UXIxZw?oc=5",
-        "published": "Wed, 28 Oct 2026 14:01:50 GMT"
+        "title": "Nvidia-Aktie über 50-Tage-Linie - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjJmR2dhYmJTaV93bUhfbjVQMUF6V245RjktRVpIN2NGTXN1cTJEZkIyQ1M0RzZKRkRRVGJGMnlESHN6M2Q2OFB6eHg4aU82WWRjTjdCQ1VaZ0JUVjJobEdCLUZQZVpMUk03TUZpMjBnZjZockhhWS05bjZKeEhySg?oc=5",
+        "published": "Wed, 28 Oct 2026 07:24:00 GMT"
       },
       {
         "title": "RTX-Spark-Laptops: NVIDIA bringt Transkription in 40 Sprachen und GPU-Regler - BornCity",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHRlLTQyN2RVUS0xdjhVOF8yT2dIbzlyeld1SjV3RHJad0ZXb2o0UnFRdnRIbjZkeGtBODQ1QS12WTVZVVcwc2cwWVc3SHdWVTFLcHJnSG00RGpyX2lFa3I0OVVkSUV5Z1R5T0w5YkpWMThJM0lLcFEzWUJDYk9DeWNBbmExMFRYeUlnY2RndFp3and4d3hSa2toRzEtc0dmMzZzeg?oc=5",
         "published": "Wed, 28 Oct 2026 22:38:04 GMT"
+      },
+      {
+        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
+        "published": "Wed, 28 Oct 2026 18:22:36 GMT"
+      },
+      {
+        "title": "Nvidia GeForce: Hotfix-Treiber 621.12 gegen Blackscreens bei Videos veröffentlicht - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXZOckZhbHBOQkc2Y0txLWI5aEJzVl9vcXA3MXVIUTc5R1Q5S2xMMUZ2SVJ0VDhNWU1sY1lmR3hjWUtaQzJjNkQ1eV9FbFVmNnpjS1VaLXp6aGNFaHo3T2xyNEM4U2FiejdiZWV3NzdMSjFVTnoyVkM2MDN3cmVrWGpWdjZLakpmR2RRNmMtbTRuRXF2NUo0RGFrLUpwUUZBa2p4cTVoa3NweUNQVG1NdzliMkEzTE15MlFjRkhHSl9IV1dYQ3JTQU5fX2FkMFpLNnc?oc=5",
+        "published": "Wed, 28 Oct 2026 16:52:00 GMT"
       }
     ]
   },
@@ -205,24 +205,24 @@
         "published": "Tue, 27 Oct 2026 19:54:09 GMT"
       },
       {
-        "title": "Die neuesten Meldungen aus der Wirtschaft. - NZZ",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRlJHNS1INDkxaFNtb2k1ejN3SW4zM0RISi04NU9OMlJMM3c4S0JvZktxUkMwTVZtMElIcmVoM1REeHVrRThrRFNxZ1gzLS1hdnY2dHlQb1JnaUVyZUpLRkY2WkhWd1I0bGRFa0pOSmhsMFdaSjVFcGNqVi01eEE?oc=5",
-        "published": "Wed, 28 Oct 2026 21:33:08 GMT"
-      },
-      {
         "title": "Indien: Jio Platforms schafft stärksten Börsengang des Landes - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWhwRURLNTFzemJGa2pGOGhENHBHRVQtdGZzamE3RHpSOERmbDhCM3lsZFVCQ1hMbEdvcW1SMzlFcF9zdFkySzVpbjAwZlRtR0J1OFNneGt2YzlwSWR0akpiMGR6eFM0TThSX2VRTjBCRTBkVWVVRUc0aGZZVFFubEpfNUE5RUhmZmtxZVhxMVNvN0wza2hJczNOQk82c3FFWGQ4bkE2dWd0RFlWT2ZxOXpzTUpJdXNJLUZvVk12WWNvZ196STN4RC16MG1lT0FBR2hJ?oc=5",
         "published": "Wed, 28 Oct 2026 11:36:00 GMT"
       },
       {
+        "title": "Börsendebüt - Werkstoffkonzern TK Accelis mit Gewinnen an Börse gestartet - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR0QwQnluZUZWNVdzVHJJWDlYcGJPTVdBTHM3TGJpR0NLQXN2YmhZU041eV92SnVkT2VlVzFDR3Y4NnFpbVJjX29Ud0kyUjdSaFRJc1Iza0h2VDl3bmNrckE3bUJ4WVQwU0dsUzhqcmJqbGxrUzkzMVBKUkpwQl92bmFlM1Q5QUltbFVfTjdNUk9jMUNXdll6NlNVS294YW54NUV2NVUyMTFjX0lnYi0zOVh2OTIwMHVoWEU2b0N4VHlsMi1kTEZVU2swRVY4bFlndGhNNV9VUWRsOERmN0Q4OU5uVG40aGFWTGdHbllpU2k5Zlo3VGc?oc=5",
+        "published": "Wed, 28 Oct 2026 10:51:09 GMT"
+      },
+      {
+        "title": "Anthropic-IPO: Warum dieser Börsengang die Weltwirtschaft prägen könnte - NZZ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXZoWjFDWUo4RlBLVEN0ZzBlNWRvWWMwWlFQTFdXMUlTYkpqM1M3M1plTEJyOHhsVTBMaGJSbjJLaXBLQW8zeElxOVZ0NlBHaWI1SzlxSnliWi10UWctWUs5SDlGdjNUb2ZnWGE5NUtWVXpVZnpzN1pGVnA0T3RXNktzMW52RDlwLS1uZi0xZmFyVDZUcWFiUWZyaGZTWGxlaU1ZSVAzMThKVjQ?oc=5",
+        "published": "Tue, 27 Oct 2026 15:32:46 GMT"
+      },
+      {
         "title": "Anthropic-Börsengang sichert den Geschwistern Amodei die Macht - SRF",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzFtZjFIdE1TZFdMSXY3RFkxS3h2UTdhRWZvbTVOZC1MeExEVkpEWkJDWk9PcUJ3S3NsTVFtRkhKVzdhbTJ1elZUR3ZvaV91OUpzM042Y09ZcXFVdkJDNWlrLWJxU3RHOWQ2ejdmX0hNRlhJUWhvUzNiQkl2UVZjT09lVVBkZ1FqNzVDODRpMjBkaUZmLWM4QkpGdVotY0MxUzNuVm8yLXNGZDdDZ1FJeE9BT21XS3RsTEpZUnhRVmN1dw?oc=5",
         "published": "Wed, 28 Oct 2026 05:53:05 GMT"
-      },
-      {
-        "title": "TK Accelis: Thyssenkrupp bringt weitere Tochter an die Börse - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTURCalFwUVpiakpRTFN3M3FYTjN1NHhGX24tS2tUOVRaY3VhVndRb2FaUmNRcHoxVWEwTkJBV1pwT0lTVE0zNWRzVktwOEprd295Tjg0dE9VYlI0OUx0MGNfTTFUQ204ZUlONW9Ra3BUcjJlZVBpM2xRSkRFWlRtTkl5MDZBSVhtM2cycGNvWDhBUnMtdjFFOTRIcXdHQQ?oc=5",
-        "published": "Tue, 27 Oct 2026 13:43:22 GMT"
       },
       {
         "title": "Anthropic will an die Börse: So viel Macht gewinnt das KI-Unternehmen - SWR",
