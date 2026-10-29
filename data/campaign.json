@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T01:15:49.728035+00:00",
+  "fetched_at": "2026-10-29T04:00:48.963967+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -7,6 +7,14 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWsxN3J4a2twT3h5c3ZpZUY2blYxZVNRZDlvZWh1VUUycnNHSnVBeVhoN2sxRnN5QW05cGJuUm9jR01wdXZ4SEdKWTRnRHlHMmVRajdtSzlOSk85cWk5T0xoN2ZZeXVlWDdtMGY4Wk5NcWFXSFRBRXJFZmVNVVdSZmxFSlVld0duMnp2UE5WczAweWlOb0RFX2hqeE8xbW9wbDZWOXhZVjd2akRnbDZPa05RRVFLQm1mbTFuVWVOamVBSGNSSkI5NkVxeVk?oc=5",
       "published": "28.10.2026",
       "published_iso": "2026-10-28T11:37:35+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Richard Brim",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMnE1dVJKODEwYW1CUHRhcDVGTm1lSE5BaWxsX0tYSmpiakdkTTlIaGlkYVVGV3VkOTV0b1BMMDU2TUlwbmViR3lFS2FXbEZDanRKODhtLVZfZ1hIZmRn?oc=5",
+      "published": "28.10.2026",
+      "published_iso": "2026-10-28T08:59:07+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -51,16 +59,16 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Telegraph's commercial MD Rachel Gibbs-McNeil departs",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzRHcUQ1TXJVN0JHTVpwWVpjcDgyVDZacjdTYkkxeno4ZVdObDFwamRndmExS19WMzQ3dnFzcHZ0bjFSU1dqWnR1ZXlWbkY0WTNnMUdzNHk5MzVhUC00OVFXUE1kellOVjBocklOR0JSa2htblRrY2lPTFlxcjBHZkdLQ3NCZDlYOGRhdjV3cENZQlhhNmgtR2FOaTR6S2FIU0FCeHgwYjZ6SW15MW5uX1NuTGZTZTFxWTMw?oc=5",
+      "title": "New Commercial Arts wins Barbican creative brief",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDdPRFFfNi1PWkU3cjVMQW1KcHdoNzM1ZmdoSGlVSkxRU2Jyc3huWWI2TW11c0R2UTJyNDl5SXkxQndJeWJ0NEhsV21nLXh0Z3pnU0NTcTM1aW9Ta1VodjZfX2hTYlNoeHZTVEctTENBV0F5VlRaY3QxVFRYcGJadFRsb05Pck1fSjVFaXNkSWloQ0ZHNVNrdXRJWTlhX3NVLURXcm9EbjQxcFlTTVBJZG1jc3M?oc=5",
       "published": "26.10.2026",
       "published_iso": "2026-10-26T11:24:56+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "New Commercial Arts wins Barbican creative brief",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDdPRFFfNi1PWkU3cjVMQW1KcHdoNzM1ZmdoSGlVSkxRU2Jyc3huWWI2TW11c0R2UTJyNDl5SXkxQndJeWJ0NEhsV21nLXh0Z3pnU0NTcTM1aW9Ta1VodjZfX2hTYlNoeHZTVEctTENBV0F5VlRaY3QxVFRYcGJadFRsb05Pck1fSjVFaXNkSWloQ0ZHNVNrdXRJWTlhX3NVLURXcm9EbjQxcFlTTVBJZG1jc3M?oc=5",
+      "title": "Telegraph's commercial MD Rachel Gibbs-McNeil departs",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzRHcUQ1TXJVN0JHTVpwWVpjcDgyVDZacjdTYkkxeno4ZVdObDFwamRndmExS19WMzQ3dnFzcHZ0bjFSU1dqWnR1ZXlWbkY0WTNnMUdzNHk5MzVhUC00OVFXUE1kellOVjBocklOR0JSa2htblRrY2lPTFlxcjBHZkdLQ3NCZDlYOGRhdjV3cENZQlhhNmgtR2FOaTR6S2FIU0FCeHgwYjZ6SW15MW5uX1NuTGZTZTFxWTMw?oc=5",
       "published": "26.10.2026",
       "published_iso": "2026-10-26T11:24:56+00:00",
       "description": "",
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3pleWVKNk9tVERBMkN3RXNVQzVwXzR6ZzJfVHdoLXlpLWxVYm9iQ0lpQ1R0NEVLbGRpRDloYmNNalhla3hFQ0RleFhKNnZnVmtJb3RCQTNDWDlFbUtZZ1BTazBjQk9EbnFfVzQ4d1ZLeUFVWldvWjczOWZNdjVIWmZBYVNOeG55T1JuSmM2OGpQdWcwNldfcTJBYWpkRnpYZmJpZkRGbnJtanJzYVZTZW1kV3VKbU9Ic0pjWTNEMENnYUNnUjlvcm5lOXJzZw?oc=5",
       "published": "22.10.2026",
       "published_iso": "2026-10-22T12:56:46+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "BBC Children in Need campaign highlights importance of youth workers",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFlGWDFtYU5POHhnSFBLeUF2WDRLV0twYmxlbTE4ZGlucXdpYlJSbWZyRG5IZ0ZCWXo5ZldwdWdueThDSm4wSi1VUmNRVkRnempqV1otdTlvSVdQajlaWkkzdG00T3YtSXhGRl9BZDhER3I3UUFEVkdsNnd1UE81YzJndFpBR0RJRnVGR1B1cDZnRUhjNFNVckZKSExuV0tDWElWQ3J2b1R6UjN6aGZhRzlsMXVWUUx6ZjVNdXlrMmVKbDB0R0NoYW1sRUYyZzg?oc=5",
-      "published": "22.10.2026",
-      "published_iso": "2026-10-22T10:11:44+00:00",
       "description": "",
       "source": "Campaign UK"
     }
