@@ -1,10 +1,30 @@
 {
-  "fetched_at": "2026-10-29T09:18:16.998087+00:00",
+  "fetched_at": "2026-10-29T10:14:51.257012+00:00",
   "countries": {
     "AT": [
       {
-        "title": "kältewelle",
+        "title": "cat in the hat",
+        "volume": "200+"
+      },
+      {
+        "title": "ralf schumacher",
+        "volume": "100+"
+      },
+      {
+        "title": "omv",
+        "volume": "100+"
+      },
+      {
+        "title": "katzenfutter",
         "volume": "500+"
+      },
+      {
+        "title": "james bond",
+        "volume": "200+"
+      },
+      {
+        "title": "kältewelle",
+        "volume": "1000+"
       },
       {
         "title": "vw aktie",
@@ -12,7 +32,7 @@
       },
       {
         "title": "philipp hansa",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "gabi hiller",
@@ -21,68 +41,48 @@
       {
         "title": "tierquälerei",
         "volume": "100+"
-      },
-      {
-        "title": "david alaba",
-        "volume": "5000+"
-      },
-      {
-        "title": "die rosenheim-cops",
-        "volume": "500+"
-      },
-      {
-        "title": "die hofwoche",
-        "volume": "500+"
-      },
-      {
-        "title": "black friday 2026",
-        "volume": "200+"
-      },
-      {
-        "title": "pruggern",
-        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "xinran sun",
+        "title": "powerball",
+        "volume": "10000+"
+      },
+      {
+        "title": "philadelphia flyers",
         "volume": "100+"
       },
       {
-        "title": "stock market today",
-        "volume": "2000+"
-      },
-      {
-        "title": "wicker 4dx",
+        "title": "georgia lottery",
         "volume": "100+"
       },
       {
-        "title": "lol",
+        "title": "detroit lions running back depth",
         "volume": "100+"
       },
       {
-        "title": "elena rybakina",
+        "title": "bangladesh vs west indies",
+        "volume": "100+"
+      },
+      {
+        "title": "airport",
         "volume": "200+"
       },
       {
-        "title": "black friday 2026",
+        "title": "anna bondar",
         "volume": "100+"
       },
       {
-        "title": "flood watch",
-        "volume": "20000+"
-      },
-      {
-        "title": "joan smalls",
-        "volume": "500+"
-      },
-      {
-        "title": "emma stone",
+        "title": "midterms",
         "volume": "100+"
       },
       {
-        "title": "emma watson",
-        "volume": "100+"
+        "title": "foreclosure",
+        "volume": "200+"
+      },
+      {
+        "title": "peptides",
+        "volume": "200+"
       }
     ]
   }
