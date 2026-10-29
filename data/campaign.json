@@ -1,20 +1,44 @@
 {
-  "fetched_at": "2026-10-29T07:17:10.520785+00:00",
+  "fetched_at": "2026-10-29T10:04:24.321185+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "The Creative Score Global: Top 20 agencies",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQzhPTUNYb3NRT0l1aVVZaW0tc25FN1hYSW9fVkw0S2w1dUx3eC1BaDB4cDBMWDdsckR5NUhLMWRmU0MyS3hfM2J2WGdxaC10WXRQd3VCbVBpSFB6ZFl2TEl0bTZhWGZsZWNaZTJrd1hsQWhEby1qUTZSYXE1a0M1WGlfaEJ0QTl3N2xNdzRaZjhodDhSUElWR3RfcGxSZG9LS01JdnBjODVBTEU?oc=5",
+      "published": "29.10.2026",
+      "published_iso": "2026-10-29T09:45:00+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Creative Score Global: the top award-winning work worldwide",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTFOWGNaRXI4VTJHWW5ISUZfVmJwUHJqaEVmazd4bFhwSGotR3JvZlVvY1dqMk1kSmMwZHZpZmwtc1Fzcld5bkdSR18yTXh1NFR0eGVWTkswLW1CMGJBSHkxRUt1UVBtU3FRVm9kWWdpOWNyVXR6RWRvd2tIb1kwTUVZVHZiVS02VE1PRVBwM3ZiYXM0V2VYOUpKV1BLNzJOay14MmJMdzRUUHZybC00RWUwTmNGWlhwQ3dxQS1JV2F2MnVxTlJN?oc=5",
+      "published": "29.10.2026",
+      "published_iso": "2026-10-29T09:43:37+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "WPP Media returns to growth in Q3 as holdco records 2.1% revenue drop",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWG41aFJab2h0R0xsNEZVdW5odUt3TEdBR1dzaXVnQXdxTFRhTHVQd3ktOThTWHhCR3ZrNUNJRVNOWUd2MHRCUC1KdlNMVEVEbDZhSy0zbnJOY2JuR0lhS3lBT3NWVHd3R3YtRmNXWTA2NWdaU1Zqdmcycjk3WWtodEd3UHUtMXFicmVyWFBDREl3T2V5MlRVVGNQdHJzNThUdTQyWHVKRzF6WDlDT2poMnlpZTA3dmVXa0NMVWRMSFpRVVVRa0xsNVpFMjVWS3c?oc=5",
+      "published": "29.10.2026",
+      "published_iso": "2026-10-29T09:01:57+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "WPP Media returns to growth in Q3 as group records 2.1% revenue drop",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSVlqVDQtbjFvcmtlV3dDalluXzZrNFhZRDNEZ25sNmxFempsU3Z4aEdrZ1o1cEl2NTJnUGhvNnJYLUdBY2ZRb3BvUDMxNVpxOHpnQmpvVkFBWFdITVZQSUVrUTBwbW8zQ0FfRlB1aHVXS1YyNmpyR0RXQ195V1Q4dXBsM3dXdmpaMWs4UEpIU3B0eWJJT1FpVURsZHEtMkFJRnZBbTY2TGN1UW45Um51d1BrYXdCd0dkYmliT2VweVhyU0drNWlKOTExWFh2dw?oc=5",
+      "published": "29.10.2026",
+      "published_iso": "2026-10-29T08:32:51+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Power 100 2026: top five in fast food and delivery",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW8xRS13YmJIRzBSRFR0clNXaFhTNDZBQloxQ3ROcVlTQU9NWFBlUGdnUmpXNm5jYzFuMjk1M244OGJwdkNVV0lwTk1TcGtqWmxJRzBzY2xQbThpUklnb2hRVUZ6Q0wwUjlJVFhnZXZwSjgwSlpMY1RnRlF0QUJ6ZFEyX094ODJQVlp1cXBvTE1WY1ctd0pYb2M4bFRTSU9sLUNLSlZaaVhxLWo4ZTh1QTNBTGpldw?oc=5",
       "published": "28.10.2026",
       "published_iso": "2026-10-28T14:07:52+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Nike Football \"Players have seasons. Queens have eras\" by Wieden & Kennedy London",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMUZYN1F0akYzT01SVHZJaGhhcnZzc1owTEFwc0pWZlBVMDZBSUJSYktCQWsyaTdsbTVzSVBlRHVPQXliWk5BRjVHdjR0eXlVNkxDaVFOZjRzbk16bHVJTnJibzY3MXlTZUpBckFJejhpNDR0YlY0X2E0Qk5QajVxeFViRnhZeWpleHVKX1dRMWEzQjhZOUNfTHJvVjRlVFRMXzJsWkNibUZwNjRTREZxaG5NcDR4blJ4U0FxZkpUUUVrbWJ6WWNKZkwzeHI4SmVlVHBmR1hVTXFxZw?oc=5",
-      "published": "28.10.2026",
-      "published_iso": "2026-10-28T13:40:41+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -71,30 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMnE1dVJKODEwYW1CUHRhcDVGTm1lSE5BaWxsX0tYSmpiakdkTTlIaGlkYVVGV3VkOTV0b1BMMDU2TUlwbmViR3lFS2FXbEZDanRKODhtLVZfZ1hIZmRn?oc=5",
       "published": "28.10.2026",
       "published_iso": "2026-10-28T08:59:07+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Adam & Eve\\TBWA names Jo Lorimer, Adam Patel and Fay Taylor as MDs",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3ZrbVdhaVBSZzdZN0FNTE9Sc1JsaFpabFFxdjhPTWd3YkVBM3RDdFVmUEVGaUtYMWVlc05WVWJCX19KMXBUTlZMVl9FOU1KSmNOMXF2Nmp3RjdudkhlVEZWNUVLQXU4TFNMdmNHaUFHVGZJNDR2MEZreFBvU0ZsS2ZvMnlSc2kwOEw3ZmFWV19hcXRKaGl1NG1QQ0ZneGRMNXJaM29DdlA1Q25tRTVuNHdpUldlQTdXM0RsTlNNSVVlbHF0SUpySw?oc=5",
-      "published": "28.10.2026",
-      "published_iso": "2026-10-28T06:18:59+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Brand Burnham: can he reset the Labour brand?",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUFBQkxlY3ZLdy0wU3NVMFlydzZwM2Fob0FiZ2FCXzVHMnpEc085MlhzOUZzbDdoT1V2LVBhTFZsV0NsYUY2N2htbFBNYUZNcm5hWEJ6b0xxWXQ1UUtTekhqZWZyeG1jV1ZTMENTNi1kQ2U2cHUtTXZqcWdyMzFHRFFaNXBjTV9DV0JUWUM4cVZSQktqMXo2SXFNV2dLLTR2UjFOSTFOLTF6OXU4SEE?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T14:32:42+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "The Perfume Shop plays on scent of enduring love and memories in Christmas ad",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWo0WndpVjl2YnlUb0RlU195X2QxV3FIaWphaFotMHE3UVZ4a21wQUFCOVFEeUlSMjFYeDRfcURIOGlydEZRb0l1V01wVU1Pbmlhdkc2RFhFTjF4UWtMaUlkODk1ZTBPcUtKVGJkQ09iSFI5dzRKb3d6cFpCV2VSOHlQUG1vVUluNU1HUzhnemJCU21tNFFlMlUtWWhGUnU2Szk2MFowMjFGWXVoOWxBRDA4S3ZUbFItOTNWMjEyWDFfTHJmNzRwS0xqVDRiT0xLTHg2d0VrbFRhSjg?oc=5",
-      "published": "27.10.2026",
-      "published_iso": "2026-10-27T11:49:46+00:00",
       "description": "",
       "source": "Campaign UK"
     }
