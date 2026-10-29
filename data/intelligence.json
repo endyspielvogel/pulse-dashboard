@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T20:39:55.910047+00:00",
+  "fetched_at": "2026-10-29T21:37:37.389698+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -13,14 +13,14 @@
         "published": "Thu, 29 Oct 2026 16:00:00 GMT"
       },
       {
-        "title": "Nach 20 Jahren: McDonalds bringt seine legendärste Aktion zurück - Giga",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEMwV1c5WS1zS3R0WXNrZjZQTEc4SUNmWC14VUpUZXpiTVJkV0xLUXFfOXY2OTN2MUZhczJnN251TDdKSk5lVGhLNlh6VWhRTEtLTE5OV1VFSFBlRmlrWVp1Wk9MUDBVSjZPbUtyNi1nSVJKRU9VbFJEM29yODloTVY5UVkta2tpZUxWaW5mdTFpZ09WM3duOUM4R21nbDg5X1dadVF4d2kzQWtYc2o1Rzl0MkRCUGowTEE?oc=5",
-        "published": "Thu, 29 Oct 2026 07:14:15 GMT"
-      },
-      {
         "title": "Neuer McDonald’s in Villach: Nun steht Bauverhandlung an - 5 Minuten",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcndJRW41QmNlX0NwU3N6WmxRaDdObmljVlhzSDJma3E1SkgwaUxRZjFFR1JWVEVVYWVUY2JLOVRqek9WZUw2Vk9OYXlhQUIxYTVCOTQxOWgxZ0l0SjR4SG1BdWYxMUpWQ1k3ai1hNWRna1FWZkYzTnE0ZlJ1ZTZxTFlReVVYSFRFM00wUGNPZnhJeHdKUTlyejRPWUlKUQ?oc=5",
         "published": "Wed, 28 Oct 2026 08:48:39 GMT"
+      },
+      {
+        "title": "Nach 20 Jahren: McDonalds bringt seine legendärste Aktion zurück - Giga",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEMwV1c5WS1zS3R0WXNrZjZQTEc4SUNmWC14VUpUZXpiTVJkV0xLUXFfOXY2OTN2MUZhczJnN251TDdKSk5lVGhLNlh6VWhRTEtLTE5OV1VFSFBlRmlrWVp1Wk9MUDBVSjZPbUtyNi1nSVJKRU9VbFJEM29yODloTVY5UVkta2tpZUxWaW5mdTFpZ09WM3duOUM4R21nbDg5X1dadVF4d2kzQWtYc2o1Rzl0MkRCUGowTEE?oc=5",
+        "published": "Thu, 29 Oct 2026 07:14:15 GMT"
       },
       {
         "title": "15 neue Pokémon-Karten und sogar ein Spielzeug im Happy Meal - McDonald's bringt Aktion auch nach Deutschland - GamePro",
@@ -60,6 +60,11 @@
         "published": "Thu, 29 Oct 2026 15:04:29 GMT"
       },
       {
+        "title": "Restaurant Brands übertrifft Umsatzerwartungen dank Besucherandrang bei Burger King - MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWUdUM2liVmx5Zy1zQXlSdlFZNDhXcEo5QkZzYWs4aTQ4ZXRtdWxlbEowRVl0bkhQWEpDMEdMYmNSeHZKTTRrcmU5cDdUTEhmR016TnJKd0IxT0VlcGJPRnV4cG1FWVVwNXd5S0d0MlVOQWg3d05icl9tVkk5YU1yMzYzVU5Pb3FHeVVUb0liWDA1RDN5SEVCVDZVZk5LVm9kSUVPVXE0R004aVllel9TdDlnUkdyMF9ic0V6cEhoS2puYllIVDNCc1VnLUdQbFlIaW9jQm1tbmVTNTY3bVFpYkJxN2ZzcnpCR3c?oc=5",
+        "published": "Thu, 29 Oct 2026 11:13:38 GMT"
+      },
+      {
         "title": "Restaurant Brands übertrifft die Umsatzprognosen, da die Burger-King-Angebote Gäste anziehen - TradingView",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBicEtQRExkV1hNZzB1cUVmNXdCV0xEZHRHMzRpUjdkOGtfVUp2OU5NcWxhWnBvWUZvLTVBNmhCTEUzb3V1X3FyM3BFZDFMbDVmNl8zb1VRcjFvSkZubmFWaHF2OXhsMk5ZUndQVFR4WGZpZVdtbTRR?oc=5",
         "published": "Thu, 29 Oct 2026 10:30:50 GMT"
@@ -70,19 +75,14 @@
         "published": "Thu, 29 Oct 2026 15:31:02 GMT"
       },
       {
-        "title": "Restaurant Brands übertrifft Umsatzschätzungen dank zusätzlicher Gäste bei Burger King - MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT3Jka0JCeXBuZUExZHBTZjkyODBVcnR6Q3BjeUJvckFtdHd2Umt1V3F0Zm1Jb1VBZ0RyMExPZE93VDI4bjVzaUZDUUxkMExianF5ZVpISzgwbGUta0FZSjc5UWlmZmM4VEl1OTFXTzZrbXY5UVdjTTZKSW01Z0U4dVhsWjdQMXh5akpqYU9samw3MEpSaHFiNEM0RVJiRXppM3FPbzZyUy1IUTJlb25HSHAzemFZMEFYdnVpZXZBTWR3R1h1M05HYlNIeFZmLVNHSnJoNXhvSzkyVkVBZE84ZDhaVE5UMUhuejVETQ?oc=5",
-        "published": "Thu, 29 Oct 2026 15:47:32 GMT"
+        "title": "Burger King vor den Zahlen: Hält der Wachstumsturbo auch im dritten Quartal? - Ariva",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHotVUJGVDFCMlgzdC11Z00zbVVtN2lMU0pWZWNULVRRUzZXN1VWS0NvRlQ2QXpkRTNPRndVRUg5ODAycFR3Ry1hVnlRUmR6ZmFGazB5ZDVYbEtISnF6YTlUZmVVSi1SYWhTbHlfakUxVTBGUURBUkQ5TlVhRnRlTmRtamFCamhKdEV4RnR1aGd0VFNaeXNhWEJBdDA2MFk?oc=5",
+        "published": "Wed, 28 Oct 2026 16:15:00 GMT"
       },
       {
         "title": "Burger King Gifhorn: Sanierung nach monatelanger Schließung gestartet - WAZ-ONLINE.de",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMldVSmNVM3JjM3I4TXFMZDFjQzlERjhGaVFFUDhkZEk5SzZGdDl1NTUyVE53N042Vk8ycEJDT3JBQUJpZ0IxWDlmVk13dkVnX2NLWGdDWTRSZldCSThJbG0tMHN4bGhQTXJsUHAxMWd3ekp1RzIwNEVHZDRjNFB5WUZNQkpuR01lbWVfemdtZ3Y1ZGI5QUxEMTFLeExmNVdOV19FZ0h4RTdoMmFzUHQ1dWZjOFNqaF9oZHU0WDFocjhSNEFKM2lIMk9OZF90bDUzeC1vUkw2dTfSAfQBQVVfeXFMTWhLS3BuZ2tBNDVRTEd3a093MWdMZzhlVUNRQ0dJNmROMm50Qy01cjRTTmQ1eUZ2NFl2c2cxZEs2YkFkcm9nX3ZndlpkeE82UXZEWFhKd0tqYVFqZUdwd3RWdDk3N01YSmdJc2Ita29YWHhkZFRpeWdBUHVxZWpIYnFtdFotNS1jb2NJYm9PdVJicmJ5YkYyMVpTYXNEQVR5MzVSN1BQc0FaMDlPSzhYYVFsdlcteVlERGIyYVNhQm01bzZWTWY4WHl3cUdHQXNpVlo4SEZyc1J0bXZhMHdsMDhoMUlQbGRqZERlOWlUQ3VURmdCNg?oc=5",
         "published": "Thu, 29 Oct 2026 15:12:43 GMT"
-      },
-      {
-        "title": "Burger King vor den Zahlen: Hält der Wachstumsturbo auch im dritten Quartal? - Ariva",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHotVUJGVDFCMlgzdC11Z00zbVVtN2lMU0pWZWNULVRRUzZXN1VWS0NvRlQ2QXpkRTNPRndVRUg5ODAycFR3Ry1hVnlRUmR6ZmFGazB5ZDVYbEtISnF6YTlUZmVVSi1SYWhTbHlfakUxVTBGUURBUkQ5TlVhRnRlTmRtamFCamhKdEV4RnR1aGd0VFNaeXNhWEJBdDA2MFk?oc=5",
-        "published": "Wed, 28 Oct 2026 16:15:00 GMT"
       }
     ],
     "Omnicom": [
@@ -225,36 +225,36 @@
         "published": "Thu, 29 Oct 2026 09:16:14 GMT"
       },
       {
+        "title": "AMAG steigert Gewinn um 142 Prozent – Prognose angehoben - austria.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGNkaGZ4OUE2MnJBZVkwUm94NVlCNkNkMUlRNU9rZjg2YzExN1RDX0h0eE9mTGdVbVRsWmx4Uk9raHB2THBnY1I2SEhxYjVMazBjNGxKZWd3RkNmYUJ6cHEzVUtmVDlmelcteVlDdFdBQmZXempOSjVEMkVXa0FYa0trZnpBTHhMT3JhZERFNVpRTXczU01F?oc=5",
+        "published": "Thu, 29 Oct 2026 12:02:29 GMT"
+      },
+      {
         "title": "Anthropic-Börsengang sichert den Geschwistern Amodei die Macht - SRF",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzFtZjFIdE1TZFdMSXY3RFkxS3h2UTdhRWZvbTVOZC1MeExEVkpEWkJDWk9PcUJ3S3NsTVFtRkhKVzdhbTJ1elZUR3ZvaV91OUpzM042Y09ZcXFVdkJDNWlrLWJxU3RHOWQ2ejdmX0hNRlhJUWhvUzNiQkl2UVZjT09lVVBkZ1FqNzVDODRpMjBkaUZmLWM4QkpGdVotY0MxUzNuVm8yLXNGZDdDZ1FJeE9BT21XS3RsTEpZUnhRVmN1dw?oc=5",
         "published": "Wed, 28 Oct 2026 05:53:05 GMT"
       },
       {
+        "title": "Südostoberbayerische Wirtschaft legt zu – Stellenabbau bleibt Thema - Innpuls.me",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3Y2TnAzNTZyOGk2RWtPZWJmZWRZSWFUNWo2MXZVZWVnSDFXc20xVTROcUxZZERwUG5RVnBaOTU4clJuYWJCMkVSNDlrakFHZG5wTWtfdEZsdHd2dldoRFJHT1lmaWtNbmVGUzBsYVRpYm9wamRvNFkzRy1LWGRCRVFIM2pLWnRoODlpT0ZuVQ?oc=5",
+        "published": "Thu, 29 Oct 2026 09:54:42 GMT"
+      },
+      {
         "title": "Indien: Jio Platforms schafft stärksten Börsengang des Landes - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWhwRURLNTFzemJGa2pGOGhENHBHRVQtdGZzamE3RHpSOERmbDhCM3lsZFVCQ1hMbEdvcW1SMzlFcF9zdFkySzVpbjAwZlRtR0J1OFNneGt2YzlwSWR0akpiMGR6eFM0TThSX2VRTjBCRTBkVWVVRUc0aGZZVFFubEpfNUE5RUhmZmtxZVhxMVNvN0wza2hJczNOQk82c3FFWGQ4bkE2dWd0RFlWT2ZxOXpzTUpJdXNJLUZvVk12WWNvZ196STN4RC16MG1lT0FBR2hJ?oc=5",
         "published": "Wed, 28 Oct 2026 11:36:00 GMT"
-      },
-      {
-        "title": "Bundesklimagesetz: Wirtschaftskammer warnt vor Milliardenverlust durch 2040-Ziel - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEpEaFJSZUFnZmJzV0JaUVQ3bHd6cjNVRW9UaENiUnlGTUp5Z3RIVDk5RkNCb2hER0pHQXN6OGljeEUwY0VObzBSb3kzYnhXd2poQXBJYjBTek5HWmtfNUVFUDlpZVhGcEpYZnVIV21HdVl2cV9EYVVxZlZPVkVGbjA1TFpldGpaYy0xenNOcnpEYWluQXpMWDJyM0FMTWZIenpEQmxNSzR2anNuSHltaVhQb1pybEZRYzZBOWphTDlmbGVKTkhRSmVJYw?oc=5",
-        "published": "Wed, 28 Oct 2026 11:13:03 GMT"
-      },
-      {
-        "title": "Internet-Riese - Langsameres Wachstum in Google-Kerngeschäft alarmiert Börse - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeEZZRHZCemtITllIUUZobXhqSDZJWjd4c0s0SmVyTkVDYVpBV0NhR3VaY0I3OF91SFZIcGVvSGk5anlhdXZVUnpPUVBTMVk5RWttekJuc29CME9LM3ZiNVh3TWxzdnMwUXpLR3hEZHIyVlptcVl4NnU4R0pqZHdJSGZsTFZIaFBMTzVDcmpDcGlmeHQtQnZ6LXh5Ym5zeTEtSmU4cm1GM3ZaWTNHNTNFLUJVQWMyOWRkNHBEbFY2N05EYkNlTVJrTEl1dTJiNEc3QWU0RkhKZEhhZXd3VW5Ta0VCVFhDaTdJREQzSjZEY1N4ekFQV2RRYg?oc=5",
-        "published": "Thu, 29 Oct 2026 00:57:39 GMT"
       }
     ],
     "Werbung & Marketing": [
       {
-        "title": "Dank der umfassenden Google- und Facebook-Werbelösungen der Saltech Marketing Agency erleben Unternehmen ein echtes Umsatzwachstum. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVdRaVFYanBhQ09wZWtSbldhZTE5d3FIWnhZeFRFWjBTY1FXWVBHa3J1V3oxVUVTM2hsOUdGX1JIWlhxMG9LYWZEVlR1Q1VabVV1S1dvSkZSdG5HLXN5TnZLVkFiZzBOUVUwNjBCeFlFSFVjY3ZRdFdmXzRVNnpXaGxZYTZKaTN5WHlwTWVoQnhHN0kyRHpTaDREQ3E2RHFMU2pQVU9iaWxiMTUzSjFSTlA5WmdhdEUyUDVUY19BQzBzYzlhRlhuaFIwQTdId2JQVTUwRGE1WDhCMFJ5SkNnUDdleGo?oc=5",
-        "published": "Thu, 29 Oct 2026 15:17:11 GMT"
-      },
-      {
         "title": "Marcello Demner, DMB.: „Je mehr Werbung nach KI aussieht, desto wertvoller wird Werbung, die nach einer Idee aussieht.“ - INTERNET WORLD Austria",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUJMTUhHWE5iRUtNOWRYbVVDSDFHWE1Jcjc5UVNRd005ZTlObVBid2ZVUFB2cWxOblBxZGtsRWF5UkVKWFU5OGpGa2kyMVh3cGxVT3dWMXo0cjczN0Y0ZVhFNUo0YmYzUjg1U3p5T2dVcUJhWFMweUdlcmNIdUNLXzZEbnBSQmVkbkpQemJFWERNeWh5WGFoNVFGeEpPQzhocGFoSkwtRnFOOVpmS2dUQTVQcTJxVi1EaXJiV0FUYmNHQk9wbG84YVNCMTh6endSbEpB?oc=5",
         "published": "Wed, 28 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Dank der umfassenden Google- und Facebook-Werbelösungen der Saltech Marketing Agency erleben Unternehmen ein echtes Umsatzwachstum. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVdRaVFYanBhQ09wZWtSbldhZTE5d3FIWnhZeFRFWjBTY1FXWVBHa3J1V3oxVUVTM2hsOUdGX1JIWlhxMG9LYWZEVlR1Q1VabVV1S1dvSkZSdG5HLXN5TnZLVkFiZzBOUVUwNjBCeFlFSFVjY3ZRdFdmXzRVNnpXaGxZYTZKaTN5WHlwTWVoQnhHN0kyRHpTaDREQ3E2RHFMU2pQVU9iaWxiMTUzSjFSTlA5WmdhdEUyUDVUY19BQzBzYzlhRlhuaFIwQTdId2JQVTUwRGE1WDhCMFJ5SkNnUDdleGo?oc=5",
+        "published": "Thu, 29 Oct 2026 15:17:11 GMT"
       },
       {
         "title": "Maybaum Film: Aus dem Feierabend-Talk wurde ein Gipfel - persoenlich.com",
@@ -274,19 +274,14 @@
     ],
     "Technologie & KI": [
       {
-        "title": "„Superintelligenz ist einfach Marketing“ - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkxLLXBCMUNKanRwdktOb09kMm9KUGRmLVZqd2VRcXI3bVYzQjR4VGU0clJYVXJjOGJQTXZrempqal9aQUdEZG1scVNVZzU4ZW12M2JBd3pTdUZVZklJRkdXNkpFQmpTOE5MZE5jeER1eW5EYm5zRExPS0dqQmpSalVnLTk3bW9QZjFhWHY4dXdZQ2M4OGNuZW82N292U0xDSU5UX1RDNG8?oc=5",
-        "published": "Thu, 29 Oct 2026 08:05:00 GMT"
+        "title": "Technologie: Warum ist Künstliche Intelligenz bei Trumpf nicht mehr wegzudenken? - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVF0T1hoYUdwSWdibEI5ZXd2Y2ZERFdYckZsTkJSbWljdXR4U1ZWU2RXb3ozQ3Jkc2V0V1pjbkUtc09mYzV0bXJiTldQS0w2eVVsdDZ5dE9CYlZjTDZuVkp2d1g1dk1zVkc2bVlmWUF4blI1UzZld1duNXpJQ3dWamtqMHc1bGlwRFpDWlR3NmN2d2gyVE1NNUdTZkpuNklmOEdzVENBZkh6X1dhVDBKYkdMUl9KWW82RUpaOG4xLWplMzdOS2dvTzBobElqQ2NZX0ZTM3FpemZaRmE3VlE?oc=5",
+        "published": "Thu, 29 Oct 2026 15:18:00 GMT"
       },
       {
         "title": "(HBm+) Künstliche Intelligenz: Wann Teams KI-Antworten wirklich trauen können - Manager Magazin",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQzFQTlczYmlQNzE1UEZGM1l3MUN1MnhaT3AxeC1EamNLUHVFVFBLLWZHUjEwUnl2LWRiTUU0bGlnaTNzOEZISWhYMU9STi1mTlp5cllDenlid3R0WU56TXBDbl93WXprSjNqUXhqcDJ2QzJQQngwSjgyRW1RQ0pYZmxzN3ZySTBIMVNxZFI3cG9vRDdjLVQwWEo2V3RvNmVMTi11Zm5VaG5GUjJfM3E3aVNYdkJfNmN4WEVMd213Y1J2STgzbmxVM3JuMEd0NGxuMXczX3pJQUVOQ0pjcUhHLXY0SzBYREdhY0E?oc=5",
         "published": "Thu, 29 Oct 2026 06:27:00 GMT"
-      },
-      {
-        "title": "KI in Unternehmen: Nur 16 Prozent erzielen bislang transformativen Wert - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVhMdFA5c2RWSnpIOF9YV19xTnRtQ2FobGVSQkd2aHFWaXFpbm53ajlIOFJHQVNKRS1RajlKQzBteEN2OV9XOFlwTGdzdVpUSnIzWWR4MkI4TmhKOWFsSEpuOHdqYnJpczEzQzh3d25mMWJVR0N0dEhlalNHdGZqczZNMUdnZmEwVUs2ZjZzWUhEbDgwc2NKYWl0VnJ3dw?oc=5",
-        "published": "Thu, 29 Oct 2026 10:49:04 GMT"
       },
       {
         "title": "Wie setzen Unternehmen KI ein? - Vietnam.vn",
@@ -299,9 +294,9 @@
         "published": "Thu, 29 Oct 2026 10:30:02 GMT"
       },
       {
-        "title": "Technologie: Warum ist Künstliche Intelligenz bei Trumpf nicht mehr wegzudenken? - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVF0T1hoYUdwSWdibEI5ZXd2Y2ZERFdYckZsTkJSbWljdXR4U1ZWU2RXb3ozQ3Jkc2V0V1pjbkUtc09mYzV0bXJiTldQS0w2eVVsdDZ5dE9CYlZjTDZuVkp2d1g1dk1zVkc2bVlmWUF4blI1UzZld1duNXpJQ3dWamtqMHc1bGlwRFpDWlR3NmN2d2gyVE1NNUdTZkpuNklmOEdzVENBZkh6X1dhVDBKYkdMUl9KWW82RUpaOG4xLWplMzdOS2dvTzBobElqQ2NZX0ZTM3FpemZaRmE3VlE?oc=5",
-        "published": "Thu, 29 Oct 2026 15:18:00 GMT"
+        "title": "„Superintelligenz ist einfach Marketing“ - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkxLLXBCMUNKanRwdktOb09kMm9KUGRmLVZqd2VRcXI3bVYzQjR4VGU0clJYVXJjOGJQTXZrempqal9aQUdEZG1scVNVZzU4ZW12M2JBd3pTdUZVZklJRkdXNkpFQmpTOE5MZE5jeER1eW5EYm5zRExPS0dqQmpSalVnLTk3bW9QZjFhWHY4dXdZQ2M4OGNuZW82N292U0xDSU5UX1RDNG8?oc=5",
+        "published": "Thu, 29 Oct 2026 08:05:00 GMT"
       },
       {
         "title": "Fotos & Video vom Galadinner und Forum 2026 - Arrow brachte führende IT-Experten in Wien zusammen - Leadersnet",
@@ -312,6 +307,11 @@
         "title": "BKH St. Johann und Symptoma: KI soll Krankenhausinfektionen früher sichtbar machen - Trending Topics",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUtZQnRiVXFVOFhOYWRqR0ctRlltUmd5aWJrSHJWRFFpY2JZYmhxT3Q3VlY2cDhTb25EdWNZcHlySGd2WWJxcUZZb25WSS1zZll3dFZQSjJtc3ZKVUh6RjY2UXlDQTc2S2k4SFVkZTViVDIwREZmTGU2MUVTUDdBLU9YT2RXN1R0ZklTMFVGX2ZuOUtNMzJidl9oekJFYmduWWc3YmhBdERfdjlXVWpEQ2xB?oc=5",
         "published": "Thu, 29 Oct 2026 09:00:44 GMT"
+      },
+      {
+        "title": "Da KI das Potenzial für Skalierung erhöht, stehen kleine Unternehmen vor einer Besitzwahl. - Quartz auf Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFJ6ZEIwNjRua0RWX2hPZC1RMXZ1Zk1tWUtPVzhQdTFHYzlmckJPUGNKRUp6Q0diaEx0WjdHcjBNODZsakNjWFYzUXdLQk5sd2hoNnJiTHdXRHNnSkh3Unp5b3lWTG53bkwxT21ZcWY2N0FScDAySDNhQ2lTTkNORUVFbTBKMDFNeGZ4b1RkbDdiUmFfa2ZzdkxadHQzNzdJMkc2NjRCaHBpSS1TbGhEX05VNG9fQQ?oc=5",
+        "published": "Thu, 29 Oct 2026 16:16:51 GMT"
       }
     ],
     "Meine Aktien": [
@@ -324,11 +324,6 @@
         "title": "Deutsche Bank AG: Buy für Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzZfTnUxNWFoeHlmX2xJSmRTNF9zOVItMEtucXpoTzJnaFl0ZC1SWGNqY3dDNG9acWdLZzU1eGlFVTExbnZiQUVZS25HY2ozX3ZHbjZqOFd2Z2VBYjZfYTBuc3N5M0hCVU1xWDNaZ0M0ZzFhZFNLc0YtdVFSVEVWd0FBYk5sY0tpMUhlbXlYU3hsR2kweHd0c21ndFlfaHFBajRqaHlVbHB6dGRrVE10NHN3TEptU0U?oc=5",
         "published": "Thu, 29 Oct 2026 10:28:47 GMT"
-      },
-      {
-        "title": "Druck für die NVIDIA-Aktie? Spionagevorwürfe gegen CEO Jensen Huang befeuern Exportdebatte - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ05qcUxHSUpxVi0yOWViR0prRTF1RVdNU2VJLWIzVkRsdUt4R1JWZERfc2Q3ZF9FQ05iY2ptU20zVkg1encwQk85Nl9xcDA4N0NCeEdfSE5aS3FSS0dlN2hJU2RSYzdxUTBULWUwaS1OU095RGU3emFFZmJiWnNpSVZzXzFlWXItN1JrN3RSTHRkb0Uwb1JiTXc3a1NGUUQ4TWk4NFBRLW96WWxwRGs4WktOckZJUzkwczZPUEdJc0E1YS05XzdwWEd3SXZrRktNQ1RfQlZaVFVTM2gxMWMwYVdEd1oxcnVZaFVMNlFvUXlTMnQ1ZXF3cTJnTQ?oc=5",
-        "published": "Thu, 29 Oct 2026 19:05:00 GMT"
       },
       {
         "title": "96 GiB VRAM: Dell-PC kostet weniger als Nvidias Profi-GPU - PCGH",
@@ -344,6 +339,11 @@
         "title": "Wildtiere in Wien: „McDonald’s-Füchse werden regelmäßig gemeldet“ - Kurier",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHhoMTFDaVpUN0RnMXdyZ1dnQkR6VFlBYWNXcUMwQjZqUkNIYkFyUW9FS3BjZFBHRnNpdVFrUG9laXlfalFjRU9TUjEzbnd3Nms3WG9DT0hjZ3lTeXNPb0hfRXlPb19VaDBZNWprV0JuRF9MaG5FVGMxVy1Ha3pYMXhhZjc1M3A3WkxRaDRxLWxsblE5cEh3?oc=5",
         "published": "Thu, 29 Oct 2026 16:00:00 GMT"
+      },
+      {
+        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
+        "published": "Thu, 29 Oct 2026 18:44:45 GMT"
       },
       {
         "title": "Mercedes-Benz Aktie: Rokossa hält trotz Zweifeln an Buy - Börse Express",
