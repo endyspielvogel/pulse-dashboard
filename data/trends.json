@@ -1,14 +1,30 @@
 {
-  "fetched_at": "2026-10-30T10:19:51.359706+00:00",
+  "fetched_at": "2026-10-30T11:06:29.954486+00:00",
   "countries": {
     "AT": [
       {
+        "title": "marcel sabitzer",
+        "volume": "500+"
+      },
+      {
+        "title": "binance hackerangriff",
+        "volume": "1000+"
+      },
+      {
+        "title": "google aktie",
+        "volume": "100+"
+      },
+      {
+        "title": "ö3 gabi hiller",
+        "volume": "1000+"
+      },
+      {
         "title": "motorsport",
-        "volume": "200+"
+        "volume": "1000+"
       },
       {
         "title": "andrea kimi antonelli",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "lewis hamilton",
@@ -16,7 +32,7 @@
       },
       {
         "title": "reifen",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "sc cambuur",
@@ -24,64 +40,48 @@
       },
       {
         "title": "papageien",
-        "volume": "200+"
-      },
-      {
-        "title": "radenthein",
-        "volume": "500+"
-      },
-      {
-        "title": "sicherheitslücke",
-        "volume": "2000+"
-      },
-      {
-        "title": "heise online",
-        "volume": "200+"
-      },
-      {
-        "title": "covid-19-impfstoff",
         "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "patrick queen trade rumors cowboys",
-        "volume": "100+"
-      },
-      {
-        "title": "kyle chrisley guilty plea",
-        "volume": "100+"
-      },
-      {
-        "title": "espncricinfo",
-        "volume": "100+"
-      },
-      {
-        "title": "detroit tigers",
+        "title": "who won the 2020 election",
         "volume": "500+"
       },
       {
-        "title": "avatar seven havens season 2 release date",
+        "title": "linda mason cbs",
         "volume": "100+"
       },
       {
-        "title": "nasdaq futures",
-        "volume": "1000+"
+        "title": "red sox offseason trade rumors",
+        "volume": "2000+"
       },
       {
-        "title": "gta delayed",
+        "title": "federal trade commission dynamic pricing probe",
+        "volume": "100+"
+      },
+      {
+        "title": "erin patterson",
+        "volume": "100+"
+      },
+      {
+        "title": "dustin may mutual option buyout",
         "volume": "200+"
       },
       {
-        "title": "playstation",
-        "volume": "200+"
+        "title": "nyc marathon 2026",
+        "volume": "2000+"
       },
       {
-        "title": "tarek el moussa daughter bmw gift",
-        "volume": "200+"
+        "title": "crypto news",
+        "volume": "100+"
       },
       {
-        "title": "jim cramer wall street tech commentary",
+        "title": "victoria secret",
+        "volume": "2000+"
+      },
+      {
+        "title": "pick 3",
         "volume": "100+"
       }
     ]
