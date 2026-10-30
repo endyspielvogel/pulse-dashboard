@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-10-30T19:19:00.910828+00:00",
+  "fetched_at": "2026-10-30T20:03:28.734706+00:00",
   "countries": {
     "AT": [
+      {
+        "title": "alex de minaur",
+        "volume": "2000+"
+      },
+      {
+        "title": "polen",
+        "volume": "100+"
+      },
+      {
+        "title": "elversberg – mainz",
+        "volume": "200+"
+      },
+      {
+        "title": "matteo berrettini",
+        "volume": "1000+"
+      },
+      {
+        "title": "intel aktie",
+        "volume": "100+"
+      },
       {
         "title": "hinrichtung",
         "volume": "200+"
@@ -11,78 +31,58 @@
         "volume": "100+"
       },
       {
+        "title": "kaunertaler gletscherstraße",
+        "volume": "200+"
+      },
+      {
         "title": "1860 münchen – buchbach",
         "volume": "200+"
       },
       {
         "title": "reptilienzoo nockalm",
-        "volume": "1000+"
-      },
-      {
-        "title": "fahrgeschäft",
-        "volume": "500+"
-      },
-      {
-        "title": "gold",
-        "volume": "500+"
-      },
-      {
-        "title": "gak – hartberg",
-        "volume": "5000+"
-      },
-      {
-        "title": "markus katzer",
-        "volume": "200+"
-      },
-      {
-        "title": "fery",
-        "volume": "200+"
-      },
-      {
-        "title": "le hac – psg",
-        "volume": "1000+"
+        "volume": "2000+"
       }
     ],
     "US": [
       {
-        "title": "andy yen",
-        "volume": "200+"
-      },
-      {
-        "title": "lauren bennett",
-        "volume": "200+"
-      },
-      {
-        "title": "nuno borges",
-        "volume": "500+"
-      },
-      {
-        "title": "marketwatch",
-        "volume": "500+"
-      },
-      {
-        "title": "sam altman",
-        "volume": "200+"
-      },
-      {
-        "title": "kane parsons backrooms cultural impact",
-        "volume": "500+"
-      },
-      {
-        "title": "wells fargo jordan creek layoffs",
-        "volume": "200+"
-      },
-      {
-        "title": "daniel vogelbach",
+        "title": "thomas markle",
         "volume": "1000+"
       },
       {
-        "title": "al-shabab vs al-ahli",
+        "title": "achraf hakimi",
         "volume": "500+"
       },
       {
-        "title": "general hospital",
-        "volume": "2000+"
+        "title": "donald tusk",
+        "volume": "500+"
+      },
+      {
+        "title": "losc vs lens",
+        "volume": "500+"
+      },
+      {
+        "title": "mainz fc",
+        "volume": "500+"
+      },
+      {
+        "title": "casa pia vs sporting",
+        "volume": "500+"
+      },
+      {
+        "title": "the substance",
+        "volume": "500+"
+      },
+      {
+        "title": "budda baker",
+        "volume": "200+"
+      },
+      {
+        "title": "norad air defense alaska f-16",
+        "volume": "500+"
+      },
+      {
+        "title": "alex de minaur",
+        "volume": "1000+"
       }
     ]
   }
