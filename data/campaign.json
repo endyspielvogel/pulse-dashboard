@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-10-30T10:05:04.244930+00:00",
+  "fetched_at": "2026-10-30T13:12:55.071207+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Shreddies enlists TV duo Dick & Dom to launch new flavour",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazhxY3BiU1FjNFVyRXpQcjBRa2xzSDBpUk1mZFVyNVZFbTFCV3FSS1NHblZxV3lBOC1kdlg0dmRPWVk0UFFvNC1fU0l6bldiM3dmYXJVM0c1bVlMREl6eG9KR3NzUDJMZVN4QXhNelNQT01DNlI1X01hQVhKa1N2d3hnRHRwU0pZUTlodlYtQ2tZc1Z2dEg5ZnFZQlZlM25aZWswd2hoU1BKRXJweWY5TG1hZGJBRS1uazgyQmZ3?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T12:46:26+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Glenfiddich and Aston Martin put full-size car in a bottle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlVtcjhTVkdGUVRtNFZlb2NzbThTaV9RSWNEanBoNGxmc19iNnZ2NzBrLUt2NzlEYlFQVFNqZ0F1bFg4aTNzX1NGcE0yaTJiYkNfN2s0dDRfNkhqVnZJVi00ZkFVSGFhR2F3bHVNRVNaU3VmYWQ1ZjNoOTU0TXJGNkFmZDN0Z0d6bS05LWRqSkU2QXRNLWNrWGZmWWVJYXNZZ1JBRjBJd0NTNUNVS1dQM0F3cmg0QzNCTnBCaDJoRi1jUQ?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T12:38:03+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "What are adland's worst pitching horror stories?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2RQeWpyNmJERjIwNF95d0F5Smhob0pUbFZ2UFpXVm8waFZnVjUtZHlUMGpQYmRCMlFQV192bjd4SGRzeHRNM3B1eHU1VEdFMDhta3dzN0dIZlVVLWRGMGNCSEpCUGphNm9pSUpmNWZHNXpmSW90WDhjeUh0M0xES0wzZnBsU3gtZVpkS0poa2xFei0za2RtNTZTakRKX0thYUpaMDcxSXlhQzJpd2tMWWtxRQ?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T12:03:12+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Omnicom Media wins lion's share of Lidl's $1bn European media account",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUkwVHdYN0dzNmU4TlVvbl9KUG9GZ1VyTGRiYURwclpzUGhHMllqVEFTLUFKT2Z5cEZhMnB5aFBrQTEtMVdmaW9Ka0FVMnVZazdhSDhzN3BOdEl0Ty1XRWt1ODRnbnVWTzJISl9NbklUYTVuWGwxTHpNZmpVdW5VUG8wZlg3R2ROejhCZjM1TXhqN3ZjTHZ2N0lpQm4tM3NCVXJBTk9xQzBlMEZVQm02bXJuVTJmZUFIRG9xUTFHNjExU1RHSktrZjBKWXZrWEk?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T11:33:07+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The key charts behind WPP’s Q3 2026 results",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHlmOVptUkZoalZ5ZXMxWUJ5R21ZTW8tTUxod3ZqdzQzTXJaNHoxUVRaOFJYM1ZYSGVHSmp0bkI5cF9LMlZ2NEtiVXFkSHBWSnlUVHhhbmU1c1F0dURsaU1Qc3hucVoyXzFHMk9JSFpfclA5aF8tWTQxWTNZUnhGcmxMQXppN1RzWU11LWJnX1VpaGpkUWI3YWV1eVpJbEwzLXY1TWR4S1lXWVE1Y1E?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T11:15:24+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Special Group takes investment as sign of creative ‘optimism’",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXlKaHVBaWgzM2NpcVZSSDZLVTNfTEN3WW96di1xaEE1cnZLMkhrT0daTmRYdFRySkd5dVlGcVpuU0dhdHhvanlPcEs4SnZvdkJ4cWdCbFFJV0xfVUYwZk81SVlBcjBFTl9OaXVHWE9rOGZDUkdvZUxWZ3FOYkNPNW4xd3N3Tk9ZQlhnRUlJVzk4MHR6aFdXb3FWQ1Q0bTl0dWJhVlEzM3BmSW14aFdaNWtUM1J0WnNTdUkxQkNSQzdKSWM?oc=5",
@@ -55,46 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDJ0NW0tMnJEWUdxUmpKTVJzZU1IaFdyYnlXNUlaRXhXVkM0LWl3RjFCZGprVkk0MVBaYmJVSW92OTdSamR3WUdUQ0NUb09lNGZfWUJnNnFSSkpmYlZVS0EyWlJnVDR5M0V0ZkpRRVg1dHBNR09MYUotc2dCZnAtbFg4Q2VJNWhzbkxEclVUWVBfMG9yZEFiWUNzbjZXUHFscjNwWUs0bmZZMC1lVFNRVnRvQnZHa0VzNV9F?oc=5",
       "published": "29.10.2026",
       "published_iso": "2026-10-29T15:06:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "The Creative Score Global: Top 20 campaigns",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTB1Zjl0LXdEd19wUlZqQ0E2eXZjNzdIR0htdV80TEtxYTIzT1BUbmlpVXZVNkxDbzFTS1lDSzJSOXlXaFlxMUxUM25QSUJwU016a1NKSGNlcDNsUnBIS2lRNmg1ZHZuTzN0UVJiNnBzS0MxTlV1SW84eFVlX0xNdFpib3RpdGFpTGdScWk5Wk91ZEtjR2RhSzMwRnB6TGh6NFF2YmNIOTA2WVB2?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T14:50:13+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "The Creative Score Global: Top holding companies",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTl0Y1AwbHI0MGdTYjhRVjFjTHpmQWFVSUU5T1p2Qno4ellLQUtWeEZnU0ZfZjlYQ0RpWTVNVGRMbjcxdlBieEtyZVBVeUpBNWZBODNNa1UxTWJmWk1IQTI1T3QxTEVPOFJtUnpXVWNXNmpxaHp4SE05dmhGai1vNGpsYm95NkI5Smt1MW40ZnBzZXliajJGeXVEWVBBZ285RHNpRy1Ibklha2k5XzB2eVlQdw?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T14:50:13+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Commercial radio’s weekly reach rose to 40 million in Q3 2026",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVUF0MVZuR0MyVG02ODRrN3ctSVU0WmVrTWVzOTRZa01EZHB4WF9DbGczSlFIeTY5RGxFR3BRQUpqWVAzS3NFZ2hlNFZTX01CME54VjA5dlFVRE9kT3MyXzJJYmVaZTN1emZ1eWZfYXBNdmxZU1Z2NlprZkU3THNMNnB6NEx1Z0dyQ2d2emFlYWsyNHJ3d0V6VzQ1N1kwSk1nbXRNWEZGVEhwRTlhNEVLYmRGV1Fhd0o1Si14cG12Uk52bEd3T2c?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T13:30:08+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Financial Times taps into Autumn Budget with reactive OOH",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaE41Qk9yclJtREEtd0hTVGszQUlNa1hneXFMQTBkdXRtU0RJbWdtSU5QTTh6UEladHVKWDhINTY0Mk9CQmIwMzhmSmROem43Q2Yzc3lWWGhPOXU5Wnd0N0ZObWVDQ3QxUWkyelVMSkJvMEF6MXIxNTFickxTOGV4V1g0QnljX1h3dTNVc3RHM012T3NpdVdGbjdSTElUaUpVSUZfQ0lEY084Z0lIci1YQWdCV1dmTTVIZ2dyOFVSVnM?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T13:20:08+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Power 100 2026: top five in finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTRTajN5dWhSOTNKM0dvMU1ucFk0WTdKa1pGYldwdVE2LURDMlRDRURPRnRHbDNrVnViS1pWNkpMS0dibUdSenBNVGdISkhEZ0MyUUxReTJhOWgxcTJPTElrZlZ6aFY1MkRmR081SS1HTmJSQkQzeFQ4TFdRVUVtSDBCZDV4TXpjMzJKdTFndmVzWFBVa2h0Y2lhbWNfbWdXZUE?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T13:15:19+00:00",
       "description": "",
       "source": "Campaign UK"
     }
