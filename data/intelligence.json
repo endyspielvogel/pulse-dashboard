@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-10-30T06:48:41.798066+00:00",
+  "fetched_at": "2026-10-30T07:57:40.310445+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Neuer McDonald’s in Villach: Nun steht Bauverhandlung an - 5 Minuten",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcndJRW41QmNlX0NwU3N6WmxRaDdObmljVlhzSDJma3E1SkgwaUxRZjFFR1JWVEVVYWVUY2JLOVRqek9WZUw2Vk9OYXlhQUIxYTVCOTQxOWgxZ0l0SjR4SG1BdWYxMUpWQ1k3ai1hNWRna1FWZkYzTnE0ZlJ1ZTZxTFlReVVYSFRFM00wUGNPZnhJeHdKUTlyejRPWUlKUQ?oc=5",
         "published": "Wed, 28 Oct 2026 08:48:39 GMT"
+      },
+      {
+        "title": "Pokémon ab Dezember mit Sammelkarten im Happy Meal von McDonalds - Bisafans.de",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0YtcGNLUkxmckJjelhreldsdGh5cE9PUnhEWjFLaVlKSlNzZlI5YXpIQkQ3WUpGSHdVeDZ5T3Q1VjVIXzdhTzd0TlNUc3lPLTdia25WUlVDbmtHZzJiRUdoZFNoM19zYTFUSkVVb3lGQVhEVXBHcjhIUlI3OWRvZ3ZEaFRuNl81LVFHLTNkTTVzVXVwTThLLTNlLUZkcExOMWNWRGpTWm04Wi02N09acHBsYW8ydm1TbzJQYUwzeU1oUQ?oc=5",
+        "published": "Thu, 29 Oct 2026 17:43:20 GMT"
       },
       {
         "title": "Dow Jones 30 Industrial-Wert McDonalds-Aktie: So viel Gewinn hätte ein Investment in McDonalds von vor 5 Jahren eingebracht - finanzen.at",
@@ -18,9 +23,9 @@
         "published": "Thu, 29 Oct 2026 16:00:00 GMT"
       },
       {
-        "title": "Nach 20 Jahren: McDonalds bringt seine legendärste Aktion zurück - Giga",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEMwV1c5WS1zS3R0WXNrZjZQTEc4SUNmWC14VUpUZXpiTVJkV0xLUXFfOXY2OTN2MUZhczJnN251TDdKSk5lVGhLNlh6VWhRTEtLTE5OV1VFSFBlRmlrWVp1Wk9MUDBVSjZPbUtyNi1nSVJKRU9VbFJEM29yODloTVY5UVkta2tpZUxWaW5mdTFpZ09WM3duOUM4R21nbDg5X1dadVF4d2kzQWtYc2o1Rzl0MkRCUGowTEE?oc=5",
-        "published": "Thu, 29 Oct 2026 07:14:15 GMT"
+        "title": "McDonald’s: Fast-Food-Junkies fordern Comeback des McRib - BILD",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHlkWFlnVHd2SVdEeEdXX041MWJQbWtjallLVHpNZ21xS3psVTVyc0tuLWJHRDdyWTRyNGsyRzE1dEhzMFRSSjVQUmlCd1hZOVB2b2FuTUJheFlpeWxrdWJCR0hiTWxiM3dYekNyMjBCbE1xSTRvWTV2c0JwY2pXdW5PVVFoeU15czVUZzRzTVJDakRnVW5XempDNURleFJhQXlPV3ZoTGFyN0ItUGx6cQ?oc=5",
+        "published": "Fri, 30 Oct 2026 07:15:01 GMT"
       },
       {
         "title": "McDonald’s in der Krise: Warum die Kultaktie derzeit so stark unter Druck steht - Fuldaer Zeitung",
@@ -28,19 +33,14 @@
         "published": "Fri, 30 Oct 2026 05:49:30 GMT"
       },
       {
+        "title": "Nach 20 Jahren: McDonalds bringt seine legendärste Aktion zurück - Giga",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEMwV1c5WS1zS3R0WXNrZjZQTEc4SUNmWC14VUpUZXpiTVJkV0xLUXFfOXY2OTN2MUZhczJnN251TDdKSk5lVGhLNlh6VWhRTEtLTE5OV1VFSFBlRmlrWVp1Wk9MUDBVSjZPbUtyNi1nSVJKRU9VbFJEM29yODloTVY5UVkta2tpZUxWaW5mdTFpZ09WM3duOUM4R21nbDg5X1dadVF4d2kzQWtYc2o1Rzl0MkRCUGowTEE?oc=5",
+        "published": "Thu, 29 Oct 2026 07:14:15 GMT"
+      },
+      {
         "title": "15 neue Pokémon-Karten und sogar ein Spielzeug im Happy Meal - McDonald's bringt Aktion auch nach Deutschland - GamePro",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWNUR093X21Ed3A1THRnS2JfcGlsbjRRS3R6S1NmLTdzY3M3YXJOLVJSVl9wZ2UzSzRQLWlNRy02R1J1VlhzSE5CaC1JTFQ2djlEVUFtUGp6OVhnMXVSVzhFWjVleEYwVXFvUDBNUDl0ZUh2NkNFd1Y4VE1iWjMxWmtPbw?oc=5",
         "published": "Thu, 29 Oct 2026 11:42:38 GMT"
-      },
-      {
-        "title": "Pokémon ab Dezember mit Sammelkarten im Happy Meal von McDonalds - Bisafans.de",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0YtcGNLUkxmckJjelhreldsdGh5cE9PUnhEWjFLaVlKSlNzZlI5YXpIQkQ3WUpGSHdVeDZ5T3Q1VjVIXzdhTzd0TlNUc3lPLTdia25WUlVDbmtHZzJiRUdoZFNoM19zYTFUSkVVb3lGQVhEVXBHcjhIUlI3OWRvZ3ZEaFRuNl81LVFHLTNkTTVzVXVwTThLLTNlLUZkcExOMWNWRGpTWm04Wi02N09acHBsYW8ydm1TbzJQYUwzeU1oUQ?oc=5",
-        "published": "Thu, 29 Oct 2026 17:43:20 GMT"
-      },
-      {
-        "title": "Dow Jones 30 Industrial-Titel McDonalds-Aktie: So viel Gewinn hätte ein Investment in McDonalds von vor 5 Jahren eingebracht - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeTJHaXNOWlZWVFRxTmRxaFpyMDFmVkRraUhCN2d2N0FfTjlkWlpIUS13M21rVmlpTGhBeHJ1N01GbjNkS2lpeUk4NzVhNzVwN1NWRUdfay1XVzRGcjRKU3JqX2Fobzd4RWx4cGNXb2FZV2dFbnY5WWFhdFpGbGdWTGtPLWF1dWRsSGt2R0tXRm9DdlIzSFUxMXYwZXhNWUZuMnJtUVBDTlhBaGk1bTBzakh1LUg5VEJucnplWmFsalY5R0RkSEVCRlc5cEptWmw4NUViSGllX2hkcXlNeW5iS3hkZ3VEMWp1UklfcTJOTnJjamdydzdLMWRvdXdfWGZPRlE4LTVn?oc=5",
-        "published": "Thu, 29 Oct 2026 15:00:47 GMT"
       }
     ],
     "Burger King": [
@@ -65,14 +65,14 @@
         "published": "Thu, 29 Oct 2026 15:47:32 GMT"
       },
       {
-        "title": "Restaurant Brands übertrifft die Umsatzprognosen, da die Burger-King-Angebote Gäste anziehen - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBicEtQRExkV1hNZzB1cUVmNXdCV0xEZHRHMzRpUjdkOGtfVUp2OU5NcWxhWnBvWUZvLTVBNmhCTEUzb3V1X3FyM3BFZDFMbDVmNl8zb1VRcjFvSkZubmFWaHF2OXhsMk5ZUndQVFR4WGZpZVdtbTRR?oc=5",
-        "published": "Thu, 29 Oct 2026 10:30:50 GMT"
-      },
-      {
         "title": "Restaurant Brands übertraf die Gewinnprognosen für das dritte Quartal 2026 dank der Burger King-Verkäufe. - Quartz auf Deutsch",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LOEtqTnJjZlRQNzE0Y1hqRExqT1E5SExGR0pmb2ppcFdkNzlFdEdaa29kdUVkdDJiSkhBZkdCVGN3RnZnQU5rcEdUbDd3RlR3RUFjYVo4WnQ2RXR2Tl95RUF4ZTNWSjlmUWNYUU42THV0bzdjNVFMVEJETQ?oc=5",
         "published": "Thu, 29 Oct 2026 15:31:02 GMT"
+      },
+      {
+        "title": "Restaurant Brands übertrifft die Umsatzprognosen, da die Burger-King-Angebote Gäste anziehen - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBicEtQRExkV1hNZzB1cUVmNXdCV0xEZHRHMzRpUjdkOGtfVUp2OU5NcWxhWnBvWUZvLTVBNmhCTEUzb3V1X3FyM3BFZDFMbDVmNl8zb1VRcjFvSkZubmFWaHF2OXhsMk5ZUndQVFR4WGZpZVdtbTRR?oc=5",
+        "published": "Thu, 29 Oct 2026 10:30:50 GMT"
       },
       {
         "title": "RBI-Ergebnisse Q3 2026: Burger King führt bei organischem Gewinnplus von 6,7 % - TradingKey",
@@ -107,6 +107,11 @@
         "published": "Thu, 29 Oct 2026 07:10:00 GMT"
       },
       {
+        "title": "Stagwell Soars 13% on Raised Outlook, Eyes “Number One in Marketing Transformation” - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFhWTFRFUnZuSmlRVXlaR0ZyVW9ZUkdyalFiYlo5WkFMSGNFRW5HOExyMWI5MGY4M1hYX1BEbXNMSHdVQmR2RFo2RUsxZGl0bHZVMy1fRzZockdub0xsNUthWEZRejU1bzJvRjlBMmpuNzJtVmVoRGJNYWZvd0NySmZYZmFid2hxaTEzZWNzQW9rWXh2M0NTMmk2N3FzeklJX2l3SmZBTzVudnZuZ1E?oc=5",
+        "published": "Fri, 30 Oct 2026 07:33:31 GMT"
+      },
+      {
         "title": "Omnicom-Aktie steigt um über 3 %, während institutionelle Anleger ihre Anteile reduzieren und die technische Lage bullish bleibt - Traders Union",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGJ6MzJMSzdlLU1sS2lOYy1OMnN2NHotLU9zSUtUai1NSXg4cXFHYk40eXI4aFlBb1ZDWDRsRl96Nk13ZnhjWlZfMVctNldVM0E2X3lHRFhaa0h3MDNxSG5Bc3lXOFA4cjlDaklWRzZwcER3RjZHLXJ2UkZQdGk4ZG9mLXFLUkY1cmotV3dWZ19SbEE?oc=5",
         "published": "Thu, 29 Oct 2026 17:02:38 GMT"
@@ -139,19 +144,19 @@
         "published": "Wed, 28 Oct 2026 12:10:00 GMT"
       },
       {
+        "title": "Mercedes-Benz Aktie: Analysten drehen die Kursziele runter - Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGtRMDRDM2JnVW5SazN5d3ZOamh6Qk81VnhpQVRaZ0N4dnlPZUg4eG9sQ2dSV2JKaGxqQVR2R3FZYU0tZ0Jwa1dwa25PcWlUSlpMZ3l4QTBIUVFCTFVDb0szcnNFVzlTaUhOcW1RVThMbkpSNS1LcGxUNGkyWkVNX2NReVFVSEdNREV5M3NCaUw?oc=5",
+        "published": "Fri, 30 Oct 2026 06:22:29 GMT"
+      },
+      {
+        "title": "Hohe Nachfrage: Mercedes GLC auf Monate hin ausverkauft - Automobilwoche",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkduSnBJemlWRmFpaDB2WkxNMVk5dVA1U1Z2M1hyUXUyeFNQa2tHaTZ4YnZCMkNXU3VDSk9wLTlZamF0bDdaUXAzVUpEN0gtaDkxRDB2OU9YbEJSeGZxTmVyb3pXc2xCLXRzMU9UdzlYOW56cVY4R2Rxb21OTkZLMTNDTnNYeUJNSmlKUW1oaHFVWlZT?oc=5",
+        "published": "Fri, 30 Oct 2026 02:14:00 GMT"
+      },
+      {
         "title": "Video. Vatikan zeigt Jahrhundert der Mercedes-Benz-Papamobile - Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlFVeXJnRTIxTkh1dzI0TTAyLTBUZ0M4YXo0ZHRLQzJEbEdVYzY4dnNOTWpXWmprS0R4SENCN2JHRnI0bFlOcTN5QlhQbVpRWUVRRFNhZ21PdDBXbzVobzBaTzlLWFhYZGNpdjFOaHU3cmJoN01YWWtBNFhkTkRTdFFhQXNXMXVBNlpIOWp6NWxKMWJyRVFKRzZxRQ?oc=5",
         "published": "Thu, 29 Oct 2026 15:41:16 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Aktie: Analysten drehen die Kursziele runter - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGtRMDRDM2JnVW5SazN5d3ZOamh6Qk81VnhpQVRaZ0N4dnlPZUg4eG9sQ2dSV2JKaGxqQVR2R3FZYU0tZ0Jwa1dwa25PcWlUSlpMZ3l4QTBIUVFCTFVDb0szcnNFVzlTaUhOcW1RVThMbkpSNS1LcGxUNGkyWkVNX2NReVFVSEdNREV5M3NCaUw?oc=5",
-        "published": "Fri, 30 Oct 2026 05:36:44 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Aktie: Rokossa hält trotz Zweifeln an Buy - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUFTUEh3MXlwNHRGV1B5RE1PNk5DeFBVYmpXbXZFUk94Uk9aRmtlLTJkX1AweldZOC1xdlJxQ1VheEdjNGJIRUZoX2xydXB4TlZZZnNTSWdkR3ZiWGlkdjhmME9ya1FoNHZJN0l0ZGR2eXNWb1NrWllidVBMSTFuMFJMeVVhd25GNDBodXNYempRcW51RzZzVjRfeXJ0V3RXZVBUX0h4Q1dHYlE?oc=5",
-        "published": "Thu, 29 Oct 2026 17:43:07 GMT"
       }
     ],
     "Nvidia": [
@@ -166,14 +171,19 @@
         "published": "Thu, 29 Oct 2026 18:15:00 GMT"
       },
       {
+        "title": "Nvidia Aktie: Aus sechs Monaten sollen 14 Tage werden - Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUl9uZXdMekR3OFBmSXhVQzVpZzYxb2U4M0UxSUhTMDNDSVhBNFJVN0lQcVN2UW9oWnpOb0oyYjBxVnN5TFlIZGc4NjZOVEpWQWJ2dnhYNmZTU2U0YzNkNzRSOXc2dHI4Z2ZLQ1l4YWpnUURaczRwU2ZmSkt0V1hSZ0hNUFAzelBXUTgzOTZ1TQ?oc=5",
+        "published": "Fri, 30 Oct 2026 06:56:19 GMT"
+      },
+      {
         "title": "96 GiB VRAM: Dell-PC kostet weniger als Nvidias Profi-GPU - PCGH",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSkh1blhvaXJpT1l0akladDg5ajNPQnd6elhzNFhKNW1rM21nbkRnTjhjMzZia180UkhlZ2hSZ1FYejJTZHhtSHJyd2V1aXRvSlNwSDFFT05tZE1QWXpHcnYxa3BYOE0wSHp5eTZPc3p3QWhNOXNBSGllRmVmcXpjSHBHWmlNaFZVc0NQRW9zUHhHVEl4a1hLdmEtRFI0Mi1Xd3k2UGVFMWtZeEFsN3ZjcUJFMHhVeS1FdmN4dDRpR0dsRWhxZzJVbWo3Z00tOUlTZFpJR3puemozaWFwNG9wMXRmVU9GcXBQRzhVTmxoWHhSV0g5?oc=5",
         "published": "Thu, 29 Oct 2026 11:57:00 GMT"
       },
       {
-        "title": "Nvidia Aktie: Aus sechs Monaten sollen 14 Tage werden - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUl9uZXdMekR3OFBmSXhVQzVpZzYxb2U4M0UxSUhTMDNDSVhBNFJVN0lQcVN2UW9oWnpOb0oyYjBxVnN5TFlIZGc4NjZOVEpWQWJ2dnhYNmZTU2U0YzNkNzRSOXc2dHI4Z2ZLQ1l4YWpnUURaczRwU2ZmSkt0V1hSZ0hNUFAzelBXUTgzOTZ1TQ?oc=5",
-        "published": "Fri, 30 Oct 2026 06:04:50 GMT"
+        "title": "Riskantes Geflecht der KI-Branche: Nvidia trickst mit Milliarden-Finanzkarussell - n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkgxcmN3cXhmRkhsOUc4WUl4bWVOTGpvTV9vMS1tNzlldjRENXdadFZ1ZTRMSURuaHBZTmpFRzkweVNwcUgtTHhhazdMdXhjX3NoRFNWTnRodEVYLWpPVmtwdFd6Y2l5ek1uQlBaeXRZWFc4eFc1dlhFYkdjcl9NcEIxZy1abzRhWEdiQzd6LWZVdjNFTzh0MURzUjVJZWNYTWhOX2wwOVlSTndsbWc?oc=5",
+        "published": "Thu, 29 Oct 2026 18:33:15 GMT"
       },
       {
         "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
@@ -189,21 +199,11 @@
         "title": "Nvidia soll die Krise bei den Gaming-GPUs und RAM selbst herbeigeführt haben - Mein-MMO",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01QkF0dEczZU5oZzNuUE1ZVFcyNmtIYkd3REt0V1dqRWtydTZWTEZSUWhtMmhXMk5hVVZvXzZUTWxkOERlRFFBT1NXX0FtT1hoMDhWVUZRV05JRjVxVEoxNzk2WmZlTlBZUGRmREhhMXlzVDZaR1FN?oc=5",
         "published": "Thu, 29 Oct 2026 12:00:53 GMT"
-      },
-      {
-        "title": "Die USA untersuchen das Risiko einer Übernahme des KI-Marktes durch Nvidia. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDB6Unp0UTk4TTRfYXFNM0dPWXZHcWRnSTRqQTQwOVN5MWxQTzdRNllTUzR2MGxKU0E3YzgzcWR6cmUwOFdkWWdDV2hmdzBaRXhPU2VtSW12LWoxaHNsWGpROWRBcWlGM1N0MTFjYXFCc3JLZkZQOGRZUjU0UlJWdg?oc=5",
-        "published": "Fri, 30 Oct 2026 01:03:48 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
-      {
-        "title": "Salzgitter hebt Gewinnprognose an: Aktie steigt um zehn Prozent - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmQtejE4YTBZNHNDRWY5Z3I4YnRKYlJPdnRqdllPaVE5am82OVQxaWdTaXRBOXdEZ3NoSlNPTjc4WFdfUWFoT2R4LVV4dmkwUzUxSk5oeFlYMm9wUXZGSGRvSGpKSjhxbHFFTHhzTTRWYnBTb1pCSHFIVkd6cm54TmdZcW9RRFBxakhWaWRYTFdqbHFVdHhhRXZtY1BDRGM4RUtuRU1XWVJBRkFmOFVyV1A2aWxETVBEaHZySUVzc3hOcnpneHZYSWJJN1BkZw?oc=5",
-        "published": "Fri, 30 Oct 2026 06:25:29 GMT"
-      },
       {
         "title": "Alphabet-Aktie: Warum Google trotz Umsatzplus an der Börse abstürzt - Wirtschaft - SZ.de - SZ.de",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0JKcTc3aVFSc2hQd0praVZaREpzY1BCQnpFM0hBUlItOVpqRElRS3Rjd3RsYkEwX2FQMFFGMXhLQTZaaEt3STVSWTBVRzVXVFB4OHdtTnpFWjZpOFE5cVYxdVN3TERZMHI2ck9zcDMyMThRRXh0a205ODZnZExKSTN3YVdIdUxZNUJYZk84NkxvcmtVSUVRaEVVOA?oc=5",
@@ -215,9 +215,19 @@
         "published": "Thu, 29 Oct 2026 03:10:56 GMT"
       },
       {
-        "title": "Indien: Jio Platforms schafft stärksten Börsengang des Landes - Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWhwRURLNTFzemJGa2pGOGhENHBHRVQtdGZzamE3RHpSOERmbDhCM3lsZFVCQ1hMbEdvcW1SMzlFcF9zdFkySzVpbjAwZlRtR0J1OFNneGt2YzlwSWR0akpiMGR6eFM0TThSX2VRTjBCRTBkVWVVRUc0aGZZVFFubEpfNUE5RUhmZmtxZVhxMVNvN0wza2hJczNOQk82c3FFWGQ4bkE2dWd0RFlWT2ZxOXpzTUpJdXNJLUZvVk12WWNvZ196STN4RC16MG1lT0FBR2hJ?oc=5",
-        "published": "Wed, 28 Oct 2026 11:36:00 GMT"
+        "title": "Warum Anthropic 80 Milliarden Dollar Verlust flott wegrechnet - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWFUc0Q3QVlnZ0djczNuODBiR3ZXYlBIUGdQUmM0NGJ4emNXOVNlWVhHLWJVTEtHR2pZVU81MTZ3X2VVdmx4VDVPdTJzQnAwRFJ5M0hMclEzTHRyd0M1ZlJTV25FQzgwdmZhbDZ4b1RydEU5SlQ0TTBta2dRbmF4MjAzQlFWbTFEYll4Q1dnWUh4QmtsRXZpc2lxMHh4d1dua3dvelZKcUgwWEpWSWZzdlhfNm45TkRYV1lsdkViSVpSSndobUUzLXU1T3A?oc=5",
+        "published": "Thu, 29 Oct 2026 06:30:39 GMT"
+      },
+      {
+        "title": "Binance gehackt: Größter Krypto-Diebstahl der Geschichte? - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFJhRjlPc2VHSXF1ZTZRbTZrODNlMlJyVE0tTjlpdUZ2eGY1WWFmQi0tYXo4U1BSbTdLU21mbTUtZFg5a3p6X3FqTkhZRXNaUXJjTE14R0ZHZU1QZ1pIMmgxT0pOZEdranRwbC1lS2hSTUxhcy1sVmplNHNvaGtqMlRCdjByMlhLb3gteTVuZlRmWUVFMFE?oc=5",
+        "published": "Fri, 30 Oct 2026 07:34:09 GMT"
+      },
+      {
+        "title": "Krypto-Börse Binance meldet grossen Cyberangriff – Milliarden Dollar eingefroren - Watson",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnBialJlbEhzZENDb1RiV2lXb2pGRWFuSE5MLWRNVG9sMGd6NDNLbl9iWFNpbGFuVDdyWTE1alJZR2pyQi16TWtHUEc4SjlxcnJ0d0JpSS03MFk4cFZfd1JGWnNJTGhDU0Y1bE54dDZGLWhYZzMzbUJXdUoyb0xRNGN4bl83aWluWVU1dXY2cHc0Z3U1QTJ3VHUyVjVkMkhBR3Zfb1VoLXM1ZWxVWVZQM09NVDhqeUhtYk5wd0wtdw?oc=5",
+        "published": "Fri, 30 Oct 2026 07:20:17 GMT"
       },
       {
         "title": "Hacker stehlen 6,3 Milliarden Dollar von der Krypto-Börse Binance - NZZ",
@@ -225,27 +235,17 @@
         "published": "Fri, 30 Oct 2026 06:05:53 GMT"
       },
       {
-        "title": "Schweizer Börse steigt auf neues Allzeithoch - Watson",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXBTT0dBXzNHYkE0elZzMHhEYjl1bDB6ZzhOUFBfak9fQzZubkd4eXg4UFJKaGpzNEs2cW1RRlcyeUdxRUhMSkR6c1ZnTmRqM1dub09maFBQNms5bjVEYVRNYjdIeW54Z0NhRldDV1c2RjNQNEpwTW54UGwzRXgtVHpWQnIwaDlGb3lIdFlQcmUtakNxTjlBejRFOWQ?oc=5",
-        "published": "Thu, 29 Oct 2026 09:16:14 GMT"
+        "title": "Indien: Jio Platforms schafft stärksten Börsengang des Landes - Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWhwRURLNTFzemJGa2pGOGhENHBHRVQtdGZzamE3RHpSOERmbDhCM3lsZFVCQ1hMbEdvcW1SMzlFcF9zdFkySzVpbjAwZlRtR0J1OFNneGt2YzlwSWR0akpiMGR6eFM0TThSX2VRTjBCRTBkVWVVRUc0aGZZVFFubEpfNUE5RUhmZmtxZVhxMVNvN0wza2hJczNOQk82c3FFWGQ4bkE2dWd0RFlWT2ZxOXpzTUpJdXNJLUZvVk12WWNvZ196STN4RC16MG1lT0FBR2hJ?oc=5",
+        "published": "Wed, 28 Oct 2026 11:36:00 GMT"
       },
       {
         "title": "Bundesklimagesetz: Wirtschaftskammer warnt vor Milliardenverlust durch 2040-Ziel - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEpEaFJSZUFnZmJzV0JaUVQ3bHd6cjNVRW9UaENiUnlGTUp5Z3RIVDk5RkNCb2hER0pHQXN6OGljeEUwY0VObzBSb3kzYnhXd2poQXBJYjBTek5HWmtfNUVFUDlpZVhGcEpYZnVIV21HdVl2cV9EYVVxZlZPVkVGbjA1TFpldGpaYy0xenNOcnpEYWluQXpMWDJyM0FMTWZIenpEQmxNSzR2anNuSHltaVhQb1pybEZRYzZBOWphTDlmbGVKTkhRSmVJYw?oc=5",
         "published": "Wed, 28 Oct 2026 11:13:03 GMT"
-      },
-      {
-        "title": "Warum Anthropic 80 Milliarden Dollar Verlust flott wegrechnet - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWFUc0Q3QVlnZ0djczNuODBiR3ZXYlBIUGdQUmM0NGJ4emNXOVNlWVhHLWJVTEtHR2pZVU81MTZ3X2VVdmx4VDVPdTJzQnAwRFJ5M0hMclEzTHRyd0M1ZlJTV25FQzgwdmZhbDZ4b1RydEU5SlQ0TTBta2dRbmF4MjAzQlFWbTFEYll4Q1dnWUh4QmtsRXZpc2lxMHh4d1dua3dvelZKcUgwWEpWSWZzdlhfNm45TkRYV1lsdkViSVpSSndobUUzLXU1T3A?oc=5",
-        "published": "Thu, 29 Oct 2026 06:30:39 GMT"
       }
     ],
     "Werbung & Marketing": [
-      {
-        "title": "Marcello Demner, DMB.: „Je mehr Werbung nach KI aussieht, desto wertvoller wird Werbung, die nach einer Idee aussieht.“ - INTERNET WORLD Austria",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUJMTUhHWE5iRUtNOWRYbVVDSDFHWE1Jcjc5UVNRd005ZTlObVBid2ZVUFB2cWxOblBxZGtsRWF5UkVKWFU5OGpGa2kyMVh3cGxVT3dWMXo0cjczN0Y0ZVhFNUo0YmYzUjg1U3p5T2dVcUJhWFMweUdlcmNIdUNLXzZEbnBSQmVkbkpQemJFWERNeWh5WGFoNVFGeEpPQzhocGFoSkwtRnFOOVpmS2dUQTVQcTJxVi1EaXJiV0FUYmNHQk9wbG84YVNCMTh6endSbEpB?oc=5",
-        "published": "Wed, 28 Oct 2026 07:00:00 GMT"
-      },
       {
         "title": "Dank der umfassenden Google- und Facebook-Werbelösungen der Saltech Marketing Agency erleben Unternehmen ein echtes Umsatzwachstum. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVdRaVFYanBhQ09wZWtSbldhZTE5d3FIWnhZeFRFWjBTY1FXWVBHa3J1V3oxVUVTM2hsOUdGX1JIWlhxMG9LYWZEVlR1Q1VabVV1S1dvSkZSdG5HLXN5TnZLVkFiZzBOUVUwNjBCeFlFSFVjY3ZRdFdmXzRVNnpXaGxZYTZKaTN5WHlwTWVoQnhHN0kyRHpTaDREQ3E2RHFMU2pQVU9iaWxiMTUzSjFSTlA5WmdhdEUyUDVUY19BQzBzYzlhRlhuaFIwQTdId2JQVTUwRGE1WDhCMFJ5SkNnUDdleGo?oc=5",
@@ -257,14 +257,19 @@
         "published": "Thu, 29 Oct 2026 10:36:13 GMT"
       },
       {
-        "title": "Wirz: Schweiz Tourismus erfindet eine Vertuschung - persoenlich.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORnZSb3E1LUdSX1pTMkxud1hpRGdCbU15dHZGNF9hY21XNE9pSWNmYU1zbEIyRDk4N1l6QkY0bHdXeHBZVUdhUzlodTg4NXVvV1VidEh2Vk9zVUxzU09sMEwtcXZlVXY3bUxlWEtzZk5BWWNwWkJocFJ3YWJkZjhtaHZWYWJLakpnbjlNU3NnSkVqMlU?oc=5",
-        "published": "Thu, 29 Oct 2026 08:27:00 GMT"
+        "title": "Personalie: Ex-Trade-Desk-Managerin Güldag Prange wechselt in die KI-Beratung - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbF9ZTXJTWTVGM0Z2VkJZeXRMeG9SVXJNcE1WY18zYUg4MmRUelhGWXhsMU5jbWhBWHJRc2lyLXJpdmdjU3NWcGpPazBsbXJENlBDenpxWjRIdHFTUG5Ed3BDV2k5UlJPd1VhUmIxVkVpS0ZPOWJua2E1RkNDSjB4RU5rVy1TVG1yWHVraGpJbGFBTFE5RmplTENaMFB4TnU4MHQydWxaRmdsV1NmOXNLTnQtT0xmb0swWllZUDBONVJYZ016clVj?oc=5",
+        "published": "Thu, 29 Oct 2026 06:00:00 GMT"
       },
       {
         "title": "Neustadt: Videoanrufe sollen Wintergäste anlocken - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmg3S3RrYVQ3cEZfYkRtSlpkVjJGRi1qUHJqenJaZ0FzTllLdHVsc1g4by1tYXVLRXQtLTh1SE5FLXRudDVyaVlDX1lnVDhZaEQzZnBCYXRWQnJXb3JwRTY5a2kydzVRaWFyMExvOGF3TkxXdlJqUzJ1b0stakQzZnVJOGhVMGhkbmpUVG9n?oc=5",
         "published": "Wed, 28 Oct 2026 16:13:06 GMT"
+      },
+      {
+        "title": "Wirz: Schweiz Tourismus erfindet eine Vertuschung - persoenlich.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORnZSb3E1LUdSX1pTMkxud1hpRGdCbU15dHZGNF9hY21XNE9pSWNmYU1zbEIyRDk4N1l6QkY0bHdXeHBZVUdhUzlodTg4NXVvV1VidEh2Vk9zVUxzU09sMEwtcXZlVXY3bUxlWEtzZk5BWWNwWkJocFJ3YWJkZjhtaHZWYWJLakpnbjlNU3NnSkVqMlU?oc=5",
+        "published": "Thu, 29 Oct 2026 08:27:00 GMT"
       }
     ],
     "Technologie & KI": [
@@ -277,6 +282,11 @@
         "title": "Technologie: Warum ist Künstliche Intelligenz bei Trumpf nicht mehr wegzudenken? - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVF0T1hoYUdwSWdibEI5ZXd2Y2ZERFdYckZsTkJSbWljdXR4U1ZWU2RXb3ozQ3Jkc2V0V1pjbkUtc09mYzV0bXJiTldQS0w2eVVsdDZ5dE9CYlZjTDZuVkp2d1g1dk1zVkc2bVlmWUF4blI1UzZld1duNXpJQ3dWamtqMHc1bGlwRFpDWlR3NmN2d2gyVE1NNUdTZkpuNklmOEdzVENBZkh6X1dhVDBKYkdMUl9KWW82RUpaOG4xLWplMzdOS2dvTzBobElqQ2NZX0ZTM3FpemZaRmE3VlE?oc=5",
         "published": "Thu, 29 Oct 2026 15:18:00 GMT"
+      },
+      {
+        "title": "Was nach Cloud-Native kommt - it-daily.net",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3dzcFNkZVNzRS1RWU56bExkSkIwUlpHcFpjTVdRY0pDT0FRUC02N1NwMTdndzFlcWthT2hod25leGdsYWs5NUVaSVZkbmc5cVR4SVE4Q09JOTExbXRpNXdFX0dCVzVKc1p6WldpbmhJdkRyS3k3T0dGT2ZySG5KVEtnTm04ZzZpSHc?oc=5",
+        "published": "Fri, 30 Oct 2026 06:58:17 GMT"
       },
       {
         "title": "Den Rahmen für die KI-Governance verfeinern, um ein Gleichgewicht zwischen Innovation und Risikokontrolle herzustellen. - Vietnam.vn",
@@ -302,11 +312,6 @@
         "title": "Wie Künstliche Intelligenz Sexismus und Hass befeuert - MOMENT.at",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uRlRMblVJRHFZV2dyOHVXVVlJYkVaQW9hRWNfZkRWT1ZuSDdwa292S1pmQ2Y5bjVZdW92OTFOQnZiNVNjbVBtZTFjMWNzbHFvdWlLSlhZTUNtVGVCY0Jwdk1NZWk5RkU1VnEwb3JB?oc=5",
         "published": "Wed, 28 Oct 2026 14:15:00 GMT"
-      },
-      {
-        "title": "Klartext AI: Wiener Startup startet internationale Kooperation gegen Wegwerf-Technik - brutkasten",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3RGUWFXUjd1d3BldWd6LWRJYlFIN0RyZ3pJOWZfUlgyMWdkMUlFbHBTX0xmV3JyN0xoWkF5el81WlpwOC1yUGotQTljaHpLR1ExRVo2bFlYbEdiRXFGWXFrMGdmblZqODZ5X01GTFFEZHJ2TktiZG92MnhJOTBDV1gtOUNGWXQ0VTFiMTBOR1lPMzNGVlhmdGdIUG5zempiTGJsalBBOXFCbkl1T0l6d1VpYkw?oc=5",
-        "published": "Thu, 29 Oct 2026 10:30:02 GMT"
       }
     ],
     "Meine Aktien": [
@@ -323,7 +328,12 @@
       {
         "title": "Nvidia Aktie: Aus sechs Monaten sollen 14 Tage werden - Finanztrends",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUl9uZXdMekR3OFBmSXhVQzVpZzYxb2U4M0UxSUhTMDNDSVhBNFJVN0lQcVN2UW9oWnpOb0oyYjBxVnN5TFlIZGc4NjZOVEpWQWJ2dnhYNmZTU2U0YzNkNzRSOXc2dHI4Z2ZLQ1l4YWpnUURaczRwU2ZmSkt0V1hSZ0hNUFAzelBXUTgzOTZ1TQ?oc=5",
-        "published": "Fri, 30 Oct 2026 06:04:50 GMT"
+        "published": "Fri, 30 Oct 2026 06:56:19 GMT"
+      },
+      {
+        "title": "NVIDIA Vera Rubin NVL72: Oracle baut OCI-Supercluster auf Multi-Gigawatt-Skala aus - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc21HSFA2a3NsaTBKMzRIb3NyeFVydWx3MHB6ajhtVGN0Qm0yMmFQSGtGWjVSMG1nWUpOREdiLWZENDBjRDRQNVU3bHV4Unh2eWpQeWh1N09ESndaVVc5LV93VlhVNXp6QmtWTmpQd05GSXRUdThyYWxnSDduRjdGRktGMDlxY3Y2ZUk0V1dKU0hZNDZiR1J3dDU1SEJTTXFRWGRRRy0zQmpISmZt?oc=5",
+        "published": "Fri, 30 Oct 2026 02:41:08 GMT"
       },
       {
         "title": "Deutsche Bank AG: Buy für Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
@@ -336,19 +346,14 @@
         "published": "Thu, 29 Oct 2026 11:57:00 GMT"
       },
       {
-        "title": "NVIDIA Vera Rubin NVL72: Oracle baut OCI-Supercluster auf Multi-Gigawatt-Skala aus - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc21HSFA2a3NsaTBKMzRIb3NyeFVydWx3MHB6ajhtVGN0Qm0yMmFQSGtGWjVSMG1nWUpOREdiLWZENDBjRDRQNVU3bHV4Unh2eWpQeWh1N09ESndaVVc5LV93VlhVNXp6QmtWTmpQd05GSXRUdThyYWxnSDduRjdGRktGMDlxY3Y2ZUk0V1dKU0hZNDZiR1J3dDU1SEJTTXFRWGRRRy0zQmpISmZt?oc=5",
-        "published": "Fri, 30 Oct 2026 02:41:08 GMT"
-      },
-      {
         "title": "Ende des McRib: Fans des McDonald's-Burgers starten gleich mehrere Petitionen - Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXZ0VGtsTVlHOUEwOWlaenFoY2UzVl9hOUh1NVNVcF9PQUl2eG9LSWxsVEYtc2VXV2kwOWNoNUxKZjgzSlFReldYT0I3eHJ6UzFZaWwyOTQyRjBfVDVObUZzckV5S1k2b3VEdnpYYzByZTNXZm5RWEpfcWt1Qkd6Mm1FMVhkcFJLVTN4V3k0MEMtbnd5M0hKZm9jdFRURjg5SHk4OHprOUhSSEtJNVdua2otRDUtSmxSQnZqaVFDRTlHVUJSaFZDU1RIWFNZbGVvbjlhNDctRWZrcHFPeWhEUFJGX0dITi1abkhj?oc=5",
         "published": "Fri, 30 Oct 2026 05:15:59 GMT"
       },
       {
-        "title": "Tag der offenen Tür im neuen Mercedes-Verkaufs- und Servicestandort in Lienz - osttirol-heute.at",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUVudlhGdGVkcUtpZG11M0pxUEJmSWtyRVZfQ2NVZldjZ2JYVEN2R1IzeDF6RkktYmdZLURXUm1WdVlvYVNUQ1dYZ0tkYzFUQm5NSzNxMENOZ0ZOYzcwWEZLdGQ4ZnJaVnB1Tk9kSmZKamd4bmt6aEQ0UGl1QWtoVjJ5VzBIS29FelM0X1dMWk9FakQ5aF9ZYTN3?oc=5",
-        "published": "Thu, 29 Oct 2026 07:50:00 GMT"
+        "title": "Mercedes-Benz: Gewinnrückgang wegen China-Schwäche - trend.at",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMU8wS1JCUFptbHphYS1YZ2VjcDkyU3dlV1NRVlRtczQzdE1fcnp6Yk9RTV8yUWdSV01sdlhkaG1GZl9mdmN3ZzlqeUlYUG5ieVNPT3g5QkNFRHRoWXJBTEVHYVRMbi1YN055WGZDSFhrZGFXdFVNTkRodk1VRThsSkNsNW5TaVFCbGc?oc=5",
+        "published": "Wed, 28 Oct 2026 12:10:00 GMT"
       }
     ]
   }
