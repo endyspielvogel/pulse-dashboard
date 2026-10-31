@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T13:05:14.759282+00:00",
+  "fetched_at": "2026-10-31T15:50:18.403386+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -39,6 +39,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlVtcjhTVkdGUVRtNFZlb2NzbThTaV9RSWNEanBoNGxmc19iNnZ2NzBrLUt2NzlEYlFQVFNqZ0F1bFg4aTNzX1NGcE0yaTJiYkNfN2s0dDRfNkhqVnZJVi00ZkFVSGFhR2F3bHVNRVNaU3VmYWQ1ZjNoOTU0TXJGNkFmZDN0Z0d6bS05LWRqSkU2QXRNLWNrWGZmWWVJYXNZZ1JBRjBJd0NTNUNVS1dQM0F3cmg0QzNCTnBCaDJoRi1jUQ?oc=5",
       "published": "30.10.2026",
       "published_iso": "2026-10-30T12:38:03+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Power 100 2026: top five in food and drink",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN202VkVVdm9ZMnpYekdjZ3N4MG56Nl91Vi1hZmhmcGRCUk91Zmc1OTk2bnJobXdmaWFGR3BSdGd5Wlh4TWpMM3V5ZHF5bjBsQmhCODhrT0FBVzhfNjZMX2xDV0NmWEI5TnpuNDhEZHZJUkw0cmZ5ODBsV1hUSkxFNlZHNHhtZkMyaXEwTEs4c2x4SkxGdXJUZTJXRlBZY3RPcEhtejBpaFRHVG8?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T12:33:17+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR1M4eVNNclFSVWt1WFVRbDNxOEtON0RMczI2aFNKdlU0d1lNN2NDeFhwLUJ6am5BMGRKRVAzQXR6VVp1a0RVMjhzTDYzU3p1NHVUZTlUOVp2dDdwYmM3WnJTdGFVVTlyczRjY0VwRzRuZHVhRnlmeWRONjNreTFkeFFqWlY3Qkd2d0pPWjRWZWJjcVJucjVrNkNHX29Tai1sVGM0VVpqMVBRNUg0bklILW1fQy1mTmZ5ZEQ4WDl1Z1ZLWmJzYVFUajhENVVITmo4TE16LWQtUVJfM1Z3UnpjdTRQTGc?oc=5",
       "published": "29.10.2026",
       "published_iso": "2026-10-29T16:18:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Greater Anglia and C2C “Drop the robot” by Pablo London",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2M3bEdXaHZ4bDc5bm1qaWhHQzg0ZUllVFA0dDViUzJHS1lDZUsycEtweHJUZVpYZjdaSjRORDMwZ3h5Z01RSzYxeWZMckFMUndvdldjY1Z5YzZyck1VcS1xUU5FZWlBZkpoSnN6OGo3MndSTE1YU1dUSmFmT0dCNlNyX0plMmlLU2ZueU9zbVJhRHRnbVNLcGhjZFpFRXNKM1J2N3lfMVBfVHZjT1NRblFzM05RVUZWZ2kw?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T15:07:57+00:00",
       "description": "",
       "source": "Campaign UK"
     }
