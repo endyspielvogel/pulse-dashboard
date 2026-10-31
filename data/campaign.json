@@ -1,39 +1,7 @@
 {
-  "fetched_at": "2026-10-31T01:18:34.376756+00:00",
+  "fetched_at": "2026-10-31T03:58:34.198350+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
-    {
-      "title": "Agency drives off with BMW’s global social media account",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjYtSUllWHVYNkRJb0Raekh0QXlueUtReGpvX3hTdnRsWU45SjVURWVwc1NIZzAtX1Vlekt1X3A3ekRQeUh0R0NjZ2ZRVXVlTFFMZ2podlVoTXppWTRPa0tvSzRCLVJzSEl6SDJYNFJZRW16NlNpbnJCMUUwNDl1cTZNdjV3Q0tUdHZzN2V0ZlhQa1JoR3c2ZTRpZ3dYTWRiWXVpWGZNZENWT0E0Z1o4dkY0WXBRS2doWVVQcUdxcw?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T15:10:46+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Octopus legs it across Eastenders credits to promote BBC's Blue Planet III",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1JTUERDd0VKLVFDQ0NpdDZYbHVMUjNqQVFPSVJ5VzBKTVFySDRyRENHY3E0blA0eXJQdk9rMjJ5Yk1PUnRQVHJ0a0daUzJIeURyMVVGNGgwa1VmeXZfRG0yeVQtdzJkMF8xbmpkUExocnF1WXd2QWNLSUhWNkpVZkxXTWRWZjNXQm5TR2d4VTQySHVWV01GcEUyS3VCVk1pYnN2ajlNN0tGRDY4clF5bm0xQjdlZUZid3E4eEd4QnFFQ0czNUlGY3NHRUNKVl9KQzcxX3dtUQ?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T13:45:55+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Shreddies enlists TV duo Dick and Dom to launch new flavour",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVp1clpYNkJwX3Z0T3JVRHUwVS1oUHJLd0tvUUJBb3BuVTJZV3pUNU9BTG1fWmZjaDdqc0gtNFN1V2FwQTQySkxqR3QxQnFmMTFsLURjYXZFZXVNQ25jeGlVeHlIX0ZIbk56QXVBVWt3ZlhmeDF0cVhyRjl3OFlsVGZfTXR4LWROamNOak8za0hfeEdNbHlBS0p6OVJxVWxkQ1hUeGZFd19BSnJtN0JfdmdsLTU4N0dicnpINDRwejB6ZGM?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T12:47:04+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Glenfiddich and Aston Martin put full-size car in a bottle",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlVtcjhTVkdGUVRtNFZlb2NzbThTaV9RSWNEanBoNGxmc19iNnZ2NzBrLUt2NzlEYlFQVFNqZ0F1bFg4aTNzX1NGcE0yaTJiYkNfN2s0dDRfNkhqVnZJVi00ZkFVSGFhR2F3bHVNRVNaU3VmYWQ1ZjNoOTU0TXJGNkFmZDN0Z0d6bS05LWRqSkU2QXRNLWNrWGZmWWVJYXNZZ1JBRjBJd0NTNUNVS1dQM0F3cmg0QzNCTnBCaDJoRi1jUQ?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T12:38:03+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
     {
       "title": "What are adland's worst pitching horror stories?",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2RQeWpyNmJERjIwNF95d0F5Smhob0pUbFZ2UFpXVm8waFZnVjUtZHlUMGpQYmRCMlFQV192bjd4SGRzeHRNM3B1eHU1VEdFMDhta3dzN0dIZlVVLWRGMGNCSEpCUGphNm9pSUpmNWZHNXpmSW90WDhjeUh0M0xES0wzZnBsU3gtZVpkS0poa2xFei0za2RtNTZTakRKX0thYUpaMDcxSXlhQzJpd2tMWWtxRQ?oc=5",
@@ -51,14 +19,6 @@
       "source": "Campaign UK"
     },
     {
-      "title": "The key charts behind WPP’s Q3 2026 results",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHlmOVptUkZoalZ5ZXMxWUJ5R21ZTW8tTUxod3ZqdzQzTXJaNHoxUVRaOFJYM1ZYSGVHSmp0bkI5cF9LMlZ2NEtiVXFkSHBWSnlUVHhhbmU1c1F0dURsaU1Qc3hucVoyXzFHMk9JSFpfclA5aF8tWTQxWTNZUnhGcmxMQXppN1RzWU11LWJnX1VpaGpkUWI3YWV1eVpJbEwzLXY1TWR4S1lXWVE1Y1E?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T11:15:24+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Cindy Rose criticises 'pitch-less CEO handshake' deals",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkx1U0Y0MVpjd1V4cmtUeWpKYm5lVU44cUpyTXdneU12ZDA2NjJUV3V1d0ltSjZVODA4OEVKN1ZXN3JBZ1pnZVA2ZnVZYnF6Q3EwRlB6T3VtQWdJMWk5VF8xbVAweEhYVEo2LVRyVC1nS2k3c081b3FsNU9nR3diNEhjYnhKY245Q1JLbGhuODFlbEZTTHhMYkpqZGxwVk5yT0JLVS1HQUtGY0Q5Ni16NzFVWUp6VWxyY1E?oc=5",
       "published": "29.10.2026",
@@ -67,34 +27,74 @@
       "source": "Campaign UK"
     },
     {
-      "title": "'AI might be improving targeting but creative must keep up': reaction to AA/Warc report",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR1M4eVNNclFSVWt1WFVRbDNxOEtON0RMczI2aFNKdlU0d1lNN2NDeFhwLUJ6am5BMGRKRVAzQXR6VVp1a0RVMjhzTDYzU3p1NHVUZTlUOVp2dDdwYmM3WnJTdGFVVTlyczRjY0VwRzRuZHVhRnlmeWRONjNreTFkeFFqWlY3Qkd2d0pPWjRWZWJjcVJucjVrNkNHX29Tai1sVGM0VVpqMVBRNUg0bklILW1fQy1mTmZ5ZEQ4WDl1Z1ZLWmJzYVFUajhENVVITmo4TE16LWQtUVJfM1Z3UnpjdTRQTGc?oc=5",
+      "title": "Dept hires Carren O’Keefe as UK creative lead",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHMwWW9ndmZCSU9oSDVrNEt5QW9fd21zcWpnajA2Q0J2elpXSF9xUlh5X1Z4ZlRtTWNVSGFQUHJLZGRRM2lDMHFUdWRFck43aUU1ei1kUWFnQUZKUEZQdEtuYl9rV29vSGhsWjdwb3Y0N3g3MmZLQXBKV3pab3BOZk9RSnZDY3Rvd1NLc0ZFRmY0S1M1S2g2Q1E5OXQ0eDhTMUZwYVRFLWNSV3hXOEZfLQ?oc=5",
       "published": "29.10.2026",
-      "published_iso": "2026-10-29T16:18:49+00:00",
+      "published_iso": "2026-10-29T10:49:44+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Pitch Update: Lidl, Cushelle, Coca-Cola, Virgin Atlantic, Tour de France, TfL, B&Q, Williams F1 and more",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWS1hOVY3ZndndkJtN2lhNkVMSWx2WFdnUTJJVjY5YXJBYnhyWjEyVXdZTmU1dlpNaWEzX2laVzNRNGI4XzBDeUViTzRraEYwOEpoLTM2RXYzcWlQbmpkNmJVc3dVOWFJN3hPQmpWRDlocVZ3ZHVlSVk1OEtwal8xM09wTEVwdjF3Tkh3eTM5VFJYQU9DSzJKRW93OWpueTBNMTZhS3hLTU8zUHpEQ2JhSjdqWFFUZ253aGF5Uk1ZX0RrWm9WMFRHRE1JRjJ2VXVjRkdPcC11ZW1TNm5sdDhIQzZLd3VKbzdxZ00zYnVoYWxuWlho?oc=5",
+      "title": "The Creative Score Global: the top award-winning work worldwide",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTFOWGNaRXI4VTJHWW5ISUZfVmJwUHJqaEVmazd4bFhwSGotR3JvZlVvY1dqMk1kSmMwZHZpZmwtc1Fzcld5bkdSR18yTXh1NFR0eGVWTkswLW1CMGJBSHkxRUt1UVBtU3FRVm9kWWdpOWNyVXR6RWRvd2tIb1kwTUVZVHZiVS02VE1PRVBwM3ZiYXM0V2VYOUpKV1BLNzJOay14MmJMdzRUUHZybC00RWUwTmNGWlhwQ3dxQS1JV2F2MnVxTlJN?oc=5",
       "published": "29.10.2026",
-      "published_iso": "2026-10-29T15:50:17+00:00",
+      "published_iso": "2026-10-29T09:43:37+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Columbia Sportswear “Don’t panic room” by Adam & Eve\\TBWA",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDJ0NW0tMnJEWUdxUmpKTVJzZU1IaFdyYnlXNUlaRXhXVkM0LWl3RjFCZGprVkk0MVBaYmJVSW92OTdSamR3WUdUQ0NUb09lNGZfWUJnNnFSSkpmYlZVS0EyWlJnVDR5M0V0ZkpRRVg1dHBNR09MYUotc2dCZnAtbFg4Q2VJNWhzbkxEclVUWVBfMG9yZEFiWUNzbjZXUHFscjNwWUs0bmZZMC1lVFNRVnRvQnZHa0VzNV9F?oc=5",
+      "title": "WPP Media returns to growth in Q3 as holdco records 2.1% revenue drop",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWG41aFJab2h0R0xsNEZVdW5odUt3TEdBR1dzaXVnQXdxTFRhTHVQd3ktOThTWHhCR3ZrNUNJRVNOWUd2MHRCUC1KdlNMVEVEbDZhSy0zbnJOY2JuR0lhS3lBT3NWVHd3R3YtRmNXWTA2NWdaU1Zqdmcycjk3WWtodEd3UHUtMXFicmVyWFBDREl3T2V5MlRVVGNQdHJzNThUdTQyWHVKRzF6WDlDT2poMnlpZTA3dmVXa0NMVWRMSFpRVVVRa0xsNVpFMjVWS3c?oc=5",
       "published": "29.10.2026",
-      "published_iso": "2026-10-29T15:06:22+00:00",
+      "published_iso": "2026-10-29T09:02:59+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "The Creative Score Global: Top 20 campaigns",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTB1Zjl0LXdEd19wUlZqQ0E2eXZjNzdIR0htdV80TEtxYTIzT1BUbmlpVXZVNkxDbzFTS1lDSzJSOXlXaFlxMUxUM25QSUJwU016a1NKSGNlcDNsUnBIS2lRNmg1ZHZuTzN0UVJiNnBzS0MxTlV1SW84eFVlX0xNdFpib3RpdGFpTGdScWk5Wk91ZEtjR2RhSzMwRnB6TGh6NFF2YmNIOTA2WVB2?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T14:50:13+00:00",
+      "title": "The Christmas attention battle: how can brands actually cut through?",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWsxN3J4a2twT3h5c3ZpZUY2blYxZVNRZDlvZWh1VUUycnNHSnVBeVhoN2sxRnN5QW05cGJuUm9jR01wdXZ4SEdKWTRnRHlHMmVRajdtSzlOSk85cWk5T0xoN2ZZeXVlWDdtMGY4Wk5NcWFXSFRBRXJFZmVNVVdSZmxFSlVld0duMnp2UE5WczAweWlOb0RFX2hqeE8xbW9wbDZWOXhZVjd2akRnbDZPa05RRVFLQm1mbTFuVWVOamVBSGNSSkI5NkVxeVk?oc=5",
+      "published": "28.10.2026",
+      "published_iso": "2026-10-28T11:37:35+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Richard Brim",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMnE1dVJKODEwYW1CUHRhcDVGTm1lSE5BaWxsX0tYSmpiakdkTTlIaGlkYVVGV3VkOTV0b1BMMDU2TUlwbmViR3lFS2FXbEZDanRKODhtLVZfZ1hIZmRn?oc=5",
+      "published": "28.10.2026",
+      "published_iso": "2026-10-28T08:59:07+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Sixteen campaigns that made the Mother-Ikea partnership",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFB2bmJUTzMyX1NBZHh0MlR5SDBsWlNDd2lSMktfQjRNV0RsV2w1QTJxbWlEanJfUzAzTEp1SlNOakFUTDRUT3BRRGlCRHVVb3hWMzVIM0tDS29TdkViWE9lOXowZU1BQVh2bmdXN3JhLWpSQm5BVURFN2QzUUxFTjU0TWZ0bW4tZFlPbUFsS2otdFV6UUZjanNHdE1kdUF6WlZDa3gyTDk3SWoyWHdkU2MxX3dkRjFfVHlxaVl3?oc=5",
+      "published": "27.10.2026",
+      "published_iso": "2026-10-27T11:42:27+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "McDonald's walks away from 32-year Fifa World Cup sponsorship",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWRHWElqVm0za09QQll0NV9vTnNWdkVYZGpMLXJiQWpxSTlYSHFldVRGLVE3ZEE5Uk9YLTc4S3ZOdlpNY1VKaElLdEo5aVdndDZfTDNoUzBZOVhibV9TanNjUUYyRFZrWmt1LUVRM05PbWtyejRkMHB3aTlVTUp1ZHFPcFhKQnZuUUQzdmVfengzZTJkdWN6TkdjLUhha2Z4ektqRzhUU00wWUVwaEd1a2NEaVVtTmlrOVJvYXFRQnNPWVhHRGc?oc=5",
+      "published": "26.10.2026",
+      "published_iso": "2026-10-26T14:35:12+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "New Commercial Arts wins Barbican creative brief",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDdPRFFfNi1PWkU3cjVMQW1KcHdoNzM1ZmdoSGlVSkxRU2Jyc3huWWI2TW11c0R2UTJyNDl5SXkxQndJeWJ0NEhsV21nLXh0Z3pnU0NTcTM1aW9Ta1VodjZfX2hTYlNoeHZTVEctTENBV0F5VlRaY3QxVFRYcGJadFRsb05Pck1fSjVFaXNkSWloQ0ZHNVNrdXRJWTlhX3NVLURXcm9EbjQxcFlTTVBJZG1jc3M?oc=5",
+      "published": "26.10.2026",
+      "published_iso": "2026-10-26T11:24:56+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "See all this week’s Ads of the Day",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzljLVQ4MEJXYXZJY0R2ZHRiYmZCdnZqWVU5RWhSbkZJcjZFaUlSLTRLbHZDY3FhaElnY3p2QjNha082Yl9lYVpGLWFKQU5zRXRTZ1BLTk5uNENXeWJMQzN5dldJd0hGUW1TbmNCUHF4czctX0ZnejhmZDAyS0Vobmh5SUhEYmloMlI5OGdobWtHZ1puYnU5UG11V29RS1UzSEE?oc=5",
+      "published": "23.10.2026",
+      "published_iso": "2026-10-23T12:08:51+00:00",
       "description": "",
       "source": "Campaign UK"
     }
