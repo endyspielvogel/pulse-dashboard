@@ -1,7 +1,39 @@
 {
-  "fetched_at": "2026-10-31T17:28:21.917092+00:00",
+  "fetched_at": "2026-10-31T17:58:55.775541+00:00",
   "countries": {
     "AT": [
+      {
+        "title": "pyrotechnik",
+        "volume": "100+"
+      },
+      {
+        "title": "lask – wsg tirol",
+        "volume": "1000+"
+      },
+      {
+        "title": "fc bayern",
+        "volume": "200+"
+      },
+      {
+        "title": "aschau am ottersbach",
+        "volume": "200+"
+      },
+      {
+        "title": "formel 1 qualifying heute",
+        "volume": "100+"
+      },
+      {
+        "title": "tottenham – crystal palace",
+        "volume": "200+"
+      },
+      {
+        "title": "heidi klum halloween 2026",
+        "volume": "200+"
+      },
+      {
+        "title": "victoria von schweden",
+        "volume": "100+"
+      },
       {
         "title": "schneefallgrenze",
         "volume": "500+"
@@ -9,80 +41,48 @@
       {
         "title": "erling haaland",
         "volume": "200+"
-      },
-      {
-        "title": "stromschlag lufthansa",
-        "volume": "100+"
-      },
-      {
-        "title": "fußball",
-        "volume": "1000+"
-      },
-      {
-        "title": "vorfall",
-        "volume": "5000+"
-      },
-      {
-        "title": "slalom",
-        "volume": "200+"
-      },
-      {
-        "title": "gen z regelt",
-        "volume": "100+"
-      },
-      {
-        "title": "bayern – dortmund",
-        "volume": "2000+"
-      },
-      {
-        "title": "udinese – roma",
-        "volume": "200+"
-      },
-      {
-        "title": "esteban ocon",
-        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "lightning vs predators",
-        "volume": "500+"
-      },
-      {
-        "title": "zendaya",
-        "volume": "1000+"
-      },
-      {
-        "title": "coastal carolina vs georgia state",
-        "volume": "500+"
-      },
-      {
-        "title": "ashley hinson",
-        "volume": "500+"
-      },
-      {
-        "title": "oilers vs islanders",
-        "volume": "200+"
-      },
-      {
-        "title": "man city vs brighton & hove albion f.c. standings",
-        "volume": "20000+"
-      },
-      {
-        "title": "kansas state vs colorado",
+        "title": "bayern munich",
         "volume": "5000+"
       },
       {
-        "title": "iran",
-        "volume": "2000+"
+        "title": "nbc news",
+        "volume": "1000+"
       },
       {
-        "title": "michael landon",
+        "title": "eva longoria",
+        "volume": "500+"
+      },
+      {
+        "title": "montréal vs new york city",
+        "volume": "500+"
+      },
+      {
+        "title": "murray state vs illinois st",
+        "volume": "1000+"
+      },
+      {
+        "title": "rangers vs aberdeen",
         "volume": "200+"
       },
       {
-        "title": "alex de minaur",
-        "volume": "200+"
+        "title": "philadelphia vs cincinnati",
+        "volume": "1000+"
+      },
+      {
+        "title": "d.c. united vs columbus",
+        "volume": "1000+"
+      },
+      {
+        "title": "jobe bellingham",
+        "volume": "1000+"
+      },
+      {
+        "title": "nw state vs uiw",
+        "volume": "500+"
       }
     ]
   }
