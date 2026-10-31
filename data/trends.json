@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T23:46:27.721151+00:00",
+  "fetched_at": "2026-10-31T00:30:57.834213+00:00",
   "countries": {
     "AT": [
       {
@@ -23,10 +23,6 @@
         "volume": "1000+"
       },
       {
-        "title": "de minaur",
-        "volume": "200+"
-      },
-      {
         "title": "cyberangriff",
         "volume": "200+"
       },
@@ -41,48 +37,52 @@
       {
         "title": "christa pike",
         "volume": "200+"
+      },
+      {
+        "title": "berrettini",
+        "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "blake griffin",
-        "volume": "500+"
-      },
-      {
-        "title": "what is the nba cup",
-        "volume": "500+"
-      },
-      {
-        "title": "steve nash",
-        "volume": "500+"
-      },
-      {
-        "title": "jordon hudson",
-        "volume": "2000+"
-      },
-      {
-        "title": "pike",
+        "title": "san luis - atlas",
         "volume": "1000+"
       },
       {
-        "title": "daron payne",
+        "title": "bill murray",
         "volume": "200+"
       },
       {
-        "title": "colin farrell",
+        "title": "is elizabeth holmes still in jail",
+        "volume": "200+"
+      },
+      {
+        "title": "prime",
+        "volume": "1000+"
+      },
+      {
+        "title": "who is elizabeth holmes",
         "volume": "500+"
       },
       {
-        "title": "wreck it ralph",
+        "title": "vincent price",
+        "volume": "1000+"
+      },
+      {
+        "title": "universe",
+        "volume": "500+"
+      },
+      {
+        "title": "good morning america",
         "volume": "200+"
       },
       {
-        "title": "pacers vs heat",
-        "volume": "5000+"
+        "title": "ryan seacrest",
+        "volume": "1000+"
       },
       {
-        "title": "heidi klum",
-        "volume": "1000+"
+        "title": "get out",
+        "volume": "500+"
       }
     ]
   }
