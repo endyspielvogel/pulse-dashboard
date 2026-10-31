@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T09:54:08.347375+00:00",
+  "fetched_at": "2026-10-31T13:05:14.759282+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -7,6 +7,38 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFBncjhHSXhZWWpfbDBuVFBVb3h4YUJLTnhQQlJxem5jM3Z3M21CbmdtSUdyZ0dPVS1zMUZIZHZCZ2xtaUpNeWExaFdYZndjeXcya0otUmFGZXM3RzIzRTJyT2dacmJYRUktSUJ4dkgydDg2NV9pN2JCT0VXOXVZQlJ2Sld4STY5LW9LT1hnRjk0M2J2WHhMQzgtQXBCaXp1LXAwMk9TRV9RQlhod2wtTjZ2a0ZQS1pIQjR2c09acU1aVFFiQ2ZuM2JFUDBHQ3RaLVBCNHJ3?oc=5",
       "published": "30.10.2026",
       "published_iso": "2026-10-30T17:16:49+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Agency drives off with BMW’s global social media account",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjYtSUllWHVYNkRJb0Raekh0QXlueUtReGpvX3hTdnRsWU45SjVURWVwc1NIZzAtX1Vlekt1X3A3ekRQeUh0R0NjZ2ZRVXVlTFFMZ2podlVoTXppWTRPa0tvSzRCLVJzSEl6SDJYNFJZRW16NlNpbnJCMUUwNDl1cTZNdjV3Q0tUdHZzN2V0ZlhQa1JoR3c2ZTRpZ3dYTWRiWXVpWGZNZENWT0E0Z1o4dkY0WXBRS2doWVVQcUdxcw?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T15:10:46+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Octopus legs it across Eastenders credits to promote BBC's Blue Planet III",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1JTUERDd0VKLVFDQ0NpdDZYbHVMUjNqQVFPSVJ5VzBKTVFySDRyRENHY3E0blA0eXJQdk9rMjJ5Yk1PUnRQVHJ0a0daUzJIeURyMVVGNGgwa1VmeXZfRG0yeVQtdzJkMF8xbmpkUExocnF1WXd2QWNLSUhWNkpVZkxXTWRWZjNXQm5TR2d4VTQySHVWV01GcEUyS3VCVk1pYnN2ajlNN0tGRDY4clF5bm0xQjdlZUZid3E4eEd4QnFFQ0czNUlGY3NHRUNKVl9KQzcxX3dtUQ?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T13:45:55+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Shreddies enlists TV duo Dick and Dom to launch new flavour",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVp1clpYNkJwX3Z0T3JVRHUwVS1oUHJLd0tvUUJBb3BuVTJZV3pUNU9BTG1fWmZjaDdqc0gtNFN1V2FwQTQySkxqR3QxQnFmMTFsLURjYXZFZXVNQ25jeGlVeHlIX0ZIbk56QXVBVWt3ZlhmeDF0cVhyRjl3OFlsVGZfTXR4LWROamNOak8za0hfeEdNbHlBS0p6OVJxVWxkQ1hUeGZFd19BSnJtN0JfdmdsLTU4N0dicnpINDRwejB6ZGM?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T12:47:04+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Glenfiddich and Aston Martin put full-size car in a bottle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlVtcjhTVkdGUVRtNFZlb2NzbThTaV9RSWNEanBoNGxmc19iNnZ2NzBrLUt2NzlEYlFQVFNqZ0F1bFg4aTNzX1NGcE0yaTJiYkNfN2s0dDRfNkhqVnZJVi00ZkFVSGFhR2F3bHVNRVNaU3VmYWQ1ZjNoOTU0TXJGNkFmZDN0Z0d6bS05LWRqSkU2QXRNLWNrWGZmWWVJYXNZZ1JBRjBJd0NTNUNVS1dQM0F3cmg0QzNCTnBCaDJoRi1jUQ?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T12:38:03+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -59,42 +91,10 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Lego marks musical launch with immersive café pop-up",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0xKSGdLdkhTY2FYS2NqcmZ3aUVaV1FQSXBfeGZpM3AxVmE1SzR1NkJReFNxdjNUWnhEUmVKN2lTUl9DTkE3My15U2RZMVh3VWJaclUwX0RKTENKVE4tVlpaT2NsZVA0MktXNjZPV0Q1dnFNUFdfbDBIN0g4emZSbUJhb0hLcGpyQUx0NUlORUp5NkZUbWFVOUNCUGdubm5kYlE0Zk9YUnJwWWx3UGRXLXFMbUE3WnRCVHc?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T16:05:28+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Greater Anglia and C2C “Drop the robot” by Pablo London",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2M3bEdXaHZ4bDc5bm1qaWhHQzg0ZUllVFA0dDViUzJHS1lDZUsycEtweHJUZVpYZjdaSjRORDMwZ3h5Z01RSzYxeWZMckFMUndvdldjY1Z5YzZyck1VcS1xUU5FZWlBZkpoSnN6OGo3MndSTE1YU1dUSmFmT0dCNlNyX0plMmlLU2ZueU9zbVJhRHRnbVNLcGhjZFpFRXNKM1J2N3lfMVBfVHZjT1NRblFzM05RVUZWZ2kw?oc=5",
       "published": "29.10.2026",
       "published_iso": "2026-10-29T15:07:57+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Columbia Sportswear “Don’t panic room” by Adam & Eve\\TBWA",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDJ0NW0tMnJEWUdxUmpKTVJzZU1IaFdyYnlXNUlaRXhXVkM0LWl3RjFCZGprVkk0MVBaYmJVSW92OTdSamR3WUdUQ0NUb09lNGZfWUJnNnFSSkpmYlZVS0EyWlJnVDR5M0V0ZkpRRVg1dHBNR09MYUotc2dCZnAtbFg4Q2VJNWhzbkxEclVUWVBfMG9yZEFiWUNzbjZXUHFscjNwWUs0bmZZMC1lVFNRVnRvQnZHa0VzNV9F?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T15:06:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Dept hires Carren O’Keefe as UK creative lead",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHMwWW9ndmZCSU9oSDVrNEt5QW9fd21zcWpnajA2Q0J2elpXSF9xUlh5X1Z4ZlRtTWNVSGFQUHJLZGRRM2lDMHFUdWRFck43aUU1ei1kUWFnQUZKUEZQdEtuYl9rV29vSGhsWjdwb3Y0N3g3MmZLQXBKV3pab3BOZk9RSnZDY3Rvd1NLc0ZFRmY0S1M1S2g2Q1E5OXQ0eDhTMUZwYVRFLWNSV3hXOEZfLQ?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T10:49:44+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Prada \"Drawing Prada: animated by hand\" (in-house)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0R0azU5S3pZSEpZY091akEzRGpsM2pqTjlvazIwNGJzVkdsYjRSbUxsRjFwdjNCRV9mQzdqNnIxSk9mdnZ4NHZrbkVNb0I0dG5USkEzbmkyYXhBXy1WVkk5d3VjcDE1S2t6NTlkd1pXcnRSXzlRSktpRWZsclVKa0tSQkVjb3BvM1hsRDJadHBGS1Q3REhNczlRS0hZaUhnS3ZIMVBfMzNUWGhYYzJLUQ?oc=5",
-      "published": "29.10.2026",
-      "published_iso": "2026-10-29T10:08:50+00:00",
       "description": "",
       "source": "Campaign UK"
     }
