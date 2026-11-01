@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T21:37:33.231057+00:00",
+  "fetched_at": "2026-11-01T22:32:50.656754+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -141,6 +141,11 @@
     ],
     "Nvidia": [
       {
+        "title": "Die irre Geschichte des Chipherstellers Nvidia - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVQ4ZHlCMTJMMXFYaEs5ZEVsYXdOVGZJLWNETUltM0E5dHBfbTUtZ1BaOGpWVHZwUlpuYVlIZmlnT0VxdWNZMVNrT2Z6SWNUcVFQYmlDQXRUNGdBRUpLd0ttU04wd0tyVnc3dXFYejRuT3NwVldPa1NWcDFHUXhha19lNWZ4TnFiaDBRR2hjRlZTYmtQam1nVA?oc=5",
+        "published": "Sun, 01 Nov 2026 16:30:00 GMT"
+      },
+      {
         "title": "Nvidia vor Q3-Zahlen: 279-Milliarden-Dollar-Wende stellt das Fabless-Modell grundlegend infrage - Ariva",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWtyZFN3Yk9zZ09aWXZ1LUp0aEduWm5uMDR2WVVKZUF2YmYtUXUxZzFLYVFtZ0UycmxnSFpnNjNucmFxN0g2RF9VRVV3aHFVMVMzZWJkdHZHaVN6em44YTFBdzh4M1YxU0lJUHYzSVBnXzliTS05YXFPNEJHZlRyQnFhQ19xVFZsZEswWFBZSENhZGVBQjI1MGhR?oc=5",
         "published": "Sun, 01 Nov 2026 11:40:43 GMT"
@@ -156,6 +161,11 @@
         "published": "Sun, 01 Nov 2026 10:30:00 GMT"
       },
       {
+        "title": "RTX 4070 Ti Super: Nvidia Preset C bringt 6,1 Prozent mehr Bildrate - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDhIVDJ2X09RUm9UYnJNaXgzaWpYckRCZWFZZzdhYjNodERTQTBLSUhEM1hIX0F6UVVYWTljWDBPUGFSYXZic0RlNS1DMGs4a1BaSVo1TDBmWUhIVTQtVGxwdExjR1ducTFPcnhJRExGYzhVVTRBaDVvN0FZa2N4dTFkWk5hTDByeXV1Yl84WnlEcHRaZmVr?oc=5",
+        "published": "Sun, 01 Nov 2026 22:13:04 GMT"
+      },
+      {
         "title": "Nvidia Aktie: Der Tech-Ausverkauf erwischt sie mit - Finanztrends",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURnMUlCZDhval9YQlc1eXFnNl9aR3hWYmE1bGxuU2R5OGk2aklmNVllZDd0WjNEOWlqUHY4dGJEa08zemI4Q2dRMWZJZXBKbW01eUJOcE9nVlRnSWZueVpUSkstcXhPajBiWFhsdU1MVlhmTXEtVXpfR2UwRm1Bd3o0YnBkdw?oc=5",
         "published": "Sun, 01 Nov 2026 13:24:08 GMT"
@@ -169,16 +179,6 @@
         "title": "Nach RTX 5090: Nvidia streicht auch die RTX 5080 aus seinem US-Store - WinFuture",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zTER2dTRmam9DN2hMbkxoM0YxUnBrYkl5YlQxZjBkSjBINEJNdXpKLWtGcmpNdERuSURNWGl6bmYzbGVXX2tGeVFCSFZMUQ?oc=5",
         "published": "Sun, 01 Nov 2026 15:50:00 GMT"
-      },
-      {
-        "title": "NVIDIA AKTIE Analysen | Trading-Empfehlungen | 918422 - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iUnRCLVQyQ3owWHZPQV8xeGRKTFhDT3hfa3J2UXhXcVNraHBVN0J0Z19SYVA4VXYyQVJXMFpRZHJwSjBNbDNFekwteGU1d2dyR095bXg4QTFrZkc5M3c?oc=5",
-        "published": "Fri, 30 Oct 2026 20:56:13 GMT"
-      },
-      {
-        "title": "NVIDIA rutscht im Monatsvergleich – Einstieg prüfen? - Wallstreet Online",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5wS3FMUUM4RGNrUHZ6UFZFNUV5b01PVm91SFNEbHlzWmUzZjItMVNjQjVsUUxsV2NxYWRCNVU0WkllUlViUmlGT29yb3pjWldHUl9oamFJdGlZaHZpMWdqRVBZSWZ0OW5VN3hfa3FKQkc4OEZTWDh1dzBUQVNRREJCMnZ6QmFqbm9ZcGV5eFNzT0VGMlFGLTFGTTNqZGVZMkUwYkxPWThLMks0cGRDSw?oc=5",
-        "published": "Sun, 01 Nov 2026 16:03:00 GMT"
       }
     ]
   },
@@ -195,11 +195,6 @@
         "published": "Sun, 01 Nov 2026 12:49:00 GMT"
       },
       {
-        "title": "Zwischenwahlen und KI-Investitionen: Warum Tech-Werte wanken - NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3ZFX1VaYUoxQ3hWN1ZDN3hLQW5ieEQ3V19qMmlVVzVKQnZiaURsUlJmWDAwZ09SSkMzZmQ2d2FIbUhPc0VqLVhQR0hIcVR3a0FZSFRUQ3BFYVBOemI2V1dZLWM2M2w3UTF2S201TEVwcHdGTFljTlE0Tml3aFN3Um5jU3U3bE1JcExiLXU3ZXBMMktXSXFoWUh4LUpwcWxqUU1ETG4xM0VjREdnWVFSMVdmLWRxWkNWeTNkdE9MTU1LaDZ6dE42N0JqUkIwa1NaenZFVFRB?oc=5",
-        "published": "Sun, 01 Nov 2026 04:30:00 GMT"
-      },
-      {
         "title": "Börse: Grosskapitalisierte gesucht – SMI-Höchst - Schaffhausen24",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZRNGJlN0tMdnFkT0ZqeU9pSGo3VnRsLUdoQUl4Qm9nMVA2VDRLTGRaZWlEaGExYzY3Q2d4MkFtQ3lwVGVobzlPWkJydzF2QTJpMnZhU0JqTmY1UExJSFBKR3NYSWNnSXBWX1JLbV8yczdOZ24zZUgzd0I1YVVEV1B1VjdVWW1VdldnOWJ0QzktQQ?oc=5",
         "published": "Sun, 01 Nov 2026 08:12:43 GMT"
@@ -208,6 +203,11 @@
         "title": "Anthropic-Börsengang: Frühen Investoren winken Rekordgewinne - Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJlY3Axd2Y0Nk00U2hKa0xHOU16dnlmOU14dWpIcEpjbjB1N3FBVDRNQlNqdnY5REtSNHdvcHhhSUxYQW9yRl9lbnNWLXd3dVhxREtZb2lZaTBnaDdLMUJJYjZnUFI1dmIyZ001U1hlNVliN3NUNjJPQ1dmSi1vNmFWb3YycWtNMTd2cTM2Zmt6NVRMMVdLZ1lVMGNtZ1lrQkRRSTFxMA?oc=5",
         "published": "Sun, 01 Nov 2026 12:04:29 GMT"
+      },
+      {
+        "title": "Zwischenwahlen und KI-Investitionen: Warum Tech-Werte wanken - NZZ",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3ZFX1VaYUoxQ3hWN1ZDN3hLQW5ieEQ3V19qMmlVVzVKQnZiaURsUlJmWDAwZ09SSkMzZmQ2d2FIbUhPc0VqLVhQR0hIcVR3a0FZSFRUQ3BFYVBOemI2V1dZLWM2M2w3UTF2S201TEVwcHdGTFljTlE0Tml3aFN3Um5jU3U3bE1JcExiLXU3ZXBMMktXSXFoWUh4LUpwcWxqUU1ETG4xM0VjREdnWVFSMVdmLWRxWkNWeTNkdE9MTU1LaDZ6dE42N0JqUkIwa1NaenZFVFRB?oc=5",
+        "published": "Sun, 01 Nov 2026 04:30:00 GMT"
       },
       {
         "title": "Warum Firmen immer später an die Börse gehen + Gesundheitswesen: KI durchbricht die Bunker-Mentalität + Die Universalbank von heute heißt Kapitalmarkt - Table.Briefings",
@@ -249,14 +249,9 @@
         "published": "Sun, 01 Nov 2026 16:55:00 GMT"
       },
       {
-        "title": "Nokia: Tech-Ausverkauf drückt Aktie um 5 Prozent - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0xEUW1WZkc0cHByYmJqZjl6NXdiSEdjLUFQY3FjRlRLdVVZRFZJcm83TEh6b254YmoxbWZTWDVPdGdEMEZPMWIyeXh1VnRzbG1kNVBVejU3b18xTWRlTXRlY3NRLTBndUpNR2ZmT2VwZFZSRFZ0MkpVUVdqUUFzbUVEUUMwcGFzYjZJb3JmWWgwUVhDOF95dUZLNll6RnBROXc?oc=5",
-        "published": "Sun, 01 Nov 2026 20:20:06 GMT"
-      },
-      {
-        "title": "Irland baut seine Rolle bei der europäischen KI-Innovation aus - The Portugal News",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXV5d1dqYXNYZDBYaXBOcXl4djZCNWs5RDRUemZheDlVSjFYSHlLZVo0LU53bEpVblgtSVZzUmZVb01HbzRheGxwdW1jMXR0LUktc0dmaGkxWnh3QlkzNnh6RFVhd1M5alAtSzhBNElvZ09kLWNDUzI2S0lxSjR6YWg0ejJvbXJkd0pmLWo5d25YaXRzQ25zdldFQWZpczlocktUZUoxcDFJR0xyd3NSWWtIU0pZQkNWSG1fd2NiTE42VlBReGRz?oc=5",
-        "published": "Sun, 01 Nov 2026 16:09:43 GMT"
+        "title": "KI-Technologie revolutioniert die Recherche in historischen Archiven - The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEJfRUJnNFZKZjlRWGl2NzI2MGhibGg0aG5aalBGbWxMeUNKc0JJWGEzRkxNTTg0WDlIRG11MVp3TlNlaHpXc3IyemZmaHFDLW1tM21SUDAtMFNpVlFJSkxnYTZxQ2MzLVZfOTRKNURjVzVNNUJ0eUpiNDJGQzBRbk1hXzJkQTROa2dDdVVabUxuMTNPSVdjVzVtSlhRWGV4SzB3ZzlobFF4enRxY0llY0dWLVYwTnpoMEg2ZEpVTVpDdEkySDNEcQ?oc=5",
+        "published": "Sun, 01 Nov 2026 13:02:40 GMT"
       },
       {
         "title": "Santander beziffert KI-Ertrag: 194 Millionen Euro in neun Monaten - BornCity",
@@ -272,9 +267,19 @@
         "title": "KI-Investoren sichern sich gegen einen möglichen Abschwung des Technologie-Marktes ab - aktien.news",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZqVW1hMXZYWXZaQ1FTckEyM3lOZmxpd2Z5b2w2YXdZS1ZPSHdMdTh5eFVudWhQbFpfeU5fVVVxNUFJLWFMR1JveGRsNUs3dktmQnZlVlNWWjZ0SjFub3ROTHZLRkU0ejNFeDA5Nlg0bG9Gd1lBZ09VeFlnUF91ZFBDQzdfcmQ2UzBlbG11SjhlSjlPMnFVU25hV19HSWRTa0VhcXEtRHctMHRtZ2c?oc=5",
         "published": "Sun, 01 Nov 2026 07:40:35 GMT"
+      },
+      {
+        "title": "Smart Farming bringt Ackerbau voran - Der Schweizer Bauer",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUk5oZlBTNVVjM0R1bmppakVWRW5iT0FyRGstV283UGNZWkhPM1ZvUDZxQUxJWFd2ZVN6MkdBSV8zamczSTB5VDNQQXo4cmlZaDFJbGVVelB2eWZUZWFiTlphUUNJd01DeTVnYXFQdUo1MGRnX1pya2I1anlrUWZzRW5tdWpWRFdvVGItWnhtc2dOWEc0MDJJ?oc=5",
+        "published": "Sun, 01 Nov 2026 20:34:19 GMT"
       }
     ],
     "Meine Aktien": [
+      {
+        "title": "Die irre Geschichte des Chipherstellers Nvidia - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVQ4ZHlCMTJMMXFYaEs5ZEVsYXdOVGZJLWNETUltM0E5dHBfbTUtZ1BaOGpWVHZwUlpuYVlIZmlnT0VxdWNZMVNrT2Z6SWNUcVFQYmlDQXRUNGdBRUpLd0ttU04wd0tyVnc3dXFYejRuT3NwVldPa1NWcDFHUXhha19lNWZ4TnFiaDBRR2hjRlZTYmtQam1nVA?oc=5",
+        "published": "Sun, 01 Nov 2026 16:30:00 GMT"
+      },
       {
         "title": "Burger ohne Barrieren: McDonald’s Steinberg-Dörfl ausgezeichnet - BVZ.at",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzZ4dF9wRXZ5UzJRc3otbDF0bExMZDM0dUIwZUtTbmVGWmZva0JWQVNZczN5TWlHdGxLa0hHOVA0UU1PTzFucWZQQ2kyWVg5R0FUUy1lUmJ1VkEwXzRiSDFMT0FnWnBYZ0dJb3VJRGRuNHV0ZjMxeEl3cU8zOTEyYkJ4Z19PYWs4bklVVmdfbzIzWWRoTTNoWUl5X0lqN0VYTVNBU0g2dw?oc=5",
@@ -284,6 +289,11 @@
         "title": "Nvidia Aktie: Nscale verhandelt über Milliarden-Garantien - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1V4dUNQbnc2N1h5ZUNuclBjV2V2WndDdWlkbWtLaE5sVnlJQlZET3MyY2FyTWNoY2lZWnF1UHA5Q0JNbkF5NmZ1YmI3VjB3dlcteGF3OWxSdm9oUFZSV01vVUszWXg4UVBoV1pGazh5T2pVMHotbEJxS3h6bzMtc3pUQUtNYjAxNnJHdGM4NjFJWFNKZlVOLVczZUdsN1FkRmU2NVEzbVZZX2lwYVE?oc=5",
         "published": "Sun, 01 Nov 2026 18:46:07 GMT"
+      },
+      {
+        "title": "RTX 4070 Ti Super: Nvidia Preset C bringt 6,1 Prozent mehr Bildrate - BornCity",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDhIVDJ2X09RUm9UYnJNaXgzaWpYckRCZWFZZzdhYjNodERTQTBLSUhEM1hIX0F6UVVYWTljWDBPUGFSYXZic0RlNS1DMGs4a1BaSVo1TDBmWUhIVTQtVGxwdExjR1ducTFPcnhJRExGYzhVVTRBaDVvN0FZa2N4dTFkWk5hTDByeXV1Yl84WnlEcHRaZmVr?oc=5",
+        "published": "Sun, 01 Nov 2026 22:13:04 GMT"
       },
       {
         "title": "Nvidia vor Q3-Zahlen: 279-Milliarden-Dollar-Wende stellt das Fabless-Modell grundlegend infrage - Ariva",
@@ -304,16 +314,6 @@
         "title": "Nvidia Aktie: Der Tech-Ausverkauf erwischt sie mit - Finanztrends",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURnMUlCZDhval9YQlc1eXFnNl9aR3hWYmE1bGxuU2R5OGk2aklmNVllZDd0WjNEOWlqUHY4dGJEa08zemI4Q2dRMWZJZXBKbW01eUJOcE9nVlRnSWZueVpUSkstcXhPajBiWFhsdU1MVlhmTXEtVXpfR2UwRm1Bd3o0YnBkdw?oc=5",
         "published": "Sun, 01 Nov 2026 13:24:08 GMT"
-      },
-      {
-        "title": "Mercedes-CFO: Wer den Vorstandsposten von Harald Wilhelm übernehmen könnte - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmQtYkxhU0M1MFVZNHk5UGhiT3ZodDltTEFGYl9PT3BIQ2hMNmpUbk14ZGRPcG9HNU9mNG5BRHZGMWppWGV5WE15Uno1NmpreVB2Z21wUXM2aS1yeWpXVHh4bU5UUE5ZY2ZNTkFDLXR4dUJtVnhsQ0FDandUaWVfUW5QM0R3bFlJa1RmV2tyc01SWGpRM05NUUZXNEV0bWc0ZlZKdG1WS0wxTGRsT3Uwak9LOUJCN0hRNlE5Q2c5bzVjWTVDZEE?oc=5",
-        "published": "Sun, 01 Nov 2026 12:36:16 GMT"
-      },
-      {
-        "title": "Foto Galerie: Oldtimer-News: So fährt der Papst – Papamobil-Ausstellung im Vatikan - Zwischengas",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3hncUJwTU5jQ0NoMkF5OEZSR0xfRTZMZjhXdktfVnljR3FNMEFRQUpQT2xaN2xUUVE4UldKdGR3ODd0V2hYVzNVUmZCUkQwZjVoNEV5REtJMkRyMGdadTZDUURWYnhvOFRzTF9uQkhwelNiT2lhNnd4R21PM2ZCOTdlZUtGWnpLQ0VyVkNVeUg?oc=5",
-        "published": "Sun, 01 Nov 2026 03:00:00 GMT"
       }
     ]
   }
