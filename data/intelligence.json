@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-11-01T12:01:57.870580+00:00",
+  "fetched_at": "2026-11-01T12:44:05.512403+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Burger ohne Barrieren: McDonald’s Steinberg-Dörfl ausgezeichnet - BVZ.at",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzZ4dF9wRXZ5UzJRc3otbDF0bExMZDM0dUIwZUtTbmVGWmZva0JWQVNZczN5TWlHdGxLa0hHOVA0UU1PTzFucWZQQ2kyWVg5R0FUUy1lUmJ1VkEwXzRiSDFMT0FnWnBYZ0dJb3VJRGRuNHV0ZjMxeEl3cU8zOTEyYkJ4Z19PYWs4bklVVmdfbzIzWWRoTTNoWUl5X0lqN0VYTVNBU0g2dw?oc=5",
         "published": "Sun, 01 Nov 2026 10:13:00 GMT"
+      },
+      {
+        "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
+        "published": "Sun, 01 Nov 2026 09:57:15 GMT"
       },
       {
         "title": "Analysten sehen bei McDonalds-Aktie Potenzial - Finanzen.net",
@@ -36,11 +41,6 @@
         "title": "McDonald's am Münchner Stachus: Wegen Renovierung ab Januar geschlossen - SZ.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGdjbTh0TkgtNmNaLVVoQmwtYVdzeFBNbGp1dlVnV08yd0s0dzRQcHZGN0JvVURoTWlnYzRZMklrajZSLXktUUFQenRSN2lZUHQ2QzZuZm4wTGgzR1dsYW1ndzQxNXUya3RUbzVleGVGbTlqLS14RTFaSGpDeC00NUFfM3V6djR5dGtqWHltMmdaRjBxUDFVVFBRcHNKYV9L?oc=5",
         "published": "Sun, 01 Nov 2026 10:53:35 GMT"
-      },
-      {
-        "title": "15 neue Pokémon-Karten und sogar ein Spielzeug im Happy Meal - McDonald's bringt Aktion auch nach Deutschland - GamePro",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWNUR093X21Ed3A1THRnS2JfcGlsbjRRS3R6S1NmLTdzY3M3YXJOLVJSVl9wZ2UzSzRQLWlNRy02R1J1VlhzSE5CaC1JTFQ2djlEVUFtUGp6OVhnMXVSVzhFWjVleEYwVXFvUDBNUDl0ZUh2NkNFd1Y4VE1iWjMxWmtPbw?oc=5",
-        "published": "Fri, 30 Oct 2026 13:48:23 GMT"
       }
     ],
     "Burger King": [
@@ -73,11 +73,6 @@
         "title": "Aus Angst vor Ausschreitungen: Burger King, Müller und Co. verbarrikadieren ihre Geschäfte in Palma - Mallorca Zeitung",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0tZbThiZFloenhLSGhvUnVSREMtOVU0Sk1VS0MzQkNpQTc1ZzJ4eDJjT2ZFMzIyU0xBVFEtYnpfeC11RWFFR3VQOVQteUVRUUFTOVcyRnZnWDgtcVlnZkVBSlRtbmE0VUFiczFoMW9VQ0tQdnlPdG5FWldsNktLOXIwUks2U1NDTk9EV2VkNTJtUjFLSHNLdlEwQlllQkQ2STZaddIBqgFBVV95cUxNaUVmYzVQUTJjSWRJQnk0YjVDTXRHOXFETUhBbjJnbHNsRWh5T1pWOGR3eDE1VkJRYldMdWF4d1hNQTB4LTZkZXpseHRYYzBCMzlHWk5kVVFzd2QyV3FyU0RzNmQyTmNZdldiLVVFN0hCbTJFY254MEdhcWFBcExGOWc4QjBvZUg4U0JGZzV2TzdCN2ZQZDcwSXFEN25lc3FkRlM5Rmw0SnloQQ?oc=5",
         "published": "Fri, 30 Oct 2026 14:12:49 GMT"
-      },
-      {
-        "title": "Zamp-Aktie: Eigene Subway-Filiale testet neue Konzepte - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNBR0dTaUw4MHVUb05jbUpfVlVqVGEwNXYzbHJSUGE4c1ZuTUVBeExBb2pXeGxIdmE5LXpMczJHdjREclB1SkZTQVZHTnZUVXZxWjBtSlNQMy12Q2dCUC1lZWZiOTJpWDlyOWJXT0hNRTE5a2FmZ1FOSENfeVNRRE1ZWnBMZ0JEWC1NbW5LeDNxV3hPUWtERHZ3M0Q0b2NvNnp5M1l3ZkdSQ3g3OW1BTk9n?oc=5",
-        "published": "Sat, 31 Oct 2026 23:52:28 GMT"
       },
       {
         "title": "Ab 1. November fahren Mallorcas Busse anders - Mallorca Zeitung",
@@ -114,6 +109,11 @@
         "published": "Sun, 01 Nov 2026 10:22:04 GMT"
       },
       {
+        "title": "Mercedes-CFO: Wer den Vorstandsposten von Harald Wilhelm übernehmen könnte - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmQtYkxhU0M1MFVZNHk5UGhiT3ZodDltTEFGYl9PT3BIQ2hMNmpUbk14ZGRPcG9HNU9mNG5BRHZGMWppWGV5WE15Uno1NmpreVB2Z21wUXM2aS1yeWpXVHh4bU5UUE5ZY2ZNTkFDLXR4dUJtVnhsQ0FDandUaWVfUW5QM0R3bFlJa1RmV2tyc01SWGpRM05NUUZXNEV0bWc0ZlZKdG1WS0wxTGRsT3Uwak9LOUJCN0hRNlE5Q2c5bzVjWTVDZEE?oc=5",
+        "published": "Sun, 01 Nov 2026 12:21:49 GMT"
+      },
+      {
         "title": "Mercedes-Benz Aktie: DZ Bank bleibt trotz Senkung bei Kaufen - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHIxT0RHS0JxREpnQ21lQ2R0cnZ5SWRNWVB4U0lhR1VEQkJTai00dUZnejI3SEhSSlhlMU85eTJkeUFEMVMtaWtMVGpxZGd2RERDWHdoX2J3TVBvQllXa2Qwclp6bFIwTFRuN3pxOWhQeWpUSjNudVhqMFc2dnhNUzJwTmo2NDlVQ3BPdC1mendPMnVDYlJsVFNJb05DeXgyUjdHcWhuX2xRRFFjSmJyTw?oc=5",
         "published": "Sun, 01 Nov 2026 01:40:06 GMT"
@@ -134,11 +134,6 @@
         "published": "Sat, 31 Oct 2026 17:00:38 GMT"
       },
       {
-        "title": "Abfindung bei Mercedes: Ein Mitarbeiter erklärt, wieso er freiwillig geht - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczJ0YXdlaGdnSUxkQWpRa2FuYUVMMl90Q1RFY0NJYTRyZkhDZUt3amtodzBocVJDM21kbEwyeU9WaDlxMWRiTHhrWGZLUUYxR3pEQzh4aW1PMnBqY25nUkRoSE4yQ0VhemNZd3hicG9EbGVNbjFxTGNuSzM0WE5ESmlTNmpIeHVMSmNjRkZzbmpEWFRIcGN0YTNUeHgydEZWWFZZMlNxeUdtTGFLQ0hIRDh0MnNRNmp2cFJIMw?oc=5",
-        "published": "Sun, 01 Nov 2026 05:40:40 GMT"
-      },
-      {
         "title": "Usher und Chris Brown in Atlanta: Tickets für The R&B Tour und das gemeinsame Konzert im Mercedes-Benz Stadium - KarloBag.eu",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTBRU2VCemdJdldhcEtSY1B3aWk0YnBNVlhCNWFUYmx1amxhOUxxdzdfbjBhbjBjTVM0TmRlTTFvVV8tVTdpT2hHN0JJZkhvWXlOWmRQdDl6T3JuLXVwcWxKdklyNl8wQmxUSTV1cGtMRU54VkV1TmNIVmJkZUs5UDl5ZUVsSGwxMkQ3NlRfdFI4eWhvMHU4QUZQMzRzNmFydW5IcTVYcUM?oc=5",
         "published": "Sun, 01 Nov 2026 02:27:56 GMT"
@@ -146,19 +141,14 @@
     ],
     "Nvidia": [
       {
-        "title": "Nvidia Aktie: Huang bringt Lizenzgebühr je GPU ins Spiel - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEFNZjNvcXVMSXhKdGV0SnZWZkJ6NFhpVDVfUE9qTWNuYjB4ZEx5NkZfUE50Vno0a21rbkgzVmZKeXdEQllvRUtUVm85NU15UVJtNURvYnhRWWNLcUJZN2xORDRiODM5OWF6aXoxdURQRnp1dFNxWkpZYTNUNUVpYUpJX3UxdkRrcHpVaXpGUXhYNHhIWXdfZmJzSk02SnN6NGo0RWpyaTJEVFg5?oc=5",
-        "published": "Sat, 31 Oct 2026 17:26:07 GMT"
-      },
-      {
         "title": "Nv-UEFI-Unlocker bringt überraschend viel KI-Tempo auf ältere RTX - PCGH",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZkdTZG41VXRka3R2SDNVSDQxVEhFNjFaejdka210UUplMFZZVjJrUmlnMGNxdDluYUotRUIyUF9mLThxUGZDYXVuU1o4MGh5R3ZPeU1jNExzY2laUjJIWnVvTmlJMVNzamx6aEN1a0ZnLUxsemZ1N2VYcWR1em9EbnBZR252c2RZTzFON0lfTUJmVFNYbmp1UmdUZ1o3RFFHNk9Yc0dXc0ljSTJYcVd5bGhBRnJDVV85eGZhMGxNaDd3Sk9QZS05SXFjQzA5aUl1bnZhZnctRS1LY2N4WEEyd2EzbFdzNk1hMTF1bjZOTjFwT291UUJN?oc=5",
         "published": "Sun, 01 Nov 2026 10:30:00 GMT"
       },
       {
-        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
-        "published": "Sun, 01 Nov 2026 05:34:42 GMT"
+        "title": "Nvidia Aktie: Huang bringt Lizenzgebühr je GPU ins Spiel - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEFNZjNvcXVMSXhKdGV0SnZWZkJ6NFhpVDVfUE9qTWNuYjB4ZEx5NkZfUE50Vno0a21rbkgzVmZKeXdEQllvRUtUVm85NU15UVJtNURvYnhRWWNLcUJZN2xORDRiODM5OWF6aXoxdURQRnp1dFNxWkpZYTNUNUVpYUpJX3UxdkRrcHpVaXpGUXhYNHhIWXdfZmJzSk02SnN6NGo0RWpyaTJEVFg5?oc=5",
+        "published": "Sat, 31 Oct 2026 17:26:07 GMT"
       },
       {
         "title": "Aktuelle Kennzahlen Nvidia Aktie - Onvista",
@@ -166,9 +156,19 @@
         "published": "Fri, 30 Oct 2026 20:00:00 GMT"
       },
       {
+        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
+        "published": "Sun, 01 Nov 2026 05:34:42 GMT"
+      },
+      {
         "title": "Nvidia vor Q3-Zahlen: 279-Milliarden-Dollar-Wende stellt das Fabless-Modell grundlegend infrage - Ariva",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWtyZFN3Yk9zZ09aWXZ1LUp0aEduWm5uMDR2WVVKZUF2YmYtUXUxZzFLYVFtZ0UycmxnSFpnNjNucmFxN0g2RF9VRVV3aHFVMVMzZWJkdHZHaVN6em44YTFBdzh4M1YxU0lJUHYzSVBnXzliTS05YXFPNEJHZlRyQnFhQ19xVFZsZEswWFBZSENhZGVBQjI1MGhR?oc=5",
         "published": "Sun, 01 Nov 2026 11:40:43 GMT"
+      },
+      {
+        "title": "Nvidia Aktie: Der Tech-Ausverkauf erwischt sie mit - Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURnMUlCZDhval9YQlc1eXFnNl9aR3hWYmE1bGxuU2R5OGk2aklmNVllZDd0WjNEOWlqUHY4dGJEa08zemI4Q2dRMWZJZXBKbW01eUJOcE9nVlRnSWZueVpUSkstcXhPajBiWFhsdU1MVlhmTXEtVXpfR2UwRm1Bd3o0YnBkdw?oc=5",
+        "published": "Sun, 01 Nov 2026 12:34:07 GMT"
       },
       {
         "title": "KI-Beben entthront Nvidia – Apple ist wieder die Nummer 1 - Der Aktionär",
@@ -176,14 +176,9 @@
         "published": "Fri, 30 Oct 2026 18:40:00 GMT"
       },
       {
-        "title": "Nvidia-Aktie (NVDA) Forum - Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTTlhScDRZS2ZRRW9saEs5SDBkNHpRemF0NWxVNnY4aUxGNml2NEdCUk5wSW1mVEREZzNBZVo5eDVyeFRUeWZma0FSWVN3aHVQZjhkcDk1Mms4UE1ZODdjc3lBNkNPTHc?oc=5",
-        "published": "Sat, 31 Oct 2026 23:24:35 GMT"
-      },
-      {
-        "title": "Nvidia Aktie: US-Justiz hakt bei Hugging Face nach - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVJRcDBlMUk0Mm82WDhpRV9IV2VOaFQ0OENlOWYtQ09CWmpqZ05JMzM3SF9PaHM5NUJZQ0xqSjJWbHhudWNDV3VfVUN5cHFmRGNrY0dRRW1mLTJlX0sxUjVBZFhZbFdCc05UVlVPajl2Ny1IdmZlNEp1RTJaQ3BhQUxOcWRzdzcwdVBv?oc=5",
-        "published": "Sun, 01 Nov 2026 05:48:08 GMT"
+        "title": "Nvidia-Aktie unter 100-Tage-Linie - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEJLbzh5NDJzejJnS2l6VmxvYXZSbVV3M3dXdWFjaERRY19hZW9CVnBkVkRtRmQ4RFBWT0NmdGNyNXZsYWRpTFZaSG5lXy12eUVEaWtnVGtQR3FLcDBiM3BPQ2dxT0NBdGhpT1ZSNWhEMFJaVkM4QjA3NDJvTTk0STZ3?oc=5",
+        "published": "Sat, 31 Oct 2026 06:56:00 GMT"
       }
     ]
   },
@@ -198,6 +193,11 @@
         "title": "Tech-Beben an der Börse: Platzt jetzt die KI-Blase? - Blick",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlBNZ29idHNsN3FhdzBRZkNqc3BpUVJKUUVweEtRY1c3VnptN2xsZHc3UWxmREJMQVlocUdXS3ZFUVRsVVRncUdub3FYM0RaUHMyVDh6Y19EbFNqSEI2ek5rbndSTGo5TjdvNFg4U3U0MWU1NXpBdUMxMndTT0tEei12bWYwUUZuMl8zVmtYbURPdTdoa0RiYUNhN1A4dw?oc=5",
         "published": "Sun, 01 Nov 2026 07:34:00 GMT"
+      },
+      {
+        "title": "Anthropic-Börsengang: Frühen Investoren winken Rekordgewinne - Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJlY3Axd2Y0Nk00U2hKa0xHOU16dnlmOU14dWpIcEpjbjB1N3FBVDRNQlNqdnY5REtSNHdvcHhhSUxYQW9yRl9lbnNWLXd3dVhxREtZb2lZaTBnaDdLMUJJYjZnUFI1dmIyZ001U1hlNVliN3NUNjJPQ1dmSi1vNmFWb3YycWtNMTd2cTM2Zmt6NVRMMVdLZ1lVMGNtZ1lrQkRRSTFxMA?oc=5",
+        "published": "Sun, 01 Nov 2026 12:04:29 GMT"
       },
       {
         "title": "Börse: Grosskapitalisierte gesucht – SMI-Höchst - Bock, Schaffhausen",
@@ -215,19 +215,14 @@
         "published": "Sun, 01 Nov 2026 00:42:00 GMT"
       },
       {
-        "title": "Anleger besorgt - KI-Blase bekommt Risse: Kursrutsch bei Tech-Aktien - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51RE9JaTdESTZpdEdPanZGWEZqa1dnbWdWZVlNcXpmVDBqQnpPRzktMXR3Um03anZlT0JiNXk1ck1tQQ?oc=5",
-        "published": "Fri, 30 Oct 2026 21:31:00 GMT"
-      },
-      {
         "title": "Binance gibt Kundenauszahlungen nach Hackerangriff frei - Watson",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFhTR1JyaDFuMFpJWkllZWVzMF9ZS2lSQW5Ob0xKczl2TVNKNkxQNVlJN2d5SE1lVjRIcUxib3dwTURlWF9SdndPYnotbndHQ1ZnV0h3dEM2YVBVSGktUklkOHpGVmJtTTc4TW94b0FJbDlPTUpiLXpmVlAyQU5PRlVLOWlSOVRyUm95RlQ3RDJYVERtNkZ1ZXBfaDQtVEtmUFZEZG5lazVJQQ?oc=5",
         "published": "Sun, 01 Nov 2026 10:46:39 GMT"
       },
       {
-        "title": "Tech-Riesen verlieren an einem Tag 1000 Milliarden an Börsenwert - Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2xyQlVEWDJwenRvamRELXFQeTBTVVJWRXZIUFZuNkMtSFl6YUxPcHlxV0JQaVRGWU9rclNlVkhnNUJJaW10VEp1VXhjbWxpX0M5YjFmdU5FSnp4dE56WWRfcXROS19SM0U5YzhTa25HNnRQb1hOejlyMDQ3WmdiQ2dQTk1KUEJIZ2VTS0NXMkRQVHcyNV9YaWw2b2xDVWY4M241ZlhBVVFtRTl2RTRQeg?oc=5",
-        "published": "Fri, 30 Oct 2026 18:33:45 GMT"
+        "title": "Binance gleicht nach Hackerangriff fast alle Verluste selbst aus - St. Galler Tagblatt",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzVJYUJzeVo5M3ZTcEVJaFJBcmk4OWpJTEVVTTkxX2c5YUV0V1ZneVVFbXdXOHVCaWlKNG5GUndvNTlKOGRCWWIxTGN0cS1LRFVqTGQwX1dsSVBGNGl2SFFlU3B3Z083ejhQZkM3d3VPRTl0Tk11QlQ4WkRsSVhaOVBZem9FSGx5d0hsWmpDdHkwYmRkbngxbWgxOWtqY013VHpZ?oc=5",
+        "published": "Sun, 01 Nov 2026 11:24:26 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -235,19 +230,9 @@
         "title": "Die 8 besten E-Commerce-Agenturen im Vergleich - OMR",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lWmNGMm1iOV94WHBZZjNtQTRXRlJ0YmYwWTN2cU90NVZ3VUNEbVZaWGRiMy1RVEY1SGRoUU9OMjNGWlllNVA2Mnl6RTBoQWN6RXJJODNpY2JTcXFKMHViMktrT2dlblU?oc=5",
         "published": "Sat, 31 Oct 2026 05:35:21 GMT"
-      },
-      {
-        "title": "10 Jahre MYI: Vom Berner LAN-Clan zur Agentur hinter HeroFest und gamescom lan - esports.ch",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGItakNWOUFkQmM1WE9odm5sclBoNXN6U3dIWWZ1bHBsV2pvcG9uSGZWNkp0OTJfRG15eTlKTkxxU1RVeEJ4ZVJlajdpNmZWbDdDVTlOUXFpTXBQN2JuX09nM2VPVTlycDhVMW1UQThkNkVhdHZzV2NjQUNqdGFocXVTNzZTRk81ajVQV3Zyb2JPdW9HaEM2OFpEbU8yTmlYeG00?oc=5",
-        "published": "Fri, 30 Oct 2026 13:27:57 GMT"
       }
     ],
     "Technologie & KI": [
-      {
-        "title": "\"AI Summit Styria\" in Kapfenberg, Experten diskutierten über KI - MeinBezirk.at",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalhad2ppajlTMUs4U3d1UFFwOTIwUGhZcmZFa2RkYjIwbTV1ektFXzFvUFRjdEdHd1VWbTg2SmpDMWVkQldsRlNhQkV5WlMxN3JZNm9RakRDc2Z2Ql9VdFhtTDIyUGg2WU9QTWFSaVRTSi12TDY5WC12ejdaMWt6ZHlKblp5QThGT3dYZFNPc09vNk5XWEw5SUtlVUgwMHpCZ29fZHZ2Y0dqWTd3ZldLY2lHNWFCMVBYSk83M1JSRDQ?oc=5",
-        "published": "Sun, 01 Nov 2026 10:12:32 GMT"
-      },
       {
         "title": "Tech-Beben an der Börse: Platzt jetzt die KI-Blase? - Blick",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlBNZ29idHNsN3FhdzBRZkNqc3BpUVJKUUVweEtRY1c3VnptN2xsZHc3UWxmREJMQVlocUdXS3ZFUVRsVVRncUdub3FYM0RaUHMyVDh6Y19EbFNqSEI2ek5rbndSTGo5TjdvNFg4U3U0MWU1NXpBdUMxMndTT0tEei12bWYwUUZuMl8zVmtYbURPdTdoa0RiYUNhN1A4dw?oc=5",
@@ -269,19 +254,24 @@
         "published": "Fri, 30 Oct 2026 19:11:02 GMT"
       },
       {
-        "title": "KI-Investoren sichern sich gegen einen möglichen Abschwung des Technologie-Marktes ab - aktien.news",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZqVW1hMXZYWXZaQ1FTckEyM3lOZmxpd2Z5b2w2YXdZS1ZPSHdMdTh5eFVudWhQbFpfeU5fVVVxNUFJLWFMR1JveGRsNUs3dktmQnZlVlNWWjZ0SjFub3ROTHZLRkU0ejNFeDA5Nlg0bG9Gd1lBZ09VeFlnUF91ZFBDQzdfcmQ2UzBlbG11SjhlSjlPMnFVU25hV19HSWRTa0VhcXEtRHctMHRtZ2c?oc=5",
-        "published": "Sun, 01 Nov 2026 07:40:35 GMT"
-      },
-      {
         "title": "„Die Produktentwicklung ist etwas zutiefst Menschliches“: Apple-CEO äußert sich zu KI-Rückstand - t3n",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmVfMUxNc3lMa0haOFc5VHd2NWFrcHJXZ2EzNklMcDU2NV96QW11R0RFc3ZhdkMydC1hOFRlNVJaVFNvRGRRNlZ6MXNDclNuSUdiNHBUWUg0aGw3OEZIcmZDdi1xNUZsV3J6MUh5UkljczVUS2VhS2dxNVMxSTFyYWFCcDBLTU8wR0JzcHJTZGZzLXl6T3Y4cTBpY0FGM1BUMHFrcFdCZ0lXdUZ3blZBTGJFdXVtaVJtSElVN01xYV9GUQ?oc=5",
         "published": "Sun, 01 Nov 2026 10:09:24 GMT"
       },
       {
+        "title": "KI-Investoren sichern sich gegen einen möglichen Abschwung des Technologie-Marktes ab - aktien.news",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZqVW1hMXZYWXZaQ1FTckEyM3lOZmxpd2Z5b2w2YXdZS1ZPSHdMdTh5eFVudWhQbFpfeU5fVVVxNUFJLWFMR1JveGRsNUs3dktmQnZlVlNWWjZ0SjFub3ROTHZLRkU0ejNFeDA5Nlg0bG9Gd1lBZ09VeFlnUF91ZFBDQzdfcmQ2UzBlbG11SjhlSjlPMnFVU25hV19HSWRTa0VhcXEtRHctMHRtZ2c?oc=5",
+        "published": "Sun, 01 Nov 2026 07:40:35 GMT"
+      },
+      {
         "title": "Microsoft Teams: Zwei neue Einstellungen trennen KI-Funktionen und Transkription - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFM0VmIzUE0yd29kUTNBbDBjaXk3LTAyc1ctRElJWDBqSnkydW13WXdrM0laNzVPYVJxOGh3RjZkcFF2NEpOSTZiU1JmQmhqd25rSmtURkFPUTRkS21LMldTeWhhU2wta1haM3g3S2FEd053YW9ubkg1T3hyRHBjNXZlZHNMWFBvd29mLU42N0ZxRmJiMHFsQ0ctVzhqeG9kaTZiWVpLMlVNRXpVVVc3SDRPOE96QkU3bzR4X2pyamxnN1VfR3FhVDNfRQ?oc=5",
         "published": "Sun, 01 Nov 2026 04:43:02 GMT"
+      },
+      {
+        "title": "Aktienschwindel statt Superintelligenz? „Mit jedem Kunden werden KI-Konzerne ärmer“ - Salzburger Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEFWRi16LUFSMExKcFRHSXVGdXFnMGVoa1R2bV9ZWnV4UkhyTXBYczBtUGNjTHEwVzBkd25KdURjdVV0V3NmOFA4cWdtX2pFaTRYQVNJaHlfLXh2RU1oNktwNUdyTV85NDhIQ2t3X1E2dmZTVXduMFFVMDBzMUtPX1B1bzUyVmZSY2RheUVtd0tuWFEyY0lFYzJyd1hIY0tNOXJ5R1hQSjRsT1BGTW5nRTRyaFJ6d00wSU1zdUdadGxOd0tYbnNQazZiVEVxdw?oc=5",
+        "published": "Sat, 31 Oct 2026 05:00:00 GMT"
       }
     ],
     "Meine Aktien": [
@@ -306,14 +296,14 @@
         "published": "Sun, 01 Nov 2026 10:30:00 GMT"
       },
       {
+        "title": "Nvidia Aktie: Der Tech-Ausverkauf erwischt sie mit - Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURnMUlCZDhval9YQlc1eXFnNl9aR3hWYmE1bGxuU2R5OGk2aklmNVllZDd0WjNEOWlqUHY4dGJEa08zemI4Q2dRMWZJZXBKbW01eUJOcE9nVlRnSWZueVpUSkstcXhPajBiWFhsdU1MVlhmTXEtVXpfR2UwRm1Bd3o0YnBkdw?oc=5",
+        "published": "Sun, 01 Nov 2026 12:34:07 GMT"
+      },
+      {
         "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
         "published": "Sun, 01 Nov 2026 05:34:42 GMT"
-      },
-      {
-        "title": "Aktuelle Kennzahlen Nvidia Aktie - Onvista",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBSFVjX3JWRUxPU0ZlVndaeVF5emNSQ1hFdlVXWmNKMUxpU1JYLTJIOU1hZ3JaZ3hpZmN1M3lWOGlpRzZiTmdzN3F6SG8yb0tvZkpPenRkb3lIU2o5S1FlS0RnYy0zWXVvZ2Y4ZUtVaHp4RkRY?oc=5",
-        "published": "Fri, 30 Oct 2026 20:00:00 GMT"
       },
       {
         "title": "Nvidia vor Q3-Zahlen: 279-Milliarden-Dollar-Wende stellt das Fabless-Modell grundlegend infrage - Ariva",
@@ -321,9 +311,9 @@
         "published": "Sun, 01 Nov 2026 11:40:43 GMT"
       },
       {
-        "title": "Nvidia Aktie: US-Justiz hakt bei Hugging Face nach - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVJRcDBlMUk0Mm82WDhpRV9IV2VOaFQ0OENlOWYtQ09CWmpqZ05JMzM3SF9PaHM5NUJZQ0xqSjJWbHhudWNDV3VfVUN5cHFmRGNrY0dRRW1mLTJlX0sxUjVBZFhZbFdCc05UVlVPajl2Ny1IdmZlNEp1RTJaQ3BhQUxOcWRzdzcwdVBv?oc=5",
-        "published": "Sun, 01 Nov 2026 05:48:08 GMT"
+        "title": "KI-Beben entthront Nvidia – Apple ist wieder die Nummer 1 - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblNrc1FXWTFCWEw3ejhRRE9pU3Z6RW5mSkg4aDhteVNxSW00dGwtNVlMNlNET3JGa2FRejhYZDA3em1uVEZ6Z2hGOVd3MlNycXUzSUI3R3RhUHlLMmx0Zi1vbEhTcDQ3c1FaWTdocjNOTjZxMU5nTmloVHJSbmwzNXpkMWlzLUplY1pSRjZzMHgwSldjMWJoNm9nRklwSU1LcXFSY1dWWEFmVzdWRnotWHljTUpmOUg4ay1fcDNRNjMwd2FnbFZfNg?oc=5",
+        "published": "Fri, 30 Oct 2026 18:40:00 GMT"
       }
     ]
   }
