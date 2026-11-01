@@ -1,9 +1,37 @@
 {
-  "fetched_at": "2026-11-01T19:27:59.852265+00:00",
+  "fetched_at": "2026-11-01T20:00:15.394675+00:00",
   "countries": {
     "AT": [
       {
+        "title": "f1 live",
+        "volume": "100+"
+      },
+      {
+        "title": "orf1",
+        "volume": "100+"
+      },
+      {
+        "title": "moritz wagner",
+        "volume": "200+"
+      },
+      {
+        "title": "orf on",
+        "volume": "5000+"
+      },
+      {
+        "title": "juventus – neapel",
+        "volume": "500+"
+      },
+      {
+        "title": "predigt",
+        "volume": "100+"
+      },
+      {
         "title": "tv programm heute",
+        "volume": "500+"
+      },
+      {
+        "title": "der geier",
         "volume": "500+"
       },
       {
@@ -11,77 +39,49 @@
         "volume": "200+"
       },
       {
-        "title": "der geier",
-        "volume": "200+"
-      },
-      {
         "title": "skilehrer",
-        "volume": "500+"
-      },
-      {
-        "title": "tomas zorn",
-        "volume": "200+"
-      },
-      {
-        "title": "öfb cup auslosung",
-        "volume": "500+"
-      },
-      {
-        "title": "dfb pokal auslosung",
-        "volume": "200+"
-      },
-      {
-        "title": "death in paradise",
-        "volume": "200+"
-      },
-      {
-        "title": "kronen zeitung",
         "volume": "1000+"
-      },
-      {
-        "title": "kylian mbappé",
-        "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "baker mayfield",
-        "volume": "2000+"
+        "title": "apple tv",
+        "volume": "10000+"
       },
       {
-        "title": "braelon allen",
-        "volume": "20000+"
-      },
-      {
-        "title": "kyler murray",
-        "volume": "2000+"
-      },
-      {
-        "title": "fagnano ravens",
-        "volume": "500+"
-      },
-      {
-        "title": "athletic - real sociedad",
-        "volume": "500+"
-      },
-      {
-        "title": "michael penix jr.",
+        "title": "tre tucker",
         "volume": "1000+"
       },
       {
-        "title": "ap poll football",
-        "volume": "20000+"
+        "title": "wild vs capitals",
+        "volume": "1000+"
       },
       {
-        "title": "omar cooper jr",
-        "volume": "2000+"
-      },
-      {
-        "title": "athletic vs real sociedad",
+        "title": "court",
         "volume": "500+"
       },
       {
-        "title": "jameson williams",
+        "title": "ucla football schedule",
+        "volume": "10000+"
+      },
+      {
+        "title": "celtics vs magic",
+        "volume": "10000+"
+      },
+      {
+        "title": "zay flowers",
+        "volume": "10000+"
+      },
+      {
+        "title": "jack endries",
+        "volume": "2000+"
+      },
+      {
+        "title": "new york yankees",
+        "volume": "1000+"
+      },
+      {
+        "title": "marseille vs toulouse",
         "volume": "500+"
       }
     ]
