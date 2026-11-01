@@ -1,12 +1,7 @@
 {
-  "fetched_at": "2026-11-01T03:46:56.860542+00:00",
+  "fetched_at": "2026-11-01T04:46:59.217767+00:00",
   "brands": {
     "McDonald’s": [
-      {
-        "title": "Analysten sehen bei McDonalds-Aktie Potenzial - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmhpa3U0YUl0bnlXdUtJcVRlcDJRaDl1aDRwS25zdnY1WVd5QTRYTXZVR1ZRMWlaLVkwSEo3ZTNuSmQ5ZlhCcWhkWl9UYkZEUDRQMkl3YlRZdWk3N0RQQnFuaUdVSkY4MWRDcW0tOXNQbk9ENDhSQzZmOUZ1d2txQy15UVRKSE1TdXZreXBuRzVjSUgxaTJzRTl5UUg?oc=5",
-        "published": "Sat, 31 Oct 2026 21:30:38 GMT"
-      },
       {
         "title": "McDonald's lässt alte Zeiten aufleben: Klassiker feiern Comeback - CHIP",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlJVV2hVc0RtTXNHN1ZhRm1HVHE1bE5HZGxOYkJOckJZTFpfMXB2YUtncjl0WVdjeWxWbVA1VDhVaXYyMzhEeDN6MEtYdHkwb1Y5bHV1Zk9Wc05JbW5nYmlsSWZZWFdkVmVWazNfVDJiV0EyN2FuY3UwREtySlhCNDJxQXR3ZjBDZGw5UXhOaEVOd212dUVMZlRJNkJtMWpndUtDbmNPWUlqQ1NsaDVfbHhmYjVIM0ExZmFtXzR3aGt1aE9hczFqYmQ3elN3VDdqbVVzQW1zOA?oc=5",
@@ -15,7 +10,12 @@
       {
         "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
-        "published": "Sun, 01 Nov 2026 00:55:08 GMT"
+        "published": "Sun, 01 Nov 2026 03:57:42 GMT"
+      },
+      {
+        "title": "Analysten sehen bei McDonalds-Aktie Potenzial - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmhpa3U0YUl0bnlXdUtJcVRlcDJRaDl1aDRwS25zdnY1WVd5QTRYTXZVR1ZRMWlaLVkwSEo3ZTNuSmQ5ZlhCcWhkWl9UYkZEUDRQMkl3YlRZdWk3N0RQQnFuaUdVSkY4MWRDcW0tOXNQbk9ENDhSQzZmOUZ1d2txQy15UVRKSE1TdXZreXBuRzVjSUgxaTJzRTl5UUg?oc=5",
+        "published": "Sat, 31 Oct 2026 21:30:38 GMT"
       },
       {
         "title": "Kämpft für Burger-Fans - Söder sauer: „Habe mich bei McDonalds beschwert“ - Kronen Zeitung",
@@ -75,9 +75,9 @@
         "published": "Fri, 30 Oct 2026 14:12:49 GMT"
       },
       {
-        "title": "Newsletter - A39-Ausbau verzögert sich + Neues Café-Konzept in Gifhorn - WAZ-ONLINE.de",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVJ5Q2d5OHRPSUthZXZoTXBxZDFEYmFqdVlFSnNTQk1lcFR4XzVjUXlqeHFQOFV5N1FpV1VLNTdFUlBuVERHakZGUl9kWkw2andZX0E4cGw5QzhOQjFic2dlTTFkcUdabTc4ck1nMFpUSHlmMlV6bFZlc2ctV2NXeHVDQmdzbzk1TWluMFpBN3FwTjdyYXNUQlg1UFJQYWhiTVJtQk5PMGctejJsSC1PQS1zQWtRUldydlo0bFJPRlE4T09oNkNUZ3A4MXIzZ9IB6gFBVV95cUxOVW1OZ0sweGtfMU50S19fY1ZVdm1qU2g3R1ZoQ3VCVUtVem9EampuWjI3VWNlT2hOSE96cURjbGxqdC05cndpaGFiX3I4SnVtTFhReU80WW0zdVVHYWZiV29lUlAtWl85WE1rblBGaGpnLWY4SkRIbDVROGhxV2xRVnNZd2txYkdQaVE5ZjJLeUNHTVFSODdLR3hCRFVMY0d4R2MzeWI1R1Y1R29YamM5TmlYd3g3TmQ3cjFQWS1mVU1CY1VCMDh2YXd6cUFYOEhPbEU3WjhDUmVxT3MydnBPVG9GeTM1WElobWc?oc=5",
-        "published": "Fri, 30 Oct 2026 03:55:45 GMT"
+        "title": "Zamp-Aktie: Eigene Subway-Filiale testet neue Konzepte - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNBR0dTaUw4MHVUb05jbUpfVlVqVGEwNXYzbHJSUGE4c1ZuTUVBeExBb2pXeGxIdmE5LXpMczJHdjREclB1SkZTQVZHTnZUVXZxWjBtSlNQMy12Q2dCUC1lZWZiOTJpWDlyOWJXT0hNRTE5a2FmZ1FOSENfeVNRRE1ZWnBMZ0JEWC1NbW5LeDNxV3hPUWtERHZ3M0Q0b2NvNnp5M1l3ZkdSQ3g3OW1BTk9n?oc=5",
+        "published": "Sat, 31 Oct 2026 23:52:28 GMT"
       },
       {
         "title": "Ab 1. November fahren Mallorcas Busse anders - Mallorca Zeitung",
@@ -124,24 +124,24 @@
         "published": "Sun, 01 Nov 2026 02:57:33 GMT"
       },
       {
-        "title": "Mercedes-Benz-Aktie: Günstig genug zum Kaufen? - sharedeals.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBURzluSnFlVEo3bmFkWkZ0MnRUX2huMTFQSFhSZnhrMEpUbVd0aWQyTHBoczBfZFBlenhzWTk2aEpaSFBlMHFQcjNneFRUZm9VNTZieUJxNFN2dTZMc1FISWZscW0wS2NIeGw1SmdlNjVxckJOTm9YY21MTjM?oc=5",
-        "published": "Sat, 31 Oct 2026 11:51:50 GMT"
-      },
-      {
         "title": "DZ BANK bescheinigt Kaufen für Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFg4X1V4b0I1RjZON0txV2h4dEJmSGRDUEZ1Ym1XRWZkRDY4Sm01YlBFS3FUZkRHZ1VuNlI4YUlLOXR2NjJpdWg2LUdBcE9fVWFTbTdCdkJIaVdQNnFPODR0Z3NWZzg3d2JPdUtqUlZWbUxoR1NXUjR5ZHFUdW9xVHdQWVQ1aFZqXzR0dGlyNzVnR1FrR25ZS091UVRUSzZpV1JJaTdFN1ZJWFlkSkRYdHhfMS1yNEx6dVVBa29Kdw?oc=5",
         "published": "Fri, 30 Oct 2026 09:49:47 GMT"
       },
       {
+        "title": "Mercedes-Benz-Aktie: Günstig genug zum Kaufen? - sharedeals.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBURzluSnFlVEo3bmFkWkZ0MnRUX2huMTFQSFhSZnhrMEpUbVd0aWQyTHBoczBfZFBlenhzWTk2aEpaSFBlMHFQcjNneFRUZm9VNTZieUJxNFN2dTZMc1FISWZscW0wS2NIeGw1SmdlNjVxckJOTm9YY21MTjM?oc=5",
+        "published": "Sat, 31 Oct 2026 11:51:50 GMT"
+      },
+      {
+        "title": "Abfindung bei Mercedes: Ein Mitarbeiter erklärt, wieso er freiwillig geht - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczJ0YXdlaGdnSUxkQWpRa2FuYUVMMl90Q1RFY0NJYTRyZkhDZUt3amtodzBocVJDM21kbEwyeU9WaDlxMWRiTHhrWGZLUUYxR3pEQzh4aW1PMnBqY25nUkRoSE4yQ0VhemNZd3hicG9EbGVNbjFxTGNuSzM0WE5ESmlTNmpIeHVMSmNjRkZzbmpEWFRIcGN0YTNUeHgydEZWWFZZMlNxeUdtTGFLQ0hIRDh0MnNRNmp2cFJIMw?oc=5",
+        "published": "Sun, 01 Nov 2026 02:39:56 GMT"
+      },
+      {
         "title": "Mercedes-Benz: \"Die Aktie befindet sich in einem intakten Abwärtstrend\" - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOElneUNMUkRhLWU2V1Fjdl9ORmZyN2tBQzdCRkVjR0s2YzRCdkNnbFl4X014TnNxSVhJZ3hlUGZyNjNzT3VDTWFFZ3J4R1dkZTJHQ1JtRlVTSEs2TVZFVENadmU0WFB0QV9FWHVvWEhsUXRyWERieUNWdnVOUTNGc25WNHk3X3dFRjdIRmtyOG9sbDM4VG9ZNmtTR0w3WFVXaXlvdFdueEp1dVhBd1BRbFEzT1BoRXptNEJ4VkNqZ0dTSkNTV1JEdTZ4NFA1UkthMUE?oc=5",
         "published": "Fri, 30 Oct 2026 13:23:00 GMT"
-      },
-      {
-        "title": "Papst dankt Mercedes für \"100 Jahre Papamobil\" - kath.net",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abHM3TFpERTRJcTBHdlpGcno1a3l6S2tKNWx2QnoyM2J0ck1CWWZlMWFHUXFSczA1LVpwY19oWG1nUXhLSWc?oc=5",
-        "published": "Sat, 31 Oct 2026 07:04:32 GMT"
       },
       {
         "title": "Mercedes-Benz Sprinter als mobiles Podcast-Studio - Tuningblog",
@@ -156,14 +156,19 @@
         "published": "Sat, 31 Oct 2026 17:26:07 GMT"
       },
       {
-        "title": "Nvidia-Aktie unter 100-Tage-Linie - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEJLbzh5NDJzejJnS2l6VmxvYXZSbVV3M3dXdWFjaERRY19hZW9CVnBkVkRtRmQ4RFBWT0NmdGNyNXZsYWRpTFZaSG5lXy12eUVEaWtnVGtQR3FLcDBiM3BPQ2dxT0NBdGhpT1ZSNWhEMFJaVkM4QjA3NDJvTTk0STZ3?oc=5",
-        "published": "Sat, 31 Oct 2026 06:56:00 GMT"
+        "title": "Nvidia-Aktie (NVDA) Forum - Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTTlhScDRZS2ZRRW9saEs5SDBkNHpRemF0NWxVNnY4aUxGNml2NEdCUk5wSW1mVEREZzNBZVo5eDVyeFRUeWZma0FSWVN3aHVQZjhkcDk1Mms4UE1ZODdjc3lBNkNPTHc?oc=5",
+        "published": "Sat, 31 Oct 2026 23:24:35 GMT"
       },
       {
         "title": "KI-Beben entthront Nvidia – Apple ist wieder die Nummer 1 - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblNrc1FXWTFCWEw3ejhRRE9pU3Z6RW5mSkg4aDhteVNxSW00dGwtNVlMNlNET3JGa2FRejhYZDA3em1uVEZ6Z2hGOVd3MlNycXUzSUI3R3RhUHlLMmx0Zi1vbEhTcDQ3c1FaWTdocjNOTjZxMU5nTmloVHJSbmwzNXpkMWlzLUplY1pSRjZzMHgwSldjMWJoNm9nRklwSU1LcXFSY1dWWEFmVzdWRnotWHljTUpmOUg4ay1fcDNRNjMwd2FnbFZfNg?oc=5",
         "published": "Fri, 30 Oct 2026 18:40:00 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie unter 100-Tage-Linie - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEJLbzh5NDJzejJnS2l6VmxvYXZSbVV3M3dXdWFjaERRY19hZW9CVnBkVkRtRmQ4RFBWT0NmdGNyNXZsYWRpTFZaSG5lXy12eUVEaWtnVGtQR3FLcDBiM3BPQ2dxT0NBdGhpT1ZSNWhEMFJaVkM4QjA3NDJvTTk0STZ3?oc=5",
+        "published": "Sat, 31 Oct 2026 06:56:00 GMT"
       },
       {
         "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
@@ -184,11 +189,6 @@
         "title": "Wie Nvidia, Caterpillar, Cisco, Merck Co., Wal-Mart und Chevron für Gesprächsstoff im Dow Jones sorgten - Börse Social",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHdHMXRMdmlkVDJUbE9MalA3dTUxUnRZM3pncmtEeVQ3bUYyRkxYNmp2TVVRRlJCVkYtS0hDdmd4RjF5dnBCckNZcUNXM0dCcGlid1AzZF9TOFAzX200NWFOdVpXQjdjbFZEU3pzdWFUZTd2MGY5eTNveXgybzBBTUd3Vl95OW9CUGp1ejh1enliZVZSU1pNY0l3eVpLeHUzWGRUS3lsbHM2V1RveXd3d1l0MEdDb2dTODNjYmZIYWlZR3BRSUotd2d3Z1VWVzJETkl5MA?oc=5",
         "published": "Sat, 31 Oct 2026 04:15:00 GMT"
-      },
-      {
-        "title": "Apple-Aktie im Blick: Rückkehr an die Weltspitze – NVIDIA verliert 5-Billionen-Dollar-Schwelle - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzVUeXktQUhfRnowWjFwNnFLQWVDSHhjek1VLUVja0FlcnRNQ2FnNTkwTTNvQnNpTVlSWV80WEpvSHJIV1ZoazBHazc2UXNkR2psUjN0WUpPZTZySDVwTmpTSkZpd3VzY25WUGhvcEZ3bGdoRTNoYjVfOUljcy1BZTB4d040dlB3STROLTNWLVRuZnZBQkdlbmF6aFE1NV9BRDBpQzYyTHMzTWw3cC1MeUxHWHhCZHoxbVZWaHAyMmJTcXdVZEstVTBYQjRPSklIS3NUU0w4SXJwT19aNk5B?oc=5",
-        "published": "Fri, 30 Oct 2026 16:37:39 GMT"
       }
     ]
   },
@@ -210,16 +210,6 @@
         "published": "Sun, 01 Nov 2026 00:42:00 GMT"
       },
       {
-        "title": "Die erste Aktie entstand vor knapp 400 Jahren – dahinter stand ein brutales Unternehmen - Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNU5qbXBKV3VOVGZiRzVPSWFFc3dXemVLMzhpMkNmdEFxRWN0dy1GenZUMG1xTlJYWGRndHJHeHdOUmp6d00xR1pvNkNTakJ3SHRvNTE1RjM4cVVlQVphS3NIYlBWUVFrUl9UM3hQdEFMMHVUV3dnZnp0U1RUNFN5LUlkVkNxM2pvN2pRRmRId1lmdk1vVWF1VV9FS3JUT2hUNnRlRnRMMWpULTBNQWphYkNIUlJGX1l3RjFrRDkxRlV2QWl0ckcyUmJZdnVVQUJwRHNN?oc=5",
-        "published": "Fri, 30 Oct 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Christian Stocker in China: 50 Unternehmen begleiten den Kanzler - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckR1dWY2aUdVSXdMMHh1clB1NlIzejFDXzVlT1hKSThLM0RHeVZwc1VUMWZpbUNDSmgwVFd1TWZ1X1U4OG5KUFZCaHdhY3BqWVV3QlhxWHg0dUVyRGg1aVJTSGlTVERKRmFLQ3l4cjlObXpZZDN0T3ZtdXpxM2JVWm5pYmZYLTBEeUhrT00wYmVuTmcxdmhmcTlpRVlmSHVEeW9taGdFZ210ZW9tSUpxX3BsaDRrUQ?oc=5",
-        "published": "Sat, 31 Oct 2026 15:03:03 GMT"
-      },
-      {
         "title": "Weiterer Tech-Ausverkauf an der Börse – Google verliert 500 Milliarden Dollar an einem Tag - Watson",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm9MRXo2V3FwZFhsMFFvWlA4Q0NMMEltMTkwdlJxSUFuZEZ5aDFxVk9oQ0JKbzFHUWVLU2l3VzBCSW9LX0NCYTRob09oMHVyMUtWWF9HbjZyczV0WHVLZ3JjN2JTM0FFamFsZDl4OC1DNC1lbmhjazk1R0FycE80SXNsVlotTnVjMnU4anZuS2JmS1RfYnhyWGI4bWoyUlhQQ3BIR2M5WGFfQlRoYnhfeHg5d2t3bUty?oc=5",
         "published": "Fri, 30 Oct 2026 09:25:39 GMT"
@@ -230,9 +220,19 @@
         "published": "Fri, 30 Oct 2026 16:12:44 GMT"
       },
       {
-        "title": "Nordkorea unter Verdacht: Milliarden-Hack erschüttert Kryptobörse Binance - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeU81TXE2am96SG8yWnVyWHRGMTAzdDBFNUtpSEQ4c2lwNVpTb01CbTNFODd0bHJYejFicWd6ejU0aHhORmxDeWZUYXp5NU1LMUx6Z3dfNzdWYVR6Z0RXZFV5VldwaUN6R1B3R1hkT0JoNGVnRW51UDNuajRhTmtEY0hpMGtTdW9SdHFndm43cW5YX19nRDV2YmF2RWtBaFNiVVF6bWRWR0RDVmNQSkpacDVOdUV4bGgxMG83Z3FzQ1FtV2s2?oc=5",
-        "published": "Fri, 30 Oct 2026 08:32:00 GMT"
+        "title": "Ostdeutsche Wirtschaft bleibt optimistisch - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjZmbjluV0trSGxxNnkyTnFkVER0bUdJeUc1V1pkMlBMT1lOSXF0ejNYV1FwbmF1NkdnYjVIOURibXNiMEpod1VieWgtN2lVdjlqd1B2S2pKd3JhSV9aTjJaNW90UDZlSm9rNTBMZVdQS1hGbi1NakVGQmRIdnB1bGlkTjNHQlZjUFplN3lRa0tJNVXSAZMBQVVfeXFMTlo2Zm45bldLa0hscTZ5Mk5xZFREdG1HSXlHNVdaZDJQTE9ZTklxdHozWFdRcG5hdTZHZ2I1SDlEYm1zYjBKaHdVYnloLTdpVXY5andQdktqSndyYUlfWk4yWjVvdFA2ZUpvazUwTGVXUEtYRm4tTWpFRkJkSHZwdWxpZE4zR0JWY1BaZTd5UWtLSTVV?oc=5",
+        "published": "Fri, 30 Oct 2026 09:19:00 GMT"
+      },
+      {
+        "title": "Binance gehackt: Größter Krypto-Diebstahl der Geschichte? - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFJhRjlPc2VHSXF1ZTZRbTZrODNlMlJyVE0tTjlpdUZ2eGY1WWFmQi0tYXo4U1BSbTdLU21mbTUtZFg5a3p6X3FqTkhZRXNaUXJjTE14R0ZHZU1QZ1pIMmgxT0pOZEdranRwbC1lS2hSTUxhcy1sVmplNHNvaGtqMlRCdjByMlhLb3gteTVuZlRmWUVFMFE?oc=5",
+        "published": "Fri, 30 Oct 2026 07:34:09 GMT"
+      },
+      {
+        "title": "Krypto-Börse Binance meldet grossen Cyberangriff – Milliarden Dollar eingefroren - Watson",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnBialJlbEhzZENDb1RiV2lXb2pGRWFuSE5MLWRNVG9sMGd6NDNLbl9iWFNpbGFuVDdyWTE1alJZR2pyQi16TWtHUEc4SjlxcnJ0d0JpSS03MFk4cFZfd1JGWnNJTGhDU0Y1bE54dDZGLWhYZzMzbUJXdUoyb0xRNGN4bl83aWluWVU1dXY2cHc0Z3U1QTJ3VHUyVjVkMkhBR3Zfb1VoLXM1ZWxVWVZQM09NVDhqeUhtYk5wd0wtdw?oc=5",
+        "published": "Fri, 30 Oct 2026 05:20:33 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -240,6 +240,11 @@
         "title": "Die 8 besten E-Commerce-Agenturen im Vergleich - OMR",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lWmNGMm1iOV94WHBZZjNtQTRXRlJ0YmYwWTN2cU90NVZ3VUNEbVZaWGRiMy1RVEY1SGRoUU9OMjNGWlllNVA2Mnl6RTBoQWN6RXJJODNpY2JTcXFKMHViMktrT2dlblU?oc=5",
         "published": "Sat, 31 Oct 2026 05:35:21 GMT"
+      },
+      {
+        "title": "10 Jahre MYI: Vom Berner LAN-Clan zur Agentur hinter HeroFest und gamescom lan - esports.ch",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGItakNWOUFkQmM1WE9odm5sclBoNXN6U3dIWWZ1bHBsV2pvcG9uSGZWNkp0OTJfRG15eTlKTkxxU1RVeEJ4ZVJlajdpNmZWbDdDVTlOUXFpTXBQN2JuX09nM2VPVTlycDhVMW1UQThkNkVhdHZzV2NjQUNqdGFocXVTNzZTRk81ajVQV3Zyb2JPdW9HaEM2OFpEbU8yTmlYeG00?oc=5",
+        "published": "Fri, 30 Oct 2026 13:27:57 GMT"
       }
     ],
     "Technologie & KI": [
@@ -259,14 +264,14 @@
         "published": "Fri, 30 Oct 2026 19:11:02 GMT"
       },
       {
+        "title": "Microsoft Teams: Zwei neue Einstellungen trennen KI-Funktionen und Transkription - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFM0VmIzUE0yd29kUTNBbDBjaXk3LTAyc1ctRElJWDBqSnkydW13WXdrM0laNzVPYVJxOGh3RjZkcFF2NEpOSTZiU1JmQmhqd25rSmtURkFPUTRkS21LMldTeWhhU2wta1haM3g3S2FEd053YW9ubkg1T3hyRHBjNXZlZHNMWFBvd29mLU42N0ZxRmJiMHFsQ0ctVzhqeG9kaTZiWVpLMlVNRXpVVVc3SDRPOE96QkU3bzR4X2pyamxnN1VfR3FhVDNfRQ?oc=5",
+        "published": "Sun, 01 Nov 2026 04:43:02 GMT"
+      },
+      {
         "title": "Nasdaq: KI-Sorgen treiben Anleger aus Tech-Aktien - Golem",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2hHS1pDU3Zua3NSd3dHU2xwUlp2VmFwRkl3TXRoZ2RZUVc1Wm1mOVp6SHJ6dUlzWnlhaWE1T3pMVGdvOFVxZURITk1wMHAybklXYTZBWE1BSG1zdzR6RzRKT2lPYVRNMnkzMnE5OFBfZHhLLWV5WUZISklYcU5yVXp6WkpqQjlxYlg2MzlKMm5jejl3SXc?oc=5",
         "published": "Sat, 31 Oct 2026 13:38:01 GMT"
-      },
-      {
-        "title": "Aktienschwindel statt Superintelligenz? „Mit jedem Kunden werden KI-Konzerne ärmer“ - Salzburger Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEFWRi16LUFSMExKcFRHSXVGdXFnMGVoa1R2bV9ZWnV4UkhyTXBYczBtUGNjTHEwVzBkd25KdURjdVV0V3NmOFA4cWdtX2pFaTRYQVNJaHlfLXh2RU1oNktwNUdyTV85NDhIQ2t3X1E2dmZTVXduMFFVMDBzMUtPX1B1bzUyVmZSY2RheUVtd0tuWFEyY0lFYzJyd1hIY0tNOXJ5R1hQSjRsT1BGTW5nRTRyaFJ6d00wSU1zdUdadGxOd0tYbnNQazZiVEVxdw?oc=5",
-        "published": "Sat, 31 Oct 2026 05:00:00 GMT"
       },
       {
         "title": "KI für Unternehmen: Trends in der Technologieausbildung im Jahr 2027 - Vietnam.vn",
@@ -274,14 +279,14 @@
         "published": "Sat, 31 Oct 2026 09:07:32 GMT"
       },
       {
+        "title": "Aktienschwindel statt Superintelligenz? „Mit jedem Kunden werden KI-Konzerne ärmer“ - Salzburger Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEFWRi16LUFSMExKcFRHSXVGdXFnMGVoa1R2bV9ZWnV4UkhyTXBYczBtUGNjTHEwVzBkd25KdURjdVV0V3NmOFA4cWdtX2pFaTRYQVNJaHlfLXh2RU1oNktwNUdyTV85NDhIQ2t3X1E2dmZTVXduMFFVMDBzMUtPX1B1bzUyVmZSY2RheUVtd0tuWFEyY0lFYzJyd1hIY0tNOXJ5R1hQSjRsT1BGTW5nRTRyaFJ6d00wSU1zdUdadGxOd0tYbnNQazZiVEVxdw?oc=5",
+        "published": "Sat, 31 Oct 2026 05:00:00 GMT"
+      },
+      {
         "title": "Neuer Literaturpreis ehrt Werke mit KI - Entlebucher Anzeiger",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmhSeV9qNFZiQzRjZHV2alFtODhEUlpUbXpyZUYzdXdCZExyOUZ4NHB2bWE2YjVraXJ4SUFYRXhFT0JUVnF3b1RuNS04a1RWUmRGYnpwYjJoR0dyN3RfcnAtVFJEMnUzUnk3QzVVS00zZDM0Q1BxRGNvS25YbnBLV0FuZjdoNUdaM05pX19JRExFeGdWQno4bzU5RGo?oc=5",
         "published": "Sat, 31 Oct 2026 15:00:00 GMT"
-      },
-      {
-        "title": "Leo XIV. drängt auf internationale Regeln für Künstliche Intelligenz - Katholisch.de",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHFWT2V4RHNOODFTb0xBdkxzQnVELVBwNnhYLVBoVXdERlE0elRoRngtc3RCbFRVLThRTElyb0RPTjJHWk04cVl4S3pXVmlXQVE5WDBHaGtmWERiZ3hDTlJ2MUhlZ0JtZzM0eEVBVUs5cUtvLXE5V2NuVE83T0M4VjhURjBxaUJaXzFFWTRHeUktYTRhbE9aUmJhRjNTM1V1bExqVjk1OFhlREdqckF5LWFGMEI?oc=5",
-        "published": "Sat, 31 Oct 2026 07:40:39 GMT"
       }
     ],
     "Meine Aktien": [
@@ -296,14 +301,19 @@
         "published": "Sat, 31 Oct 2026 17:12:00 GMT"
       },
       {
+        "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
+        "published": "Sun, 01 Nov 2026 03:57:42 GMT"
+      },
+      {
         "title": "KI-Beben entthront Nvidia – Apple ist wieder die Nummer 1 - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblNrc1FXWTFCWEw3ejhRRE9pU3Z6RW5mSkg4aDhteVNxSW00dGwtNVlMNlNET3JGa2FRejhYZDA3em1uVEZ6Z2hGOVd3MlNycXUzSUI3R3RhUHlLMmx0Zi1vbEhTcDQ3c1FaWTdocjNOTjZxMU5nTmloVHJSbmwzNXpkMWlzLUplY1pSRjZzMHgwSldjMWJoNm9nRklwSU1LcXFSY1dWWEFmVzdWRnotWHljTUpmOUg4ay1fcDNRNjMwd2FnbFZfNg?oc=5",
         "published": "Fri, 30 Oct 2026 18:40:00 GMT"
       },
       {
-        "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
-        "published": "Sun, 01 Nov 2026 00:55:08 GMT"
+        "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORk9VVW4tMVhSNTY1LVliVi1MMmJRY3FGempueU1YQU44NndmSUM0QkFpeVdYTDZnQ2NMd25CZVFEa1pERHZNZGJIaUVUWG5ZZHUyUXAyZUZpRk51WjFydHgzeGZxVWluTG1EbjlocTAxUmtNTW15ZnZaVjNqeDVDOVlENldPLXR0eGtnODE5OHNYNWlpWUNxbThzNkdvTUtOcl9wUzA1Q19PYlJyX0lMUHNXN2cta0ZiMWVzUEV5aHo5SGZBSWYtNXlRbDN1NjFSVjdiN2FvRVUwRFdHMUF5Wm4tUGZnMUdzT1R4THlhSkxXYlpVcUp4TFFfQlRFdW8?oc=5",
+        "published": "Sat, 31 Oct 2026 17:29:13 GMT"
       },
       {
         "title": "Nvidia-Aktie unter 100-Tage-Linie - boerse.de",
@@ -319,11 +329,6 @@
         "title": "Wie Nvidia, Caterpillar, Cisco, Merck Co., Wal-Mart und Chevron für Gesprächsstoff im Dow Jones sorgten - Börse Social",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHdHMXRMdmlkVDJUbE9MalA3dTUxUnRZM3pncmtEeVQ3bUYyRkxYNmp2TVVRRlJCVkYtS0hDdmd4RjF5dnBCckNZcUNXM0dCcGlid1AzZF9TOFAzX200NWFOdVpXQjdjbFZEU3pzdWFUZTd2MGY5eTNveXgybzBBTUd3Vl95OW9CUGp1ejh1enliZVZSU1pNY0l3eVpLeHUzWGRUS3lsbHM2V1RveXd3d1l0MEdDb2dTODNjYmZIYWlZR3BRSUotd2d3Z1VWVzJETkl5MA?oc=5",
         "published": "Sat, 31 Oct 2026 04:15:00 GMT"
-      },
-      {
-        "title": "Mercedes-Benz-Aktie: Günstig genug zum Kaufen? - sharedeals.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBURzluSnFlVEo3bmFkWkZ0MnRUX2huMTFQSFhSZnhrMEpUbVd0aWQyTHBoczBfZFBlenhzWTk2aEpaSFBlMHFQcjNneFRUZm9VNTZieUJxNFN2dTZMc1FISWZscW0wS2NIeGw1SmdlNjVxckJOTm9YY21MTjM?oc=5",
-        "published": "Sat, 31 Oct 2026 11:51:50 GMT"
       }
     ]
   }
