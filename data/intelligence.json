@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T17:29:59.266720+00:00",
+  "fetched_at": "2026-11-01T18:01:37.649041+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -16,6 +16,11 @@
         "title": "Kämpft für Burger-Fans - Söder sauer: „Habe mich bei McDonalds beschwert“ - Kronen Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ieV9GVWpHN1F1TUJmaGNzcWVPUWhMTEQ1UlB2Ty1sUU5NV18xWWZ2Z25NNnl5TW5NRUVCQTJMLW9Wdw?oc=5",
         "published": "Fri, 30 Oct 2026 17:57:00 GMT"
+      },
+      {
+        "title": "McDonald’s in der Krise: Warum die Kultaktie derzeit so stark unter Druck steht - Fuldaer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1QtX0ZXWG5DbV9ZM1Y3dTFxMEdzX2ItQnBrejFmdi04b2d4Y3BSWGI2SFNUS3NKN251TEdKSFdXOWdpRkdpOUVnQUJCNGJ0QTBiV1o4RmctWmswamtocnl0WG5leEg0am11UXI3cnNsRE5FNVBfRDlKQThneWNsOTJlNVk3UXhqNDZBUHU1azMzZUQwRlF1WURmY1pPNW85WVR0MUFvSTJQeFBIQ0phei1VRGg1ZmtLUHdKbnVEMVdVODJQazAzai12SkZTQm8?oc=5",
+        "published": "Sun, 01 Nov 2026 17:44:02 GMT"
       },
       {
         "title": "Analysten sehen bei McDonalds-Aktie Potenzial - Finanzen.net",
@@ -36,11 +41,6 @@
         "title": "Dow Jones Gewinner: Amgen, McDonald's und Nike trotzen dem KI-Crash – ein Krebsmittel, ein Burger und ein Turnschuh schlagen die Tech-Giganten - AktienCheck.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFhHZmFLbzlpcDRmOVVPVTRFMk40V2RZZklsQTgwcjRCSDBDTDFLZWlPZU5JOFgzVVFUTjl0SEhOb2I0VmpyZ1FUZFZPTzJDZHRld1dOSXZCNXJGSDVKSU1icjZGSWFOd1FPc0ZnemVKMnAtbTdsUVVxN1dKb1ppOS1nRHQ3Z05fZDNaZERQZnVUY2xmZWhoZlpCY0tySk13X3hvZk11TVNqM09aSDRtWA?oc=5",
         "published": "Sun, 01 Nov 2026 11:07:17 GMT"
-      },
-      {
-        "title": "Neuigkeiten: McDonald's - Behaltet den McRib im Programm - openPetition",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczVXeFdlMW1HS3ZSQXMwc0NIcGZ1NUdTZVlfRVo5Rk5JQ2tDZV94eEJ5Qk1leTQxNVZTNVVKSnI1R2g4RExYcm9mUGF0alJuTUNScS1tWlo0N3AtbU16X1dWNy1oSGpyRWlHNjVUMm9MLXBlNnNzYUpzWXhNR1BPV05XdWlmcE5Vb0k4LURvSQ?oc=5",
-        "published": "Sun, 01 Nov 2026 03:35:00 GMT"
       }
     ],
     "Burger King": [
@@ -90,6 +90,11 @@
         "title": "BOTSI®-Advisor Abstufung Omnicom Group von Rang 364 auf ... - boerse.de - boerse.de",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnRUVEY0bE95TVBvblZpTy1TVDNaYWxFYXBucWUwd0g2ZjlGOGxtNFpQbmtwLXdjYTBSQlBDdWo1RGlwYUxtWjBSWW5US082dE54NkgwWXczR2lMUVFZQ2RoZEN5NUxtd3BXbTBWa1V6dGJTR3dQcHlrcXkyT25vZnA2MHFhcExpbFV2RnlnUFpndEphYVd2Nk9Ic2FQUU4xVXR30gGjAUFVX3lxTFB2dFRURjRsT3lNUG9uVmlPLVNUM1phbEVhcG5xZTB3SDZmOUY4bG00WlBua3Atd2NhMFJCUEN1ajVEaXBhTG1aMFJZblRLTzZ0Tng2SDBZdzNHaUxRUVlDZGhkQ3k1TG13cFdtMFZrVXp0YlNHd1BweWtxeTJPbm9mcDYwcWFwTGlsVXZGeWdQWmd0SmFhV3Y2T0hzYVBRTjFVdHc?oc=5",
         "published": "Sat, 31 Oct 2026 09:31:00 GMT"
+      },
+      {
+        "title": "Lidl bündelt seinen europäischen Media-Etat bei Omnicom und Havas. - turi2",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQndDM01yWHpCbm56Ym9HTjdoaWJqSFAwSTJDN3FjVUk0eUF1M1NzR002SkpaMjhVZEZScW1udVJjN2EwbGYwR2hqalVvTXROSFQyZzJleXhPTncydHBMNzkwcUdHSmZwYldWbkRnUVhrdzUtal84LXM0SzBNaHpITXRFZ2NsUTFnUVd5dERMa25idDUxUGZNWHRUUXZyUQ?oc=5",
+        "published": "Sun, 01 Nov 2026 17:10:00 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -109,9 +114,9 @@
         "published": "Sun, 01 Nov 2026 12:36:16 GMT"
       },
       {
-        "title": "Mercedes-Benz A AMG – Verbrauch nach Norm und in der Praxis - Autohled.cz",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pb0ZxYXZnWTUyV0dsaUxYcnZWbTN4ODNqM0xvR01RQi1WTGxjd181djJtM3pWaUQzS0RVdnl3NkxzMXJWR0QzWEhDS21jaEdxOW80V0swZ1UtcG9sTDZIZ3Q3d3JVYk5W?oc=5",
-        "published": "Sun, 01 Nov 2026 16:14:55 GMT"
+        "title": "Mercedes-Benz AMG GT 4-Türer Coupé – Reichweite und Batterie - Autohled.cz",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DZjlIOEhkX3M3bW1rQm42b19lTk5ta0hMUXk5V2pjTEZESTVIZm1GYlFaMGJyTmJKUmJjMkJyX1pzcWY0UHYtTXJrUGVxeU12OHc5aTltbFpIQTJ5dUFHRzhQcXEycUR6VF9XS3lkTmt3bkVrODlWYnBvSmo?oc=5",
+        "published": "Sun, 01 Nov 2026 14:43:02 GMT"
       },
       {
         "title": "Mercedes-Benz Aktie: Deutsche Bank kappt auf 65 Euro, sagt Kaufen - Finanztrends",
@@ -124,14 +129,14 @@
         "published": "Sun, 01 Nov 2026 01:40:06 GMT"
       },
       {
-        "title": "Der Mercedes-Benz GLC 350 e 4MATIC wurde in Vietnam eingeführt; der Preis beginnt bei 2,999 Milliarden VND. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU25ONmlCVkRDaF84elJOby1rU1hJTTZ2RHZ4XzV5MEtzamdmQlhMM2xCZHdaRU5HWTNOY3Y4MUdIcEFYNnpGZmJyTi1hTXZwUW05NkVHVjhxd2NZOXJOYUIwT2JVUUlHS3dIdHgtRHM1b21zSzgydmlGYmVZQVBtSXkwMXcxYnRyVlVuNGFJMTFwV2NIdXFjZjJObXpFUQ?oc=5",
-        "published": "Sun, 01 Nov 2026 07:18:30 GMT"
-      },
-      {
         "title": "MERCEDES-BENZ GROUP (EX DAIMLER) AKTIE Dividende | Hauptversammlung | Dividendenrendite | 710000 - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45QkZRSElXdmpnbm43SEExM18zYkxuQU4wZVhhd3RSQTByREN6V2NvS2k2UTZoUk1SNzBhQnJlaEhjaFNpWGV5UGxycHVrYW8tT3J4RmtMUnljQWFj?oc=5",
         "published": "Fri, 30 Oct 2026 21:43:01 GMT"
+      },
+      {
+        "title": "Der Mercedes-Benz GLC 350 e 4MATIC wurde in Vietnam eingeführt; der Preis beginnt bei 2,999 Milliarden VND. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU25ONmlCVkRDaF84elJOby1rU1hJTTZ2RHZ4XzV5MEtzamdmQlhMM2xCZHdaRU5HWTNOY3Y4MUdIcEFYNnpGZmJyTi1hTXZwUW05NkVHVjhxd2NZOXJOYUIwT2JVUUlHS3dIdHgtRHM1b21zSzgydmlGYmVZQVBtSXkwMXcxYnRyVlVuNGFJMTFwV2NIdXFjZjJObXpFUQ?oc=5",
+        "published": "Sun, 01 Nov 2026 07:18:30 GMT"
       }
     ],
     "Nvidia": [
@@ -205,6 +210,11 @@
         "published": "Sun, 01 Nov 2026 08:12:43 GMT"
       },
       {
+        "title": "Warum Firmen immer später an die Börse gehen + Gesundheitswesen: KI durchbricht die Bunker-Mentalität + Die Universalbank von heute heißt Kapitalmarkt - Table.Briefings",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNjlqcWJ2V0VMcExyOGV0dmlSWU8xRGVjMkEyQzZzbVpHT2F2ZEJUbVhxWUd6dk5ZYnlQMTVydlFjdWtQYm41NmUyUkY1WVRlOEFUY0VlX213ajctYlE2OFNTczV2SWVKc3RxQnMxcWhkcUkyVnIwajVCZUhBMERDQmpxYU5rMExQLVpSd3N1aXRpbEt2LS1NSVVqcWZvWkZOM1o3V3U3dzlVSWtRVVFuTUpnenVEck1nbm4zcTZaeDNDWEkweHh3TWprSjhsT2hGdXJWc1NQVTJVMlpWR0dMNHI5NloyUTlVQmJLTkJRazN1Y1FGZmdMd2JOSEYtbHVnYWJqVGlyV05TUU9QXzByaGw1Zk5LeVpVWnFxdzllb1pySVlLMXc?oc=5",
+        "published": "Sat, 31 Oct 2026 04:38:24 GMT"
+      },
+      {
         "title": "Binance gibt Kundenauszahlungen nach Hackerangriff frei - Watson",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFhTR1JyaDFuMFpJWkllZWVzMF9ZS2lSQW5Ob0xKczl2TVNKNkxQNVlJN2d5SE1lVjRIcUxib3dwTURlWF9SdndPYnotbndHQ1ZnV0h3dEM2YVBVSGktUklkOHpGVmJtTTc4TW94b0FJbDlPTUpiLXpmVlAyQU5PRlVLOWlSOVRyUm95RlQ3RDJYVERtNkZ1ZXBfaDQtVEtmUFZEZG5lazVJQQ?oc=5",
         "published": "Sun, 01 Nov 2026 10:46:39 GMT"
@@ -213,11 +223,6 @@
         "title": "Halloween-Strategie an der Börse: Analyse zeigt Risiko - Kurier",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjRTRGUwa1RKeG5GRlBfdVBVVzYzVExLWl93cUY5cXFsT0JxeENkVGZ0ZlhXNlJZLWlfdDJTblFBUDdGRnphRDhxcTZTS1FJV19tYmRIeWJqZ3lLWl9Gd05Tb2xEblI3QmVvUDY5MXV4Mkl6TGloUG1pQmF5alBzU2ljQThQV0dSRWxkRTI3cUJWbDJFZ1ZPeVJoVkM2YndfWDYw?oc=5",
         "published": "Sat, 31 Oct 2026 04:20:00 GMT"
-      },
-      {
-        "title": "Christian Stocker in China: 50 Unternehmen begleiten den Kanzler - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckR1dWY2aUdVSXdMMHh1clB1NlIzejFDXzVlT1hKSThLM0RHeVZwc1VUMWZpbUNDSmgwVFd1TWZ1X1U4OG5KUFZCaHdhY3BqWVV3QlhxWHg0dUVyRGg1aVJTSGlTVERKRmFLQ3l4cjlObXpZZDN0T3ZtdXpxM2JVWm5pYmZYLTBEeUhrT00wYmVuTmcxdmhmcTlpRVlmSHVEeW9taGdFZ210ZW9tSUpxX3BsaDRrUQ?oc=5",
-        "published": "Sat, 31 Oct 2026 15:03:03 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -232,6 +237,11 @@
         "title": "Künstliche Intelligenz und die Zeit der Götter - Kurier",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdllfSFg4eXZjUUE0RDVibkZvaDZRSFZpMlVKd0xKcTMzR001aVlKX1RiZm01ZnR4VnNmenZyellmMExXZGZWM2hxYzg0WDliWUlzTG9CVVBYdWhUQkMxY0Qtbld0Nzl3cUo2UzZIdVFGXzc5dHlmR3ZkVlh4QjlYZzU1eHQ3cXVmYjRjaFB4RmtyQ3RqdEFoUjFzQkM?oc=5",
         "published": "Sun, 01 Nov 2026 17:00:00 GMT"
+      },
+      {
+        "title": "KI-Boom: Warum nur die „Magnificent Seven“ wirklich verdienen - t3n",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lNDVsdi1VTXZfVEFVd2xGSGRhanVqYU5tQTRqb0tPeU5ONFFOd2p0UDdJOGlZX2xqMldZa0RWVzNHbUxZc2pONDJYSW05MHZiODQ5a3ZORS1Qb2ZkYmc2V3AzdnVxU1Bub1pQdkJZMURPdjV6b2dBbw?oc=5",
+        "published": "Sun, 01 Nov 2026 16:55:00 GMT"
       },
       {
         "title": "Irland baut seine Rolle bei der europäischen KI-Innovation aus - The Portugal News",
@@ -254,19 +264,14 @@
         "published": "Sun, 01 Nov 2026 07:46:20 GMT"
       },
       {
-        "title": "„Die Produktentwicklung ist etwas zutiefst Menschliches“: Apple-CEO äußert sich zu KI-Rückstand - t3n",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmVfMUxNc3lMa0haOFc5VHd2NWFrcHJXZ2EzNklMcDU2NV96QW11R0RFc3ZhdkMydC1hOFRlNVJaVFNvRGRRNlZ6MXNDclNuSUdiNHBUWUg0aGw3OEZIcmZDdi1xNUZsV3J6MUh5UkljczVUS2VhS2dxNVMxSTFyYWFCcDBLTU8wR0JzcHJTZGZzLXl6T3Y4cTBpY0FGM1BUMHFrcFdCZ0lXdUZ3blZBTGJFdXVtaVJtSElVN01xYV9GUQ?oc=5",
-        "published": "Sun, 01 Nov 2026 10:09:24 GMT"
+        "title": "Technologie: Papst fordert institutionelle Aufsicht für die Entwicklung von KI - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWdYa3AxelA0dVhlNkN4TS1wTzlYY2lBLVlVekdXd2xjZTlQUU5Gb1lsR3FBTWpZbE1WdXJOMlJCOGwyeG15bUhUTVJoWGNWREg4cW82al9MRVNGMHpKam5OeFJZMzlPVmZPN19KTzNMOXhVUGljckp2Wm5nbV9JZlpCSWVhUnNWNWdneTRRazluWDFfaW56NXQ4dlZqNXZlMEVhTFdvZTlFQXhMMU1SN25xcjlUTjRPMnlPUkJMTGY1YWd3RXRmenN5X2dkZw?oc=5",
+        "published": "Fri, 30 Oct 2026 19:11:02 GMT"
       },
       {
         "title": "KI-Investoren sichern sich gegen einen möglichen Abschwung des Technologie-Marktes ab - aktien.news",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZqVW1hMXZYWXZaQ1FTckEyM3lOZmxpd2Z5b2w2YXdZS1ZPSHdMdTh5eFVudWhQbFpfeU5fVVVxNUFJLWFMR1JveGRsNUs3dktmQnZlVlNWWjZ0SjFub3ROTHZLRkU0ejNFeDA5Nlg0bG9Gd1lBZ09VeFlnUF91ZFBDQzdfcmQ2UzBlbG11SjhlSjlPMnFVU25hV19HSWRTa0VhcXEtRHctMHRtZ2c?oc=5",
         "published": "Sun, 01 Nov 2026 07:40:35 GMT"
-      },
-      {
-        "title": "Technologie: Papst fordert institutionelle Aufsicht für die Entwicklung von KI - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWdYa3AxelA0dVhlNkN4TS1wTzlYY2lBLVlVekdXd2xjZTlQUU5Gb1lsR3FBTWpZbE1WdXJOMlJCOGwyeG15bUhUTVJoWGNWREg4cW82al9MRVNGMHpKam5OeFJZMzlPVmZPN19KTzNMOXhVUGljckp2Wm5nbV9JZlpCSWVhUnNWNWdneTRRazluWDFfaW56NXQ4dlZqNXZlMEVhTFdvZTlFQXhMMU1SN25xcjlUTjRPMnlPUkJMTGY1YWd3RXRmenN5X2dkZw?oc=5",
-        "published": "Fri, 30 Oct 2026 19:11:02 GMT"
       }
     ],
     "Meine Aktien": [
