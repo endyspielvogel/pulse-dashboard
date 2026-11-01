@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-11-01T16:06:02.328104+00:00",
+  "fetched_at": "2026-11-01T16:38:28.627059+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Burger ohne Barrieren: McDonald’s Steinberg-Dörfl ausgezeichnet - BVZ.at",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzZ4dF9wRXZ5UzJRc3otbDF0bExMZDM0dUIwZUtTbmVGWmZva0JWQVNZczN5TWlHdGxLa0hHOVA0UU1PTzFucWZQQ2kyWVg5R0FUUy1lUmJ1VkEwXzRiSDFMT0FnWnBYZ0dJb3VJRGRuNHV0ZjMxeEl3cU8zOTEyYkJ4Z19PYWs4bklVVmdfbzIzWWRoTTNoWUl5X0lqN0VYTVNBU0g2dw?oc=5",
         "published": "Sun, 01 Nov 2026 10:13:00 GMT"
+      },
+      {
+        "title": "McDonald's bringt beliebte Klassiker und Nostalgie-Gadgets zurück - CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcXEwaUgzNDRjMXExdDJ0NnBDSjRpMDdJcm1BTnJlU2V2TXFEaTlzNmJra2xEX0dYQWo4VXpnbTNWYnk0MFNsZGt2UTFMTmJDTzhyZlRta2wwS3gtMUhWc2JXV2EtZ05TdlV1Zzl0MGw2dmF2WDRrLUxIWHhyUTBkdl9lejg1d2J0WDVDelFFeUNwUmluNXBxMlNJWjNSLVFBRHJLTEhMOUJrcXBUQlprRWJrRVV3dDVhaWZFUFF1LVItck81THlWQ3hxejdPV3ZHaXpXZnRobkktdw?oc=5",
+        "published": "Sun, 01 Nov 2026 06:57:00 GMT"
       },
       {
         "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
@@ -26,11 +31,6 @@
         "title": "\"Bei McDonald's beschwert\": Söder kämpft um Kult-Burger - Heute",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzhfZjloa1lDY0wzVkFRcU1zSzJNS3RiN05MSW1wWHM2WHJnN1VoQzZWWnFxM3RWSW5VaVR1MXJTUDVxRmI0alhDNk43ZDZtREYzSkRhVnVaRjRUUGhlWjRRQV9CODRjRHN1N2stOFVTa3dQMzExazk2UWdzcUhsODNoNTNrY2gzTlBDcnA1aw?oc=5",
         "published": "Fri, 30 Oct 2026 19:26:00 GMT"
-      },
-      {
-        "title": "Comeback: McDonald's bringt beliebte Klassiker und Nostalgie-Gadgets ins Fast-Food-Regal zurück - CHIP",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFfWU5sSUE0MkJOSXFwVlh4N2sybjFUbUVDLUN4aUFsZEx0cW8tTlA3WVJibDJndDI4MjNxMlRfaDhNZXpoTTdPX0I3bk9pMW9HTWdHc2VWVFYwU1ZoUTU2RkpOOFVPS2J2ODd1RHhycTZCV2RpYlJldXJ3T0w2Q01WT2xFSnFVYk5UbmE0dEI5WnY2TXRTdDhZa0NMN0xmTDBxSmVONWZDclVXdmFGOXBUdWxjRTc1T1VZNFdZR3N6VXFwRmY2T2RDUWxteXpjY3BWMDlFSFNGYTQ5SVE3NzI0UkpSOU1LSEF1akh5c05WS2lzalhlNW5iWUJmM2Zu?oc=5",
-        "published": "Fri, 30 Oct 2026 17:40:00 GMT"
       },
       {
         "title": "Neuigkeiten: McDonald's - Behaltet den McRib im Programm - openPetition",
@@ -190,6 +190,11 @@
         "published": "Sun, 01 Nov 2026 12:49:00 GMT"
       },
       {
+        "title": "Anthropic-Börsengang: Frühen Investoren winken Rekordgewinne - Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJlY3Axd2Y0Nk00U2hKa0xHOU16dnlmOU14dWpIcEpjbjB1N3FBVDRNQlNqdnY5REtSNHdvcHhhSUxYQW9yRl9lbnNWLXd3dVhxREtZb2lZaTBnaDdLMUJJYjZnUFI1dmIyZ001U1hlNVliN3NUNjJPQ1dmSi1vNmFWb3YycWtNMTd2cTM2Zmt6NVRMMVdLZ1lVMGNtZ1lrQkRRSTFxMA?oc=5",
+        "published": "Sun, 01 Nov 2026 12:04:29 GMT"
+      },
+      {
         "title": "Zwischenwahlen und KI-Investitionen: Warum Tech-Werte wanken - NZZ",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3ZFX1VaYUoxQ3hWN1ZDN3hLQW5ieEQ3V19qMmlVVzVKQnZiaURsUlJmWDAwZ09SSkMzZmQ2d2FIbUhPc0VqLVhQR0hIcVR3a0FZSFRUQ3BFYVBOemI2V1dZLWM2M2w3UTF2S201TEVwcHdGTFljTlE0Tml3aFN3Um5jU3U3bE1JcExiLXU3ZXBMMktXSXFoWUh4LUpwcWxqUU1ETG4xM0VjREdnWVFSMVdmLWRxWkNWeTNkdE9MTU1LaDZ6dE42N0JqUkIwa1NaenZFVFRB?oc=5",
         "published": "Sun, 01 Nov 2026 04:30:00 GMT"
@@ -198,11 +203,6 @@
         "title": "Börse: Grosskapitalisierte gesucht – SMI-Höchst - Bock, Schaffhausen",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZRNGJlN0tMdnFkT0ZqeU9pSGo3VnRsLUdoQUl4Qm9nMVA2VDRLTGRaZWlEaGExYzY3Q2d4MkFtQ3lwVGVobzlPWkJydzF2QTJpMnZhU0JqTmY1UExJSFBKR3NYSWNnSXBWX1JLbV8yczdOZ24zZUgzd0I1YVVEV1B1VjdVWW1VdldnOWJ0QzktQQ?oc=5",
         "published": "Sun, 01 Nov 2026 08:12:43 GMT"
-      },
-      {
-        "title": "Die erste Aktie entstand vor knapp 400 Jahren – dahinter stand ein brutales Unternehmen - Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNU5qbXBKV3VOVGZiRzVPSWFFc3dXemVLMzhpMkNmdEFxRWN0dy1GenZUMG1xTlJYWGRndHJHeHdOUmp6d00xR1pvNkNTakJ3SHRvNTE1RjM4cVVlQVphS3NIYlBWUVFrUl9UM3hQdEFMMHVUV3dnZnp0U1RUNFN5LUlkVkNxM2pvN2pRRmRId1lmdk1vVWF1VV9FS3JUT2hUNnRlRnRMMWpULTBNQWphYkNIUlJGX1l3RjFrRDkxRlV2QWl0ckcyUmJZdnVVQUJwRHNN?oc=5",
-        "published": "Fri, 30 Oct 2026 17:00:00 GMT"
       },
       {
         "title": "Binance gibt Kundenauszahlungen nach Hackerangriff frei - Watson",
@@ -234,6 +234,11 @@
         "published": "Sun, 01 Nov 2026 08:31:04 GMT"
       },
       {
+        "title": "Viele Unternehmen stellen Mitarbeiter wieder ein, die aufgrund von KI entlassen wurden. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVdaa2IxMGtaQmsxdWRMVDdaVUtXaW83a1ZLVVhpMXB5R0NGVzAwak11aGh6ZTJSekJNNlFSb0lUei1PUTNHblpaZ0JVOUhhM251TWxyTGl2X2w1RHlBN2ZBU1BQUVV4NUlNeXVZWmJ5Wm9yaVhPXzlZRlV4cmtvVGptRjVLUnFaX1dNSngyZkdDZ0dUaThYbmxUdw?oc=5",
+        "published": "Sun, 01 Nov 2026 15:47:54 GMT"
+      },
+      {
         "title": "KI-Technologie revolutioniert die Recherche in historischen Archiven - The Portugal News",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzF5UW5LVTZHY3Zvc0R0RjhiMlJhWW5QUkF4aWIwWVhhemVQamlSUnpiTzUxR096Ynh5MUhDREhHQ0p1WlgtZjBmT015X2NaX3pqb01OckpLQmhLcDlQeE9OWUc2TVQxd2liM0lIYmpyR0o4VzlqTXRzWEpXR0o2T3EwaGFXSVBQV1dBMURWQzZiZExNaVppZEhNZVozelFSVWhSQVhOM3B4MlZMdlIxbG1Yc1p6UkdjSW5zZnNfcjRfS1dLRlJ0NlhRczEyNWM?oc=5",
         "published": "Sun, 01 Nov 2026 12:48:37 GMT"
@@ -254,11 +259,6 @@
         "published": "Sun, 01 Nov 2026 10:09:24 GMT"
       },
       {
-        "title": "Viele Unternehmen stellen Mitarbeiter wieder ein, die aufgrund von KI entlassen wurden. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVdaa2IxMGtaQmsxdWRMVDdaVUtXaW83a1ZLVVhpMXB5R0NGVzAwak11aGh6ZTJSekJNNlFSb0lUei1PUTNHblpaZ0JVOUhhM251TWxyTGl2X2w1RHlBN2ZBU1BQUVV4NUlNeXVZWmJ5Wm9yaVhPXzlZRlV4cmtvVGptRjVLUnFaX1dNSngyZkdDZ0dUaThYbmxUdw?oc=5",
-        "published": "Sun, 01 Nov 2026 15:47:54 GMT"
-      },
-      {
         "title": "KI-Investoren sichern sich gegen einen möglichen Abschwung des Technologie-Marktes ab - aktien.news",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZqVW1hMXZYWXZaQ1FTckEyM3lOZmxpd2Z5b2w2YXdZS1ZPSHdMdTh5eFVudWhQbFpfeU5fVVVxNUFJLWFMR1JveGRsNUs3dktmQnZlVlNWWjZ0SjFub3ROTHZLRkU0ejNFeDA5Nlg0bG9Gd1lBZ09VeFlnUF91ZFBDQzdfcmQ2UzBlbG11SjhlSjlPMnFVU25hV19HSWRTa0VhcXEtRHctMHRtZ2c?oc=5",
         "published": "Sun, 01 Nov 2026 07:40:35 GMT"
@@ -276,14 +276,19 @@
         "published": "Sun, 01 Nov 2026 10:13:00 GMT"
       },
       {
+        "title": "Nvidia vor Q3-Zahlen: 279-Milliarden-Dollar-Wende stellt das Fabless-Modell grundlegend infrage - Ariva",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWtyZFN3Yk9zZ09aWXZ1LUp0aEduWm5uMDR2WVVKZUF2YmYtUXUxZzFLYVFtZ0UycmxnSFpnNjNucmFxN0g2RF9VRVV3aHFVMVMzZWJkdHZHaVN6em44YTFBdzh4M1YxU0lJUHYzSVBnXzliTS05YXFPNEJHZlRyQnFhQ19xVFZsZEswWFBZSENhZGVBQjI1MGhR?oc=5",
+        "published": "Sun, 01 Nov 2026 11:40:43 GMT"
+      },
+      {
         "title": "Mercedes-Benz und der Vatikan: 100 Jahre Geschichte der Papst-Automobile - Motorsport-Total.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGo2R0txelNEc2RBTWV4c3BTd0dOdjJVWWZ4TXVWLTluVzNfN0ZuMGI1WGxvcHdnMlNaXzZiSWd1Y0wzSlJPMExobjJrOUYzaEZaUDJlaDktMDB0Z3JDUUlTdjVlc2hPc1ozR0JYVmItZmFzWGRoVFlvZzBFa3ZBMGRiTHRScloyTThLak9mZjJHemltWDNYRlQ1QVVXMlRSMlpldm5pQXE1cUllaERyZkQySjRWT1FCbk0tc2tTVXZycElsaGc?oc=5",
         "published": "Sun, 01 Nov 2026 10:22:04 GMT"
       },
       {
-        "title": "Nvidia vor Q3-Zahlen: 279-Milliarden-Dollar-Wende stellt das Fabless-Modell grundlegend infrage - Ariva",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWtyZFN3Yk9zZ09aWXZ1LUp0aEduWm5uMDR2WVVKZUF2YmYtUXUxZzFLYVFtZ0UycmxnSFpnNjNucmFxN0g2RF9VRVV3aHFVMVMzZWJkdHZHaVN6em44YTFBdzh4M1YxU0lJUHYzSVBnXzliTS05YXFPNEJHZlRyQnFhQ19xVFZsZEswWFBZSENhZGVBQjI1MGhR?oc=5",
-        "published": "Sun, 01 Nov 2026 11:40:43 GMT"
+        "title": "McDonald's bringt beliebte Klassiker und Nostalgie-Gadgets zurück - CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcXEwaUgzNDRjMXExdDJ0NnBDSjRpMDdJcm1BTnJlU2V2TXFEaTlzNmJra2xEX0dYQWo4VXpnbTNWYnk0MFNsZGt2UTFMTmJDTzhyZlRta2wwS3gtMUhWc2JXV2EtZ05TdlV1Zzl0MGw2dmF2WDRrLUxIWHhyUTBkdl9lejg1d2J0WDVDelFFeUNwUmluNXBxMlNJWjNSLVFBRHJLTEhMOUJrcXBUQlprRWJrRVV3dDVhaWZFUFF1LVItck81THlWQ3hxejdPV3ZHaXpXZnRobkktdw?oc=5",
+        "published": "Sun, 01 Nov 2026 06:57:00 GMT"
       },
       {
         "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison - Finanzen.net",
@@ -304,11 +309,6 @@
         "title": "Nvidia Aktie: Amazon und Intel drücken die Chipwerte - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEVXcXd6S1V0UlQ0UW9kcEZQOHNHWTQxTzBpSm5ORV9IX093QzJFWjR0RXRxNFlwWWYwamtIYmlNdkVsX2N1ZFZ4aDBjTktYU1hIR2hjY2tFbnkxTEo0eXlPdkEzVmlBTzNvSjlHNzFJSUlOZzNCWXZ3SkM5amQtYTAwT3hFYlNGZms4T0hqY2ZyTzRMVEc0ZUhrMTdRTFRFTnMybnFXYw?oc=5",
         "published": "Sun, 01 Nov 2026 07:49:06 GMT"
-      },
-      {
-        "title": "Mercedes-CFO: Wer den Vorstandsposten von Harald Wilhelm übernehmen könnte - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmQtYkxhU0M1MFVZNHk5UGhiT3ZodDltTEFGYl9PT3BIQ2hMNmpUbk14ZGRPcG9HNU9mNG5BRHZGMWppWGV5WE15Uno1NmpreVB2Z21wUXM2aS1yeWpXVHh4bU5UUE5ZY2ZNTkFDLXR4dUJtVnhsQ0FDandUaWVfUW5QM0R3bFlJa1RmV2tyc01SWGpRM05NUUZXNEV0bWc0ZlZKdG1WS0wxTGRsT3Uwak9LOUJCN0hRNlE5Q2c5bzVjWTVDZEE?oc=5",
-        "published": "Sun, 01 Nov 2026 12:36:16 GMT"
       }
     ]
   }
