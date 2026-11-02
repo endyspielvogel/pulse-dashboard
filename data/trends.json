@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T21:46:09.494470+00:00",
+  "fetched_at": "2026-11-02T22:28:40.796662+00:00",
   "countries": {
     "AT": [
       {
@@ -28,7 +28,7 @@
       },
       {
         "title": "ski",
-        "volume": "1000+"
+        "volume": "2000+"
       },
       {
         "title": "chuck norris",
@@ -45,43 +45,43 @@
     ],
     "US": [
       {
-        "title": "usc vs unlv",
+        "title": "mike lafleur",
+        "volume": "500+"
+      },
+      {
+        "title": "bragantino vs santos",
+        "volume": "500+"
+      },
+      {
+        "title": "cornell vs uconn",
         "volume": "1000+"
       },
       {
-        "title": "gates mcfadden",
-        "volume": "2000+"
-      },
-      {
-        "title": "sunday rose kidman urban halloween costume",
-        "volume": "500+"
-      },
-      {
-        "title": "tormenta",
-        "volume": "500+"
-      },
-      {
-        "title": "colin kaepernick",
-        "volume": "500+"
-      },
-      {
-        "title": "nithya raman",
-        "volume": "500+"
-      },
-      {
-        "title": "austin reed",
-        "volume": "2000+"
-      },
-      {
-        "title": "ugo humbert",
+        "title": "the boys",
         "volume": "1000+"
       },
       {
-        "title": "dallas weather",
+        "title": "what time do the polls open tomorrow",
         "volume": "500+"
       },
       {
-        "title": "sporting cristal vs fc cajamarca",
+        "title": "accidente",
+        "volume": "1000+"
+      },
+      {
+        "title": "sam forstag",
+        "volume": "500+"
+      },
+      {
+        "title": "border report",
+        "volume": "1000+"
+      },
+      {
+        "title": "mario morales ice agent",
+        "volume": "1000+"
+      },
+      {
+        "title": "mta",
         "volume": "500+"
       }
     ]
