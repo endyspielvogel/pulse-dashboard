@@ -1,16 +1,11 @@
 {
-  "fetched_at": "2026-11-02T01:58:14.555786+00:00",
+  "fetched_at": "2026-11-02T02:47:22.775286+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Burger ohne Barrieren: McDonald’s Steinberg-Dörfl ausgezeichnet - BVZ.at",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzZ4dF9wRXZ5UzJRc3otbDF0bExMZDM0dUIwZUtTbmVGWmZva0JWQVNZczN5TWlHdGxLa0hHOVA0UU1PTzFucWZQQ2kyWVg5R0FUUy1lUmJ1VkEwXzRiSDFMT0FnWnBYZ0dJb3VJRGRuNHV0ZjMxeEl3cU8zOTEyYkJ4Z19PYWs4bklVVmdfbzIzWWRoTTNoWUl5X0lqN0VYTVNBU0g2dw?oc=5",
         "published": "Sun, 01 Nov 2026 10:13:00 GMT"
-      },
-      {
-        "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
-        "published": "Sun, 01 Nov 2026 22:00:50 GMT"
       },
       {
         "title": "Ende des McRib: Fans des McDonald's-Burgers starten gleich mehrere Petitionen - Augsburger Allgemeine",
@@ -41,6 +36,11 @@
         "title": "McDonald's überzeugt mit +12,02 % – lohnt der Einstieg im November 2026? - Wallstreet Online",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGpTQ29jZkt4MzJiX293WXVaVDBnUUVRa0s5REVRWFJFei0tekxtNlJRTk9PLTBjVUNzcGhxb2ZOX0EtQ0V3LUl4ckliX29iaGVPQlBRRlFZdmpNZlpTUHB4cFZjeHhQVTdqU2lHSzlKTkdLN1dGd3h0bzN6MnVyWkVXc096SVBJeUJ3eDF1X1R1dllUVjRnR012VHpiTDRNM2ctWEp0MUFET1ZFV2F4UUQzbUZsVHBRNDBDaw?oc=5",
         "published": "Sun, 01 Nov 2026 13:03:00 GMT"
+      },
+      {
+        "title": "McDonald's am Münchner Stachus: Wegen Renovierung ab Januar geschlossen - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGdjbTh0TkgtNmNaLVVoQmwtYVdzeFBNbGp1dlVnV08yd0s0dzRQcHZGN0JvVURoTWlnYzRZMklrajZSLXktUUFQenRSN2lZUHQ2QzZuZm4wTGgzR1dsYW1ndzQxNXUya3RUbzVleGVGbTlqLS14RTFaSGpDeC00NUFfM3V6djR5dGtqWHltMmdaRjBxUDFVVFBRcHNKYV9L?oc=5",
+        "published": "Sun, 01 Nov 2026 10:53:35 GMT"
       }
     ],
     "Burger King": [
@@ -156,14 +156,14 @@
         "published": "Sun, 01 Nov 2026 22:13:04 GMT"
       },
       {
-        "title": "Nvidia Aktie: Nscale verhandelt über Milliarden-Garantien - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1V4dUNQbnc2N1h5ZUNuclBjV2V2WndDdWlkbWtLaE5sVnlJQlZET3MyY2FyTWNoY2lZWnF1UHA5Q0JNbkF5NmZ1YmI3VjB3dlcteGF3OWxSdm9oUFZSV01vVUszWXg4UVBoV1pGazh5T2pVMHotbEJxS3h6bzMtc3pUQUtNYjAxNnJHdGM4NjFJWFNKZlVOLVczZUdsN1FkRmU2NVEzbVZZX2lwYVE?oc=5",
-        "published": "Sun, 01 Nov 2026 18:46:07 GMT"
-      },
-      {
         "title": "Nv-UEFI-Unlocker bringt überraschend viel KI-Tempo auf ältere RTX - PCGH",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZkdTZG41VXRka3R2SDNVSDQxVEhFNjFaejdka210UUplMFZZVjJrUmlnMGNxdDluYUotRUIyUF9mLThxUGZDYXVuU1o4MGh5R3ZPeU1jNExzY2laUjJIWnVvTmlJMVNzamx6aEN1a0ZnLUxsemZ1N2VYcWR1em9EbnBZR252c2RZTzFON0lfTUJmVFNYbmp1UmdUZ1o3RFFHNk9Yc0dXc0ljSTJYcVd5bGhBRnJDVV85eGZhMGxNaDd3Sk9QZS05SXFjQzA5aUl1bnZhZnctRS1LY2N4WEEyd2EzbFdzNk1hMTF1bjZOTjFwT291UUJN?oc=5",
         "published": "Sun, 01 Nov 2026 10:30:00 GMT"
+      },
+      {
+        "title": "Nvidia Aktie: Nscale verhandelt über Milliarden-Garantien - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1V4dUNQbnc2N1h5ZUNuclBjV2V2WndDdWlkbWtLaE5sVnlJQlZET3MyY2FyTWNoY2lZWnF1UHA5Q0JNbkF5NmZ1YmI3VjB3dlcteGF3OWxSdm9oUFZSV01vVUszWXg4UVBoV1pGazh5T2pVMHotbEJxS3h6bzMtc3pUQUtNYjAxNnJHdGM4NjFJWFNKZlVOLVczZUdsN1FkRmU2NVEzbVZZX2lwYVE?oc=5",
+        "published": "Sun, 01 Nov 2026 18:46:07 GMT"
       },
       {
         "title": "Nvidia Aktie: Der Tech-Ausverkauf erwischt sie mit - Finanztrends",
@@ -195,14 +195,14 @@
         "published": "Sat, 31 Oct 2026 04:20:00 GMT"
       },
       {
-        "title": "Zwischenwahlen und KI-Investitionen: Warum Tech-Werte wanken - NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3ZFX1VaYUoxQ3hWN1ZDN3hLQW5ieEQ3V19qMmlVVzVKQnZiaURsUlJmWDAwZ09SSkMzZmQ2d2FIbUhPc0VqLVhQR0hIcVR3a0FZSFRUQ3BFYVBOemI2V1dZLWM2M2w3UTF2S201TEVwcHdGTFljTlE0Tml3aFN3Um5jU3U3bE1JcExiLXU3ZXBMMktXSXFoWUh4LUpwcWxqUU1ETG4xM0VjREdnWVFSMVdmLWRxWkNWeTNkdE9MTU1LaDZ6dE42N0JqUkIwa1NaenZFVFRB?oc=5",
-        "published": "Sun, 01 Nov 2026 04:30:00 GMT"
-      },
-      {
         "title": "FBI: Nordkorea steckt hinter dem Binance-Hackerangriff - ZDFheute",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzkzSDRYaGxhSFBVUlR3Qzc3akNLWThYWTJvWkRVbzdXVUN5eUYwZkUzYUY3d3lvblhGajlpQ1JNQmRlT3gtQVMyRVlTRFNOVWdIbXJfZU5lVmJpYVhmQ2s5TUdNMjNIWGxxcE9ycVFoNnF3azZod1Y5bG1JcFdXR0RkWVljbXBEWndMdWE4WVYwX3JvME1YZWNfRQ?oc=5",
         "published": "Sun, 01 Nov 2026 12:49:00 GMT"
+      },
+      {
+        "title": "Zwischenwahlen und KI-Investitionen: Warum Tech-Werte wanken - NZZ",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3ZFX1VaYUoxQ3hWN1ZDN3hLQW5ieEQ3V19qMmlVVzVKQnZiaURsUlJmWDAwZ09SSkMzZmQ2d2FIbUhPc0VqLVhQR0hIcVR3a0FZSFRUQ3BFYVBOemI2V1dZLWM2M2w3UTF2S201TEVwcHdGTFljTlE0Tml3aFN3Um5jU3U3bE1JcExiLXU3ZXBMMktXSXFoWUh4LUpwcWxqUU1ETG4xM0VjREdnWVFSMVdmLWRxWkNWeTNkdE9MTU1LaDZ6dE42N0JqUkIwa1NaenZFVFRB?oc=5",
+        "published": "Sun, 01 Nov 2026 04:30:00 GMT"
       },
       {
         "title": "Anthropic-Börsengang: Frühen Investoren winken Rekordgewinne - Business Insider Deutschland",
@@ -244,14 +244,14 @@
         "published": "Sun, 01 Nov 2026 20:33:02 GMT"
       },
       {
+        "title": "KI-Boom: Warum nur die „Magnificent Seven“ wirklich verdienen - t3n",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lNDVsdi1VTXZfVEFVd2xGSGRhanVqYU5tQTRqb0tPeU5ONFFOd2p0UDdJOGlZX2xqMldZa0RWVzNHbUxZc2pONDJYSW05MHZiODQ5a3ZORS1Qb2ZkYmc2V3AzdnVxU1Bub1pQdkJZMURPdjV6b2dBbw?oc=5",
+        "published": "Sun, 01 Nov 2026 16:55:00 GMT"
+      },
+      {
         "title": "KI-Technologie revolutioniert die Recherche in historischen Archiven - The Portugal News",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEJfRUJnNFZKZjlRWGl2NzI2MGhibGg0aG5aalBGbWxMeUNKc0JJWGEzRkxNTTg0WDlIRG11MVp3TlNlaHpXc3IyemZmaHFDLW1tM21SUDAtMFNpVlFJSkxnYTZxQ2MzLVZfOTRKNURjVzVNNUJ0eUpiNDJGQzBRbk1hXzJkQTROa2dDdVVabUxuMTNPSVdjVzVtSlhRWGV4SzB3ZzlobFF4enRxY0llY0dWLVYwTnpoMEg2ZEpVTVpDdEkySDNEcQ?oc=5",
         "published": "Sun, 01 Nov 2026 13:02:40 GMT"
-      },
-      {
-        "title": "Religiöse Gründe: Uni-Mitarbeiter verweigert KI-Einsatz - t3n",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmszY1hTOGxoUU00OHRLUmtkS3Jwdm85UGNzWm00QWg2UFc4YXlYOUwyR18xVHJIeUgweEZ4RnE1LTZmSEFxS3Q5Yjl0MkxiUVVhNkt4WEE0TWMtRzJyZzlBeTkwUmExTjl2VFJPXzVjOENBbXdsQ0lOQUhmYU1Ud2wtN28?oc=5",
-        "published": "Sun, 01 Nov 2026 19:10:00 GMT"
       },
       {
         "title": "Nokia: Tech-Ausverkauf drückt Aktie um 5 Prozent - Börse Express",
@@ -264,14 +264,14 @@
         "published": "Sun, 01 Nov 2026 08:31:04 GMT"
       },
       {
+        "title": "Aktienschwindel statt Superintelligenz? „Mit jedem Kunden werden KI-Konzerne ärmer“ - Salzburger Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEFWRi16LUFSMExKcFRHSXVGdXFnMGVoa1R2bV9ZWnV4UkhyTXBYczBtUGNjTHEwVzBkd25KdURjdVV0V3NmOFA4cWdtX2pFaTRYQVNJaHlfLXh2RU1oNktwNUdyTV85NDhIQ2t3X1E2dmZTVXduMFFVMDBzMUtPX1B1bzUyVmZSY2RheUVtd0tuWFEyY0lFYzJyd1hIY0tNOXJ5R1hQSjRsT1BGTW5nRTRyaFJ6d00wSU1zdUdadGxOd0tYbnNQazZiVEVxdw?oc=5",
+        "published": "Sat, 31 Oct 2026 05:00:00 GMT"
+      },
+      {
         "title": "KI-Investoren sichern sich gegen einen möglichen Abschwung des Technologie-Marktes ab - aktien.news",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZqVW1hMXZYWXZaQ1FTckEyM3lOZmxpd2Z5b2w2YXdZS1ZPSHdMdTh5eFVudWhQbFpfeU5fVVVxNUFJLWFMR1JveGRsNUs3dktmQnZlVlNWWjZ0SjFub3ROTHZLRkU0ejNFeDA5Nlg0bG9Gd1lBZ09VeFlnUF91ZFBDQzdfcmQ2UzBlbG11SjhlSjlPMnFVU25hV19HSWRTa0VhcXEtRHctMHRtZ2c?oc=5",
         "published": "Sun, 01 Nov 2026 07:40:35 GMT"
-      },
-      {
-        "title": "Smart Farming bringt Ackerbau voran - Der Schweizer Bauer",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUk5oZlBTNVVjM0R1bmppakVWRW5iT0FyRGstV283UGNZWkhPM1ZvUDZxQUxJWFd2ZVN6MkdBSV8zamczSTB5VDNQQXo4cmlZaDFJbGVVelB2eWZUZWFiTlphUUNJd01DeTVnYXFQdUo1MGRnX1pya2I1anlrUWZzRW5tdWpWRFdvVGItWnhtc2dOWEc0MDJJ?oc=5",
-        "published": "Sun, 01 Nov 2026 20:34:19 GMT"
       }
     ],
     "Meine Aktien": [
@@ -291,6 +291,16 @@
         "published": "Sun, 01 Nov 2026 22:13:04 GMT"
       },
       {
+        "title": "Mercedes-Benz bereitet EV-Batterien mit größerer Reichweite vor - IDNFinancials",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzFYYlJkQnJRUUdkRm1SeVlCeF8xbG4zc2VjNDg3dDRyY3F1bUNCX2x2aHVEeWF0czFzWk0zU1o3VGl0TVVBcGRmMHNuemZRWWVESmE2VkRlVkNmRGlqZVdQSjQ1aXN2Z0gwX0J3R29POXQ5ZUJ0TkR3aWw2QWpGZFRhdk85ZTlGWHh3SnRUSXBJTkV1ZlNqYy1uekRaNW1SZ0tLa2NxeW81NEhfVEFRUFU1TG9JYW5s?oc=5",
+        "published": "Sun, 01 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "title": "Vergleich: Mercedes-Benz E vs Mercedes-Benz C Electric - Autohled.cz",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1AtTjE3U2theV9nYllma0dzblFQVk1kSTlrWXFTdXpKLWplY1BCTGtUMDYyWkpReFA1NUtKZGpNbHA2cHBxS2F0QlhhdE9sTXVWRXN5OXduRUR0ZU1CU3gxR3N4TmtrSUw1RHg3alNKcjMxS2NJdl9WZzdZVmdKZDR4MDNPQXRkeE8zWURBYkZibWljWUpkUzNEdkpBMV9Gby1xR1JLYmxUUDV2WmlOX256UTctd0hMbTlJVXo3MmtJeGZOeDA2Mk9FOFUwbnByd2c?oc=5",
+        "published": "Sun, 01 Nov 2026 20:17:50 GMT"
+      },
+      {
         "title": "Nvidia Aktie: Nscale verhandelt über Milliarden-Garantien - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1V4dUNQbnc2N1h5ZUNuclBjV2V2WndDdWlkbWtLaE5sVnlJQlZET3MyY2FyTWNoY2lZWnF1UHA5Q0JNbkF5NmZ1YmI3VjB3dlcteGF3OWxSdm9oUFZSV01vVUszWXg4UVBoV1pGazh5T2pVMHotbEJxS3h6bzMtc3pUQUtNYjAxNnJHdGM4NjFJWFNKZlVOLVczZUdsN1FkRmU2NVEzbVZZX2lwYVE?oc=5",
         "published": "Sun, 01 Nov 2026 18:46:07 GMT"
@@ -304,16 +314,6 @@
         "title": "Mercedes-Benz und der Vatikan: 100 Jahre Geschichte der Papst-Automobile - Motorsport-Total.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGo2R0txelNEc2RBTWV4c3BTd0dOdjJVWWZ4TXVWLTluVzNfN0ZuMGI1WGxvcHdnMlNaXzZiSWd1Y0wzSlJPMExobjJrOUYzaEZaUDJlaDktMDB0Z3JDUUlTdjVlc2hPc1ozR0JYVmItZmFzWGRoVFlvZzBFa3ZBMGRiTHRScloyTThLak9mZjJHemltWDNYRlQ1QVVXMlRSMlpldm5pQXE1cUllaERyZkQySjRWT1FCbk0tc2tTVXZycElsaGc?oc=5",
         "published": "Sun, 01 Nov 2026 10:22:04 GMT"
-      },
-      {
-        "title": "Nv-UEFI-Unlocker bringt überraschend viel KI-Tempo auf ältere RTX - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZkdTZG41VXRka3R2SDNVSDQxVEhFNjFaejdka210UUplMFZZVjJrUmlnMGNxdDluYUotRUIyUF9mLThxUGZDYXVuU1o4MGh5R3ZPeU1jNExzY2laUjJIWnVvTmlJMVNzamx6aEN1a0ZnLUxsemZ1N2VYcWR1em9EbnBZR252c2RZTzFON0lfTUJmVFNYbmp1UmdUZ1o3RFFHNk9Yc0dXc0ljSTJYcVd5bGhBRnJDVV85eGZhMGxNaDd3Sk9QZS05SXFjQzA5aUl1bnZhZnctRS1LY2N4WEEyd2EzbFdzNk1hMTF1bjZOTjFwT291UUJN?oc=5",
-        "published": "Sun, 01 Nov 2026 10:30:00 GMT"
-      },
-      {
-        "title": "Nvidia Aktie: Der Tech-Ausverkauf erwischt sie mit - Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURnMUlCZDhval9YQlc1eXFnNl9aR3hWYmE1bGxuU2R5OGk2aklmNVllZDd0WjNEOWlqUHY4dGJEa08zemI4Q2dRMWZJZXBKbW01eUJOcE9nVlRnSWZueVpUSkstcXhPajBiWFhsdU1MVlhmTXEtVXpfR2UwRm1Bd3o0YnBkdw?oc=5",
-        "published": "Sun, 01 Nov 2026 13:24:08 GMT"
       }
     ]
   }
