@@ -1,7 +1,63 @@
 {
-  "fetched_at": "2026-11-02T07:42:45.246303+00:00",
+  "fetched_at": "2026-11-02T10:22:04.552426+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "These five TV ads leave no crumbs: Thinkboxes shortlist",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0VFNEctY3ZMamtRS3VGU2Z5WWZrU2Z4TTNEb0NFVXp6cGdSRXVsYUlwb1Nkem5XbXlRYnMyQUpXbGNKcDFQaGJ3R2tRWXhLajBPV0hSeWxhdEQ2MXkydHRaM05CUE9hSndQVDl6NFhxOWsyUkhRcThLT09fX2NWbVRxcXFCODNmSHUyQlZjeDNJUm4yLVRnTnFsbmNFWHZucG5qNHBUdkU4ZVR1SHVTNVdpOEhnd0NnbHdCQw?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T10:16:14+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Ogilvy creative shake-up sees Jules Chalkley move to NCA and Ian Heartfield step back",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRS1hb3dxbU1hcHE1SHBXNGRtR2xUdy1NYmZiUnpqSk5BbXVhUTlRV0d0TWxWeFF2dXBGWlZkX1BuZW9xOGdvczNGVllFMUltUHRHMjVGbmJFUWpjZDBmZDZsLWNxcGdqWkxFVXpFeEpaT1BjdkdNaUVhVkpmemM4aFpxUFlKVXBvVTRKSy1RZXVTYjR1WGF2bFp5WjJwWEZyMHZ4Q3NRQ0VBdDdmSDJYbk1fbVBNeFNtQVFTbjJKRjMzWHJWMDI0eHpNUVM4RW5jVjBvUEdnSEFsX2tHYWRHY2w0VlJZZw?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T09:50:30+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "How NoA combines independent spirit with network scale",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2dmZk9sVGVLUlhhVWtsM3BwbVEzc1J4YUxJMnpZM2F4RWZaTGpXdHN4VFZHVTVtOUNOcTNzMVNYcXlHUFR5X0llR0ZmcUxtNUFNNjVGMkg0clJtMXhwMW5OVF8zREZZdTN5SERCSUczT1dLcFFqdWk5RWkwb3FNaFpHUDlEVHJuNGtwblJVcjJZODBGcks3cGxLYkFKVUFvT09EeVVKdDNhdmlfa1d2UnlrTlh2WHJBcy1jcw?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T09:20:34+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Tesco “The wrong address” by BBH London",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlNfS0tUMVZIakI2QTZNOFIzbVFWUF93clpyTzVaMFQta1VOSHp3WWNJUUZYakpUYWJ3dzhiWGJpU2YycXpydWlBajJOVExrT1lWcHRYSFc0bXpaN0xqQjdUVkxQOXZvcUx3RnFPTS1yRDZORWFNMjF5b3FhM0s5MmlHT1VGUU5sdXl6dHRpNmttOHFpaUNSODEyNkd4SDFoNjM1ZDhR?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T09:20:34+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Sainsbury's “The big delivery” by New Commercial Arts",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTFIZWw0MFdsNUV0eDB1bVRFVlVFbXlaeVlMaDFnTzRnalotOHNIeDNEU3htbHRSMzYxcnVkUmpoMWRxRDA3eFBYQUl4YnhaVW1qUC0xczJQZUdjZ0xsQjZxSTFNeWR5ekpqYUkxdEw5T1VlQVFBUHBQV3VzVk1yc29TNUxwQmpmSS1sN0hPTTB3d1hCT0N2cExiLU5zdkxQRUxvTW5YRVlXNTFabGlqaFQ5S21TdTdS?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T09:20:33+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Lebara launches major rebrand with Ace of Hearts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZtZV8tRDBYSzBXSUJsWEEwY0FmeFJKUXlNY19uTVJqa3ZoUFdmaTItWDROa0pFcjJYSXNGLUQ1ZkFZNGlkOW9tc0xPYlpZRnhVcWY5LVdyemoyenhIZzJSMWh5MmRSRjVwbmtlVnhaWHJqeE9faFNEcGNDdkR6QjNscDY2U0ZtS0JnQWtGQkJJbDQ0SkUxbkFGWV9sNlItTUE2NHM3UERNRW4wdEM3SnlTSmo?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T09:16:16+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Droga5 global CEO Mark Green dies at 53",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFpUd0tPSkpuVVdnVjRnTEViSjVpNW5rNGxpRFRoRXJORmstN2xWVEpja1Q1WmNMcTJRRENEb1JsbTU4a2VTZ0hMcGEwZFRvQWlwYW1pWXRkRkxVZzhCV190TVRRc19QXzk0RFRYNHJTT0lzM3FNbXZiXzhpYkM2bmVEc1RIal9TeV9XQVZrVTFQcWd1b2dGcFhKenc3Q1VMV1NLOG5pQzQ?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T08:20:22+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Médecins Sans Frontières highlights global crises in seasonal fundraiser",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRGZhcWJuOWFWN1Zzb2lFZzFpQkdldVZNV0xrRVpnZmU0aGpqWGlDbW42V1dpcWNzMGtJY2EzTHlGbHg4bVZFdzNmMHVBTF9FRlQ2X2Y1UUZiUlc3Wm1nVUpvLW43UXJXSk5DWGlJZGszMjVkRFllaUZoX0g5TzEyUS1ZTGp4U3BIQmJfY1ctNmpudkxQOF9VY1Nrc2x4VEFrV3VjZ29PMG9TR1VaZzNzdjJXb2dPV2xxZnBiZjNIN05QNTdURHNnTGpxMlhZRG8xQU5QSw?oc=5",
@@ -27,74 +83,18 @@
       "source": "Campaign UK"
     },
     {
+      "title": "John Lewis teases Christmas 2026 ad",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdURoU1MtRFFkMTk5WHNydUh3bkYzR0dzOG9WWVBKZHBYUU1pOWVDNi1WOVVsNUpsMVFJR2VEWnF0b1ZYdDdRX0dRRXZDN3NmTkV6RkNqakZzVnRmZm43QnRteU1GNUdlWGhYdzUwSHZ6MlkzeDRhUE12VVdUN2Q3V3plbWJIZVRLVU5mLWdySDhHOUF1WFFSUFFSV0I2NjhYZVZF?oc=5",
+      "published": "01.11.2026",
+      "published_iso": "2026-11-01T17:36:52+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
       "title": "Médecins Sans Frontières spotlights global crises in seasonal fundraiser",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1hWQng0Zkp0clQwbU9xUFo2R2ZydFY3a2FpVnFZSWxyUU5LVlhYYXNvRjVWNjhHVm51Qi1rVjM2ZEVkZjBDQ0VPdHo2QWdkQVgxdWVzWTVvMy1lNHJodXdsVWtjeUhULUVtMXNNYTNDaGs0TktZUW5CWHQ4cG56TE1XNmh4WHRMc0hRUGRQX2ljYlh5WHV5c3JPVlpmZ0JnZER2NldvQWI4X2JHZE1ueDR5MVg3Q3dxbllhamtLdmtpNERMcmM3dWlHOGk1OVJrOHU0Ug?oc=5",
       "published": "01.11.2026",
       "published_iso": "2026-11-01T06:01:17+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Argos enlists Richard Ayoade to bring humour into its 2026 Christmas ad",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEtfMnFVUE1nUTRZejk3eVl2S2VlOExiTE9IRkZrN0JwSmowWXNPQnJKcElSRk41aWRKNjVKQks5WHJ6YlJqclRFcXM0dkVXdXU5cllBcVNCYW5kdFNWUmZzTVRnT1NhQkRsOUVWT2E4cXJrek5ZVWtpTEoxLXprd0lsWnI0UUktZ2ptVDdjdEE2RU5Ea0RFdGUxQ09kRW5WeDliblNTZ21kcHZveVBIdnBlNTZpQnhnUVFHTUk5OXJQYjRLNTh2X25sU0JiUW1vb05z?oc=5",
-      "published": "01.11.2026",
-      "published_iso": "2026-11-01T00:20:02+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Tesco returns to hero spot format with Christmas ad about a rekindled friendship",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE1EZ20zT09ETlBJQk9hM29GSEQ2LWtPSWJheGJaY2NtWUJUOXRLQUF4T0tEMnZrZ2tMR2tqWGY5MkxDSll1UGE4RGJiYnNnOF9FNHE0NXF6a0p1cHFsZkFodlFwRGU4MnJVUTBYeEsyUTh2RUdqWGNXb09OaGhkUjI1RTE5Q19MVk9vRVZkR3NZUUFENjlqbS0xeHdGRFhvVWdicTdWbmhHcFdrSmkzUm8xMUMwd2tRSmVmaWk1bkhfRWtOTUlUcGlEYnBTcnZUYjBFWmtEWHNBQ0ZSRUlj?oc=5",
-      "published": "01.11.2026",
-      "published_iso": "2026-11-01T00:20:02+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Sainsbury’s brings BFG’s Christmas in from his cold in third festive ad outing for Roald Dahl character",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSWE4S0lWLXZDNGNFcGxCdkRaY2g0WFNxWDl5NXZVTmhRZ2hQMmQzZExzV2ZGOHZmQmFmRjFhVUJ1SzI1RWttT2pqQzVKRTJacGd3eEp2OHE4MVE1aXg3WGZ4NXRtSVZIUzNYdEZwSTdyZEJiQ2g1Ym80TmI1V2JpOElPM2xvN3oyTnJWajdFbGQ0MFpBVDJ4d1dITlhUeVR1R2EyZ2VobkhreW1WbGRLVXVOd0lFRzZkSmJ3UXE5NzlMcGxJbWtjU3VEUHpWZFFBaGJIbTNlVE9SSUxBWjU2MTcyZlIzdzMzTnRmNXFwOUNfMS1xNkE3aVpGd2tQQQ?oc=5",
-      "published": "01.11.2026",
-      "published_iso": "2026-11-01T00:20:02+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Peta launches horror-inspired campaign with processed meat as the villain",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFBncjhHSXhZWWpfbDBuVFBVb3h4YUJLTnhQQlJxem5jM3Z3M21CbmdtSUdyZ0dPVS1zMUZIZHZCZ2xtaUpNeWExaFdYZndjeXcya0otUmFGZXM3RzIzRTJyT2dacmJYRUktSUJ4dkgydDg2NV9pN2JCT0VXOXVZQlJ2Sld4STY5LW9LT1hnRjk0M2J2WHhMQzgtQXBCaXp1LXAwMk9TRV9RQlhod2wtTjZ2a0ZQS1pIQjR2c09acU1aVFFiQ2ZuM2JFUDBHQ3RaLVBCNHJ3?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T17:16:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Octopus legs it across Eastenders credits to promote BBC's Blue Planet III",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1JTUERDd0VKLVFDQ0NpdDZYbHVMUjNqQVFPSVJ5VzBKTVFySDRyRENHY3E0blA0eXJQdk9rMjJ5Yk1PUnRQVHJ0a0daUzJIeURyMVVGNGgwa1VmeXZfRG0yeVQtdzJkMF8xbmpkUExocnF1WXd2QWNLSUhWNkpVZkxXTWRWZjNXQm5TR2d4VTQySHVWV01GcEUyS3VCVk1pYnN2ajlNN0tGRDY4clF5bm0xQjdlZUZid3E4eEd4QnFFQ0czNUlGY3NHRUNKVl9KQzcxX3dtUQ?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T13:45:55+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Power 100 2026: top five in food and drink",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN202VkVVdm9ZMnpYekdjZ3N4MG56Nl91Vi1hZmhmcGRCUk91Zmc1OTk2bnJobXdmaWFGR3BSdGd5Wlh4TWpMM3V5ZHF5bjBsQmhCODhrT0FBVzhfNjZMX2xDV0NmWEI5TnpuNDhEZHZJUkw0cmZ5ODBsV1hUSkxFNlZHNHhtZkMyaXEwTEs4c2x4SkxGdXJUZTJXRlBZY3RPcEhtejBpaFRHVG8?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T12:33:17+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "What are adland's worst pitching horror stories?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2RQeWpyNmJERjIwNF95d0F5Smhob0pUbFZ2UFpXVm8waFZnVjUtZHlUMGpQYmRCMlFQV192bjd4SGRzeHRNM3B1eHU1VEdFMDhta3dzN0dIZlVVLWRGMGNCSEpCUGphNm9pSUpmNWZHNXpmSW90WDhjeUh0M0xES0wzZnBsU3gtZVpkS0poa2xFei0za2RtNTZTakRKX0thYUpaMDcxSXlhQzJpd2tMWWtxRQ?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T12:03:12+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Omnicom Media wins lion's share of Lidl's $1bn European media account",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUkwVHdYN0dzNmU4TlVvbl9KUG9GZ1VyTGRiYURwclpzUGhHMllqVEFTLUFKT2Z5cEZhMnB5aFBrQTEtMVdmaW9Ka0FVMnVZazdhSDhzN3BOdEl0Ty1XRWt1ODRnbnVWTzJISl9NbklUYTVuWGwxTHpNZmpVdW5VUG8wZlg3R2ROejhCZjM1TXhqN3ZjTHZ2N0lpQm4tM3NCVXJBTk9xQzBlMEZVQm02bXJuVTJmZUFIRG9xUTFHNjExU1RHSktrZjBKWXZrWEk?oc=5",
-      "published": "30.10.2026",
-      "published_iso": "2026-10-30T11:33:07+00:00",
       "description": "",
       "source": "Campaign UK"
     }
