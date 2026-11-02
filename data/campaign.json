@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T01:25:09.451378+00:00",
+  "fetched_at": "2026-11-02T04:14:26.265834+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -51,14 +51,6 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Richard Brim",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMnE1dVJKODEwYW1CUHRhcDVGTm1lSE5BaWxsX0tYSmpiakdkTTlIaGlkYVVGV3VkOTV0b1BMMDU2TUlwbmViR3lFS2FXbEZDanRKODhtLVZfZ1hIZmRn?oc=5",
-      "published": "28.10.2026",
-      "published_iso": "2026-10-28T08:59:07+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "McDonald's walks away from 32-year Fifa World Cup sponsorship",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWRHWElqVm0za09QQll0NV9vTnNWdkVYZGpMLXJiQWpxSTlYSHFldVRGLVE3ZEE5Uk9YLTc4S3ZOdlpNY1VKaElLdEo5aVdndDZfTDNoUzBZOVhibV9TanNjUUYyRFZrWmt1LUVRM05PbWtyejRkMHB3aTlVTUp1ZHFPcFhKQnZuUUQzdmVfengzZTJkdWN6TkdjLUhha2Z4ektqRzhUU00wWUVwaEd1a2NEaVVtTmlrOVJvYXFRQnNPWVhHRGc?oc=5",
       "published": "26.10.2026",
@@ -95,6 +87,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeklwc0FmVVJxWkV3bFcxWnRnSEFoMGkya29wNUdJamlYSmduaVRSaE5xb19DZW9DeldiRGgwaE5pTXNlOWhJQ2EtYmFtUGdzaUpzcDBXelNZcmQyUERTanUyOXV4R195Zm5LY2M3Q21xMWZvUmdOMl9ramFHY041dno4UEhraEU1YUVpYkVMcVJJc0Q0OElTbVZ5TW1STC1MU1ZSNWNXSmV5Qk05Q0lBVldrMmFraUtlTlJVNXFhazRaTk9ucVI2Y1VkZmNFQUZvOWdPWnc5T0ZxcjQ?oc=5",
       "published": "15.10.2026",
       "published_iso": "2026-10-15T07:00:00+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Ovarian Cancer Action ad is testament to VJ's determination",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSk1lbGRzSmNQS2ZvSzR0X3pRRV9FN2w2MkZYR1MyanlEZWxJNTNmZjVOTjdrTTRfU2h4aFZJMHJLQXRHWkpNczRnVHdweFhUdV9kdnp3NFpLNVh2STRpWVJiVlR3X1VjS2F6Q0p4Nzlfa3VqU1p0NUdwei1hQ0RqdmtXT19pM3ZRVUQ1QS1GTXpUdkFMbGVDRDVKbEgxRlotaGJWSmJJcG0wVnZlalRHR2dNeHV6b3FCVDNmSGV6ZDNSa1k?oc=5",
+      "published": "14.10.2026",
+      "published_iso": "2026-10-14T05:52:59+00:00",
       "description": "",
       "source": "Campaign UK"
     }
