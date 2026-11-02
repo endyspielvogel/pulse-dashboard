@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T20:16:06.338895+00:00",
+  "fetched_at": "2026-11-02T21:15:47.344945+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -100,11 +100,6 @@
         "title": "Lidl bündelt seinen europäischen Media-Etat bei Omnicom und Havas. - turi2",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQndDM01yWHpCbm56Ym9HTjdoaWJqSFAwSTJDN3FjVUk0eUF1M1NzR002SkpaMjhVZEZScW1udVJjN2EwbGYwR2hqalVvTXROSFQyZzJleXhPTncydHBMNzkwcUdHSmZwYldWbkRnUVhrdzUtal84LXM0SzBNaHpITXRFZ2NsUTFnUVd5dERMa25idDUxUGZNWHRUUXZyUQ?oc=5",
         "published": "Sun, 01 Nov 2026 17:10:00 GMT"
-      },
-      {
-        "title": "Fusion: Burda führt Focus-Redaktionen zusammen - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeU9qcTlzMGVBaDdhYklPR3VGdjhZWTJ3U3Fld09vQnh6OTVWM0I5dVNtTWJQOHpGVHZUSThLemFCbGtxaTZZdW1EMXhCLUNiYTdraktvSWJJSGFxVUkxcndSb1hiNU9ZT2pwWlNHaDlwMmlLYlFtb0laX0RTdnZLUGExazhGa1JPOC11QjNDQVlhYmFaMmhISFRkcV9uZw?oc=5",
-        "published": "Mon, 02 Nov 2026 07:02:00 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -186,14 +181,19 @@
         "published": "Mon, 02 Nov 2026 11:37:29 GMT"
       },
       {
-        "title": "Aufschläge in New York: Dow Jones-Anleger greifen am Nachmittag zu - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmszbFcyM3RfY2d4c05QNmNNbl9WNUp4ZXVPcVZpbVUzUi1iSHR0djAzUi1jalhpWFc5dzJEOHQ4cHFtV2V2VXN4WWZaQ2lvVWFzc0ZoRUwxUzhWNEQ3MHQxcHNTcU15eVluRTJBV2xJWV9BTF8wS2szUVEwX09sNXVrdGtrdVBIQm9jbDNiVWNyS0JjUm5IdURQUVliMHhMVFlRUmpuMGtOc1NCUmtDMmVzbkZaUUVTNmxv?oc=5",
-        "published": "Mon, 02 Nov 2026 19:04:18 GMT"
+        "title": "Google und Nvidia setzen auf Bagger ohne Fahrer – und das Startup dahinter ist erst zwei Jahre alt - GameStar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHVWUmI2bFh5eDBjaFhyMVBxUXAwWG9PZXdnTzJNVmlBN2NsbkNiM3E2d0JQcDZoRDEwdW5URW56MXVlekdTM0czaW9qS1N3VW1WbkN0d1puWThXQlhsZHR5Vl8xQko2VUlaNzl6UkV2UWlsU3dJOUxsdE9GYUxZQ2k0RjQzNlk?oc=5",
+        "published": "Mon, 02 Nov 2026 21:00:00 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
+      {
+        "title": "Wie sich Polen von Amazon und PayPal unabhängig machte - profil.at",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHhmNi1HMWF5eHl2OHF2dnp2NEE2UEF5Rl90WWxtQXlwRVdoX1c3ekcteXNUVjNndE5XNEgtQW5JUzNNVG1uY3VrUHZ1ZlQ2VjViTUw4OFdFcy1LQ2h1RnpzQzJIc1FJT0w0Z1RrZ3Z2SHVaMTNZd1ZRelh1aHhJN0RoY2hzS2kwUVE?oc=5",
+        "published": "Mon, 02 Nov 2026 15:58:56 GMT"
+      },
       {
         "title": "Wahlkater an der Börse - Jüdische Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sOTFWTGtVdl9DSUN1UDNWNzFMNm9PTXZQUHZyRTkwYVo1elZrX0dtZXR5aU03VDYtckFhOVl0NG16eVMtU1ZCQ2VXNlZQajN4TnBMRWtkT1BONUZZbjk3R210UW16MmJlZjI0eXloTTBFdTBEc1E?oc=5",
@@ -215,6 +215,11 @@
         "published": "Mon, 02 Nov 2026 05:09:00 GMT"
       },
       {
+        "title": "Anthropic plant den größten Börsengang jemals – doch die Rechnung hat einen Haken - T-Online",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZGVmRxVV9idHZzMUxwOG40eThBYkRfRXQ1akxPUzQ1d19SMF9KY1l3UEJvejFVQy1PQXpwUzI2dEIzMTBId0g3eGtVdXlwMExvWDJuczV3MVQ4VFh0WkRQWjRzWm5zV3RtRUpXRVBLRkJUX0JKaTlCNlo2SW5NSXp5ckJzRjZxbWd3d1gzS3pEbnEwek9laG45MFk4QjR1M3htWE5qcUpxdEpUOVRoQ1dNQ1V2NktwdHFKN1lSdVBlMzRPOWMzb0RYeUt1QWpIZHFISk0tUQ?oc=5",
+        "published": "Mon, 02 Nov 2026 07:59:43 GMT"
+      },
+      {
         "title": "KI-Boom an der Börse: Diese Unternehmen sind die wahren Gewinner - Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjM3MGRHR2FGVldZMHZmTjNaaVljUjVkV29rRTJURTVLRUVhRGZ2a0hpSy1FajhabXlfQU5iR21OajlpVFlOcVVUeEdUZ3JpM3FPRU1rcXljd0pNYWdyUW9ZRlhfUTR6MkJ4Y1VmaWxxLVZBUDlnekh0OUVjRWgtenRwMUItVU5KNTQzWkFndG1mb2Qyd19VbEdRVWZfV1VINHZYX0V2NVlzSnc?oc=5",
         "published": "Sun, 01 Nov 2026 08:58:22 GMT"
@@ -223,16 +228,6 @@
         "title": "Ausblick Unternehmen: Die wichtigsten Termine für diese Börsenwoche - Finanz und Wirtschaft",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3dsTHc2SllZdjJaV1V5eEpPbzhHNEp1Vi1NbjVBX3lCVUtMS2FuZ0FYeWxVNVhtV21sYm8wdWhmaEE0MmtlRlJxUHFrZEpjUFp4MVhXZVRLbGVKWEVNUU9SbzExVGxOaUZGY3N1aThwbUROZHFveEk1MERhc3VpZmdSeG50dVk5S1FCS3RpNA?oc=5",
         "published": "Mon, 02 Nov 2026 04:00:00 GMT"
-      },
-      {
-        "title": "Zwischenwahlen und KI-Investitionen: Warum Tech-Werte wanken - NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3ZFX1VaYUoxQ3hWN1ZDN3hLQW5ieEQ3V19qMmlVVzVKQnZiaURsUlJmWDAwZ09SSkMzZmQ2d2FIbUhPc0VqLVhQR0hIcVR3a0FZSFRUQ3BFYVBOemI2V1dZLWM2M2w3UTF2S201TEVwcHdGTFljTlE0Tml3aFN3Um5jU3U3bE1JcExiLXU3ZXBMMktXSXFoWUh4LUpwcWxqUU1ETG4xM0VjREdnWVFSMVdmLWRxWkNWeTNkdE9MTU1LaDZ6dE42N0JqUkIwa1NaenZFVFRB?oc=5",
-        "published": "Sun, 01 Nov 2026 04:30:00 GMT"
-      },
-      {
-        "title": "Börse: Grosskapitalisierte gesucht – SMI-Höchst - Wil24",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUnVvcEFqdkxmTnYyc3RXVFRDU1FiVmNkeUl3SFFqNWpxdVlVdjZ3TWVCUHdfZlRsalpSWTRmb2FPUXhET2hHNkdSOFpSLVh4NWR6dDgxVDJhN2NRdV9oUVlkR3pwTnpycGtaRU5UaXdrbWVrZnFISlR0NnRPVzM0d1FRc3pudw?oc=5",
-        "published": "Sun, 01 Nov 2026 12:50:05 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -311,6 +306,11 @@
     ],
     "Meine Aktien": [
       {
+        "title": "Nvidia-Aktie: Lohnt sich der Einstieg im Monat November? - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pETEo2N28wZTBFRDRqX2Rpbkk2dEhyenNZZkVDUXR3QkRXSXZOWGNaWHJHOFpOUk9QMlhIR2hFbWllSmotb1dQRDlMYWRCbmkwenlWLW40NWZlVEgzNTNDVEktd0RyM1JoX1VaM1I1Si13OWYzMWdvU1c4LXVWUWRWU09fNDZoeldlSk1nR3Bab2JiTTBQUWVnSFM2Z9IBowFBVV95cUxNeEd0REN0UDF0V3NzMGY3bWpzMlllSkpTZDFpOGVGMjVTRDlzVEt2TEQxYlhad2RvZEdNYWw5Yi1QOHBOSUx6ZHM5WlM5M2M3U3JDUHFyYXY0YjR0WGI0aldXRmN0N2dRdFFtSlZhZkJFNE9wNlB5UEVJVk5ldzJncDRYdUVVVkRKZndzT0FkWmt1SHZkLUdZZDQ3VXAwMDhQTjdz?oc=5",
+        "published": "Mon, 02 Nov 2026 14:39:00 GMT"
+      },
+      {
         "title": "Lienzer Autohaus Niedertscheider präsentierte neuen Mercedes-Benz VLE - osttirol-heute.at",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVZpQWhDMWRpQXprdFFxYVFSbGx4amNEVThnRFlaTzhNeFFOd1Q1eGxYLVV2UGRLdTFsdWRKMldER3Y3SXY5ZEJwMDFVM0t5MnRPemxSc0pzUzgtdjBxLXE0MzMwMTVfWmR1RUZvWTNMLXNQUHBtckRNRGRhUXM1MHd1QmthVV9BNl9DZjNUcVEzSkhpY2ZLbzU2NlJjMmNHWU5DeUZhZw?oc=5",
         "published": "Mon, 02 Nov 2026 12:05:00 GMT"
@@ -319,11 +319,6 @@
         "title": "Tech-Ausverkauf: Warum Alphabet & Nvidia jetzt Chancen bieten, Neoclouds aber nicht! - stock3",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTRKNUVzcGJSb0hyMzN1THZDVkhleGhnbFd3YmxvY2hBWTcxOHNUclNzMVhMamZFN3hiWjV4YWRwbDFyWV9kVDdpM3hBeTJNVl9wRzRDOHBZcWNtVmcySTg5clpKQ0NVZmdXaUFIVnBQU1J5dWJrM2djYk53Wml6M2dOQlIzSDNCMFJUSjZ4SDBvQ2kwR2pVbmh0ZUZKZURhZUdiOWMzOHB0Z1p6bENkcWpR?oc=5",
         "published": "Mon, 02 Nov 2026 17:45:00 GMT"
-      },
-      {
-        "title": "Nvidia-Aktie: Lohnt sich der Einstieg im Monat November? - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pETEo2N28wZTBFRDRqX2Rpbkk2dEhyenNZZkVDUXR3QkRXSXZOWGNaWHJHOFpOUk9QMlhIR2hFbWllSmotb1dQRDlMYWRCbmkwenlWLW40NWZlVEgzNTNDVEktd0RyM1JoX1VaM1I1Si13OWYzMWdvU1c4LXVWUWRWU09fNDZoeldlSk1nR3Bab2JiTTBQUWVnSFM2Z9IBowFBVV95cUxNeEd0REN0UDF0V3NzMGY3bWpzMlllSkpTZDFpOGVGMjVTRDlzVEt2TEQxYlhad2RvZEdNYWw5Yi1QOHBOSUx6ZHM5WlM5M2M3U3JDUHFyYXY0YjR0WGI0aldXRmN0N2dRdFFtSlZhZkJFNE9wNlB5UEVJVk5ldzJncDRYdUVVVkRKZndzT0FkWmt1SHZkLUdZZDQ3VXAwMDhQTjdz?oc=5",
-        "published": "Mon, 02 Nov 2026 14:39:00 GMT"
       },
       {
         "title": "Analyse: So bewertet Deutsche Bank AG die Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
@@ -336,19 +331,19 @@
         "published": "Mon, 02 Nov 2026 13:43:37 GMT"
       },
       {
-        "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
-        "published": "Mon, 02 Nov 2026 19:12:09 GMT"
-      },
-      {
-        "title": "McDonald’s-Chefin: „Müssen schauen, dass wir erschwinglich bleiben“ - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3c5LWN2OFM4SG1XdFFCQmctY1d2bDlHM1NOUGZkZllzSTlFbUVsWXptZXhtZmlkMS1uazdENzQyS1I5Vm1RTkRDV3dTQWR5RlhFNnJwUWlmSEpSclhwdzJHREpOZ3RCZHJBSjNUOHhCSlk0YTRLS0ptUW1FalhFaEp2a2RZSFFoaDJ2eXBEWW02TjVsbW1ObXZDR2t2ZVJScktUaA?oc=5",
-        "published": "Mon, 02 Nov 2026 04:05:00 GMT"
-      },
-      {
         "title": "Nvidia-Aktie: Absolut alles! - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTVneEJyUmI2WW5vSEhHT0xSbmVSVFFYU0V1Z2lXTHEtSWF6dlVGb2U5UUwweUY1WndpTVVFOWxOY1RwM3pBWGhtYVFxTlFQWlBZMm1MQWVPWGFCY29xbnlOa3h4N016NFRKWVVOMTNycld1TVJnY0Y5Z2ZrSlMtQVc1Ylc?oc=5",
         "published": "Mon, 02 Nov 2026 17:05:49 GMT"
+      },
+      {
+        "title": "Apple wieder vor Nvidia: Heute Zahlen – das ist zu erwarten - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWJndXVEUmYtRHVJN3hQTmowQUNheWJUbUtBQS0xN284U2ItUGFJYnZzeVVWQWZlX3lxcjI2NWp6V1RpRlpta2pXbzN3MHB3dVZsN1NHdXFwdWFUME80NkRlOE1MSXg4TXQwTFhNbWlxaU03dHA2d2s5cmF4bGZtX0JVeUFmTWpjSENLblNGQnF4Q3gyTW1CeXlvYldSVlU5T2FuLUkxRzJxMnc0VWlKX0xuSQ?oc=5",
+        "published": "Mon, 02 Nov 2026 07:48:07 GMT"
+      },
+      {
+        "title": "Google und Nvidia setzen auf Bagger ohne Fahrer – und das Startup dahinter ist erst zwei Jahre alt - GameStar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHVWUmI2bFh5eDBjaFhyMVBxUXAwWG9PZXdnTzJNVmlBN2NsbkNiM3E2d0JQcDZoRDEwdW5URW56MXVlekdTM0czaW9qS1N3VW1WbkN0d1puWThXQlhsZHR5Vl8xQko2VUlaNzl6UkV2UWlsU3dJOUxsdE9GYUxZQ2k0RjQzNlk?oc=5",
+        "published": "Mon, 02 Nov 2026 21:00:00 GMT"
       }
     ]
   }
