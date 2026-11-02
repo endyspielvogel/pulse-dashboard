@@ -1,12 +1,76 @@
 {
-  "fetched_at": "2026-11-02T10:22:04.552426+00:00",
+  "fetched_at": "2026-11-02T13:27:19.770415+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
-      "title": "These five TV ads leave no crumbs: Thinkboxes shortlist",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0VFNEctY3ZMamtRS3VGU2Z5WWZrU2Z4TTNEb0NFVXp6cGdSRXVsYUlwb1Nkem5XbXlRYnMyQUpXbGNKcDFQaGJ3R2tRWXhLajBPV0hSeWxhdEQ2MXkydHRaM05CUE9hSndQVDl6NFhxOWsyUkhRcThLT09fX2NWbVRxcXFCODNmSHUyQlZjeDNJUm4yLVRnTnFsbmNFWHZucG5qNHBUdkU4ZVR1SHVTNVdpOEhnd0NnbHdCQw?oc=5",
+      "title": "Schuh celebrates mispronunciations of its name in first work by Ace of Hearts",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSm5zZkN4YUNmTjRBWmJQcDJqRVpMMVRZR3ZVQ3VBY3g0bXQtTzZQOTlYSVFYdnN5bzJ4QnNIV1dYY0lLX0VWak9TczdBdl9XWVYxLVhQd1ZYLTZwWWgxVGl2eDJ5N21oaDJMTFJ4bENQaVVlYXdieWI0WVBQZ3Vua21QMDRJTF92V1ZOUHV5R2dfT2Y1TUVGNllWOEhkOXFlNG8tazBjRUJJYmU3c1BoUDJULWZyUlFJdHNaLVJpMFIxZ1lhZUJfMzFnQzVva3pidGgwLVJxRjlqWlU?oc=5",
       "published": "02.11.2026",
-      "published_iso": "2026-11-02T10:16:14+00:00",
+      "published_iso": "2026-11-02T12:56:15+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaigns using OOH, audio and publishing 69% better at building trust",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYWdmZEVpT3EzX2N1ejhfZ1hFMmJESXBoT1ZzNGMzZTBRM3cyTmZod3A4VndmdGVDaV92TkhWNlRna0pZcmwwc3NuajVwVDFTVjZ1ZnJEQjhqS0gyQzBBd3FxQjBnTmkwR0pLR200ZkNTQmh0emhvVTlfZUE4U3BneG9Mb3Roc3lfa293VTlsUm5SZXd2bWlJR3BXbHRpSjI3ajFRU3ROWFp1QlBjLVJmbE9uVDN0Rm9vU28xOHRRNi1uckNuT3ZoQXRkV0xtanc?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T12:46:29+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Droga5 global CEO Mark Green dies at 53",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFpUd0tPSkpuVVdnVjRnTEViSjVpNW5rNGxpRFRoRXJORmstN2xWVEpja1Q1WmNMcTJRRENEb1JsbTU4a2VTZ0hMcGEwZFRvQWlwYW1pWXRkRkxVZzhCV190TVRRc19QXzk0RFRYNHJTT0lzM3FNbXZiXzhpYkM2bmVEc1RIal9TeV9XQVZrVTFQcWd1b2dGcFhKenc3Q1VMV1NLOG5pQzQ?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T12:06:25+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Private View: Waitrose, Twinings, Oat Cult, Napolina, Subway, Sharps",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3M1WUVaWmh3YTJxenVUWjc2MUQ2R1k5RVA4STNxdUpfY1NMdzlldzRhelYxUk4xREVQZkIzMHRoa0hTOGpGeFZFa1BQWk9CSUY4dUpzczAwVzZRMC1lSnJwWHhkdUYzUmUwcmNXeV9xdGN6cTk4MXFkSkZpNHV0cDZTcTk4cVkyTjFHckZvT1RRdUUzT0NPMktEVExmTllJaVlKNmwwU2VoQ2RfQUVtLWdYV2hBTHNncE9zUVJHS3FwSkRVMEc0?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T11:46:23+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Shelter ad harnesses Christmas countdown for Winter Appeal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMExfWTZXQktwT3k1ZmpnbTZ2dWJNV3hEeEltUGNEbzVBczZDZDg4S0RRTmxNQmNVa3ZqVy1uclpxZmNMdkZWaExjbWtDekU3UkpLeUtTSkwzQnUyMGppRkFpb0lONEpkWF9hZVZDRmRVTW83LWxHRUdUYXhGMEFQZXNOQWRsSldKbHZnTG1yRVI1cktabXo1NmxqcUxTOXFuckhCNU44ejJ6cFBuLU9rdWEwRlFKQmpSdEIyV0p5SjRUZw?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T11:20:24+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Ogilvy shakes up leadership structure as Jules Chalkley moves to NCA and Ian Heartfield steps back",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRzZvdkRlZTA1cTFvVUdjQ2FDZ3dQbDlpMGVxdjlGTUdqdjZiajR0MXZIT2xBRndqTWNKelgxajBFWEFUSWh6QzZ1N1VzcWtxSlVvQmZpYXgzWnljYnlFMlI5X01ja3ZJT1ZOLVZEMWFOSzE1VGxpTDFQemVRM1pRcVVNQjhDdFNpOF93MUtIaUVRekg3UzIteVVlNjNXSzNTNEs2bExEdFQtWGpBREhLdDAwRHJUUXZZRWczbkxueFFqUWk4eDdwRTRiOEx6bjVGZFdCTEJkWGl3VkxoWDdhSTZWa0JGOEk2WXpVbkJ4NzhpMmRheWRJ?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T11:15:00+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Aldi's teases Christmas ad as Kevin the Carrot returns and Cauli Dog goes missing",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbXEyUkxZTU83bWlBVFBzaFVZTlRzZ1pLZnEzVnBGaWZ4bnpXZlU2Y3VrXzB6TU4waW1Lc3VsZWVPMXpoSERmcmF3ZF9QN3dTX045OE5mS1FqSXhVUWpmSlZoTl91eVprZ25MZFVPeHZxOXJFajBzZVRWRnkzUXozSjdiVmR2UlU4RU1UVUdTZndDTjVhOEVKR3FSRC1aUnFzSGpMQzNGNm1PTFpxUU9jWWRjS3FtTzY5Q0NDQWhuSlVqd3NqeklsSVd5UU1lOHZzZlhGZGE2MlpDZmRHYWpWZQ?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T10:55:35+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Is John Wren right to say 'everybody’s replaceable'?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRqQ2l3b1NXSXBTWk1iZkVENWtCSXRhdDltSnE3X25tRF9iellIeDZwTXRZM1N1SmNuMmliOVFiTFA0SVI0MjdzUkVROHFOenBNMjVCejZQQWppQW55Nm5tdEFPS2RUM1cwUFVOeTVGTjA4YzUwMGt0RHN4dEZwcTVDTzhFblpQMnFiRjl5WTBWMDJ4N1JBSVlmZlIyMDZuRnJxUWh1TUdrQS1ocDV1NFV2eDYwUQ?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T10:41:15+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Sainsbury’s brings BFG’s Christmas in from his cold in third outing for character",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd2VjQi1tX0x0aXNVekdCM0ljaGtNbXZxd3dZSnF4eTdRSTlLaDE5dmJJZVdlTmo0X2Ytcjhibl9JcFRFeVBjTEl4V0tNOTRSSndITlBRWWNsaUJsNlB2eXpiWlVUckpDTmc2NV9SUFdFX2FIRjZKZXRMeU1lR082TzF1ZlJtOGVsRTNpQWdrUTVQZUZNYUc4S19fS0QwX0tpOVlzenBwdkF4S2c3RWxLN1V0UzZCbndTOHNtSWZfWEJ4ZTJtVkFHTEJjMXZ5Nk5WSEd0QzRRZ2VETVpYeWUzNg?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T10:34:58+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -15,22 +79,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRS1hb3dxbU1hcHE1SHBXNGRtR2xUdy1NYmZiUnpqSk5BbXVhUTlRV0d0TWxWeFF2dXBGWlZkX1BuZW9xOGdvczNGVllFMUltUHRHMjVGbmJFUWpjZDBmZDZsLWNxcGdqWkxFVXpFeEpaT1BjdkdNaUVhVkpmemM4aFpxUFlKVXBvVTRKSy1RZXVTYjR1WGF2bFp5WjJwWEZyMHZ4Q3NRQ0VBdDdmSDJYbk1fbVBNeFNtQVFTbjJKRjMzWHJWMDI0eHpNUVM4RW5jVjBvUEdnSEFsX2tHYWRHY2w0VlJZZw?oc=5",
       "published": "02.11.2026",
       "published_iso": "2026-11-02T09:50:30+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "How NoA combines independent spirit with network scale",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2dmZk9sVGVLUlhhVWtsM3BwbVEzc1J4YUxJMnpZM2F4RWZaTGpXdHN4VFZHVTVtOUNOcTNzMVNYcXlHUFR5X0llR0ZmcUxtNUFNNjVGMkg0clJtMXhwMW5OVF8zREZZdTN5SERCSUczT1dLcFFqdWk5RWkwb3FNaFpHUDlEVHJuNGtwblJVcjJZODBGcks3cGxLYkFKVUFvT09EeVVKdDNhdmlfa1d2UnlrTlh2WHJBcy1jcw?oc=5",
-      "published": "02.11.2026",
-      "published_iso": "2026-11-02T09:20:34+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Tesco “The wrong address” by BBH London",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlNfS0tUMVZIakI2QTZNOFIzbVFWUF93clpyTzVaMFQta1VOSHp3WWNJUUZYakpUYWJ3dzhiWGJpU2YycXpydWlBajJOVExrT1lWcHRYSFc0bXpaN0xqQjdUVkxQOXZvcUx3RnFPTS1yRDZORWFNMjF5b3FhM0s5MmlHT1VGUU5sdXl6dHRpNmttOHFpaUNSODEyNkd4SDFoNjM1ZDhR?oc=5",
-      "published": "02.11.2026",
-      "published_iso": "2026-11-02T09:20:34+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -46,55 +94,7 @@
       "title": "Lebara launches major rebrand with Ace of Hearts",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZtZV8tRDBYSzBXSUJsWEEwY0FmeFJKUXlNY19uTVJqa3ZoUFdmaTItWDROa0pFcjJYSXNGLUQ1ZkFZNGlkOW9tc0xPYlpZRnhVcWY5LVdyemoyenhIZzJSMWh5MmRSRjVwbmtlVnhaWHJqeE9faFNEcGNDdkR6QjNscDY2U0ZtS0JnQWtGQkJJbDQ0SkUxbkFGWV9sNlItTUE2NHM3UERNRW4wdEM3SnlTSmo?oc=5",
       "published": "02.11.2026",
-      "published_iso": "2026-11-02T09:16:16+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Droga5 global CEO Mark Green dies at 53",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFpUd0tPSkpuVVdnVjRnTEViSjVpNW5rNGxpRFRoRXJORmstN2xWVEpja1Q1WmNMcTJRRENEb1JsbTU4a2VTZ0hMcGEwZFRvQWlwYW1pWXRkRkxVZzhCV190TVRRc19QXzk0RFRYNHJTT0lzM3FNbXZiXzhpYkM2bmVEc1RIal9TeV9XQVZrVTFQcWd1b2dGcFhKenc3Q1VMV1NLOG5pQzQ?oc=5",
-      "published": "02.11.2026",
-      "published_iso": "2026-11-02T08:20:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Médecins Sans Frontières highlights global crises in seasonal fundraiser",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRGZhcWJuOWFWN1Zzb2lFZzFpQkdldVZNV0xrRVpnZmU0aGpqWGlDbW42V1dpcWNzMGtJY2EzTHlGbHg4bVZFdzNmMHVBTF9FRlQ2X2Y1UUZiUlc3Wm1nVUpvLW43UXJXSk5DWGlJZGszMjVkRFllaUZoX0g5TzEyUS1ZTGp4U3BIQmJfY1ctNmpudkxQOF9VY1Nrc2x4VEFrV3VjZ29PMG9TR1VaZzNzdjJXb2dPV2xxZnBiZjNIN05QNTdURHNnTGpxMlhZRG8xQU5QSw?oc=5",
-      "published": "02.11.2026",
-      "published_iso": "2026-11-02T07:18:45+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Great solutions come from great problems",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0M5Z19xcjhVSUw4cVBWMzRuTUFiM1l6Ulpxc0Z4eUVNd1JEVExiNFZmY20zNTdmeVdnTlhpUXRtQkw0eGRrOGNKLTluRFV2YWpyZnprSWJCSzVrcFFNcFoyNkRiOS1QT1hheEt2OHcwd1dYRENTU19hUmdBU0xDczNQOUZMTHVOQkpveTg3cFlOR3hGbC1kV0pwbGpWdmZ5d0VnS0tTaFNtZw?oc=5",
-      "published": "02.11.2026",
-      "published_iso": "2026-11-02T07:15:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "News Alliance push tackles CMO reluctance to advertise in news media",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3d5WmhRRkFUZXpLN25CWXB2Z2hCMEV5QndpSlc3QlBLYjUwMk5HZ0NhV3RrRVVUVUlRT2Y0UjcxdEdnOE91MWhHM0ROUGd5dkdMSkFaQjBnV3BxUkQ5OXlWUjh1M1hmRWhycXhQdGJhSjhIV0J5Vi1XUkNYb3ZienFQQjBUSWVqZjJqQjBKb0M2T3REOUYycnhRTVNvbHZlVjVDVUloRFRFVE5uZ1NrZFhGOXdUN2ZpbDV6NWtUbjJCVGctV3FSUEZ4cG5oSkU?oc=5",
-      "published": "02.11.2026",
-      "published_iso": "2026-11-02T00:12:35+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "John Lewis teases Christmas 2026 ad",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdURoU1MtRFFkMTk5WHNydUh3bkYzR0dzOG9WWVBKZHBYUU1pOWVDNi1WOVVsNUpsMVFJR2VEWnF0b1ZYdDdRX0dRRXZDN3NmTkV6RkNqakZzVnRmZm43QnRteU1GNUdlWGhYdzUwSHZ6MlkzeDRhUE12VVdUN2Q3V3plbWJIZVRLVU5mLWdySDhHOUF1WFFSUFFSV0I2NjhYZVZF?oc=5",
-      "published": "01.11.2026",
-      "published_iso": "2026-11-01T17:36:52+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Médecins Sans Frontières spotlights global crises in seasonal fundraiser",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1hWQng0Zkp0clQwbU9xUFo2R2ZydFY3a2FpVnFZSWxyUU5LVlhYYXNvRjVWNjhHVm51Qi1rVjM2ZEVkZjBDQ0VPdHo2QWdkQVgxdWVzWTVvMy1lNHJodXdsVWtjeUhULUVtMXNNYTNDaGs0TktZUW5CWHQ4cG56TE1XNmh4WHRMc0hRUGRQX2ljYlh5WHV5c3JPVlpmZ0JnZER2NldvQWI4X2JHZE1ueDR5MVg3Q3dxbllhamtLdmtpNERMcmM3dWlHOGk1OVJrOHU0Ug?oc=5",
-      "published": "01.11.2026",
-      "published_iso": "2026-11-01T06:01:17+00:00",
+      "published_iso": "2026-11-02T09:16:04+00:00",
       "description": "",
       "source": "Campaign UK"
     }
