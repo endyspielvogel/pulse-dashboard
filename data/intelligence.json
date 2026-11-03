@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-03T15:46:44.173293+00:00",
+  "fetched_at": "2026-11-03T16:51:49.333438+00:00",
   "brands": {
     "McDonald’s": [
+      {
+        "title": "Generationenwechsel bei McDonalds: Tochter übernimmt in Fohnsdorf - 5 Minuten",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNldsemZzOHdSWHVFLXJjdU93OGJ3YXN1VDBpcEpGdDNQbVVhYUJneDBTcG83QTktcHhEZHlXYTNuSlpjZzcwVlJQam5mQWEyN0FSUzFnZ0tsc19FVEVNeWZlZUQ1MXE3UE9fTkFOV256UkRaVnR4bF93VDA4WURGaHJZQzlrSnh0TWNmb3loMGh0dVdxWEVBQWltUENWcTZXUXlQbEpTOUFoRmNlZDJuZA?oc=5",
+        "published": "Tue, 03 Nov 2026 16:02:24 GMT"
+      },
       {
         "title": "McDonald’s eröffnet neuen Standort in Waidhofen/Ybbs - NÖN.at - Niederösterreichische Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdGalEyUlBEN2F2eklxclo1b1ZZTV9UZ1JKRVYzM2tVQlBYdGZoZTcyVmV4eGhQeGNJUi1uNkRKeGVhcWdlRV9JRW1RYUtzd3ZKSzdPYU1aZDlrb2FFZHFrTlFIR3FSX3hIeUwwT3R3US1YVEoybzdaejFONDVUcHhOdE9DWXZVWThFcTJQQlVLb3BmM09yS3liWGZyU2FZTjlVRTZjNEtPWEhnYlRCMXNfUlZ4Q3RWTkM2QnlsMTI?oc=5",
@@ -20,7 +25,7 @@
       {
         "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFNxMG1tV0ZIYU8yREtvV3NiM2tjSmlZZjg5Vk1NVzliZWJ2MTJOci1oemMyQVhyeGhtTWRNNi1iR3RfMFJPT1JjWEZFTGstSVF1U1ZQX3h5QzI0UldpaW1fVWJsdzRjc2FrbmxRV1owd25JaG1xLXVJaTRjUkVGQU1HUEl3cEFsSlFWX1Y0cnd4QnJPS1lUYm5raTZWQkFzMm41QXJfQXJxRVNLV0k5OGlwdlBVR2Z2YlpMWjdoamxqOWVRNnVEbzVfMXk5dzhEaTByRWdsV185ejFKOFE?oc=5",
-        "published": "Tue, 03 Nov 2026 13:22:37 GMT"
+        "published": "Tue, 03 Nov 2026 16:25:29 GMT"
       },
       {
         "title": "Wie Home Depot, Chevron, McDonalds, VISA, IBM und UnitedHealth für Gesprächsstoff im Dow Jones sorgten - Börse Social",
@@ -36,11 +41,6 @@
         "title": "Colgate, McDonald's und Target: Drei Dividendenaktien für den November - aktien.news",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHhKTndYTy0yMWZwdHZLUlZldkx3aTAwODZhbzM0WDFzZGxOVU45RGhlTnh6YzZSV2pTcTR1VklxVlRuSDV5X3pqUTh6RGZWNlhTZVg0TlNYTGlBTW13Y0U5ZHJoSHZramJCdW1tY1dYVXRkUWVacnF5Q3pNOXBIRWwzSkIwUFFUTjYxOGtwdk1BS3JOdHc?oc=5",
         "published": "Tue, 03 Nov 2026 14:28:53 GMT"
-      },
-      {
-        "title": "Burgermeister: Auf den Spuren von McDonald’s - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQTZlUzlpOVBDanpWVUx3MlJZSWdNV3EwYV9ibVh2Q1dGbU9IX1ZLeUdjekFGb0pqczNZcEFsNk9idFYxbDJ6dERUVV8yc19LMnpUcXV1Zmk2LUZIQ2MzYmhGTmh3NnhNZDFDOFBrVW5pMmVUeGt4YVZvQ29taUc4dGg4ZzQyQWNwaHdCbXlXck5qRnZ6WkVsQV82OVFmQTcybUcwQVU3amdTdTRCQ0FZR0Z6NzJSLW5vRTNEQlZjczhBMzFJNmF6M3lPQQ?oc=5",
-        "published": "Mon, 02 Nov 2026 13:43:37 GMT"
       }
     ],
     "Burger King": [
@@ -176,6 +176,11 @@
         "published": "Tue, 03 Nov 2026 14:10:04 GMT"
       },
       {
+        "title": "KI: Nvidia-Partner sollen Chinageschäft drastisch einschränken - Golem",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1EzMmFIY3FWZE5PQnNaSmVZNGlxWEVPWHFpMVlrU2lYYWpHZmNEMjVEZjd0czc4LVVxWFJRR0c5cE9QcW1DeFpiRmluRmNFLVUzQmtWUExmdXJWdUlvU2JVMWlhcm5SeFFyeEpVb2ZJVGhTU1VQdzQxSEpOLTBMWVE2dXAwTXZ6bW55NG1QWXZtM0ZuT09CbjJ1cU1EazM1dktQWFlyS0ZJdw?oc=5",
+        "published": "Tue, 03 Nov 2026 15:36:02 GMT"
+      },
+      {
         "title": "Nvidia Aktie: Oracle will auf mehrere Gigawatt hoch - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaERhdUVCakJLbXhGTnNSMW02SFdqT2Y3Nk83SU1WMXlma3dJcUExSGMyaGgzbF9kc0sxdzZzUV92M1ZJb1FrVHpPQ0hNQk05QWFkSURQYXhreGZNNVM5MHlFMGRQYUFUOXR0NnhZQkJMZlVjOUNtc0V2YWxrTXkyM1JTamZQLUZYSy0xcnY5YklDMnlxbHJvRml3aGlzZm91NVQzeA?oc=5",
         "published": "Tue, 03 Nov 2026 12:18:09 GMT"
@@ -186,24 +191,19 @@
         "published": "Tue, 03 Nov 2026 14:11:00 GMT"
       },
       {
-        "title": "KI: Nvidia-Partner sollen Chinageschäft drastisch einschränken - Golem",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1EzMmFIY3FWZE5PQnNaSmVZNGlxWEVPWHFpMVlrU2lYYWpHZmNEMjVEZjd0czc4LVVxWFJRR0c5cE9QcW1DeFpiRmluRmNFLVUzQmtWUExmdXJWdUlvU2JVMWlhcm5SeFFyeEpVb2ZJVGhTU1VQdzQxSEpOLTBMWVE2dXAwTXZ6bW55NG1QWXZtM0ZuT09CbjJ1cU1EazM1dktQWFlyS0ZJdw?oc=5",
-        "published": "Tue, 03 Nov 2026 15:36:02 GMT"
-      },
-      {
         "title": "Nvidia verschärft Regeln: 51 Prozent der KI-Leistung muss an Nicht-China-Kunden gehen - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN0xxUlhLQTNtNXc5RXRtc1NnVWZzSkdFN3NPZ0dBWGZCZVE1MDZneUR5TUhzX1NkVW1FbHBSdmVkcklsZzRmOHltcW1LMWMyQV9scU5YSFlHY284cE1hM3E5bENMeUY2V0IwSTRwQUx3M29NY3lnRWpIN3ltRWlyY2FCSFpOUE5sSUNzNm9ocmlkUm95X1Q3bTVsd0J1S2RtZnJCSjMxQ3ZtaUZjZTJQamZabTR2SnFTSDJodTU5YTBFREEwVWNtcy1fMHhZZTJtYmhF?oc=5",
         "published": "Tue, 03 Nov 2026 14:37:00 GMT"
       },
       {
+        "title": "Jenseits von NVIDIA: Sechs Unternehmen im Blick, wenn KI auf die Berichtssaison trifft - eToro",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSm9aYlR0OG41Zm1sdXFWa2ZVbVJyWko4TDFKTVJvdTdPZk4xZ056VnBxeFZHVGhOVDk0UTQyU3JsdGROUTlqalNNUnUzNTZXWUs4TjBtaXJhVGJDZXJjbTR5ejlJUC1LYlVGOWk3eVAwcmc4RnJUVklIM0tFREJqNDM0a3BMQlcxeVFXUTRzZ0Z0MWd6R0IwWjBzcWhyNGptTk5YVGdzbkRSVGxHOTB2TTFyR0tnWXotWW9IcmhoSERaMjVmay1zdVBEaTU1Ym5F?oc=5",
+        "published": "Tue, 03 Nov 2026 10:09:11 GMT"
+      },
+      {
         "title": "NVIDIA Aktie News: NVIDIA am Dienstagnachmittag im Plus - finanzen.ch",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU1qY1F0Y0NpUEItVDBpSlpIMW9IZnI5aTFQSTFYOXgtUEZWcTBRcVBweEhCWjlZREoycHNITHBnVFpkbThLNWo5cmttREpYYzFFV3RfdEFFM09mR2NhaVpidzNIX0NaenVjUUQ5WXJZVDBRMGxWRlVrTndGc0h3NXlMblV3NE1HN0tuOUlWQTVLN0tv?oc=5",
         "published": "Tue, 03 Nov 2026 15:29:00 GMT"
-      },
-      {
-        "title": "Nvidia: Wie Anleger mit dem Hebel-ETN NVDL die aktuelle Angstphase taktisch ausnutzen können - Ariva",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmEtdzBiNURTcUpDYjdfMTlfTlhrTElheC1rekg3Y0Ryank2UmVuNUVsRkl4OHZ5SDNDRkVKOXJaM1kyY2gwRjFPczZjWTJ1TWhRUmpTRllPV0FDLUVIZHAxdFdjazREdmVoaHNaY0NkVzh1dFdrOUs5OHZnUF9lSmlfRFg3RHR4SlJMeVRqaDJZMDg?oc=5",
-        "published": "Tue, 03 Nov 2026 14:41:34 GMT"
       }
     ]
   },
@@ -220,14 +220,14 @@
         "published": "Tue, 03 Nov 2026 06:35:52 GMT"
       },
       {
-        "title": "KI: Anthropic meldet Umsatzplus von 1.100 Prozent - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWlvSjVTelFzMzAtZ2NYRjJmd0R1R3B5OG84LXJaZnFqeDRTb2hhZnlRNFRoUlo4ME5ETjF5elYwdmg5Ykx0S20yU01qRVNvVlpMNXFNcGkyV2FObkp3RHNfNlJnNGs1empvTGtBYktuMk1PWUk3MWU4enFRRWhEVnBEMXF3b18yVjQ0SVNUWkZoVEN3c2lsUXFkaUpERjhXVk9NVzZBQjhzX0k?oc=5",
-        "published": "Mon, 02 Nov 2026 16:58:40 GMT"
-      },
-      {
         "title": "Zughersteller Alstom senkt Ausblick, Aktie bricht um ein Viertel ein - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDNZU25JREFWSlQzS0VwMzdsR3BUVHZlMG9QRXg2SHhKQkxSNUU2WG5QdWhjNk9hdURfWFhRelQxMHhpQ2diY3gtTnVYem1mOHBGM3JBSFctWGZyUzFUNFNPbW1ENW5rbTc4cmxGNmZMNVJDTTVoM09XMFBnWjRCWEhnQUEtbHlSOGwtYkhDWFZia0Rwd0F1ZlZiQzYzSHg4ZkNUd012RV9FLURFWmdYanZhZHM?oc=5",
         "published": "Mon, 02 Nov 2026 12:32:00 GMT"
+      },
+      {
+        "title": "KI: Anthropic meldet Umsatzplus von 1.100 Prozent - DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWlvSjVTelFzMzAtZ2NYRjJmd0R1R3B5OG84LXJaZnFqeDRTb2hhZnlRNFRoUlo4ME5ETjF5elYwdmg5Ykx0S20yU01qRVNvVlpMNXFNcGkyV2FObkp3RHNfNlJnNGs1empvTGtBYktuMk1PWUk3MWU4enFRRWhEVnBEMXF3b18yVjQ0SVNUWkZoVEN3c2lsUXFkaUpERjhXVk9NVzZBQjhzX0k?oc=5",
+        "published": "Mon, 02 Nov 2026 16:58:40 GMT"
       },
       {
         "title": "US-Börse: KI-Boom am Ende? Tech-Aktien stürzen ab - 20 Minuten",
@@ -282,14 +282,14 @@
         "published": "Tue, 03 Nov 2026 09:29:00 GMT"
       },
       {
-        "title": "Teads erweitert Ad Manager um Cross-Screen-Kampagnen und KI-Funktionen - Meedia.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3hVZC1XUHJsQlhZLUIwTXlmMWp6WWE0WWtaQ3ZTbE43MjlJdDZLdzJFaXNvWmlOTkdINTFzTDFqZkdPTGZLRUhXbXhoYnZrc2ZyV2NhajJZUzh0dmc3ZmY3RzB4X1lGaHh3RXRjQnF1X1lvems5WTNmVm5PbUxxNzd1NG9EanpHaWlEWlFuaXRoclU2NWRONWRVU3NBN0paUmNVRkE4TjB6RjUzNnllTkJR?oc=5",
-        "published": "Mon, 02 Nov 2026 08:26:28 GMT"
+        "title": "Freundliche Grüsse: Socken als Dankeschön für neue Mitglieder - persoenlich.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWEFpZWxYVUtCZ1Z4Q2tYNTB2OVEtQ1g2N2s3RzRUQ2xCU2tEQkk1TG5nZWVWb0c3RFoxcXowYWV2enYwTUhVX1p2ekVYUHlSUEZVdlFXOXV1WUdoeFlCVkhoVTRJTDh0U1FPem1BSUdzMmpHZmpaUWpMbFEwQ1hmOUwyNHhqNmNPOXhxdmZ4YXg?oc=5",
+        "published": "Tue, 03 Nov 2026 14:37:30 GMT"
       },
       {
-        "title": "Headstart Collective: Daydeal stört ernste Momente - persoenlich.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYQjV4WUdfdWJRc3dtZlFBckJBdGVkZ3lTWVAydlZDTDdJZGV3LWRZSVV1UTlYSE84U3J2WHhJYkVLTXRsYWhmSTZxdW8tTFBBVlhVR2FhWHdEQjNWQ0Z6eVN5SnBGRDVKZzlkRXkyZVk3ZHdjeTU5YTVHRmwtVUU?oc=5",
-        "published": "Mon, 02 Nov 2026 15:29:46 GMT"
+        "title": "Adform holt Tom Peruzzi als Senior Vice President Publishers an Bord - Meedia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczRXNzBQZWlTaWNZS3FrTE5xandoMFFJbGs2OW00eUw5MmVxTDFGcGw4aGFqZFFfOFlLSDVXbXpjLTdtaDkwUExQLWxqSEJuVTlrc3FBbHNZSzB2czA2RURUVFNlQ0ZtZWJqMUJyX01SNE1CTzF4T1lVNV9KMGJsMUdOcjIyeGpSZlBWdGlpc29xQ0VJRlZRX0F4YXNfSnpLRkVBS1NGRmZDYk9aemdN?oc=5",
+        "published": "Tue, 03 Nov 2026 11:12:42 GMT"
       }
     ],
     "Technologie & KI": [
@@ -304,9 +304,24 @@
         "published": "Tue, 03 Nov 2026 14:44:54 GMT"
       },
       {
+        "title": "Cognizant: Europas grösste KI-Herausforderung ist nicht die Technologie, sondern die Organisationspsychologie - Moneycab",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3VMTXN2UnhnWGQ5UTRqMXZwOWdpd3FWSzNKQWpQOUdwalRnZHh3UnBfQWFrcEphSUx2WG10TkZvTlk0TUhYcmwyaF9YQjBTQ250Z19JTmFCcUE2TndXZ3VQWmhXcDlqWktudG8taHlRTnB6dGNhSnNBZm1CdWh5bTgtczh2R2VzS1pxV2MzSkdlYk9CcEtnMm9jR29ESGtZUTVsX0hWLXJMclhBYlhlaEplX0Z4a1cwOWpWa0RWR1NGNmVhY2tmbFFjOGhyNDNSWV9z0gHYAUFVX3lxTE9zTUpiamc5MjRMbzBmSzhVdTR2eWF1dS1LVmtSMzF0ODlja1VwVllGQUJibmFxTXVSRkgyaVhsVVNEd0pSU0t2V1dSbk1WdmlqTnd1ZWNKcURrVWYwemVDamxPa2JtZFlVTEVkbTNSdEItSXI4LXNjLWhvX1pJbHN5VmllUi1icDBaaVNMY2FveVUyS29Ta0dfSzE1ekFSZk9FaE56ZzFNcEc5QjNIUGJiNGdaMjZ1cl9mRjBySFJYWHk1WFJObHZCcW1oOE5ZS1VOOExqS1Y4cA?oc=5",
+        "published": "Tue, 03 Nov 2026 12:43:50 GMT"
+      },
+      {
+        "title": "Emirates Skycargo startet Spezialservice für KI-Technologie - aeroTELEGRAPH",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYy1kREY0aEdHSUhUT0VtX21hOG8xZGF1Z0xpZTdWSEl6cTB1dVRNNmRpTHFQZFlNQ2FpTjhwTEJqWjVlVmE1WUJtalZQVzZqR0h5S3RETmh6Y254OEl0TkZJeEw5dlRFZUZ5RlNJclQ0aC1waWtMLXlPYkd3WGVHNFQtYnhEeTJfdjlpVDlQNWFMMTFjTmExUEhmMkdCSUpxYm1iWXFEaGE?oc=5",
+        "published": "Tue, 03 Nov 2026 16:45:00 GMT"
+      },
+      {
         "title": "Knapp vernetzt Robotikentwicklung in Graz mit neuem Technologiezentrum bei Boston - Logistra.de",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdl95N2llVXhhVlliZWNnNnIzVG9kZ2J0VUJLVkhLS0ZId0gyNENqeUZ4WDJPdm9ya0dfRzVHMGE3T3VUX25mUXBrTGhSTm9MdlVKM2NkRkMzZnJKQlpfNzV5TlVLWllJb0sweHg5UW96RHY3RVpDVGZmV183SmMwXzdpX1Vyb0t4VkpfOVpkNzZvcTFhRnFmZUZzVThEd3NYVjlubGFZYXVTeExhSm05YWU5U3ozUQ?oc=5",
         "published": "Tue, 03 Nov 2026 07:48:00 GMT"
+      },
+      {
+        "title": "KI: Wie Tech-Konzerne mächtiger als Staaten werden - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlRqT2dPdmI4STNyZ3RpRHU0S0lQOS1zZ3NXblZwN1lWbTN1N1dzWmZRZldCN0praGd3NTlTM2EzTVFtbTdnYmZybXZsX0FWdkRydHRNWnpYZ08zQ3d0cHlhOGtxWFVlMjhJYTQ0ZlpwRXEwVUxzOWNodDhrdnljSDB4OVZVUDF3VGh6Y0lrVTVfU2k4dFFJNzU1eERBajZPWlhSRmxVVEhPb1NrSkdhVQ?oc=5",
+        "published": "Tue, 03 Nov 2026 11:13:39 GMT"
       },
       {
         "title": "Künstliche Intelligenz: Nutzung synergistischer Vorteile zur Verbesserung der Risikomanagementfähigkeiten. - Vietnam.vn",
@@ -317,21 +332,6 @@
         "title": "Hg und Anthropic investieren in neues KI-Unternehmen für den europäischen Markt - Startbase",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNektiQWgyT2d2R3J1aW5hYjU4ZXJqQndFZTJIeXNhN0tSbTE0LUlIY0xCOGRURlhKRnpsNTJyNnE5aDdBMk51M1lqWkFGXzhDNkpjSVBwdU9sYll0SFA5T0UtdjhRWVM5T1ZvU1ljeVUtNFB4SUdydk5tVDhTTUtOSVo2cy1adGpweVgtV1hON28zX21VWThOT09zeXU2MndQaVFuN2NpSXNxSEhoRDMzNTRB?oc=5",
         "published": "Tue, 03 Nov 2026 10:59:00 GMT"
-      },
-      {
-        "title": "KI muss raus aus dem Testbetrieb: Atos zeigt, wie Unternehmen agentenbasierte KI skalieren können - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaVZCRkx3c05MWFhPR3QwbERCUEhlOWNOdVJXQW1HTEtVNVhRTHluaHZRMjMwT0dNd01XNWd4TEx2WmxfYm1UaThhQUw2Y0hUU01yeVlIYkkwNDluSUh1bEE5MnJ2NkRzcEU4Y21vQ01ISjFwUTIzbTdabHBrV2EySzEySGdlSnQxNlRPODhNa3pfSUtiR3hyd1ZsalIwMUFVbzlTdXozLXJpWU1ESVU0SzFXX3lzaWFMd1EzNUJuM1NUZk05WC11R1BmdUFSVDhTZ0NsOFRmQTNZbUoxWmZUVXF6eUpqaGx5dFFkTzdQbmE5aG8tVHFTbXFkZllSTkdPcHRsbE9najN4b3Z4QnNEY00zMl9BN2VMcUE?oc=5",
-        "published": "Tue, 03 Nov 2026 09:05:04 GMT"
-      },
-      {
-        "title": "Deutsche Start-ups führen bei Physical AI - it-daily.net",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84czg0NWhCR09sajhDN1p1cXhzSHB1aDVCaXU0M0VXNWdWYXdaQXUtR3JjM3k1OWZ6ZkhFMndmYlVmc1A3SUpoUmVOS2JXRTUzMnFWNHp6RkdGY3U1a2RZd0JuOWE1ckViNVFNWHRaMFRBOVE?oc=5",
-        "published": "Tue, 03 Nov 2026 05:41:37 GMT"
-      },
-      {
-        "title": "Deutschland fehlt bei künstlicher Intelligenz der große Plan - Meinung - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUd1S1kzQkNMYTlxTXNjX3ljbEg0RlEtazFjREctRUJraDlYX2t4SlV0UjhPdndJS2toNzlxNXNKZHhaSkZmenFFUlJMSHJCWTZyTi00OWFYTW5ScGJ6eVlLUFVhQ29yd1o4dzRhcFB3MjVadHBuU180dnpBbTBzU25uR3FFWGo2Z0Z3SG50c2YzeXBPMW0xT0NYd2lPT2hhMzE4?oc=5",
-        "published": "Tue, 03 Nov 2026 14:16:50 GMT"
       }
     ],
     "Meine Aktien": [
@@ -346,9 +346,9 @@
         "published": "Tue, 03 Nov 2026 12:00:00 GMT"
       },
       {
-        "title": "Megatrend Folger: Nvidia vor den Zahlen – warum ein Rücksetzer nichts bedeuten muss - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU1XMXV4bllBN2lUUV9KUnduZF9KeFFtcl9RTFlseDk0WVVldU9FS1dVNkZqcHFaS29QRjhpemxKRGdFTk8tb2NMN3pKSXpvaHNNRlc4ZENEejVLSkxsTzZETEtzWWprZWVRSG54dm1SWkxGMVk3UDRSY093aEtSUWl0aEQ4YmRrdE9paHh2UXczTFVzcElBVUV2UXU1eTI5TFZmaDhvVGM2OXFZamZKTmhBSXcxR1V3LThMN0k2V3BnV2ZFZy1DZFBwckdkMjNjTnQtcQ?oc=5",
-        "published": "Tue, 03 Nov 2026 07:23:09 GMT"
+        "title": "Generationenwechsel bei McDonalds: Tochter übernimmt in Fohnsdorf - 5 Minuten",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNldsemZzOHdSWHVFLXJjdU93OGJ3YXN1VDBpcEpGdDNQbVVhYUJneDBTcG83QTktcHhEZHlXYTNuSlpjZzcwVlJQam5mQWEyN0FSUzFnZ0tsc19FVEVNeWZlZUQ1MXE3UE9fTkFOV256UkRaVnR4bF93VDA4WURGaHJZQzlrSnh0TWNmb3loMGh0dVdxWEVBQWltUENWcTZXUXlQbEpTOUFoRmNlZDJuZA?oc=5",
+        "published": "Tue, 03 Nov 2026 16:02:24 GMT"
       },
       {
         "title": "Burger-Baustelle im G3 Gerasdorf: McDonald’s zieht um und baut aus - MeinBezirk.at",
@@ -361,19 +361,19 @@
         "published": "Tue, 03 Nov 2026 09:36:00 GMT"
       },
       {
+        "title": "Megatrend Folger: Nvidia vor den Zahlen – warum ein Rücksetzer nichts bedeuten muss - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU1XMXV4bllBN2lUUV9KUnduZF9KeFFtcl9RTFlseDk0WVVldU9FS1dVNkZqcHFaS29QRjhpemxKRGdFTk8tb2NMN3pKSXpvaHNNRlc4ZENEejVLSkxsTzZETEtzWWprZWVRSG54dm1SWkxGMVk3UDRSY093aEtSUWl0aEQ4YmRrdE9paHh2UXczTFVzcElBVUV2UXU1eTI5TFZmaDhvVGM2OXFZamZKTmhBSXcxR1V3LThMN0k2V3BnV2ZFZy1DZFBwckdkMjNjTnQtcQ?oc=5",
+        "published": "Tue, 03 Nov 2026 07:23:09 GMT"
+      },
+      {
         "title": "(3⁺) Chart Tracker: Mercedes-Benz, STRATEC, Rigetti - stock3",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10MGhfZHpicmV6NlNCb0QxR2dwemE5aEE2RkZLb3FpQ3d5UXJWNHdfTU9RNEE1enJ6VWZPOHNyOTYyN25naXVabzFGeEFmcDNkRU8ta0V1a2JNeWdWWDR6ZUdSS0t3c3VUbVhLclMtM1VuM3JFaHNz?oc=5",
         "published": "Tue, 03 Nov 2026 09:44:00 GMT"
       },
       {
-        "title": "Nvidia: Neue globale Cloud-Vorgabe begrenzt China-Geschäft auf 49 Prozent - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFhKTFgtdlBiZ1RiRTdMeERreGQ5SVRFZENDTEdWQlp2TFNRSzVNS05uVTV3TWZMWUtZYVo2VGtvZVJFRG5OUnJiTlNTQkFiMHlBZnE2RFh0UUVKLXVNM05sYTY2RnBBanFTbi1GX3N1V3ZFY1ljVEhPNVo0WC1xdUQ4VFh0NVNnal9RVXNYYXN0UmxEUnl5M0R0MVo4UGNOVXc?oc=5",
-        "published": "Tue, 03 Nov 2026 14:10:04 GMT"
-      },
-      {
-        "title": "Electra übernimmt Mercedes-Benz Schnellladenetz in Europa - VISION mobility",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdU0xOXlHOXNRMG5LXzd0Nm42YzhaNU5DZTBJNzBFNk9kdVZCVlJhblVtanRjOC03MmJ0MEZ3QUdia1pZeWJwX0FlZU1NeGpzLV9sQnZNbmVoRV94Q0kwRkJyV3FfbWJtWDdVUkVZaFZxbVFVb2ZTOHpYU184b2J3NVRmNjQ0R3pWQUtiTHNLMGd4YjZRY2h6RUpzRW9Bc0N4MG5faQ?oc=5",
-        "published": "Tue, 03 Nov 2026 11:23:00 GMT"
+        "title": "Electra und Mercedes-Benz erweitern Zugang zum Schnellladenetz - i-Magazin",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vdkU4bXJqWUxhRGtja2U1VG1Ob3hINFhJSmQ0QkxSNVNSUDNuaUZPM19EZWtuRkVKZ2llaDhvTVZ6ZDB2SGpKbGQ3R19iSGktRUs1S0dBU1VJcnU1NmhZX0lFTWpHclRTWFp3RXhOYw?oc=5",
+        "published": "Tue, 03 Nov 2026 07:00:49 GMT"
       }
     ]
   }
