@@ -1,15 +1,7 @@
 {
-  "fetched_at": "2026-11-04T07:34:06.647975+00:00",
+  "fetched_at": "2026-11-04T10:21:23.831440+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
-    {
-      "title": "KFC and Marvel showcase Doctor Doom-inspired menu with global campaign",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzB6STcwU0J4Q0Rmc0Zvdm5FaldRbkpVc1hTLVBpdTBRRXMxMEwxTGtMRkZvVmlIV2gxS09ZZXdNM3NYYmFZRGx2Q1Y2SGtzM0xPcjlkLV9XOFFsbzVwUHlEN2pmWnJBR2JDbFRRZHNERWg0dmg5WEhmMW5BWHlUZ01kOEJVRFFibWlRYkc1MzFrVmp6YXFMZlk4RnpFQzQzX2pVR0tCYkNsX3YwZ3QxdUhqNjgtb0k0dTFEaTFxODlyODZEZDZpcmxzdy1iQnVFZ1E?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T07:17:01+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
     {
       "title": "Campaign In-House Agency Awards winners 2026: Marketing Effectiveness",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdExNdXBKMHJLOHBnUWRZcElhZUtwdHRFVVJlNW9BZnJOamRNdzY0S3l4Vll4MTI3UUVpa0NZTF94eXI5UHZCVDRFSnprZ1ZhaVQ0am1HZFYtT2xYZDVqcGNJaHlLM0VYbGJrYWl3Z0hkenkwS0NkWHRZVXc4RHNwTUlxbndPRTRwM0h1MWlqUDNWN010YldhWkZvMjAtSkRMWE9KcE5lWWRWOWNDcVAzUjROQVFRcHhtQ2xrLTZJampjOExJa2U1Ukl1SkFwaXc?oc=5",
@@ -35,50 +27,10 @@
       "source": "Campaign UK"
     },
     {
-      "title": "I Made This: a billboard detailing everyday frustrations on a Union Jack flag",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMlRPb1R3R0UteHM4ZV9CcHI2cjBFNWFPNXBDeXVDOWhnRTRURm9fMG1YdWJWaGpoYl9VUlJvcWZhSlpjMUdVMUxNZkJEVTJtdHF2QmExc2hrQkpUS1JJdW56V2t4RzhMTTFjUEp0RGtkeDF4VHVLX0FDQUxVV3k2dFM1WFd2OFZhTTFjZi1meE5YX3lfeEVTUkNvSGhjRE4tUldCTEsxd1k4bTdVU2ZHQVh0aENEOEpmb1NkcGczMTEwR0EtNmtNaGMwZDJyWnFEV0tHSktVRTNZZw?oc=5",
-      "published": "03.11.2026",
-      "published_iso": "2026-11-03T12:41:56+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Posh profit – a lesson from Victoria Beckham",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamdFVG5vdkpPS1pxb1ZZd3hIbXROMjBlczNqUFM2SW1RZ0NPNXFKZ2gwQkNfcFQ2cTR6THVjUmhrRy1mZF9tN09aQzhTemRVUWVjc245TlB5NVlQWGN1clRCM0NTdGwwcWdZbHRGdnhPdTRxc2ZNNVgtZ1FrTldCUkEyaFN5cnNuTHZVV0FrdDd6azFSSkxpeUdnZi02VXFUZ1NsY1hyM0VXMjRQ?oc=5",
-      "published": "03.11.2026",
-      "published_iso": "2026-11-03T11:52:13+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Asda “All of Christmas at Asda price. Boom!” by Lucky Generals",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGpCTm9UQTQzZkdWNVVPMloyemN1UUVGRG54cEN5VllPakExLVR1YUF5UHFPenlFeVoxTUtaOVktNndiZUZqSFZjUHZ4YUpPOF9fdFV4MFBMWTR4b1M3QUJpVU45Tm5Bd1dVLUNwQTlMZk5GTWN3RVZTQjI4aVRsOC16OVlxNTFHUHNaSmxjTXduUEVQYzNvb1dIc1FHZm9TZE1tTkszZUsxSnFUZUpCM0hfUzMzcEh1cGFPQkJvUUtCUQ?oc=5",
-      "published": "03.11.2026",
-      "published_iso": "2026-11-03T11:36:12+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Shortlist revealed for Media For All Diversity and Inclusion Awards 2026",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQlcxV2JpQlNhSndMMWJwY1Y2Z0Zoc0ZrQmRzNGN3VlFhcGNvd0RzRHo0eW5YemZyanRsaGd1Q3lQYzBoUFVwUUhkaHh6UVlzSUFwNzhGOUdjQWRibDR1V283eWVzVUpteXo0QURsRXFHTmtNXzVRanRGSzRucXFYMENabHZ5UTZpaWFaUms1bDZLS1Fqd25pZlRzMHdKNHBOM2pwM2RIZ3JETW9uVE9fT05RMVNHQkpWZnR6U2UyVGQxem1GMzVsMmNHMDJqWXNfbXMxOA?oc=5",
-      "published": "03.11.2026",
-      "published_iso": "2026-11-03T11:04:40+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "UK new-business rankings: 3 November 2026",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjB2eXcxd04tM1cyNElXZmExSTNSZVdMMXVZbWJaMG1QZnUtNU0wbGM3QVY4R0hmVTdGMnFlYk04SGVTQ1J1bW1aMHY5SGhPVzIxZTI5SWJ6MFFPY2h3NXRGSTFLc1ExQlMwbFBLSWVSNkZEM1paNl9qdlBXT05ial9TSmo3RHZWZ0VUTVlPTzYwVTVhQ0FzaVFpSk1hWWRoY0h1ZXJfNWZrQQ?oc=5",
       "published": "03.11.2026",
       "published_iso": "2026-11-03T10:54:07+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "‘A huge amount of commercial pressure’: why pitching is close to boiling point",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnViX21UZzNySWlKdXpkZzdyMUlTNEVsZHU4TGdTdmE4cjVQSTh2aXM5dDZFWGJrcGRZVkUySnhkUEVBa1M2RldFX0p6ek4yeVZsZnM3eXd3bE40MXRJa2MyVm43Ym5lQ3RKb01wUC12OC1HNlNHWFl1YmxrVG5XdElsMm5wQV8tMnFDNG1faEcwYzdpVTE3Q1NrRVFZdGZ3VjRQcFNsbGlVUFAxTVMwamJSZ1dJaXQxbjV0QnJTbk9OaWVPaEkyaWFrWnQ2TF9BZmlMQjVuQjA?oc=5",
-      "published": "03.11.2026",
-      "published_iso": "2026-11-03T09:08:58+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -95,6 +47,54 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEJSbC1IaDdDZTBkdXVIcE1DbHNHRExwdTdYbTR2azNOVWFHNG4tY3NDZjNhWDhNTk5oeDE4T1RWanEtTmJ2dzktM3l5T2tBYUpGOFpldUpJMzJpdTBLUkRyZHNLazY3dFRuZWZXalhzVEpLLUlHOVQtTUVwRHU3c09zMHEyU09WMklXeF8wck5sV2ZjM0V5RFBtVW84cDk3dzB5SUpHNmRjY2pialluazg5Q3RHdw?oc=5",
       "published": "03.11.2026",
       "published_iso": "2026-11-03T01:01:05+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Schuh celebrates mispronunciations of its name in first work by Ace of Hearts",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSm5zZkN4YUNmTjRBWmJQcDJqRVpMMVRZR3ZVQ3VBY3g0bXQtTzZQOTlYSVFYdnN5bzJ4QnNIV1dYY0lLX0VWak9TczdBdl9XWVYxLVhQd1ZYLTZwWWgxVGl2eDJ5N21oaDJMTFJ4bENQaVVlYXdieWI0WVBQZ3Vua21QMDRJTF92V1ZOUHV5R2dfT2Y1TUVGNllWOEhkOXFlNG8tazBjRUJJYmU3c1BoUDJULWZyUlFJdHNaLVJpMFIxZ1lhZUJfMzFnQzVva3pidGgwLVJxRjlqWlU?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T12:57:15+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Private View: Waitrose, Twinings, Oat Cult, Napolina, Subway, Sharps",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3M1WUVaWmh3YTJxenVUWjc2MUQ2R1k5RVA4STNxdUpfY1NMdzlldzRhelYxUk4xREVQZkIzMHRoa0hTOGpGeFZFa1BQWk9CSUY4dUpzczAwVzZRMC1lSnJwWHhkdUYzUmUwcmNXeV9xdGN6cTk4MXFkSkZpNHV0cDZTcTk4cVkyTjFHckZvT1RRdUUzT0NPMktEVExmTllJaVlKNmwwU2VoQ2RfQUVtLWdYV2hBTHNncE9zUVJHS3FwSkRVMEc0?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T11:46:23+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Lebara launches major rebrand with Ace of Hearts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZtZV8tRDBYSzBXSUJsWEEwY0FmeFJKUXlNY19uTVJqa3ZoUFdmaTItWDROa0pFcjJYSXNGLUQ1ZkFZNGlkOW9tc0xPYlpZRnhVcWY5LVdyemoyenhIZzJSMWh5MmRSRjVwbmtlVnhaWHJqeE9faFNEcGNDdkR6QjNscDY2U0ZtS0JnQWtGQkJJbDQ0SkUxbkFGWV9sNlItTUE2NHM3UERNRW4wdEM3SnlTSmo?oc=5",
+      "published": "02.11.2026",
+      "published_iso": "2026-11-02T09:16:04+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Tesco returns to hero spot format with Christmas ad about a rekindled friendship",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE1EZ20zT09ETlBJQk9hM29GSEQ2LWtPSWJheGJaY2NtWUJUOXRLQUF4T0tEMnZrZ2tMR2tqWGY5MkxDSll1UGE4RGJiYnNnOF9FNHE0NXF6a0p1cHFsZkFodlFwRGU4MnJVUTBYeEsyUTh2RUdqWGNXb09OaGhkUjI1RTE5Q19MVk9vRVZkR3NZUUFENjlqbS0xeHdGRFhvVWdicTdWbmhHcFdrSmkzUm8xMUMwd2tRSmVmaWk1bkhfRWtOTUlUcGlEYnBTcnZUYjBFWmtEWHNBQ0ZSRUlj?oc=5",
+      "published": "01.11.2026",
+      "published_iso": "2026-11-01T00:20:02+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Omnicom Media wins lion's share of Lidl's $1bn European media account",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUkwVHdYN0dzNmU4TlVvbl9KUG9GZ1VyTGRiYURwclpzUGhHMllqVEFTLUFKT2Z5cEZhMnB5aFBrQTEtMVdmaW9Ka0FVMnVZazdhSDhzN3BOdEl0Ty1XRWt1ODRnbnVWTzJISl9NbklUYTVuWGwxTHpNZmpVdW5VUG8wZlg3R2ROejhCZjM1TXhqN3ZjTHZ2N0lpQm4tM3NCVXJBTk9xQzBlMEZVQm02bXJuVTJmZUFIRG9xUTFHNjExU1RHSktrZjBKWXZrWEk?oc=5",
+      "published": "30.10.2026",
+      "published_iso": "2026-10-30T11:33:07+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Creative Score Global: the top award-winning work worldwide",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTFOWGNaRXI4VTJHWW5ISUZfVmJwUHJqaEVmazd4bFhwSGotR3JvZlVvY1dqMk1kSmMwZHZpZmwtc1Fzcld5bkdSR18yTXh1NFR0eGVWTkswLW1CMGJBSHkxRUt1UVBtU3FRVm9kWWdpOWNyVXR6RWRvd2tIb1kwTUVZVHZiVS02VE1PRVBwM3ZiYXM0V2VYOUpKV1BLNzJOay14MmJMdzRUUHZybC00RWUwTmNGWlhwQ3dxQS1JV2F2MnVxTlJN?oc=5",
+      "published": "29.10.2026",
+      "published_iso": "2026-10-29T09:43:37+00:00",
       "description": "",
       "source": "Campaign UK"
     }
