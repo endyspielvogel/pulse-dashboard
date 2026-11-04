@@ -1,14 +1,18 @@
 {
-  "fetched_at": "2026-11-04T01:42:42.767254+00:00",
+  "fetched_at": "2026-11-04T02:28:16.987534+00:00",
   "countries": {
     "AT": [
       {
-        "title": "spittal an der drau",
+        "title": "jon ossoff",
         "volume": "100+"
       },
       {
-        "title": "fox news",
+        "title": "cnn news",
         "volume": "100+"
+      },
+      {
+        "title": "wahlen usa midterms ergebnisse",
+        "volume": "1000+"
       },
       {
         "title": "cnn live",
@@ -20,23 +24,19 @@
       },
       {
         "title": "us midterms 2026",
-        "volume": "200+"
+        "volume": "2000+"
       },
       {
         "title": "konrad laimer",
         "volume": "500+"
       },
       {
-        "title": "agrarheute",
-        "volume": "100+"
-      },
-      {
         "title": "taiskirchen im innkreis",
         "volume": "200+"
       },
       {
-        "title": "republican party",
-        "volume": "500+"
+        "title": "agrarheute",
+        "volume": "100+"
       },
       {
         "title": "champions league heute",
@@ -45,43 +45,43 @@
     ],
     "US": [
       {
-        "title": "vivek ramaswamy ad video",
-        "volume": "500+"
-      },
-      {
-        "title": "andy harris",
-        "volume": "500+"
-      },
-      {
-        "title": "adam hamawy",
-        "volume": "500+"
-      },
-      {
-        "title": "al sayed polls",
-        "volume": "500+"
-      },
-      {
-        "title": "kenneth block",
-        "volume": "500+"
-      },
-      {
-        "title": "north carolina senate",
+        "title": "childcare",
         "volume": "2000+"
       },
       {
-        "title": "thom tillis",
-        "volume": "500+"
-      },
-      {
-        "title": "sd state vs kansas state",
+        "title": "iowa",
         "volume": "1000+"
       },
       {
-        "title": "jeanne shaheen",
+        "title": "connor mcdavid",
+        "volume": "500+"
+      },
+      {
+        "title": "rashida tlaib",
+        "volume": "500+"
+      },
+      {
+        "title": "nc amendments 2026",
+        "volume": "500+"
+      },
+      {
+        "title": "larry kudlow",
+        "volume": "500+"
+      },
+      {
+        "title": "melat kiros",
         "volume": "2000+"
       },
       {
-        "title": "justin pearson",
+        "title": "eric barlow",
+        "volume": "1000+"
+      },
+      {
+        "title": "lynne walz",
+        "volume": "1000+"
+      },
+      {
+        "title": "first black woman governor",
         "volume": "500+"
       }
     ]
