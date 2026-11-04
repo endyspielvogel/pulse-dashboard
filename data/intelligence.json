@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T00:12:00.159697+00:00",
+  "fetched_at": "2026-11-04T01:38:14.671812+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -38,9 +38,9 @@
         "published": "Mon, 02 Nov 2026 04:05:00 GMT"
       },
       {
-        "title": "McDonalds Aktie News: McDonalds am Dienstagabend mit Abschlägen - finanzen.ch",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDB3ZERvMVl5UHpHeXlMOUNvci1hcDFCZTc3dEt3aDF1S2hzcno1NUl3cDFfVXNvOC1FTXJJVUp5NkptMWNKTlhzYzNTeUtoaThmcGdHTTNiYVlabC02OWtfSTBkN1FxZVRkMWZIQmQxalBhRzJMVVhhNGJzdm00UW5EM3ppUVdmZmNkeWNGZERKUi1rbkszRw?oc=5",
-        "published": "Tue, 03 Nov 2026 19:27:13 GMT"
+        "title": "McDonalds Aktie News: McDonalds am Nachmittag mit Kursabschlägen - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlVZaWo3dmtFODViNXRxNkY1UVdLSXI0cEFIc19qX0Nzd0dFZEo5emNORmVfSGVseWpONGx3X185YzlNR2lia1Y5aWdDRHB3WjVDRzNiWkE0d1p2endkRlVvUFRra1FnMmh2Y0Vsc0NaVUhPaXp0emVEX0h1Q0k4ZmJHUmNyODVvMzJIaFRyNGFPWDFIRDJVRg?oc=5",
+        "published": "Tue, 03 Nov 2026 15:29:00 GMT"
       }
     ],
     "Burger King": [
@@ -102,11 +102,6 @@
         "published": "Mon, 02 Nov 2026 07:10:00 GMT"
       },
       {
-        "title": "Omnicom ernennt Tom Schwenger zum CEO Omnicom Health Marketing - new-business.de",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00UjJsWlNLakQ0SU1sUEt4anlTNnlPbE5zXzk5V3FyMDUyb0t5ZlRCNzdXS1VtazhQNTREd3ViNVNjWFpzN3F5cjByaWFpc3IyellsUDk5WkdheS11MHMzc0FfUVA3RUR2M3g2RVY2UlNZRUtBdnlMZ2g0MA?oc=5",
-        "published": "Mon, 02 Nov 2026 15:30:03 GMT"
-      },
-      {
         "title": "Omnicom ernennt Tom Schwenger zum CEO der Health-Marketing-Sparte - Investing.com Deutsch",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzRlUE44RF9IaHdjM0R6b0E5by1Sb29KMUZKT3hPcEgzQVdYY0FGMlZBdXZ4S3BoQXdmNGlreVc4d0xCVVJCaHRnT2ttLTJJRkJIOXM5SmpBOHhlTGZUWGRDOGg4cG5FcVBKdG5wcmNpZmZGUXFLcEtfV0U3dXkxRDBMUTUxV3BKcXppUVIzNUJLOHJCZDJacU5qc0JaNTJQd0Jianl6S2laa0taaDllcXhCeVlMUFVucjlEWlBxZGo?oc=5",
         "published": "Mon, 02 Nov 2026 14:40:00 GMT"
@@ -131,7 +126,7 @@
       {
         "title": "Mercedes-Benz: Verkauf beschlossen - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcHNlWFFkaEdqQ3Q2M0dXelMyRW93NXhXU2NiZXd0dkNZZzFyNEcyYXdFWmJSZGszUGhBMlVHYnRQR1JBLXdRb0hpWHlXTl9MbTZDVnBROTkwOXl5NFM2dUhmM3NLdU5JS3RVX2VoalItODZNMFp6OUFnR3dDbmoybFJVUjA0dEJoZTNhRVFNT2M3dVc2bnNuM2NQOXNTUWZ4SkppSG1McjRtYW8?oc=5",
-        "published": "Tue, 03 Nov 2026 08:46:48 GMT"
+        "published": "Tue, 03 Nov 2026 08:46:00 GMT"
       },
       {
         "title": "(3⁺) Chart Tracker: Mercedes-Benz, STRATEC, Rigetti - stock3",
@@ -210,6 +205,11 @@
         "published": "Tue, 03 Nov 2026 20:20:15 GMT"
       },
       {
+        "title": "(S+) Midterms: Warum sich auch die Wall Street einen Sieg der Demokraten wünscht - Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSHVsZlh5ZTVKazlGaXJHRHh1Ql9tQ1pGbjIyZUlaN1ZTa2JaalNYODFjMTdjZndCLWVHZmVvUW14SUEwcGpoNkJZNVBMOWRlVDNWOXgwYXRsbGZUa1FsS0d4d1NsMU01NlpFQnJwdG91emEtdmFaRmZXa2h5dUxMRGVSbUE5Z1lWRC02RHNRNmZqa3FoYVZ2dmptQy12bnlWdDZYNFZPQUhwWlF1UjBUUm5nVUg3M3EtYlljNVFJaUx4T05GbzNzUkxvdTBINjdWVmRfQTAzdnNTOGVieGRjdjRJcHZNVFF2bldTRQ?oc=5",
+        "published": "Tue, 03 Nov 2026 09:20:00 GMT"
+      },
+      {
         "title": "Vor dem Börsengang: Anthropics Schuldenberg wächst auf 156 Milliarden Dollar - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2Y0SmJKMW9fQlR1MTEwZFpwQlBJLW56UTlFUnNHN1Qya2VmZXg5UFlMUDc1WnR1RG5VR1Y5dWNHMDFncUFNOXA4em12VUlzOUZ4aE9nQ05jRFB6YjJVWm16ODFiSzlMR1RIU1plTDBjdFhQSnF6U3VzUjBOaVktLVlub2g3NldVdEVEMlhfNzV0c1BlR1NmcmpjVkZCU2pTaVRkeUhSRjM5Z2hnNkhyOUJSOVA1ek5Fa1VfN3NEVmhENlREY3dxSw?oc=5",
         "published": "Tue, 03 Nov 2026 16:38:00 GMT"
@@ -218,11 +218,6 @@
         "title": "Zughersteller Alstom senkt Ausblick, Aktie bricht um ein Viertel ein - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDNZU25JREFWSlQzS0VwMzdsR3BUVHZlMG9QRXg2SHhKQkxSNUU2WG5QdWhjNk9hdURfWFhRelQxMHhpQ2diY3gtTnVYem1mOHBGM3JBSFctWGZyUzFUNFNPbW1ENW5rbTc4cmxGNmZMNVJDTTVoM09XMFBnWjRCWEhnQUEtbHlSOGwtYkhDWFZia0Rwd0F1ZlZiQzYzSHg4ZkNUd012RV9FLURFWmdYanZhZHM?oc=5",
         "published": "Mon, 02 Nov 2026 12:32:00 GMT"
-      },
-      {
-        "title": "Wie sich Polen von Amazon und PayPal unabhängig machte - profil.at",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHhmNi1HMWF5eHl2OHF2dnp2NEE2UEF5Rl90WWxtQXlwRVdoX1c3ekcteXNUVjNndE5XNEgtQW5JUzNNVG1uY3VrUHZ1ZlQ2VjViTUw4OFdFcy1LQ2h1RnpzQzJIc1FJT0w0Z1RrZ3Z2SHVaMTNZd1ZRelh1aHhJN0RoY2hzS2kwUVE?oc=5",
-        "published": "Mon, 02 Nov 2026 15:58:56 GMT"
       },
       {
         "title": "Börse London: Analysten sehen attraktivste Bewertungen der G-10 - FAZ",
@@ -331,6 +326,11 @@
     ],
     "Meine Aktien": [
       {
+        "title": "Nvidia Aktie: Rücksetzer vor den Zahlen - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZWWElTNlRMUmQyZjNlZXd1NDZUaXlnMU1tYnExX0xaM09EV0FtM2pmOE1kWDBvbzgzXzRxQWFYa3lxQjRMM3E4Q3ZGNHNrQ2w0TUZISlVraExQcGd3ZEJoM202eGstRC1VN2k0SENYSEl5YWlMMWMwaEx3MEYzeWkzdFNNd2UtRldVWHJkMjZYdFE1VVE?oc=5",
+        "published": "Tue, 03 Nov 2026 23:17:06 GMT"
+      },
+      {
         "title": "Mercedes-Benz setzt bei neuer globaler Markenkampagne auf Formel-1-Weltmeister Kimi Antonelli - medianet.at",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHFBcVhwUThfaWlHNVRIaVRwNERiV09ReUhOa2JLZU1GTHdEYWN5VUpsSm9iOGhBNktMX09NQ3Y1MkFOM1ZkODdIX1g4OUVFVDBZTzF3Si1NdEFrWU9xV3lVSlRfTFVJSjJJRHdOQU5mcm5xdFN4UUFuVldRUW1KaGZUN3MwR2ZXWjBzTGVYejRSY0czenBwX0J0SVRzUDAyMFBBa2puUnlvVTdMSjBSMjJETktVZTM3bktHWEFyWG1pS2RCRktSUmVDV0VJcW9nT29BZ0NMYU1XbWpzTEdIRzNKYw?oc=5",
         "published": "Tue, 03 Nov 2026 23:00:00 GMT"
@@ -359,11 +359,6 @@
         "title": "Megatrend Folger: Nvidia vor den Zahlen – warum ein Rücksetzer nichts bedeuten muss - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU1XMXV4bllBN2lUUV9KUnduZF9KeFFtcl9RTFlseDk0WVVldU9FS1dVNkZqcHFaS29QRjhpemxKRGdFTk8tb2NMN3pKSXpvaHNNRlc4ZENEejVLSkxsTzZETEtzWWprZWVRSG54dm1SWkxGMVk3UDRSY093aEtSUWl0aEQ4YmRrdE9paHh2UXczTFVzcElBVUV2UXU1eTI5TFZmaDhvVGM2OXFZamZKTmhBSXcxR1V3LThMN0k2V3BnV2ZFZy1DZFBwckdkMjNjTnQtcQ?oc=5",
         "published": "Tue, 03 Nov 2026 07:23:09 GMT"
-      },
-      {
-        "title": "Nvidia Aktie: Rücksetzer vor den Zahlen - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZWWElTNlRMUmQyZjNlZXd1NDZUaXlnMU1tYnExX0xaM09EV0FtM2pmOE1kWDBvbzgzXzRxQWFYa3lxQjRMM3E4Q3ZGNHNrQ2w0TUZISlVraExQcGd3ZEJoM202eGstRC1VN2k0SENYSEl5YWlMMWMwaEx3MEYzeWkzdFNNd2UtRldVWHJkMjZYdFE1VVE?oc=5",
-        "published": "Tue, 03 Nov 2026 23:17:06 GMT"
       },
       {
         "title": "Mercedes-Benz öffnet Zugang zu 5.000 Ladepunkten - Traktuell",
