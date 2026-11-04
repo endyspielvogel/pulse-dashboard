@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T01:38:14.671812+00:00",
+  "fetched_at": "2026-11-04T02:45:53.010578+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -38,9 +38,9 @@
         "published": "Mon, 02 Nov 2026 04:05:00 GMT"
       },
       {
-        "title": "McDonalds Aktie News: McDonalds am Nachmittag mit Kursabschlägen - finanzen.ch",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlVZaWo3dmtFODViNXRxNkY1UVdLSXI0cEFIc19qX0Nzd0dFZEo5emNORmVfSGVseWpONGx3X185YzlNR2lia1Y5aWdDRHB3WjVDRzNiWkE0d1p2endkRlVvUFRra1FnMmh2Y0Vsc0NaVUhPaXp0emVEX0h1Q0k4ZmJHUmNyODVvMzJIaFRyNGFPWDFIRDJVRg?oc=5",
-        "published": "Tue, 03 Nov 2026 15:29:00 GMT"
+        "title": "McDonalds Aktie News: McDonalds am Dienstagabend mit Abschlägen - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDB3ZERvMVl5UHpHeXlMOUNvci1hcDFCZTc3dEt3aDF1S2hzcno1NUl3cDFfVXNvOC1FTXJJVUp5NkptMWNKTlhzYzNTeUtoaThmcGdHTTNiYVlabC02OWtfSTBkN1FxZVRkMWZIQmQxalBhRzJMVVhhNGJzdm00UW5EM3ppUVdmZmNkeWNGZERKUi1rbkszRw?oc=5",
+        "published": "Tue, 03 Nov 2026 19:27:13 GMT"
       }
     ],
     "Burger King": [
@@ -156,11 +156,6 @@
     ],
     "Nvidia": [
       {
-        "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcTRrZDU4SGJMS1U0UjZ6LVNCNEFwZV9PcDZDaExncHptZE5rNDR2UXJqVUdCTWp4bVVocmpzMks2SnF3Z3laSmdrVTVva1pwY3c?oc=5",
-        "published": "Tue, 03 Nov 2026 07:43:39 GMT"
-      },
-      {
         "title": "Megatrend Folger: Nvidia vor den Zahlen – warum ein Rücksetzer nichts bedeuten muss - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU1XMXV4bllBN2lUUV9KUnduZF9KeFFtcl9RTFlseDk0WVVldU9FS1dVNkZqcHFaS29QRjhpemxKRGdFTk8tb2NMN3pKSXpvaHNNRlc4ZENEejVLSkxsTzZETEtzWWprZWVRSG54dm1SWkxGMVk3UDRSY093aEtSUWl0aEQ4YmRrdE9paHh2UXczTFVzcElBVUV2UXU1eTI5TFZmaDhvVGM2OXFZamZKTmhBSXcxR1V3LThMN0k2V3BnV2ZFZy1DZFBwckdkMjNjTnQtcQ?oc=5",
         "published": "Tue, 03 Nov 2026 07:23:09 GMT"
@@ -169,6 +164,11 @@
         "title": "Nvidia Aktie: Rücksetzer vor den Zahlen - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZWWElTNlRMUmQyZjNlZXd1NDZUaXlnMU1tYnExX0xaM09EV0FtM2pmOE1kWDBvbzgzXzRxQWFYa3lxQjRMM3E4Q3ZGNHNrQ2w0TUZISlVraExQcGd3ZEJoM202eGstRC1VN2k0SENYSEl5YWlMMWMwaEx3MEYzeWkzdFNNd2UtRldVWHJkMjZYdFE1VVE?oc=5",
         "published": "Tue, 03 Nov 2026 23:17:06 GMT"
+      },
+      {
+        "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcTRrZDU4SGJMS1U0UjZ6LVNCNEFwZV9PcDZDaExncHptZE5rNDR2UXJqVUdCTWp4bVVocmpzMks2SnF3Z3laSmdrVTVva1pwY3c?oc=5",
+        "published": "Tue, 03 Nov 2026 00:40:48 GMT"
       },
       {
         "title": "Nvidia: Neue globale Cloud-Vorgabe begrenzt China-Geschäft auf 49 Prozent - BornCity",
@@ -191,9 +191,9 @@
         "published": "Tue, 03 Nov 2026 14:37:00 GMT"
       },
       {
-        "title": "US-Aktien per App: Indiens Anleger kaufen NVIDIA, Apple, SpaceX und Co. - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnk4NGNqdkhvczJvRUxBMXlZTVBLNkxZc2RFSHdxZWdHbVE0bTZzbzJIbFY4S0VXVVo4Y2JYZl9nWk96OXlDNFVYbGhLNzFkTjNtUVhiQ3dsdEF1MEQ3c0tXZzVQcHFEaE5OVnVnM3dENGhkQjFwYzFhbU1peEhFTmZRUUo4ZW1ueFpLVmI5N2Y4VW03Qm1NTFIzZDhDeDZRWVdCTE53QlhIeDMwbmtlMmw5aHhnenhIajlhQ3pQUWxKYkRDdE14M1k0a1VoVkozM0tYTTJYT2VuVloxU3c?oc=5",
-        "published": "Tue, 03 Nov 2026 14:11:00 GMT"
+        "title": "Nvidia-Aktie: Lohnt sich der Einstieg im Monat November? - boerse.de - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pETEo2N28wZTBFRDRqX2Rpbkk2dEhyenNZZkVDUXR3QkRXSXZOWGNaWHJHOFpOUk9QMlhIR2hFbWllSmotb1dQRDlMYWRCbmkwenlWLW40NWZlVEgzNTNDVEktd0RyM1JoX1VaM1I1Si13OWYzMWdvU1c4LXVWUWRWU09fNDZoeldlSk1nR3Bab2JiTTBQUWVnSFM2Z9IBowFBVV95cUxNeEd0REN0UDF0V3NzMGY3bWpzMlllSkpTZDFpOGVGMjVTRDlzVEt2TEQxYlhad2RvZEdNYWw5Yi1QOHBOSUx6ZHM5WlM5M2M3U3JDUHFyYXY0YjR0WGI0aldXRmN0N2dRdFFtSlZhZkJFNE9wNlB5UEVJVk5ldzJncDRYdUVVVkRKZndzT0FkWmt1SHZkLUdZZDQ3VXAwMDhQTjdz?oc=5",
+        "published": "Mon, 02 Nov 2026 14:39:00 GMT"
       }
     ]
   },
@@ -230,14 +230,14 @@
         "published": "Tue, 03 Nov 2026 10:32:04 GMT"
       },
       {
-        "title": "104 Milliarden Dollar im Minus: KI-Gigant Anthropic schockiert vor Börsengang mit Rekordverlust - Frankfurter Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObml6WFlvYXJ3VFYzZWc4R0tpRjdnalNwcktVRUxpYlpFcEgzcnh4b3dGeDJtc05iaFNXVU1uMTFXLVhDSWNnQnhrVUZQdWh0ZGFETVlOd0M2QnNMNTB5MEhEd2YyMXhJQk50SWtXVl94bzlkdVBEaFRFOFVRU0lEN2VRYUY0dzFpbVVWWjNZMkU4RmVES3NjN1YtZVpTcUlXbWloRzQzc3diSzdxemlrVTBEMTFfdw?oc=5",
-        "published": "Tue, 03 Nov 2026 16:48:13 GMT"
-      },
-      {
         "title": "KI: Anthropic meldet Umsatzplus von 1.100 Prozent - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWlvSjVTelFzMzAtZ2NYRjJmd0R1R3B5OG84LXJaZnFqeDRTb2hhZnlRNFRoUlo4ME5ETjF5elYwdmg5Ykx0S20yU01qRVNvVlpMNXFNcGkyV2FObkp3RHNfNlJnNGs1empvTGtBYktuMk1PWUk3MWU4enFRRWhEVnBEMXF3b18yVjQ0SVNUWkZoVEN3c2lsUXFkaUpERjhXVk9NVzZBQjhzX0k?oc=5",
         "published": "Mon, 02 Nov 2026 16:58:40 GMT"
+      },
+      {
+        "title": "104 Milliarden Dollar im Minus: KI-Gigant Anthropic schockiert vor Börsengang mit Rekordverlust - Frankfurter Rundschau",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObml6WFlvYXJ3VFYzZWc4R0tpRjdnalNwcktVRUxpYlpFcEgzcnh4b3dGeDJtc05iaFNXVU1uMTFXLVhDSWNnQnhrVUZQdWh0ZGFETVlOd0M2QnNMNTB5MEhEd2YyMXhJQk50SWtXVl94bzlkdVBEaFRFOFVRU0lEN2VRYUY0dzFpbVVWWjNZMkU4RmVES3NjN1YtZVpTcUlXbWloRzQzc3diSzdxemlrVTBEMTFfdw?oc=5",
+        "published": "Tue, 03 Nov 2026 16:48:13 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -284,11 +284,6 @@
     ],
     "Technologie & KI": [
       {
-        "title": "2. Platz: Die Zukunft gehört der künstlichen Intelligenz - DiePresse.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGtrb1l3amdhSzd4RWZqMEloZjdIRFp1T05TSFFPdjhoTzhRWUVxOHMtTUFKVkxzenhQcjJ3TmJDN29fRXFoclJIcmpKdHN4QXZxaTI2aFBSVXJTMFhWWjRCYWhnVW1Ga2gtZTBoQ3NnZ3VXQXhuWTBBa3BIMEtUNnRaeDZwaG54STU3T0NOdklFc1JzSFE?oc=5",
-        "published": "Tue, 03 Nov 2026 20:20:00 GMT"
-      },
-      {
         "title": "NEURA Robotics und NXAI: Europas KI-Allianz soll Robotern ein Gedächtnis geben - Industriemagazin",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY09xNEtIUlotdHdadWk5VWFFWFcxQTFRTWxWS3ZlWVRUM1ZqVGhlZHFlLUk1WWhPVF82OU1tOGNVODNyeFRDelRhWTYyWVpGcVVqeFNBRktDcldnTmZEUEQzaW82akhqcXFsdllfZU5adGx0UkNmaUNEMXJySUk3RUlRT3dsa1FuRTU1ZFlwUFBLY29pbVBKQTRicnJtaV96ZFNQQUM0UGZ3b2lNT2hrbC0tSjFGZEdLbFNEMA?oc=5",
         "published": "Tue, 03 Nov 2026 13:53:00 GMT"
@@ -314,6 +309,11 @@
         "published": "Tue, 03 Nov 2026 07:48:00 GMT"
       },
       {
+        "title": "Der IWF warnt davor, dass die Risiken der KI die Vorteile überwiegen könnten, wenn es an Aufsicht mangelt. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1h2cktxbk1TdTlseFNLTkFLdVVKWXJSTjZKd2UwT2Nxcm00ZU9EUG9iYnA2QTUyM1AtdnU4SDBxLUlzamNfOGVzVE5iUFFZenM0ZDBTQzY5ajJOQWxSTGYxbUNTRmNYRXVLVDVTVXp5SW9EQjVtOFc4ZXktTzRyWGVDLUNtWURSdW1FdVAzOWNLWU5kazhUQTdOd2o1dC02RXg4?oc=5",
+        "published": "Wed, 04 Nov 2026 00:24:59 GMT"
+      },
+      {
         "title": "KI: Wie Tech-Konzerne mächtiger als Staaten werden - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlRqT2dPdmI4STNyZ3RpRHU0S0lQOS1zZ3NXblZwN1lWbTN1N1dzWmZRZldCN0praGd3NTlTM2EzTVFtbTdnYmZybXZsX0FWdkRydHRNWnpYZ08zQ3d0cHlhOGtxWFVlMjhJYTQ0ZlpwRXEwVUxzOWNodDhrdnljSDB4OVZVUDF3VGh6Y0lrVTVfU2k4dFFJNzU1eERBajZPWlhSRmxVVEhPb1NrSkdhVQ?oc=5",
         "published": "Tue, 03 Nov 2026 11:13:39 GMT"
@@ -325,11 +325,6 @@
       }
     ],
     "Meine Aktien": [
-      {
-        "title": "Nvidia Aktie: Rücksetzer vor den Zahlen - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZWWElTNlRMUmQyZjNlZXd1NDZUaXlnMU1tYnExX0xaM09EV0FtM2pmOE1kWDBvbzgzXzRxQWFYa3lxQjRMM3E4Q3ZGNHNrQ2w0TUZISlVraExQcGd3ZEJoM202eGstRC1VN2k0SENYSEl5YWlMMWMwaEx3MEYzeWkzdFNNd2UtRldVWHJkMjZYdFE1VVE?oc=5",
-        "published": "Tue, 03 Nov 2026 23:17:06 GMT"
-      },
       {
         "title": "Mercedes-Benz setzt bei neuer globaler Markenkampagne auf Formel-1-Weltmeister Kimi Antonelli - medianet.at",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHFBcVhwUThfaWlHNVRIaVRwNERiV09ReUhOa2JLZU1GTHdEYWN5VUpsSm9iOGhBNktMX09NQ3Y1MkFOM1ZkODdIX1g4OUVFVDBZTzF3Si1NdEFrWU9xV3lVSlRfTFVJSjJJRHdOQU5mcm5xdFN4UUFuVldRUW1KaGZUN3MwR2ZXWjBzTGVYejRSY0czenBwX0J0SVRzUDAyMFBBa2puUnlvVTdMSjBSMjJETktVZTM3bktHWEFyWG1pS2RCRktSUmVDV0VJcW9nT29BZ0NMYU1XbWpzTEdIRzNKYw?oc=5",
@@ -359,6 +354,11 @@
         "title": "Megatrend Folger: Nvidia vor den Zahlen – warum ein Rücksetzer nichts bedeuten muss - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU1XMXV4bllBN2lUUV9KUnduZF9KeFFtcl9RTFlseDk0WVVldU9FS1dVNkZqcHFaS29QRjhpemxKRGdFTk8tb2NMN3pKSXpvaHNNRlc4ZENEejVLSkxsTzZETEtzWWprZWVRSG54dm1SWkxGMVk3UDRSY093aEtSUWl0aEQ4YmRrdE9paHh2UXczTFVzcElBVUV2UXU1eTI5TFZmaDhvVGM2OXFZamZKTmhBSXcxR1V3LThMN0k2V3BnV2ZFZy1DZFBwckdkMjNjTnQtcQ?oc=5",
         "published": "Tue, 03 Nov 2026 07:23:09 GMT"
+      },
+      {
+        "title": "Nvidia Aktie: Rücksetzer vor den Zahlen - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVZWWElTNlRMUmQyZjNlZXd1NDZUaXlnMU1tYnExX0xaM09EV0FtM2pmOE1kWDBvbzgzXzRxQWFYa3lxQjRMM3E4Q3ZGNHNrQ2w0TUZISlVraExQcGd3ZEJoM202eGstRC1VN2k0SENYSEl5YWlMMWMwaEx3MEYzeWkzdFNNd2UtRldVWHJkMjZYdFE1VVE?oc=5",
+        "published": "Tue, 03 Nov 2026 23:17:06 GMT"
       },
       {
         "title": "Mercedes-Benz öffnet Zugang zu 5.000 Ladepunkten - Traktuell",
