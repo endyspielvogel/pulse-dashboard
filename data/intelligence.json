@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-11-05T01:44:38.487727+00:00",
+  "fetched_at": "2026-11-05T02:52:24.619780+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Umsatz von McDonald's in den USA ging im dritten Quartal zurück - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVElVd3FKTXJuYmEySGZkU3hNcDZsdlFhNExndDZWQkxkcmVMRGYya1ptaXRWOHJOdkVBb2w3bnhkLVc3RC1OVnFfM2htU2FlSUkxcnpXaUlQMGlLM3dKS1BVcFZVME5ldldfdGw2MHR1WXJNMDMzZW9LYWxMdTVBcVZwb3V0Y0F6S20xUFZIdW9GZkdQXzJCYmFFaGFoeHExc25jVXNEWkFQTEsxcFJF?oc=5",
         "published": "Wed, 04 Nov 2026 13:39:00 GMT"
+      },
+      {
+        "title": "McDonald’s eröffnet neuen Standort in Waidhofen/Ybbs - NÖN.at - Niederösterreichische Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdGalEyUlBEN2F2eklxclo1b1ZZTV9UZ1JKRVYzM2tVQlBYdGZoZTcyVmV4eGhQeGNJUi1uNkRKeGVhcWdlRV9JRW1RYUtzd3ZKSzdPYU1aZDlrb2FFZHFrTlFIR3FSX3hIeUwwT3R3US1YVEoybzdaejFONDVUcHhOdE9DWXZVWThFcTJQQlVLb3BmM09yS3liWGZyU2FZTjlVRTZjNEtPWEhnYlRCMXNfUlZ4Q3RWTkM2QnlsMTI?oc=5",
+        "published": "Tue, 03 Nov 2026 12:00:00 GMT"
       },
       {
         "title": "McDonald’s nimmt den McRib aus dem Sortiment und plötzlich geht es ums Abendland - WELT",
@@ -18,11 +23,6 @@
         "published": "Wed, 04 Nov 2026 10:43:40 GMT"
       },
       {
-        "title": "McDonald’s eröffnet neuen Standort in Waidhofen/Ybbs - NÖN.at - Niederösterreichische Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdGalEyUlBEN2F2eklxclo1b1ZZTV9UZ1JKRVYzM2tVQlBYdGZoZTcyVmV4eGhQeGNJUi1uNkRKeGVhcWdlRV9JRW1RYUtzd3ZKSzdPYU1aZDlrb2FFZHFrTlFIR3FSX3hIeUwwT3R3US1YVEoybzdaejFONDVUcHhOdE9DWXZVWThFcTJQQlVLb3BmM09yS3liWGZyU2FZTjlVRTZjNEtPWEhnYlRCMXNfUlZ4Q3RWTkM2QnlsMTI?oc=5",
-        "published": "Tue, 03 Nov 2026 12:00:00 GMT"
-      },
-      {
         "title": "McDonald’s: Gewinn über den Erwartungen – Umsatz enttäuscht - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEZBcEVxcEFEdVNtYlFGbnlVRkJzdm5VM2k0ZEpWLWVXQWFoc1dOWEtuUWQtb0ZHaV9EUndFVTF0Vm9ybE9SRnVtVjlhNnUyWDhNU01nMVRMdzMyRElJMmh3QUdBcVJPdFp3Q3NiY1BrTXRsZXZzaVZxdldrOUU2UUhtc0ZMbGdDaWJrLW9IU3VhNWhjN2tyWjM2WTZKeURobWhzejlZdG9tbWhfMTVTUV9zRmI?oc=5",
         "published": "Wed, 04 Nov 2026 13:32:32 GMT"
@@ -33,9 +33,9 @@
         "published": "Wed, 04 Nov 2026 08:50:58 GMT"
       },
       {
-        "title": "McDonald’s steigert Gewinn um 11 %, US-Besuche sinken - AskTraders.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVVyNmtaWDV2b3RtN0VQcWF4RkFxdWg4V3FLd2lNTDJRLUZlNzNsWE5FLW5jclBHaEV6SlVub2JBNkhPVVhpZUJSR3QyT3Q3X2xSSHFRTmxoZkY2VG5WOE05aTJxUHU1eURVUTR2QVBmLUF3NGJlcjFyNU1fdVBIUTBPSVRSRTRnNzJkYkVxbGhpbjVrMG5vX2FrYmp6UXM?oc=5",
-        "published": "Wed, 04 Nov 2026 13:53:50 GMT"
+        "title": "Diese Zahlen kommen gut an: Burger-Boom im Ausland rettet McDonald's-Bilanz - FinanzNachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmVMVE5MMDVyRTBhM0Z1VFFoRDZXYlRNM2JoTmozam5idEgyQjh0ZlhIR3laRW8zS21TRXdkRDFuSmtwaEYwR081R0xzSXZFSnRWMlJDUDJTVzZkRFRyTlZnWkZKeTdYOHhMZGVXRlJVeGtNWXNTQWk5ay1TVWdXbGF5S2Y5LXRpVGtoRldyeUgyS0t5d2tnX255THdDYkkzaDBBa29jdnJtTjZSNEFHbUtrc0t4RjJ2aVlEVzlUSjlfdTFkcHhrM2tlamR1U1ExbjhpdDl4R1BNSkNz?oc=5",
+        "published": "Wed, 04 Nov 2026 13:53:00 GMT"
       },
       {
         "title": "Generationenwechsel bei McDonalds: Tochter übernimmt in Fohnsdorf - 5 Minuten",
@@ -55,14 +55,14 @@
         "published": "Wed, 04 Nov 2026 14:54:07 GMT"
       },
       {
-        "title": "Arbeitslose Nina und Bernd: \"Wenn wir nicht Döner essen gehen, gehen wir zu Burger King\" - TAG24",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1NocEc4STV5cDNDQnA1STFSeWF6QjVkWUNCdHdfY3NrejNRd19GS1RzMmozRXNDb3o2YzM3SEI3T0Y2XzhKY0l2LVZ4bUJ3MmFIaTlNMWJMajFQSF9fSVZyUl9jQklUTWRiVDJXM3BaUlFtUElaWFN4aEZpVkJ1MHFwbE9fZnF6aFVSaHdmOVo2T3lzeWJsQU9iUExwOGdoVGRtY1AyVE85czdJU182aXZCXzlkQjBoNVNkbTFBS1J6WDBpWDZVQTNvQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 06:45:02 GMT"
-      },
-      {
         "title": "Kampagne: Burger King und Sally launchen Milchreis Nuggets - food-service.de",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHNRa1hDSE1VSEJpYnVGYXNGNHkzZGVLR25TTWNaNGtnSUMydjVCb0c1T2RPVXU2WmpFME1EdW9KbThVby1zODRERGhEcHJUT2lkNW5qZE0wR01WQzFxYnBOeDNhMEVvczByS2RWWVh4UUY0c3pwWmtkaE9sZjBEU1dRSzJEVS0xNVdZTU5XTmE4ZUlQRFZhYQ?oc=5",
         "published": "Tue, 03 Nov 2026 08:41:02 GMT"
+      },
+      {
+        "title": "Arbeitslose Nina und Bernd: \"Wenn wir nicht Döner essen gehen, gehen wir zu Burger King\" - TAG24",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1NocEc4STV5cDNDQnA1STFSeWF6QjVkWUNCdHdfY3NrejNRd19GS1RzMmozRXNDb3o2YzM3SEI3T0Y2XzhKY0l2LVZ4bUJ3MmFIaTlNMWJMajFQSF9fSVZyUl9jQklUTWRiVDJXM3BaUlFtUElaWFN4aEZpVkJ1MHFwbE9fZnF6aFVSaHdmOVo2T3lzeWJsQU9iUExwOGdoVGRtY1AyVE85czdJU182aXZCXzlkQjBoNVNkbTFBS1J6WDBpWDZVQTNvQQ?oc=5",
+        "published": "Wed, 04 Nov 2026 06:45:02 GMT"
       },
       {
         "title": "🍟 Burger King Fritzlar • Speisekarte, Preise, Fotos und Bewertungen - coolibri",
@@ -94,29 +94,19 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Mercedes-Benz Aktie: Abfindungsprogramm kommt zurück - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTFqcW0yYjFhM0pXMF9qd0dBVklteWZVMUN0d3BKNUZVM3VEVVczNEdrYXpqUmVIWWI0RGNIVHBwUVVwN1dOemhjUjdhem9LdzlaTXFmdVBCYlB2NGloNnU2QW9OWGxwZ25ENnVYNk5qTmkzMlZSSkVyaGZVWUlObjQ4Q0ptVnNDaUpUaFpVelNqNWNEM0Jtck0tc2xlSnM3M3NEY053NA?oc=5",
+        "published": "Thu, 05 Nov 2026 02:21:07 GMT"
+      },
+      {
         "title": "Mercedes S-Klasse mit AMG Line: Luxuslimo mit hohem Wertverlust - Auto Bild",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmVpWkl0V0Vhakt0ckdWUTUtZDcxWVdMYU9UX1BYTmY0Uk52eHoxNE1NV3JTWnhFdkYtRGZQNllJY05CS1hXd3N5QzJtT21YRndmYjJuMk9zN0VPX1BnUkZrMTFvd1hJdGJNc21QUnVLNHI3MEJYYlo5c0VZY0E1OXlkV1ZySC1aaG1aMkJDdGxhcjVac0Z3TUxPVEh1NEFDM2dfUA?oc=5",
         "published": "Wed, 04 Nov 2026 07:19:00 GMT"
       },
       {
-        "title": "Aktien von VW, Mercedes-Benz & Co. atmen auf: EU-Parlamentarier wollen das Verbrenner-Aus lockern - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelI4X3VUQldBaC1mNnpGZzFRbXc1V0VUV0Zna256bXc5TzFtNkZaZzdURDZybzE1QzhzZHMzczA5WlhCU2djbm03Z18wNUdkMkMtSk5jeWliVUYzRFlQUXA3ZjRlMy1VSktTVlhVWUdSZ3BhVktNNXRTa2R6a2x3WTNVcmJHVFlGU2x0OE9YaklTUnlPcVhCV2dSalVTc25xaWktcG50bWw5NjlGSElwVG1NLXUtWG1yWTZmU2owV09KQ1RIMVRGbklOVDJ0NUd2VUlWRndLUVBqVHJKb0t5dkxR?oc=5",
-        "published": "Wed, 04 Nov 2026 15:10:00 GMT"
-      },
-      {
-        "title": "Mercedes-Benz macht Zukunftstechnologien erlebbar - Mercedes-Benz | Österreich",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLUpfRGxILXZwRXJVTkhoRWRBeEFJcV9sUXVNT0xwT1ZXZEpQNHdVblFwc2NVVE4yM29XMEhzMnNCYmstXzYyS3I0dHU4RG8wdXhGaEtnYnpHUlJ6ZDlkbEd5aGVjMHphcmVneEZzdnFxVXdZWV9hUGdBclRfWEtpREpFSUJ1UjJnRkJlT1dXdlF6SHZvRzdhc0g4bmhQUzFlNWNHRXpBTHdnRHo3ajNwNzJ4dW1WX0IwemdnZlRNTXZKYW81cTVCZ3ZxWTg1STVmOFdIb2M2YkJBSUI2empGQWlaMVpWcjhteERPVWloSkl3NHlETzBGME55SExuVDVUYVIxd1M2YkF5NTBvVjNqbkhyQVJCWms?oc=5",
-        "published": "Wed, 04 Nov 2026 15:04:11 GMT"
-      },
-      {
-        "title": "Elektromobilität: Mercedes-Benz verkauft sein Schnellladenetzwerk in Europa - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3p4ZHhZSHFjZWprV09USWtKMndUOWtMY1JoTHdrU1pHTnphaGxLRnYyTG8wbV9oVVl3Y0hSeEdtdThhSmpHcENTRndhRjNGcGg0N3JXendEVU1vOEE1XzVLUHZUWVpuY0t6bl9IRFlXMktuNXpXblNmZGVnaTN1NWNkazloXzVmVzNDNTVhYjl1SlpJdVRzQ3h3MFNjUnFtTzJnbmlGNlpyQ0l3SHRpNmo0WURpNW1pbDBEZDA1akVnUVdfRWRJeGExYXZlcThURGdhZWlNOG0?oc=5",
-        "published": "Tue, 03 Nov 2026 07:46:47 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Aktie: Ladeparks gehen an Electra - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGtKeWQ4eU9zOHpZYkFKM3VXb2RoN0Z5Y2EwRHM4RUZEay14ZnVZSkFGbzY4UjRZdTVLd1dWLUp5cloxVE1yM3djQTdEQWpCRnhSVEwyWlo3blhvdzV2YUhSeXB3ODNWWmZQdDQ3RklqdDluZnlRX0lBeVNUNDN4Z2pfZElTeVdkQjlQalN4QXpnWGNKRFNoSFdseU9DazQ?oc=5",
-        "published": "Wed, 04 Nov 2026 13:38:11 GMT"
+        "title": "DAX 40-Papier Mercedes-Benz Group (ex Daimler)-Aktie: So viel Verlust wäre bei einem Investment in Mercedes-Benz Group (ex Daimler) von vor einem Jahr angefallen - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWlNFWW9HQldNY0NKSnpPYW45UlUwWFhyRG9iWTZ0RGRmUnFpWWJueTluY1BvNTVtS3JES3BlOHJ3WFJrcnJPUEp3cEIzMFJab25hMVhwNXM2Q0dKaFBEd3l2Z0diOThCN0dLZnM5RFVlZmwyY0VVazlzeG1EcGJOOXh1NUlLRjNBcVRla2htajA3aDh5SDNVZW5lNVNTX2RmZzJHbjFYZFh5QWNlT1RHa0RQV29MSnE0RVRWVkNzNURES3otVmJfcHlIRXR5Mzl6OFl6YUxtc1NYUHBFcEt3YTU1VXRCVGZjVU5QVlhFdTM0SUhtRTZrYklabWltam9wSWF4ZERoeGFFNXVGbUdQczUyZFdfc3VRcXU1cGpzS1JQeGdjMl9PLWdXaFhXRlFWa3MyYg?oc=5",
+        "published": "Wed, 04 Nov 2026 09:03:34 GMT"
       },
       {
         "title": "Mercedes-Benz setzt bei neuer globaler Markenkampagne auf Formel-1-Weltmeister Kimi Antonelli - medianet.at",
@@ -124,21 +114,31 @@
         "published": "Tue, 03 Nov 2026 23:00:00 GMT"
       },
       {
-        "title": "Elektroautos: Mercedes-Benz holt im Innovationsranking auf, Tesla fällt aus den Top Ten - markenartikel-magazin.de",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTAyakdfeUJzaEdJT2ZnNnBYeVVVcXJhM0hGOWpST0lWWUU5Z2lVVVFjV0hnVDVWTTJlMnVYSTVWYzNHck4zR0VnOFlDMVByVTNWVEdscjdyb0xfRU1DREd1bGlSLWppVDl3MHZGR0ozZ3JPRjdHRGdLc3l0ZHdKQzhkWXJxRENvOGp6blhOWGJNQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 08:00:41 GMT"
+        "title": "Mercedes-Benz macht Zukunftstechnologien erlebbar - Mercedes-Benz | Österreich",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLUpfRGxILXZwRXJVTkhoRWRBeEFJcV9sUXVNT0xwT1ZXZEpQNHdVblFwc2NVVE4yM29XMEhzMnNCYmstXzYyS3I0dHU4RG8wdXhGaEtnYnpHUlJ6ZDlkbEd5aGVjMHphcmVneEZzdnFxVXdZWV9hUGdBclRfWEtpREpFSUJ1UjJnRkJlT1dXdlF6SHZvRzdhc0g4bmhQUzFlNWNHRXpBTHdnRHo3ajNwNzJ4dW1WX0IwemdnZlRNTXZKYW81cTVCZ3ZxWTg1STVmOFdIb2M2YkJBSUI2empGQWlaMVpWcjhteERPVWloSkl3NHlETzBGME55SExuVDVUYVIxd1M2YkF5NTBvVjNqbkhyQVJCWms?oc=5",
+        "published": "Wed, 04 Nov 2026 15:04:11 GMT"
       },
       {
-        "title": "Mercedes-Benz GLE 450e 4Matic: Verlängerung für Generation vier - autoflotte.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFBqV3Roc2Z6VGEtOWhMcGNVVVFyckctMFpqNWhPMUllemg4U1FybXNJVGtGUXhMOGdaQ2JHRFlIQTJUM1M2d2lWek85b3Z0WmpIWFZVS1hZbU5WYWtmbnFzUWtwbDd2ZlBRbnRnTUM2QnZxQ09nazkwLV9zSEs0WjJvZEpoV2Y4RndMNUd3QnFlY0dlX2p3UmprVE9PNUtmRll4dG5xSUp3MEVQU2JhcXE4ajdqWkpfbC1uc2ZiczI?oc=5",
-        "published": "Wed, 04 Nov 2026 15:01:26 GMT"
+        "title": "Mercedes-Benz: Verkauf beschlossen - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcHNlWFFkaEdqQ3Q2M0dXelMyRW93NXhXU2NiZXd0dkNZZzFyNEcyYXdFWmJSZGszUGhBMlVHYnRQR1JBLXdRb0hpWHlXTl9MbTZDVnBROTkwOXl5NFM2dUhmM3NLdU5JS3RVX2VoalItODZNMFp6OUFnR3dDbmoybFJVUjA0dEJoZTNhRVFNT2M3dVc2bnNuM2NQOXNTUWZ4SkppSG1McjRtYW8?oc=5",
+        "published": "Tue, 03 Nov 2026 08:46:00 GMT"
+      },
+      {
+        "title": "Elektromobilität: Mercedes-Benz verkauft sein Schnellladenetzwerk in Europa - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3p4ZHhZSHFjZWprV09USWtKMndUOWtMY1JoTHdrU1pHTnphaGxLRnYyTG8wbV9oVVl3Y0hSeEdtdThhSmpHcENTRndhRjNGcGg0N3JXendEVU1vOEE1XzVLUHZUWVpuY0t6bl9IRFlXMktuNXpXblNmZGVnaTN1NWNkazloXzVmVzNDNTVhYjl1SlpJdVRzQ3h3MFNjUnFtTzJnbmlGNlpyQ0l3SHRpNmo0WURpNW1pbDBEZDA1akVnUVdfRWRJeGExYXZlcThURGdhZWlNOG0?oc=5",
+        "published": "Tue, 03 Nov 2026 07:46:47 GMT"
+      },
+      {
+        "title": "Neuer Mercedes-Benz Vans Vertriebs- und Servicepartner & Pkw-Servicepartner | - AUTO & Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTduOWphU3JiMmd3QWJQcXI4RWZNX0Ziblo1bVlGTkd5b3Frd0szZ01lNGZ1QURYeTBxNEkxdVRrcmdkWkdudU1CaEZHaTdnQmNEWE9Ka19CV3RTLTNwYnZ5c3o4T1FpWXZlVWd3a29HQ0tXYTNGUlJzVkJFRHN2LXVIMDc1b3FPT25nRjN3U2VNNlh2cktWUUZtTk1xWkxaNHVFaVN0ZENYQQ?oc=5",
+        "published": "Tue, 03 Nov 2026 16:47:33 GMT"
       }
     ],
     "Nvidia": [
       {
-        "title": "Dow Jones 30 Industrial-Papier NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3lqQVJ1N0k2YnFfN21lR3YyMDE3Vko0NUtWaUhVaVBIUjFtYl9CNnBkRGpJT05rT3F3UHJZcWx3VnRuMUpWdVZCbE1hRkxMY051NFJuWjF0Mmg4UTRyT01reWZfcnVtTmphRGoyTW8zYllDVmxoT0s1ZWttSkdFNWJNRng5LVlydWFReDZtaWhYVmtfRGR3aWxNdUNOQjJmTC1OV2xHZGhzZ1hqem00a3VpVzhBZFlGZmJzSW9FVXBBNXB0UzZxZk9mNTZTTWJ0Y0tfMTA5cmNpMTZoMDBJZ1JKd1FoSnhrZWJaajBLSWJqelFBdzVGbWFtb0pmQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 15:03:36 GMT"
+        "title": "KI-Highflyer unter Druck: Droht NVIDIA und Co. ein 30-Prozent-Dämpfer? - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY04xOHJKY3phSGxaUVNxZTVLNkRxaDZzaTdwaTB6RXU1Q1FZdFh3REk0c0FlcGVDX1BIV015MVh5QnNsclUwM1N4M25NMjAzQWJGcFJzMlYwTzhOU0NxUDQ5VTB3dXNrcXVya1dKZTBNS0xvMjVGTUV1VVE2OFAxeHlaeUJGRmQxUDhmZmstREEwLURyaVVYN2pza0JmYWVLZFVna0FNSF9oX1BWakEwM3ZIQVZLTTBPTWkzUUhn?oc=5",
+        "published": "Thu, 05 Nov 2026 02:45:02 GMT"
       },
       {
         "title": "Nvidia-Aktie: Lohnt sich der Einstieg im Monat November? - boerse.de - boerse.de",
@@ -156,24 +156,24 @@
         "published": "Wed, 04 Nov 2026 15:00:47 GMT"
       },
       {
-        "title": "Nvidia DLSS 5: Hogwarts Legacy erhält ver­bes­serte Beleuchtung und Materialien - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmJ1U0dNOEVjUWZpQzZNUEdrQlFYNzhEQUZBT2FRb3MzMHFoajZTZzNtVXVhYTRnR0lPUWg0Q1JYODB2cW82MTItOHZnOU1ERk1rbUJXWlpocGJnbzBpbkg1Nl85b0JUYzBsZ0syNzZ4T0RNZkJTYTByNWdzdUpEaXNuOXZvLUdjWXlYSU81eHZQZTN2am9ZNkpETzJ4Z0hHLTNFWjIwZm1MY2FsTy04WXJyQ3MxRy0yWS0wRDI2Wmt2Vms?oc=5",
-        "published": "Wed, 04 Nov 2026 19:30:00 GMT"
-      },
-      {
-        "title": "Nvidia RTX 50: Grafikkarten werden erneut teurer - it-daily.net",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWjlHdExqdlJoS2lWQlk2WGlZYWJ6Z0kxV2g0UEhvMDZFWEZRdkJ0MjVnY1dZWUgxaVJ5RXhhb0hBYVhTdTdyY2hwekdsY0tDMHljUXFTOV9NSXJWUGZUY2piQ05XSVAtaGZ5Y25Qdw?oc=5",
-        "published": "Wed, 04 Nov 2026 17:21:47 GMT"
-      },
-      {
         "title": "NVIDIA Corporation (NVDA) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcTRrZDU4SGJMS1U0UjZ6LVNCNEFwZV9PcDZDaExncHptZE5rNDR2UXJqVUdCTWp4bVVocmpzMks2SnF3Z3laSmdrVTVva1pwY3c?oc=5",
         "published": "Tue, 03 Nov 2026 23:06:05 GMT"
       },
       {
-        "title": "NVIDIA-Treiber 621.14: DLSS 5 für Hogwarts Legacy und Fix für Video-Aussetzer - Hardwareluxx",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUZKY2FMVGhLZHlLR042RF9tSm5jOE9HNHRnYUNaQ25ZZHRmTngzeTIyeG9ZTXUzZjkyV21CdktqNEM1ZTFBaW5ZWVFKRWVOZVVOYTlBY1VfMWhJUWdKcTBsRkt5Skk1Tkgta1VFN3ZwVHR0a0JDWWZiZkt5TnFmZmtjYVpUck9YcXhPczlaZWliQU93RFFZUEF4Sy0xcWIwOWxnS2dn?oc=5",
-        "published": "Wed, 04 Nov 2026 17:06:38 GMT"
+        "title": "Nvidia DLSS 5: Hogwarts Legacy erhält ver­bes­serte Beleuchtung und Materialien - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmJ1U0dNOEVjUWZpQzZNUEdrQlFYNzhEQUZBT2FRb3MzMHFoajZTZzNtVXVhYTRnR0lPUWg0Q1JYODB2cW82MTItOHZnOU1ERk1rbUJXWlpocGJnbzBpbkg1Nl85b0JUYzBsZ0syNzZ4T0RNZkJTYTByNWdzdUpEaXNuOXZvLUdjWXlYSU81eHZQZTN2am9ZNkpETzJ4Z0hHLTNFWjIwZm1MY2FsTy04WXJyQ3MxRy0yWS0wRDI2Wmt2Vms?oc=5",
+        "published": "Wed, 04 Nov 2026 19:30:00 GMT"
+      },
+      {
+        "title": "WoW Forever: Nvidia-Treiber 621.14 macht erste Probleme - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3VrcDJ0dnJTenBOWUcxN0c1ai1zVmY0bC1KcjBEQjQwNHNobjhaRmI2ZktEYmNCVC1IRlZqR2FNX0hxYmVOMUxKaHRmU3JMU2xqY0RDWGcyX2I0eXpoNWo5WGZTSzc3QUd0UEI5TGFna2g3dUtwc29VdmZBOTctTkVuUmlLdWl2ci1jbEd3WEZnelVFRmVnb1pEY3hzVzdJOWlwOEo3ZC1sWHhveDJlQ3BLMkRRa29qaDRjTw?oc=5",
+        "published": "Wed, 04 Nov 2026 18:15:00 GMT"
+      },
+      {
+        "title": "Nvidia RTX 50: Grafikkarten werden erneut teurer - it-daily.net",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWjlHdExqdlJoS2lWQlk2WGlZYWJ6Z0kxV2g0UEhvMDZFWEZRdkJ0MjVnY1dZWUgxaVJ5RXhhb0hBYVhTdTdyY2hwekdsY0tDMHljUXFTOV9NSXJWUGZUY2piQ05XSVAtaGZ5Y25Qdw?oc=5",
+        "published": "Wed, 04 Nov 2026 17:21:47 GMT"
       }
     ]
   },
@@ -237,9 +237,9 @@
         "published": "Wed, 04 Nov 2026 07:23:21 GMT"
       },
       {
-        "title": "OWM-Trendbarometer: Die Messung der Werbewirkung bleibt im Marketing die größte Baustelle - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblZiZDlnN2hkZlk2YUs5alhLelR5SUhMWmhlLV90ZEE3UnhPQ3NYT0tuYm5IS1M0c21QZFEtajE3MUJ3cWo5MWlMTThmTXkySG9aTktHSVdIdi1UN1lVdHE0bHBwdUtjOTFVN0llN19iYUJUMGh5ckVDTzdnZkZZV3VXRy1mUkx5NmYtZWdtUS10ZVVqN3Z4ZVlMX0hjczVMT2dTMkFEbmh5ZTJ6czhCc01jSHp2b3o1X2Y4RVNLQ2NfR25BcHFLOTgwZw?oc=5",
-        "published": "Wed, 04 Nov 2026 08:30:00 GMT"
+        "title": "OWM-Summit: Die Zukunft der Medien oder: Polyamore Beziehungen im Tunnel - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN4Q29NZlB2cUYzTUxsemZVMmw0YzFQUGNXWUNqRTY0X19JYkgwSEtvT2lwQmpRYnQ2NG83WkdLTTZFVF81YXF1Ri1pMzZxQkItNnVZb3pGMXc5TnEyS2ZhbnN5dkhlOGVxY3N3Rm9iQ1JLVEZUT0Ewc2MxWUdJNVB6RXhvTzdhaXlsUlhLMW5xc3AzZnFuVzVzU0dycl9jMlpuSzRqZExPV0l2UGFJRG5aaEdJREV6amtNQUYycFVNQQ?oc=5",
+        "published": "Wed, 04 Nov 2026 10:43:00 GMT"
       },
       {
         "title": "Agentur Koch: Für Lernende bis zur Führungsebene - persoenlich.com",
@@ -247,26 +247,26 @@
         "published": "Wed, 04 Nov 2026 11:24:09 GMT"
       },
       {
-        "title": "OWM-Summit: Die Zukunft der Medien oder: Polyamore Beziehungen im Tunnel - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN4Q29NZlB2cUYzTUxsemZVMmw0YzFQUGNXWUNqRTY0X19JYkgwSEtvT2lwQmpRYnQ2NG83WkdLTTZFVF81YXF1Ri1pMzZxQkItNnVZb3pGMXc5TnEyS2ZhbnN5dkhlOGVxY3N3Rm9iQ1JLVEZUT0Ewc2MxWUdJNVB6RXhvTzdhaXlsUlhLMW5xc3AzZnFuVzVzU0dycl9jMlpuSzRqZExPV0l2UGFJRG5aaEdJREV6amtNQUYycFVNQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 10:43:00 GMT"
-      },
-      {
-        "title": "So sieht der Mediaplan für die DKB-Vorsorge-Kampagne aus - Meedia",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk1YNy05N3ZzTVNWMkh2Y0lLX1BDM1czS25XR3p2Mk13bmpVUDZ2RzNkWi1RSTBidVlDU3RKRzVyUUNCS2Uzc1luYU5pcUJyT2VVQXllZmJxYjQwb2s1YmhXa1ZHSl9tU1BLLWctMW94WXdnSi14c19EdG83QkFNRUVNME5HbTd5dzhHWjE3bmc2WDhqVTBNcnRmT2pleEdD?oc=5",
-        "published": "Wed, 04 Nov 2026 10:43:00 GMT"
+        "title": "OWM-Trendbarometer: Die Messung der Werbewirkung bleibt im Marketing die größte Baustelle - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblZiZDlnN2hkZlk2YUs5alhLelR5SUhMWmhlLV90ZEE3UnhPQ3NYT0tuYm5IS1M0c21QZFEtajE3MUJ3cWo5MWlMTThmTXkySG9aTktHSVdIdi1UN1lVdHE0bHBwdUtjOTFVN0llN19iYUJUMGh5ckVDTzdnZkZZV3VXRy1mUkx5NmYtZWdtUS10ZVVqN3Z4ZVlMX0hjczVMT2dTMkFEbmh5ZTJ6czhCc01jSHp2b3o1X2Y4RVNLQ2NfR25BcHFLOTgwZw?oc=5",
+        "published": "Wed, 04 Nov 2026 08:30:00 GMT"
       },
       {
         "title": "Swissper: Creator-Content für die Aussenwerbung - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejZ6MXZSOW04NG5IMlcwbWxUbmJmY0RYSlhQTzRhcXhVZkpxVER0ZE43QlVZNVFnZ2s1Z1lTWWVielV3MXNBRDM4aEg1RDJUSmcydEhhZWgyU1M4cHdZbmtPb01pdHpxaHJ4WHhKTVhvWXZKOXFlM0I4R3AtakJ5bw?oc=5",
         "published": "Tue, 03 Nov 2026 09:30:13 GMT"
+      },
+      {
+        "title": "So sieht der Mediaplan für die DKB-Vorsorge-Kampagne aus - Meedia",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk1YNy05N3ZzTVNWMkh2Y0lLX1BDM1czS25XR3p2Mk13bmpVUDZ2RzNkWi1RSTBidVlDU3RKRzVyUUNCS2Uzc1luYU5pcUJyT2VVQXllZmJxYjQwb2s1YmhXa1ZHSl9tU1BLLWctMW94WXdnSi14c19EdG83QkFNRUVNME5HbTd5dzhHWjE3bmc2WDhqVTBNcnRmT2pleEdD?oc=5",
+        "published": "Wed, 04 Nov 2026 10:43:00 GMT"
       }
     ],
     "Technologie & KI": [
       {
         "title": "Studie zeigt: Physical AI auf dem Vormarsch – 76 % erwarten Durchbruch innerhalb von fünf Jahren - Report Verlag",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUt3UVg2NDRKRHpsUU1qR3dKenI5VXQ4MXplUFQ1WF93MWRvT25QOXJiYlpLOEY2Vlh1VnVrS1I5ODRvbE55S2J4RzIyTEx0bFppUXR4ZzFnSUFxcDhKcFEzZjBvT25lWHhtMzI5WnZKaF9NWXhEMTExamtjTmllOXZFODRFUVBDVGhOdXRveUpnSk9MVEt3VUZlQWFGV1hNMjRUZUZUVjFsZGJCUTFKaUpwMVV2OVBYeTFFOUU5NWZGdDY3dGZyNUpB0gHKAUFVX3lxTE5RS3dRWDY0NEpEemxRTWpHd0p6cjlVdDgxemVQVDVYX3cxZG9PblA5cmJiWks4RjZWWHVWdWtLUjk4NG9sTnlLYnhHMjJMTHRsWmlRdHhnMWdJQXFwOEpwUTNmMG9PbmVYeG0zMjladkpoX01ZeEQxMTFqa2NOaWU5dkU4NEVRUENUaE51dG95SmdKT0xUS3dVRmVBYUZXWE0yNFRlRlRWMWxkYkJRMUppSnAxVXY5UFh5MUU5RTk1ZkZ0Njd0ZnI1SkE?oc=5",
-        "published": "Wed, 04 Nov 2026 11:32:02 GMT"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUs3QjlkNDB5YmlRd3FFWnkyMHRvM0I0MkZmbjI0SGJjaEw3NG8zd3NEWFJpalNUYkhXV0o1UFpTSFhOa2U0YlJJc2NfbHVnTFpfSUh6dmV1bG9Ba2M5SEMxVDdDUGJzVFVXRnVkODctZDUwU3QtSVdhRHlBMTlfMFd6aXJpUDBCZWFodGdqdVJIcWVRYUJjYUU3eXF3WnBNUWZQSEJ2YWpoRHo4RmFCVm9icWFOV1ZwOXFF0gHKAUFVX3lxTE5RS3dRWDY0NEpEemxRTWpHd0p6cjlVdDgxemVQVDVYX3cxZG9PblA5cmJiWks4RjZWWHVWdWtLUjk4NG9sTnlLYnhHMjJMTHRsWmlRdHhnMWdJQXFwOEpwUTNmMG9PbmVYeG0zMjladkpoX01ZeEQxMTFqa2NOaWU5dkU4NEVRUENUaE51dG95SmdKT0xUS3dVRmVBYUZXWE0yNFRlRlRWMWxkYkJRMUppSnAxVXY5UFh5MUU5RTk1ZkZ0Njd0ZnI1SkE?oc=5",
+        "published": "Wed, 04 Nov 2026 11:36:09 GMT"
       },
       {
         "title": "Unternehmenstransformation wirksam orchestrieren - kpmg.com",
@@ -274,14 +274,14 @@
         "published": "Wed, 04 Nov 2026 14:54:18 GMT"
       },
       {
+        "title": "Technologie: Trumpf macht Roboter mit KI selbstständiger - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWZXRXYxYmVmVWNwbmlFOGFvUG9FVlY1WmY3Qk4yVkJmcmN1VlFVUVlHWGRDbGpjZ3lMaFUzZzJ4YWEzNVZKN3hzZkV0Qi1HTTAzN3YwX015aHRHMUxOTFdkNGxYZFNqR2dibzNQaWgtRnVHMms2WjdSZHctSzltQm5ndGlSTUJfV0NGM1JYU2NSeFI4Ujd4cTJ4VEw5TnZIYlJxbW1FNnp3SnlkS0lRUWY2OTF6dXVIRXZTbWd3RQ?oc=5",
+        "published": "Wed, 04 Nov 2026 14:02:00 GMT"
+      },
+      {
         "title": "Carl Pei mit Neuigkeiten – Nothing-Chef kündigt erstes KI-natives Produkt an - Heute",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOElnUUtqNGZrSjlZMGtUTnhuNUIwTmtodHBHYmc5bHdhLU9aZEMxVDFUODNoOFJLZ09MVFhrMGpEelhQd1dMYlZPLXVRQjdQa3hwRTNzbmVFMktPUEYyUk03dHl4aFJka2NYakowbDhtOGZFRkhkaER4T0l3THdHWFdsZWtVd2JtMlZF?oc=5",
         "published": "Wed, 04 Nov 2026 19:45:00 GMT"
-      },
-      {
-        "title": "KI-News aktuell: Deutschland und Europa wollen im KI-Rennen aufholen - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREVpZmtCSUNLcEhXeFBDa0EyVmN3MkFvYWc2Z1RDTUd6eHUyOVBmLWxNeWRrS2gtdGdnUFhUZk9oUHRnNTRvWHBqdWp1WTRTcmQ4cTlFcnFyekxlMDNEWGwweEpaX05mZ0dyNjFXVVhKYUh6b3ByVWRHcC1lS1pyOGJ4UFJyZVZPY2IxNHFMTnF5a29VMlltb0t2TUEwV3NCWi1JODVHaDFrZ2drbV9lWUZqZVZDQkpq?oc=5",
-        "published": "Wed, 04 Nov 2026 22:31:58 GMT"
       },
       {
         "title": "OÖ als Hotspot für Industrial AI - oe24",
@@ -289,19 +289,19 @@
         "published": "Wed, 04 Nov 2026 14:17:55 GMT"
       },
       {
+        "title": "KI-News aktuell: Deutschland und Europa wollen im KI-Rennen aufholen - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREVpZmtCSUNLcEhXeFBDa0EyVmN3MkFvYWc2Z1RDTUd6eHUyOVBmLWxNeWRrS2gtdGdnUFhUZk9oUHRnNTRvWHBqdWp1WTRTcmQ4cTlFcnFyekxlMDNEWGwweEpaX05mZ0dyNjFXVVhKYUh6b3ByVWRHcC1lS1pyOGJ4UFJyZVZPY2IxNHFMTnF5a29VMlltb0t2TUEwV3NCWi1JODVHaDFrZ2drbV9lWUZqZVZDQkpq?oc=5",
+        "published": "Wed, 04 Nov 2026 22:31:58 GMT"
+      },
+      {
         "title": "„Zu stark auf US-Tech verlassen“: Was ein fünfeckiges Quadrat mit Datensouveränität zu tun hat - MeinBezirk.at",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGVkanUyQnE5ZzE3bFg5UjZYdTNRT08zX3lTSUd6NDhOZHpiczBSSEZpYmlsQkNvUS0xd3ZYQkVweHhlMDRlZmFnbXVYcjBVOVZzZU1IRmlEZzZkN1FDbENZQkRvMmlMWG1mVFRsV0oxQ3NYWGY5UXpHcU5sdkZxOWxEREY4eXNYUllUdngwdWtleVZyTk1YVjEzbzd5WHJjS1Bpak9Uc25OU3FpYmtZRGJMYnJMZ0RsUy1hZEtqY2NUVDlaZWc?oc=5",
         "published": "Wed, 04 Nov 2026 14:20:15 GMT"
       },
       {
-        "title": "Exportkontrolle droht - KI als Kriegswaffe? Mistral AI spricht Warnung aus - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PS3lvNlBMTndxUmFmTVllT21lcm4zNUZaZ1JhbFZjYmFVM0xxU2ZuTGg2cVhMbG1kZVV5QVk4WDZWUQ?oc=5",
-        "published": "Wed, 04 Nov 2026 12:31:00 GMT"
-      },
-      {
-        "title": "Emirates SkyCargo mit eigener KI-Transportlösung - Österreichische Verkehrszeitung -",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWQyOEpUVjRwYm95dHNaalNfMG9yUFRPVDQ5OWNhX2xHTlpGYkl0Ukx1VTFxQS0xeDk1NWFvUzBZWHBkTHltdk9sWmRNTnFOMzZsZ1RqQ2psZUJIZ1JOUUdDR0tOTldtcUp5Q0hyQ2QyU2o2Rkx1QVRENGUwOXhJdkNEUEM0VlVzZE80OWUzT0FnWnJiejl2WQ?oc=5",
-        "published": "Wed, 04 Nov 2026 05:55:46 GMT"
+        "title": "Technology Impact Summit – Bild 13 von 59 - News.at",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zZ2tMUm5pNUF0YWFmR09fTzhIeWo1SEZza3A4eG9ZMWxucTZSenRPZTBLWk95Tm5zZDZZUk1jQXpVN2M4em40ZE1SbXJzREJwa1U2aU5ZYTF2WnA2Nlh1NElVS0JzUW1hZzJVMXlGVk5sZDk1ZGVDbktXRQ?oc=5",
+        "published": "Wed, 04 Nov 2026 01:47:30 GMT"
       }
     ],
     "Meine Aktien": [
@@ -311,24 +311,19 @@
         "published": "Wed, 04 Nov 2026 21:11:00 GMT"
       },
       {
+        "title": "KI-Highflyer unter Druck: Droht NVIDIA und Co. ein 30-Prozent-Dämpfer? - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY04xOHJKY3phSGxaUVNxZTVLNkRxaDZzaTdwaTB6RXU1Q1FZdFh3REk0c0FlcGVDX1BIV015MVh5QnNsclUwM1N4M25NMjAzQWJGcFJzMlYwTzhOU0NxUDQ5VTB3dXNrcXVya1dKZTBNS0xvMjVGTUV1VVE2OFAxeHlaeUJGRmQxUDhmZmstREEwLURyaVVYN2pza0JmYWVLZFVna0FNSF9oX1BWakEwM3ZIQVZLTTBPTWkzUUhn?oc=5",
+        "published": "Thu, 05 Nov 2026 02:45:02 GMT"
+      },
+      {
+        "title": "Mercedes-Benz Aktie: Abfindungsprogramm kommt zurück - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTFqcW0yYjFhM0pXMF9qd0dBVklteWZVMUN0d3BKNUZVM3VEVVczNEdrYXpqUmVIWWI0RGNIVHBwUVVwN1dOemhjUjdhem9LdzlaTXFmdVBCYlB2NGloNnU2QW9OWGxwZ25ENnVYNk5qTmkzMlZSSkVyaGZVWUlObjQ4Q0ptVnNDaUpUaFpVelNqNWNEM0Jtck0tc2xlSnM3M3NEY053NA?oc=5",
+        "published": "Thu, 05 Nov 2026 02:21:07 GMT"
+      },
+      {
         "title": "NVIDIA-Treiber 621.14: DLSS 5 für Hogwarts Legacy und Fix für Video-Aussetzer - Hardwareluxx",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUZKY2FMVGhLZHlLR042RF9tSm5jOE9HNHRnYUNaQ25ZZHRmTngzeTIyeG9ZTXUzZjkyV21CdktqNEM1ZTFBaW5ZWVFKRWVOZVVOYTlBY1VfMWhJUWdKcTBsRkt5Skk1Tkgta1VFN3ZwVHR0a0JDWWZiZkt5TnFmZmtjYVpUck9YcXhPczlaZWliQU93RFFZUEF4Sy0xcWIwOWxnS2dn?oc=5",
         "published": "Wed, 04 Nov 2026 17:06:38 GMT"
-      },
-      {
-        "title": "Dow Jones 30 Industrial-Papier NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3lqQVJ1N0k2YnFfN21lR3YyMDE3Vko0NUtWaUhVaVBIUjFtYl9CNnBkRGpJT05rT3F3UHJZcWx3VnRuMUpWdVZCbE1hRkxMY051NFJuWjF0Mmg4UTRyT01reWZfcnVtTmphRGoyTW8zYllDVmxoT0s1ZWttSkdFNWJNRng5LVlydWFReDZtaWhYVmtfRGR3aWxNdUNOQjJmTC1OV2xHZGhzZ1hqem00a3VpVzhBZFlGZmJzSW9FVXBBNXB0UzZxZk9mNTZTTWJ0Y0tfMTA5cmNpMTZoMDBJZ1JKd1FoSnhrZWJaajBLSWJqelFBdzVGbWFtb0pmQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 15:03:36 GMT"
-      },
-      {
-        "title": "Nvidia Aktie: Knappe RTX-Chips für China - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x6M0F6WkwyaFIwSUM2WEY5UENiU0lNd1piMks5aGJ4QzBIdTlkWnNRY25JcmJjMUZjV0JyelRLd05sT3NJSlRfUllOSXRJWm9lU1NFV3d4dzV2Y290UHoxRklHbkpmdGJxX21aM1FhZVVyam1kVUREbkNlTGNxeUM2dzNQcDRNX012ZkNvNFlUVkNiRWgw?oc=5",
-        "published": "Wed, 04 Nov 2026 23:29:06 GMT"
-      },
-      {
-        "title": "McDonald’s: Gewinn über den Erwartungen – Umsatz enttäuscht - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEZBcEVxcEFEdVNtYlFGbnlVRkJzdm5VM2k0ZEpWLWVXQWFoc1dOWEtuUWQtb0ZHaV9EUndFVTF0Vm9ybE9SRnVtVjlhNnUyWDhNU01nMVRMdzMyRElJMmh3QUdBcVJPdFp3Q3NiY1BrTXRsZXZzaVZxdldrOUU2UUhtc0ZMbGdDaWJrLW9IU3VhNWhjN2tyWjM2WTZKeURobWhzejlZdG9tbWhfMTVTUV9zRmI?oc=5",
-        "published": "Wed, 04 Nov 2026 13:32:32 GMT"
       },
       {
         "title": "McDonald’s eröffnet neuen Standort in Waidhofen/Ybbs - NÖN.at - Niederösterreichische Nachrichten",
@@ -336,14 +331,19 @@
         "published": "Tue, 03 Nov 2026 12:00:00 GMT"
       },
       {
+        "title": "McDonald’s: Gewinn über den Erwartungen – Umsatz enttäuscht - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEZBcEVxcEFEdVNtYlFGbnlVRkJzdm5VM2k0ZEpWLWVXQWFoc1dOWEtuUWQtb0ZHaV9EUndFVTF0Vm9ybE9SRnVtVjlhNnUyWDhNU01nMVRMdzMyRElJMmh3QUdBcVJPdFp3Q3NiY1BrTXRsZXZzaVZxdldrOUU2UUhtc0ZMbGdDaWJrLW9IU3VhNWhjN2tyWjM2WTZKeURobWhzejlZdG9tbWhfMTVTUV9zRmI?oc=5",
+        "published": "Wed, 04 Nov 2026 13:32:32 GMT"
+      },
+      {
         "title": "Nvidia DLSS 5: Hogwarts Legacy erhält ver­bes­serte Beleuchtung und Materialien - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmJ1U0dNOEVjUWZpQzZNUEdrQlFYNzhEQUZBT2FRb3MzMHFoajZTZzNtVXVhYTRnR0lPUWg0Q1JYODB2cW82MTItOHZnOU1ERk1rbUJXWlpocGJnbzBpbkg1Nl85b0JUYzBsZ0syNzZ4T0RNZkJTYTByNWdzdUpEaXNuOXZvLUdjWXlYSU81eHZQZTN2am9ZNkpETzJ4Z0hHLTNFWjIwZm1MY2FsTy04WXJyQ3MxRy0yWS0wRDI2Wmt2Vms?oc=5",
         "published": "Wed, 04 Nov 2026 19:30:00 GMT"
       },
       {
-        "title": "Dow Jones 30 Industrial-Titel NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRzZwVmhOcVBpSHgwWjVBSXFGR2lpLVpYN25ZZU9RdGU0RDduQkZyUTRDZUtJR0xwQl9oVGUzQ0I2VWo4LU8tZDE2STFHYmNDY3duUW9nRHhGTTFOMm0tNUpIVjNwejhBSnlweFlqeXVXbDhHNElTOExWeUdhR2k1QzB4M3NPMkdRZ2ZweFFGZGs5dkZZVklKaHVueFlvSWQ4MEc0R09wZFdPLUtveFAybGFUVkdEeWc3M1pZLVhCTjJZa3hwbS1TMHVMZmdwd3JxQW1tWXBmbmxCRWZseVRwMlhadHhfb2c4bTU5Z0xZM2FXNVpfYXJIZ3Vn?oc=5",
-        "published": "Wed, 04 Nov 2026 15:00:47 GMT"
+        "title": "WoW Forever: Nvidia-Treiber 621.14 macht erste Probleme - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3VrcDJ0dnJTenBOWUcxN0c1ai1zVmY0bC1KcjBEQjQwNHNobjhaRmI2ZktEYmNCVC1IRlZqR2FNX0hxYmVOMUxKaHRmU3JMU2xqY0RDWGcyX2I0eXpoNWo5WGZTSzc3QUd0UEI5TGFna2g3dUtwc29VdmZBOTctTkVuUmlLdWl2ci1jbEd3WEZnelVFRmVnb1pEY3hzVzdJOWlwOEo3ZC1sWHhveDJlQ3BLMkRRa29qaDRjTw?oc=5",
+        "published": "Wed, 04 Nov 2026 18:15:00 GMT"
       }
     ]
   }
