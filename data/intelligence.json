@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T23:15:32.172593+00:00",
+  "fetched_at": "2026-11-05T00:11:38.291880+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -18,14 +18,14 @@
         "published": "Wed, 04 Nov 2026 10:43:40 GMT"
       },
       {
-        "title": "McDonald’s: Gewinn über den Erwartungen – Umsatz enttäuscht - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEZBcEVxcEFEdVNtYlFGbnlVRkJzdm5VM2k0ZEpWLWVXQWFoc1dOWEtuUWQtb0ZHaV9EUndFVTF0Vm9ybE9SRnVtVjlhNnUyWDhNU01nMVRMdzMyRElJMmh3QUdBcVJPdFp3Q3NiY1BrTXRsZXZzaVZxdldrOUU2UUhtc0ZMbGdDaWJrLW9IU3VhNWhjN2tyWjM2WTZKeURobWhzejlZdG9tbWhfMTVTUV9zRmI?oc=5",
-        "published": "Wed, 04 Nov 2026 13:32:32 GMT"
-      },
-      {
         "title": "McDonald’s eröffnet neuen Standort in Waidhofen/Ybbs - NÖN.at - Niederösterreichische Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdGalEyUlBEN2F2eklxclo1b1ZZTV9UZ1JKRVYzM2tVQlBYdGZoZTcyVmV4eGhQeGNJUi1uNkRKeGVhcWdlRV9JRW1RYUtzd3ZKSzdPYU1aZDlrb2FFZHFrTlFIR3FSX3hIeUwwT3R3US1YVEoybzdaejFONDVUcHhOdE9DWXZVWThFcTJQQlVLb3BmM09yS3liWGZyU2FZTjlVRTZjNEtPWEhnYlRCMXNfUlZ4Q3RWTkM2QnlsMTI?oc=5",
         "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+      },
+      {
+        "title": "McDonald’s: Gewinn über den Erwartungen – Umsatz enttäuscht - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEZBcEVxcEFEdVNtYlFGbnlVRkJzdm5VM2k0ZEpWLWVXQWFoc1dOWEtuUWQtb0ZHaV9EUndFVTF0Vm9ybE9SRnVtVjlhNnUyWDhNU01nMVRMdzMyRElJMmh3QUdBcVJPdFp3Q3NiY1BrTXRsZXZzaVZxdldrOUU2UUhtc0ZMbGdDaWJrLW9IU3VhNWhjN2tyWjM2WTZKeURobWhzejlZdG9tbWhfMTVTUV9zRmI?oc=5",
+        "published": "Wed, 04 Nov 2026 13:32:32 GMT"
       },
       {
         "title": "McDonald’s bringt die Mini-Radios zurück: Alle 5 Songs im Überblick - Giga",
@@ -65,9 +65,9 @@
         "published": "Wed, 04 Nov 2026 06:45:02 GMT"
       },
       {
-        "title": "🍟 Burger King Fritzlar • Speisekarte, Preise, Fotos und Bewertungen - coolibri",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UVTJ2TDJzblktQmNqM3VDZGxsZmZLMzVvUFdzQzFuamUyUE80bk1FbFpNa3hUUHNWX1g0ajUxempOTS0zVkE2QVBaeEM5Y09SanBFU3JzV1dBR2hSZ3prOW9R?oc=5",
-        "published": "Tue, 03 Nov 2026 23:30:26 GMT"
+        "title": "Wendy's bezahlt Gamer mit Essen für das Spielen seines kostenlosen Rollenspiels - Business Model Analyst",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV05HMFpLT1BnZXExeF9HSXZQbHpnNlpOc2ktRWJKQ1dKR0VkQ1I1THc1ZHA3QnFZT01DTm5LU3huTHdDQzJ0WE1NalVhaVFzQXJSd25pS1lCOFNFTnhwdVJITGhmN2hpMmVkZjluelVaVzcxS1U4d09Ma3pueXBnMWk3QW1oWG9OWDR0VkhZZzNZblBKbWxHaEozb3RQU2pPVGc?oc=5",
+        "published": "Tue, 03 Nov 2026 13:49:44 GMT"
       }
     ],
     "Omnicom": [
@@ -136,24 +136,19 @@
     ],
     "Nvidia": [
       {
-        "title": "Dow Jones 30 Industrial-Papier NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3lqQVJ1N0k2YnFfN21lR3YyMDE3Vko0NUtWaUhVaVBIUjFtYl9CNnBkRGpJT05rT3F3UHJZcWx3VnRuMUpWdVZCbE1hRkxMY051NFJuWjF0Mmg4UTRyT01reWZfcnVtTmphRGoyTW8zYllDVmxoT0s1ZWttSkdFNWJNRng5LVlydWFReDZtaWhYVmtfRGR3aWxNdUNOQjJmTC1OV2xHZGhzZ1hqem00a3VpVzhBZFlGZmJzSW9FVXBBNXB0UzZxZk9mNTZTTWJ0Y0tfMTA5cmNpMTZoMDBJZ1JKd1FoSnhrZWJaajBLSWJqelFBdzVGbWFtb0pmQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 15:03:36 GMT"
-      },
-      {
         "title": "Nvidia-Aktie: Lohnt sich der Einstieg im Monat November? - boerse.de - boerse.de",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pETEo2N28wZTBFRDRqX2Rpbkk2dEhyenNZZkVDUXR3QkRXSXZOWGNaWHJHOFpOUk9QMlhIR2hFbWllSmotb1dQRDlMYWRCbmkwenlWLW40NWZlVEgzNTNDVEktd0RyM1JoX1VaM1I1Si13OWYzMWdvU1c4LXVWUWRWU09fNDZoeldlSk1nR3Bab2JiTTBQUWVnSFM2Z9IBowFBVV95cUxNeEd0REN0UDF0V3NzMGY3bWpzMlllSkpTZDFpOGVGMjVTRDlzVEt2TEQxYlhad2RvZEdNYWw5Yi1QOHBOSUx6ZHM5WlM5M2M3U3JDUHFyYXY0YjR0WGI0aldXRmN0N2dRdFFtSlZhZkJFNE9wNlB5UEVJVk5ldzJncDRYdUVVVkRKZndzT0FkWmt1SHZkLUdZZDQ3VXAwMDhQTjdz?oc=5",
         "published": "Wed, 04 Nov 2026 16:42:00 GMT"
       },
       {
-        "title": "Dow Jones 30 Industrial-Titel NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRzZwVmhOcVBpSHgwWjVBSXFGR2lpLVpYN25ZZU9RdGU0RDduQkZyUTRDZUtJR0xwQl9oVGUzQ0I2VWo4LU8tZDE2STFHYmNDY3duUW9nRHhGTTFOMm0tNUpIVjNwejhBSnlweFlqeXVXbDhHNElTOExWeUdhR2k1QzB4M3NPMkdRZ2ZweFFGZGs5dkZZVklKaHVueFlvSWQ4MEc0R09wZFdPLUtveFAybGFUVkdEeWc3M1pZLVhCTjJZa3hwbS1TMHVMZmdwd3JxQW1tWXBmbmxCRWZseVRwMlhadHhfb2c4bTU5Z0xZM2FXNVpfYXJIZ3Vn?oc=5",
-        "published": "Wed, 04 Nov 2026 15:00:47 GMT"
+        "title": "Dow Jones 30 Industrial-Papier NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3lqQVJ1N0k2YnFfN21lR3YyMDE3Vko0NUtWaUhVaVBIUjFtYl9CNnBkRGpJT05rT3F3UHJZcWx3VnRuMUpWdVZCbE1hRkxMY051NFJuWjF0Mmg4UTRyT01reWZfcnVtTmphRGoyTW8zYllDVmxoT0s1ZWttSkdFNWJNRng5LVlydWFReDZtaWhYVmtfRGR3aWxNdUNOQjJmTC1OV2xHZGhzZ1hqem00a3VpVzhBZFlGZmJzSW9FVXBBNXB0UzZxZk9mNTZTTWJ0Y0tfMTA5cmNpMTZoMDBJZ1JKd1FoSnhrZWJaajBLSWJqelFBdzVGbWFtb0pmQQ?oc=5",
+        "published": "Wed, 04 Nov 2026 15:03:36 GMT"
       },
       {
-        "title": "Nvidia RTX 50: Grafikkarten werden erneut teurer - it-daily.net",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWjlHdExqdlJoS2lWQlk2WGlZYWJ6Z0kxV2g0UEhvMDZFWEZRdkJ0MjVnY1dZWUgxaVJ5RXhhb0hBYVhTdTdyY2hwekdsY0tDMHljUXFTOV9NSXJWUGZUY2piQ05XSVAtaGZ5Y25Qdw?oc=5",
-        "published": "Wed, 04 Nov 2026 17:21:47 GMT"
+        "title": "Nvidia Aktie: Knappe RTX-Chips für China - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x6M0F6WkwyaFIwSUM2WEY5UENiU0lNd1piMks5aGJ4QzBIdTlkWnNRY25JcmJjMUZjV0JyelRLd05sT3NJSlRfUllOSXRJWm9lU1NFV3d4dzV2Y290UHoxRklHbkpmdGJxX21aM1FhZVVyam1kVUREbkNlTGNxeUM2dzNQcDRNX012ZkNvNFlUVkNiRWgw?oc=5",
+        "published": "Wed, 04 Nov 2026 23:29:06 GMT"
       },
       {
         "title": "NVIDIA-Treiber 621.14: DLSS 5 für Hogwarts Legacy und Fix für Video-Aussetzer - Hardwareluxx",
@@ -161,19 +156,24 @@
         "published": "Wed, 04 Nov 2026 17:06:38 GMT"
       },
       {
+        "title": "Nvidia RTX 50: Grafikkarten werden erneut teurer - it-daily.net",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWjlHdExqdlJoS2lWQlk2WGlZYWJ6Z0kxV2g0UEhvMDZFWEZRdkJ0MjVnY1dZWUgxaVJ5RXhhb0hBYVhTdTdyY2hwekdsY0tDMHljUXFTOV9NSXJWUGZUY2piQ05XSVAtaGZ5Y25Qdw?oc=5",
+        "published": "Wed, 04 Nov 2026 17:21:47 GMT"
+      },
+      {
+        "title": "Dow Jones 30 Industrial-Titel NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRzZwVmhOcVBpSHgwWjVBSXFGR2lpLVpYN25ZZU9RdGU0RDduQkZyUTRDZUtJR0xwQl9oVGUzQ0I2VWo4LU8tZDE2STFHYmNDY3duUW9nRHhGTTFOMm0tNUpIVjNwejhBSnlweFlqeXVXbDhHNElTOExWeUdhR2k1QzB4M3NPMkdRZ2ZweFFGZGs5dkZZVklKaHVueFlvSWQ4MEc0R09wZFdPLUtveFAybGFUVkdEeWc3M1pZLVhCTjJZa3hwbS1TMHVMZmdwd3JxQW1tWXBmbmxCRWZseVRwMlhadHhfb2c4bTU5Z0xZM2FXNVpfYXJIZ3Vn?oc=5",
+        "published": "Wed, 04 Nov 2026 15:00:47 GMT"
+      },
+      {
+        "title": "China erwartet, nur 1% der Nvidia-Chip-Bestellungen zu erhalten - IDNFinancials",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHY0S2Q2ZDBZaDY1a2FuTFB0ZHB0RHV1TFc0R2dwd3FBbmZqY3JRa3lUSngxWXBuX0UxTXRobTluOTRsMzVOcjZpV3F0dXB0SW56dGpKMWh2ZE8zdHYyX3UzSjFvUmdnbm53dk92RUFIaFU0cWpYN1NRRlE4bEF3b2dlZzJ4SlBFLV9vTHNBOTQ1bmItNG5MRl92dVA2bkw5RUh2eGtyd2U?oc=5",
+        "published": "Wed, 04 Nov 2026 23:00:00 GMT"
+      },
+      {
         "title": "Nvidia DLSS 5: Hogwarts Legacy erhält ver­bes­serte Beleuchtung und Materialien - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmJ1U0dNOEVjUWZpQzZNUEdrQlFYNzhEQUZBT2FRb3MzMHFoajZTZzNtVXVhYTRnR0lPUWg0Q1JYODB2cW82MTItOHZnOU1ERk1rbUJXWlpocGJnbzBpbkg1Nl85b0JUYzBsZ0syNzZ4T0RNZkJTYTByNWdzdUpEaXNuOXZvLUdjWXlYSU81eHZQZTN2am9ZNkpETzJ4Z0hHLTNFWjIwZm1MY2FsTy04WXJyQ3MxRy0yWS0wRDI2Wmt2Vms?oc=5",
         "published": "Wed, 04 Nov 2026 19:30:00 GMT"
-      },
-      {
-        "title": "Vanguard FTSE All-World ETF: Nvidia-Zahlen am 17. November - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGoyYXg0Q1c2UzU1b0lLQWFlMERzLXZxWEgxSmY4M3llRUVXUmYtaXpZaEdFVnBGUXA5X0dBUnpndU9BdHRFeVFTQXFVeFdiMkxwNDZlUUV2Nnk4QzhlMzI3aVllNGU4bmhQNkpxX196RXN6ZDN1Qzc3ZzdSaXdtelhqbVU2eXFYSkNIZWJROHVvbjR2SDlsNFRYTE9WamE5MWRKOWpoQnFkdDBO?oc=5",
-        "published": "Wed, 04 Nov 2026 21:54:08 GMT"
-      },
-      {
-        "title": "WoW Forever: Nvidia-Treiber 621.14 macht erste Probleme - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3VrcDJ0dnJTenBOWUcxN0c1ai1zVmY0bC1KcjBEQjQwNHNobjhaRmI2ZktEYmNCVC1IRlZqR2FNX0hxYmVOMUxKaHRmU3JMU2xqY0RDWGcyX2I0eXpoNWo5WGZTSzc3QUd0UEI5TGFna2g3dUtwc29VdmZBOTctTkVuUmlLdWl2ci1jbEd3WEZnelVFRmVnb1pEY3hzVzdJOWlwOEo3ZC1sWHhveDJlQ3BLMkRRa29qaDRjTw?oc=5",
-        "published": "Wed, 04 Nov 2026 18:15:00 GMT"
       }
     ]
   },
@@ -210,9 +210,9 @@
         "published": "Wed, 04 Nov 2026 10:43:06 GMT"
       },
       {
-        "title": "Trumps Desaster: Warum jetzt Probleme für deutsche Firmen drohen - Neue Westfälische",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWdhbk5VRVBzaGxWZklvZXRpenpBZHVYd1NKREI4c19ua090NzNMZ3dCNUgwTGlTNzM4T3FVSWEzZ0ZFUlRQcmdoclRIX0gtd1dERzh3UVU0RWxrdjFnMVhPc2lUOG1KT2puZEhfZFdyc05LbEVWQ2NJcWlSSGVNUDJDMGFrY0t1SVBpUkk3QXhQSzR2NVd2bDc3U3BVeEFMS08yWVFNQ211WWZKRkY0c1hQRngtMWxZRWNB?oc=5",
-        "published": "Wed, 04 Nov 2026 15:19:00 GMT"
+        "title": "Vor dem Börsengang: Anthropics Schuldenberg wächst auf 156 Milliarden Dollar - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2Y0SmJKMW9fQlR1MTEwZFpwQlBJLW56UTlFUnNHN1Qya2VmZXg5UFlMUDc1WnR1RG5VR1Y5dWNHMDFncUFNOXA4em12VUlzOUZ4aE9nQ05jRFB6YjJVWm16ODFiSzlMR1RIU1plTDBjdFhQSnF6U3VzUjBOaVktLVlub2g3NldVdEVEMlhfNzV0c1BlR1NmcmpjVkZCU2pTaVRkeUhSRjM5Z2hnNkhyOUJSOVA1ek5Fa1VfN3NEVmhENlREY3dxSw?oc=5",
+        "published": "Tue, 03 Nov 2026 16:38:00 GMT"
       },
       {
         "title": "Mit Joe Brunner von der Schatzsuche zur Mine: Zehn Begriffe, die Rohstoffinvestments verständlich machen - Börse Express",
@@ -242,9 +242,9 @@
         "published": "Wed, 04 Nov 2026 07:23:21 GMT"
       },
       {
-        "title": "OWM-Summit: Die Zukunft der Medien oder: Polyamore Beziehungen im Tunnel - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN4Q29NZlB2cUYzTUxsemZVMmw0YzFQUGNXWUNqRTY0X19JYkgwSEtvT2lwQmpRYnQ2NG83WkdLTTZFVF81YXF1Ri1pMzZxQkItNnVZb3pGMXc5TnEyS2ZhbnN5dkhlOGVxY3N3Rm9iQ1JLVEZUT0Ewc2MxWUdJNVB6RXhvTzdhaXlsUlhLMW5xc3AzZnFuVzVzU0dycl9jMlpuSzRqZExPV0l2UGFJRG5aaEdJREV6amtNQUYycFVNQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 10:43:00 GMT"
+        "title": "OWM-Trendbarometer: Die Messung der Werbewirkung bleibt im Marketing die größte Baustelle - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblZiZDlnN2hkZlk2YUs5alhLelR5SUhMWmhlLV90ZEE3UnhPQ3NYT0tuYm5IS1M0c21QZFEtajE3MUJ3cWo5MWlMTThmTXkySG9aTktHSVdIdi1UN1lVdHE0bHBwdUtjOTFVN0llN19iYUJUMGh5ckVDTzdnZkZZV3VXRy1mUkx5NmYtZWdtUS10ZVVqN3Z4ZVlMX0hjczVMT2dTMkFEbmh5ZTJ6czhCc01jSHp2b3o1X2Y4RVNLQ2NfR25BcHFLOTgwZw?oc=5",
+        "published": "Wed, 04 Nov 2026 08:30:00 GMT"
       },
       {
         "title": "Swissper: Creator-Content für die Aussenwerbung - persoenlich.com",
@@ -252,26 +252,26 @@
         "published": "Tue, 03 Nov 2026 09:30:13 GMT"
       },
       {
-        "title": "OWM-Trendbarometer: Die Messung der Werbewirkung bleibt im Marketing die größte Baustelle - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblZiZDlnN2hkZlk2YUs5alhLelR5SUhMWmhlLV90ZEE3UnhPQ3NYT0tuYm5IS1M0c21QZFEtajE3MUJ3cWo5MWlMTThmTXkySG9aTktHSVdIdi1UN1lVdHE0bHBwdUtjOTFVN0llN19iYUJUMGh5ckVDTzdnZkZZV3VXRy1mUkx5NmYtZWdtUS10ZVVqN3Z4ZVlMX0hjczVMT2dTMkFEbmh5ZTJ6czhCc01jSHp2b3o1X2Y4RVNLQ2NfR25BcHFLOTgwZw?oc=5",
-        "published": "Wed, 04 Nov 2026 08:30:00 GMT"
+        "title": "OWM-Summit: Die Zukunft der Medien oder: Polyamore Beziehungen im Tunnel - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN4Q29NZlB2cUYzTUxsemZVMmw0YzFQUGNXWUNqRTY0X19JYkgwSEtvT2lwQmpRYnQ2NG83WkdLTTZFVF81YXF1Ri1pMzZxQkItNnVZb3pGMXc5TnEyS2ZhbnN5dkhlOGVxY3N3Rm9iQ1JLVEZUT0Ewc2MxWUdJNVB6RXhvTzdhaXlsUlhLMW5xc3AzZnFuVzVzU0dycl9jMlpuSzRqZExPV0l2UGFJRG5aaEdJREV6amtNQUYycFVNQQ?oc=5",
+        "published": "Wed, 04 Nov 2026 10:43:00 GMT"
       },
       {
-        "title": "So sieht der Mediaplan für die DKB-Vorsorge-Kampagne aus - Meedia.de",
+        "title": "So sieht der Mediaplan für die DKB-Vorsorge-Kampagne aus - Meedia",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk1YNy05N3ZzTVNWMkh2Y0lLX1BDM1czS25XR3p2Mk13bmpVUDZ2RzNkWi1RSTBidVlDU3RKRzVyUUNCS2Uzc1luYU5pcUJyT2VVQXllZmJxYjQwb2s1YmhXa1ZHSl9tU1BLLWctMW94WXdnSi14c19EdG83QkFNRUVNME5HbTd5dzhHWjE3bmc2WDhqVTBNcnRmT2pleEdD?oc=5",
         "published": "Wed, 04 Nov 2026 10:43:00 GMT"
       }
     ],
     "Technologie & KI": [
       {
+        "title": "Studie zeigt: Physical AI auf dem Vormarsch – 76 % erwarten Durchbruch innerhalb von fünf Jahren - Report Verlag",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUs3QjlkNDB5YmlRd3FFWnkyMHRvM0I0MkZmbjI0SGJjaEw3NG8zd3NEWFJpalNUYkhXV0o1UFpTSFhOa2U0YlJJc2NfbHVnTFpfSUh6dmV1bG9Ba2M5SEMxVDdDUGJzVFVXRnVkODctZDUwU3QtSVdhRHlBMTlfMFd6aXJpUDBCZWFodGdqdVJIcWVRYUJjYUU3eXF3WnBNUWZQSEJ2YWpoRHo4RmFCVm9icWFOV1ZwOXFF0gHKAUFVX3lxTE5RS3dRWDY0NEpEemxRTWpHd0p6cjlVdDgxemVQVDVYX3cxZG9PblA5cmJiWks4RjZWWHVWdWtLUjk4NG9sTnlLYnhHMjJMTHRsWmlRdHhnMWdJQXFwOEpwUTNmMG9PbmVYeG0zMjladkpoX01ZeEQxMTFqa2NOaWU5dkU4NEVRUENUaE51dG95SmdKT0xUS3dVRmVBYUZXWE0yNFRlRlRWMWxkYkJRMUppSnAxVXY5UFh5MUU5RTk1ZkZ0Njd0ZnI1SkE?oc=5",
+        "published": "Wed, 04 Nov 2026 11:36:09 GMT"
+      },
+      {
         "title": "Unternehmenstransformation wirksam orchestrieren - kpmg.com",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TQU1keG9zN2dJVXFfTlF4eFdILXpnY0U2XzVJS3JPY1B1VlR4bTFMMDBGTmN5b1NWVVBuenNwYm8zYm12RUxoN0FUYnYyTXhlNDRFZGVXZUlyTEUzMWVjcjYwNzRyTmc2Y3dTRi1SUVBKa1o4T3I5Y2dpU2U?oc=5",
         "published": "Wed, 04 Nov 2026 14:54:18 GMT"
-      },
-      {
-        "title": "Studie zeigt: Physical AI auf dem Vormarsch – 76 % erwarten Durchbruch innerhalb von fünf Jahren - Report Verlag",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUt3UVg2NDRKRHpsUU1qR3dKenI5VXQ4MXplUFQ1WF93MWRvT25QOXJiYlpLOEY2Vlh1VnVrS1I5ODRvbE55S2J4RzIyTEx0bFppUXR4ZzFnSUFxcDhKcFEzZjBvT25lWHhtMzI5WnZKaF9NWXhEMTExamtjTmllOXZFODRFUVBDVGhOdXRveUpnSk9MVEt3VUZlQWFGV1hNMjRUZUZUVjFsZGJCUTFKaUpwMVV2OVBYeTFFOUU5NWZGdDY3dGZyNUpB0gHKAUFVX3lxTE5RS3dRWDY0NEpEemxRTWpHd0p6cjlVdDgxemVQVDVYX3cxZG9PblA5cmJiWks4RjZWWHVWdWtLUjk4NG9sTnlLYnhHMjJMTHRsWmlRdHhnMWdJQXFwOEpwUTNmMG9PbmVYeG0zMjladkpoX01ZeEQxMTFqa2NOaWU5dkU4NEVRUENUaE51dG95SmdKT0xUS3dVRmVBYUZXWE0yNFRlRlRWMWxkYkJRMUppSnAxVXY5UFh5MUU5RTk1ZkZ0Njd0ZnI1SkE?oc=5",
-        "published": "Wed, 04 Nov 2026 11:32:02 GMT"
       },
       {
         "title": "Carl Pei mit Neuigkeiten – Nothing-Chef kündigt erstes KI-natives Produkt an - Heute",
@@ -294,14 +294,14 @@
         "published": "Wed, 04 Nov 2026 14:20:15 GMT"
       },
       {
-        "title": "Technology Impact Summit – Bild 13 von 59 - News.at",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zZ2tMUm5pNUF0YWFmR09fTzhIeWo1SEZza3A4eG9ZMWxucTZSenRPZTBLWk95Tm5zZDZZUk1jQXpVN2M4em40ZE1SbXJzREJwa1U2aU5ZYTF2WnA2Nlh1NElVS0JzUW1hZzJVMXlGVk5sZDk1ZGVDbktXRQ?oc=5",
-        "published": "Wed, 04 Nov 2026 01:47:30 GMT"
-      },
-      {
         "title": "Exportkontrolle droht - KI als Kriegswaffe? Mistral AI spricht Warnung aus - Kronen Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PS3lvNlBMTndxUmFmTVllT21lcm4zNUZaZ1JhbFZjYmFVM0xxU2ZuTGg2cVhMbG1kZVV5QVk4WDZWUQ?oc=5",
         "published": "Wed, 04 Nov 2026 12:31:00 GMT"
+      },
+      {
+        "title": "Technology Impact Summit – Bild 13 von 59 - News.at",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zZ2tMUm5pNUF0YWFmR09fTzhIeWo1SEZza3A4eG9ZMWxucTZSenRPZTBLWk95Tm5zZDZZUk1jQXpVN2M4em40ZE1SbXJzREJwa1U2aU5ZYTF2WnA2Nlh1NElVS0JzUW1hZzJVMXlGVk5sZDk1ZGVDbktXRQ?oc=5",
+        "published": "Wed, 04 Nov 2026 01:47:30 GMT"
       }
     ],
     "Meine Aktien": [
@@ -316,6 +316,11 @@
         "published": "Wed, 04 Nov 2026 17:06:38 GMT"
       },
       {
+        "title": "Nvidia Aktie: Knappe RTX-Chips für China - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x6M0F6WkwyaFIwSUM2WEY5UENiU0lNd1piMks5aGJ4QzBIdTlkWnNRY25JcmJjMUZjV0JyelRLd05sT3NJSlRfUllOSXRJWm9lU1NFV3d4dzV2Y290UHoxRklHbkpmdGJxX21aM1FhZVVyam1kVUREbkNlTGNxeUM2dzNQcDRNX012ZkNvNFlUVkNiRWgw?oc=5",
+        "published": "Wed, 04 Nov 2026 23:29:06 GMT"
+      },
+      {
         "title": "Dow Jones 30 Industrial-Papier NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3lqQVJ1N0k2YnFfN21lR3YyMDE3Vko0NUtWaUhVaVBIUjFtYl9CNnBkRGpJT05rT3F3UHJZcWx3VnRuMUpWdVZCbE1hRkxMY051NFJuWjF0Mmg4UTRyT01reWZfcnVtTmphRGoyTW8zYllDVmxoT0s1ZWttSkdFNWJNRng5LVlydWFReDZtaWhYVmtfRGR3aWxNdUNOQjJmTC1OV2xHZGhzZ1hqem00a3VpVzhBZFlGZmJzSW9FVXBBNXB0UzZxZk9mNTZTTWJ0Y0tfMTA5cmNpMTZoMDBJZ1JKd1FoSnhrZWJaajBLSWJqelFBdzVGbWFtb0pmQQ?oc=5",
         "published": "Wed, 04 Nov 2026 15:03:36 GMT"
@@ -326,24 +331,19 @@
         "published": "Wed, 04 Nov 2026 13:32:32 GMT"
       },
       {
-        "title": "Nvidia DLSS 5: Hogwarts Legacy erhält ver­bes­serte Beleuchtung und Materialien - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmJ1U0dNOEVjUWZpQzZNUEdrQlFYNzhEQUZBT2FRb3MzMHFoajZTZzNtVXVhYTRnR0lPUWg0Q1JYODB2cW82MTItOHZnOU1ERk1rbUJXWlpocGJnbzBpbkg1Nl85b0JUYzBsZ0syNzZ4T0RNZkJTYTByNWdzdUpEaXNuOXZvLUdjWXlYSU81eHZQZTN2am9ZNkpETzJ4Z0hHLTNFWjIwZm1MY2FsTy04WXJyQ3MxRy0yWS0wRDI2Wmt2Vms?oc=5",
-        "published": "Wed, 04 Nov 2026 19:30:00 GMT"
-      },
-      {
         "title": "McDonald’s eröffnet neuen Standort in Waidhofen/Ybbs - NÖN.at - Niederösterreichische Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdGalEyUlBEN2F2eklxclo1b1ZZTV9UZ1JKRVYzM2tVQlBYdGZoZTcyVmV4eGhQeGNJUi1uNkRKeGVhcWdlRV9JRW1RYUtzd3ZKSzdPYU1aZDlrb2FFZHFrTlFIR3FSX3hIeUwwT3R3US1YVEoybzdaejFONDVUcHhOdE9DWXZVWThFcTJQQlVLb3BmM09yS3liWGZyU2FZTjlVRTZjNEtPWEhnYlRCMXNfUlZ4Q3RWTkM2QnlsMTI?oc=5",
         "published": "Tue, 03 Nov 2026 12:00:00 GMT"
       },
       {
+        "title": "Nvidia DLSS 5: Hogwarts Legacy erhält ver­bes­serte Beleuchtung und Materialien - ComputerBase",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmJ1U0dNOEVjUWZpQzZNUEdrQlFYNzhEQUZBT2FRb3MzMHFoajZTZzNtVXVhYTRnR0lPUWg0Q1JYODB2cW82MTItOHZnOU1ERk1rbUJXWlpocGJnbzBpbkg1Nl85b0JUYzBsZ0syNzZ4T0RNZkJTYTByNWdzdUpEaXNuOXZvLUdjWXlYSU81eHZQZTN2am9ZNkpETzJ4Z0hHLTNFWjIwZm1MY2FsTy04WXJyQ3MxRy0yWS0wRDI2Wmt2Vms?oc=5",
+        "published": "Wed, 04 Nov 2026 19:30:00 GMT"
+      },
+      {
         "title": "Dow Jones 30 Industrial-Titel NVIDIA-Aktie: So viel Gewinn hätte ein NVIDIA-Investment von vor 10 Jahren abgeworfen - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRzZwVmhOcVBpSHgwWjVBSXFGR2lpLVpYN25ZZU9RdGU0RDduQkZyUTRDZUtJR0xwQl9oVGUzQ0I2VWo4LU8tZDE2STFHYmNDY3duUW9nRHhGTTFOMm0tNUpIVjNwejhBSnlweFlqeXVXbDhHNElTOExWeUdhR2k1QzB4M3NPMkdRZ2ZweFFGZGs5dkZZVklKaHVueFlvSWQ4MEc0R09wZFdPLUtveFAybGFUVkdEeWc3M1pZLVhCTjJZa3hwbS1TMHVMZmdwd3JxQW1tWXBmbmxCRWZseVRwMlhadHhfb2c4bTU5Z0xZM2FXNVpfYXJIZ3Vn?oc=5",
         "published": "Wed, 04 Nov 2026 15:00:47 GMT"
-      },
-      {
-        "title": "Nvidia RTX 50: Grafikkarten werden erneut teurer - it-daily.net",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWjlHdExqdlJoS2lWQlk2WGlZYWJ6Z0kxV2g0UEhvMDZFWEZRdkJ0MjVnY1dZWUgxaVJ5RXhhb0hBYVhTdTdyY2hwekdsY0tDMHljUXFTOV9NSXJWUGZUY2piQ05XSVAtaGZ5Y25Qdw?oc=5",
-        "published": "Wed, 04 Nov 2026 17:21:47 GMT"
       }
     ]
   }
