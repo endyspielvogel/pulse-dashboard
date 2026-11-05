@@ -1,7 +1,63 @@
 {
-  "fetched_at": "2026-11-05T10:19:29.321150+00:00",
+  "fetched_at": "2026-11-05T13:29:34.641660+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Review of the Week: John Lewis takes Kristin Scott Thomas for a ride",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSEliWE92NllKbFM0cFJhcTl0RVdfblZCVVNmU1ZwS1NUMlpZOU1pOHNETXNLM3BfWkV1by0td2tNd3VIS2l0R1Jhd0ZwYVExbHE5QTAtSkM4Y3lSWjJFZmlQeHpXMm16MjRQR2hDbV85Y1FOcUJSUXB0d3pJVUtqaXZTWTFNQkxuYVgwM2pyZVRHbERhT2pGaXdESVVSQlU0MjE4dlpxTG1wd09lUmM1R0NoQzE3NmNQY3p3WE5sZk1PMWdXaXFhSHRRS0cwZw?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T12:56:15+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Movers & Shakers: Ogilvy, MG OMD, TBWA\\Media Arts Lab, Dept, Omnicom, Stagwell and more",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDdER3Jaem1zQnFmWDktSzU3MmNEcXM0N3I0SmNDdExWajVBVzEyUG9WRGpodEtMZEhwV2Y1RUJhMlVETzhBZGFKQk44SkQxNmhPb051SkpsZ053UktORDhUZTlJeEM2VlRPV0habWlZdVNQOEZsYWFYcW9OVldjVDRoQ0dWRHEwenlVQkF0Slg1UFA0UjBTb1N4aUFXTGxWNlJLSlI3ZWRZOVAzb2NxdVQtbHZwbV9kQUxOVGYwZkU1RFNPSFJxSm9LbG5HczVDS1V3VnFDUEZtNVhTY0E?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T12:04:42+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Motorway launches review of media account",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHpVOWQ3UkVTRDhZa2x6Q1l3cmRBSWNDRnhMQ2ZpREV4ZFFQUWNaTkhyQ0hRek1sYnhvVVJ2bWhnUzFWRHg2M0c0NXBfeW5vRTR2LVJTUEYxeEp1MWh4ZHhKcHhYTGQwcFRObXNTTkg5Z2Y2TjZkLTIybVYtYzk3ZlhsQ1pKMjljdUFKN0xCZ0dnZkhaRV9KQWR2SlNFTE5nOURNbkpxbjNERFk?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T11:36:26+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Marks & Spencer releases second teaser for Christmas 2026 ad",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDE1NVpmR0JQeW1HZDdxeXVndzdweVhBUWJ5OElMdHNWQXNQUUZTUEhrZmw2OFo1MThYYnVNQXlrRF9kRVVnMzVOSS1ON3J0OHdfb2pHYVFOcnN0M19aSlhBcm9GN05La1plbUs1N3k2MXk0bUZZR2g3UTZzOFRhWjh1SlUtaGN5ZG9oaGlRV3MzVXFFNEhGVDFsTzVXUVVVUlhDMm9mS1l5SHBHTU5lS3BFa0x0V0VzN1UwMnVOeGRndw?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T11:35:09+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Tech Update: Q3 results and ChatGPT’s ad products",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkJNMzhsSHhYTXpWYmRQRjNIbTNHTnBna2Exd0pSdy1HcHA1MlVUTlRMdFJzMzBFZkZkUEYzM3A1SlVKQVRJbmlxUlFSUHNhMGFDT1V4OUk1OS0xZXpRdjcxV2pfVmxRazc5ODhVS1RUQ2VjdFlGYUVHUmNFVkhVc09GZ2puMDRaSXJRQ0VMXzJzQkFqWi00bnAzZWoyT25MSGlGNFo1djZUTjRHZURUS2xuZXM?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T11:34:40+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "'How would you like us to be involved in making?': Catbird Seat aims to ask the question other agencies do not",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTm5ZRk53ZGtVdEc1bW55bTJUVVJvZ3dBMHRmd3pXM29Xb0VfUXRfMXpVam16WExBVDhwZks0WjdUYWlla0tWamhMWjZFS3Z4MjRrcW5mWUhfbEhqY2VmeWthM0lkMWh4QTJZUkRoMkVLeXZoZjNYUEdnV0hEMzlaYmtLS0p0VzhZb1ZTYktjQWJ1aDlNekgyWXl0OUJ1OWRpUnZwUUFpU2hUSTVnLWdZYWxCSDFGdUdwME11OWtlWnhaV2FFSEY0cmZ0S043eFkxMGVhaU1TQ2xtUXhwV3ZmdHEzX0owUzJHcVRfWGN1WXNkT1o3R1Vad0ZTTnQ4TUF6bFE?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T11:00:04+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "All In Census urges adland to take part amid 'ongoing transformation of every business'",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMDdMSUhNak9rOVlmQ2R5YVQ0NXA1QUlHMzd2ekZnMDBhaFBRT1R5MkFXOWl0MHJURWFoVXYyYVpRVDVRYnhUTjhxYjNhZTMtcDk1T1FEcE50cmJfSER2S2JBdzlHM2hCeGVqUnVvb2JVZlByUGZEaVQ1LVgwbEJpMTRBTzUwdDlIX2dpWi0tdEhOU2YwZmY2c0hReldPQUNPV084bTdvekQ5S3FFSWxFY0xBWml4bkVGZWhCZDF5Ni0tcXc5QjRFSzVvN0tpcFFWYTNjRlpVRk0wZWRSMW9iU294SVNSdw?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T10:40:23+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "TK Maxx Christmas 2026 ad shows ducks dressed in designer gear",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1M2OXM2U2JQM0RsUUxmb3pfTm13TFhuNm5SaWk5dGh2aTY4bV9wWU1mREk2Z21haC1Cd0wtZXBsRlJzQXZOcnhvczdteUs0MUliYUpfZ1FDSXdhZXhhWXdHZXFQM2pDcVRhYk52SkN4WVNJUzEyM3lRbVAxVGtQcHR1Wl9Mc3lySEZkSTBpa2Y2SXBKOG1GQnh4NEZJTzUzQVZiWUttelpZRmI5a3cxV0xCZ3NhQTVvNkFXbXVmaEt6Q21xQTZR?oc=5",
@@ -11,18 +67,10 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Aldi \"Kevin the Carrot and the Christmas wish” by McCann Manchester",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnJtTlNIN083WkQ2OFhidnE2NFdYSDJxMWd4TWtjWTZ4LVdzRWZQWVB5YkhjQW9WTjlBcjhERFRzY1NYVWkySE8xelZFVHcwWXFyY2VEREhiclZkeTloaHNKV2k3ZWdUckoyWTlLNmpQTDBoemZFRTZQNEYtZjF2bl9GbjhVdWNWcGJ6dkxpd2k5eUV5Vkc0VU1VdVQtN1BzVGxxbHdSc3dYYlFJNkVhTFMtRDRIbEo0U0J4U1BWY3N5VWQxbDdLclVQSQ?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T07:41:36+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Matalan festive campaign encourages people to ‘be the occasion’ by wearing its clothes",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOHVlVWY0NGJWY2N6Q0dwVzhSSkY5NDZUVk1aTjRUUmg0cFVqcUhJcmJ3NWZ3Nmo0ckFyaUQ4c0xINmdLNTRCQVZVeFNoTTFybkN0a2ZKaXgtTGF2ZUFXbjBFQS11RHBDTThLZTd2ME5rdzVHd0RkMHZTVTBsV1p5YVB2c2FrOWxMZm1kUWdBalZvMFlaRGRoVVMyUVpPVFJDN2JoSHZ3ZUs5cXpxcmNKbTFUVlNKN01Zbzk0WG1ZQnFOV0RUWnRfZERuOWxYaUNrUEZCaG5uZE1KUWVMaS1pajI1VnE?oc=5",
       "published": "05.11.2026",
-      "published_iso": "2026-11-05T07:05:14+00:00",
+      "published_iso": "2026-11-05T07:14:35+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -47,54 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90N1lBRVRtRFNaT0xIRGtBcnI0VVJON0N2LTNQMXZxUVA0UlJWTklmaHJIRTdjM0RPcGY0V3A5N1UwMDN6cTV1dnJLUjVHVWNkSjRlRlBhbjRraHM?oc=5",
       "published": "04.11.2026",
       "published_iso": "2026-11-04T15:55:40+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "CINEMA WORK",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRWHYwSWZBcHJXalhYNEN5a25qRzR3Nzg2ckpTbzl5b0hNRnpsSGpTQkdMQk9NRTg2LTdIREsyYXZiRlE4Z3dDeGh2WkdiM2VNczdvUEgwcGlLQQ?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T15:55:40+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Xbox secretes console in life-like model alligator to create the X-Bite",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2dqd1dYd2xuQUthN3N0MVZ6SGRwck5GYzBrc2s2YklDMVNFYVpyakY0b3llYnVRVGU2S18welQ3UnN4a2Z0bmVLeGR4RXlzUFg5c1ljbEIzdHl2SXRpdXczX2VyY0dDalBILTF0ZXdNWm0zeVd1QmlnRGk1d1NvT3poMHdBbUhVa3duc2h6bVdIMnRYY1ktNWczZ0ZpbENWbENONGNuUmpMTmQ4amdFVFpUQTVUMXB6YldsS3R6MWdueVVTeFRRVk5BZnZvNVVLZXlR?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T15:16:53+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Report shows in-house teams are boosting headcount to cope with expanded remit",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYThZLWJNa080b3JFaXo0UXlHTXptQldVNVdOR2FwRHNwUExoOENGeTRZak93a190THQ2eUpXTWc5QmExSGdiTG9tTzhSM0dPUE8zblhuNDl0TVJoeU1CZzc0Sk53d2lpMzlnaEhNakZ4VFpVZXRDS1ltOVYtN2JaOXg4cUpHellWTlc3STRXX0FKdkhrODNXM00zS2pYMVgtVm9Kek1seUhZU0F2YUg1Y1ZtdjF1WmphdC12dkRUMTE4N19hdklLVEJfRlAzQUN0SF92LTVwOGlyYzY3?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T13:51:45+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "John Lewis Christmas ad reaction: ‘sparkly and fun’, ‘wild ride’, ‘more boomer than timeless’",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3ZDbHN6djFLeS0zX0JkZVVvZkc1RDg1UW9aMGhLTERMT0EwTXhqVl9COHJtSnRzYUh0V19VanhzNFBJRjBvc1BkVVJCNkhqX0V3UExtb0Rmb1BEUTlSS210c2Uzbnp6ZEk2d1JkRmVTYzJ6eHdZaGtMa3BOaURWWl9mX1NPZm9QVkE5NXpneGJmSElKY1ZBTW9hS0JUeWIwUDgzUjZmYnRKejRpX0lyWHJicDl5MUowVUFnMkloQ1NVWl9ucFJHeV9NeDJHR0ZWb2NWNm9KOXdCVU9BRmhQUmVNdTQ?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T12:21:05+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Brands begin to exit LiveRamp as Publicis ownership tests industry trust",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0gySkoyQ1RuY2Y0Q1NPbWtHLTJodEhZUGlUdGpIU0ZoTnJjSlo3MXJmUGQ5MC1lREU0TVAwN01ndzhBNWZCTWFxS21UWElSc1lIc05UOElERHlhNW14dEpxQzZ2OXhJU1ZRSEU5NzVqWUZBUXZsQWhYaWNQME5XVzJPNkxWaUVOTkxVTC1rNDVUODhfYkNGQWxuUG9iMUZPMVEtQTY3dGZmZkxoUEM4V3VkTW9NUVVEaHZiNEFGdTdMT3FHRWZLQ0d0Q0NXRk9FQzZYWg?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T12:00:31+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Mail Metro Media promotes Harry Simpson",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTnY3UUFSSjJCcHNXd0Q1NEpMVzRITWpDcFo1VU5fUWZuTW5VRG1LOGZWbXhtc3JBLUJ4dU50eUN6VHNrNFZrR21OMVNvSms4LS1fTm43RWxJdXc1dE1jSEFLNXBPb1lWNDRtYlBQMl9kWnI5NUJwY0tsV3FkY0RkOVZjeDYwMWl5UUwzMmxrZDJNb0VjRVpaejdnQlB4QXZLSEJZREkzQUw?oc=5",
-      "published": "04.11.2026",
-      "published_iso": "2026-11-04T11:12:36+00:00",
       "description": "",
       "source": "Campaign UK"
     }
