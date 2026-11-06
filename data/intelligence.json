@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-06T07:07:12.795949+00:00",
+  "fetched_at": "2026-11-06T08:30:00.108062+00:00",
   "brands": {
     "McDonald’s": [
-      {
-        "title": "Wie Caterpillar, Goldman Sachs, JP Morgan Chase, McDonalds, Procter & Gamble und Coca-Cola für Gesprächsstoff im Dow Jones sorgten - Börse Social",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOWNjU0dfSXpzeERoLVB2eXlKMjYwckRmb1lzeUdTVTJJTTg2QTRxcVhCVjhKYkV3NE5pNzRhYjB6QWVXeDVJTWdVeGFrc2V2NFZKRWhIdVl1bzdHcDVFczdrX1N1ZG5HZjNLZm5VN3dUaWlBNUVDd3h6R21DMnRfenBkdDlDMU91UWx5ZE9OWklFSUtKS3E5TlFwTzJVQVlBYmtBNFBReTA2VW8zYV9Vd0NvS0l3R0F6ZXVxVmVlc05RWlN0U0lVUXZyVmZoekVkZ01GVDhNckJIdmpnSDFTaDB2cmEta0RuT1AwQ3pWX3BCUXgzb3JN?oc=5",
-        "published": "Fri, 06 Nov 2026 04:15:00 GMT"
-      },
       {
         "title": "Ab Dezember: McDonald’s bringt große Pokémon-Aktion nach Österreich - MeinBezirk.at",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclJJVUdkTktINDd3bk0tY2tWNGtURkNENE9qN0puR3VVWDBCcTBuZm5ZdW14SHdldjZYNlJyc0ZqMGZSVmxFOVoxNEQ5YTdPNmNGcTJVN0w5Q19zSVBYQ1lVdlUzc2Y3V3puTEFud2w1ZDFJWS1tdkpQcU8xYU1scm1vQWdjeVpxcGg0M3RqSEdrMVY2RjZiY3YwUDBRUk9HbFRnaQ?oc=5",
         "published": "Thu, 05 Nov 2026 15:58:25 GMT"
+      },
+      {
+        "title": "Wie Caterpillar, Goldman Sachs, JP Morgan Chase, McDonalds, Procter & Gamble und Coca-Cola für Gesprächsstoff im Dow Jones sorgten - Börse Social",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOWNjU0dfSXpzeERoLVB2eXlKMjYwckRmb1lzeUdTVTJJTTg2QTRxcVhCVjhKYkV3NE5pNzRhYjB6QWVXeDVJTWdVeGFrc2V2NFZKRWhIdVl1bzdHcDVFczdrX1N1ZG5HZjNLZm5VN3dUaWlBNUVDd3h6R21DMnRfenBkdDlDMU91UWx5ZE9OWklFSUtKS3E5TlFwTzJVQVlBYmtBNFBReTA2VW8zYV9Vd0NvS0l3R0F6ZXVxVmVlc05RWlN0U0lVUXZyVmZoekVkZ01GVDhNckJIdmpnSDFTaDB2cmEta0RuT1AwQ3pWX3BCUXgzb3JN?oc=5",
+        "published": "Fri, 06 Nov 2026 04:15:00 GMT"
       },
       {
         "title": "Dow Jones 30 Industrial-Wert McDonalds-Aktie: So viel hätten Anleger an einem McDonalds-Investment von vor 10 Jahren verdient - finanzen.at",
@@ -55,11 +55,6 @@
         "published": "Fri, 06 Nov 2026 05:07:59 GMT"
       },
       {
-        "title": "Masthuhn-Report 2026 zeigt große Unterschiede zwischen Gastronomieketten und Caterern - TAGESKARTE",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTXhYYmlWTlMxa1FhUzVMSmM2OEZsRm9meVRPY2x2R3h0MnNaVnotelBTUldUMl91SUdleVVLNTFheVlRbkRFU19IQ1ZNc3o4dDdTT0hIMklFQzBiM1J6S2U2WEp2aVpUbWctSGpkRWlEU0VpbC02dXVSYTB0YWpfVnB0TzdWUXpoR2hZZjUzaFZublc1S1hrWW4tOW1QbWMySDdGb29LeWtwRENsbHZCSTNNY3l0cUNSWFFoWnFqZzR4bXNPZUxzS0V6aWdncl9Dbmc?oc=5",
-        "published": "Wed, 04 Nov 2026 07:44:33 GMT"
-      },
-      {
         "title": "Super Sally. Super Zimt. Burger King® Deutschland verwandelt Milchreis in knusprige Nuggets - Presseportal",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVTm5TYlRxc1FNWGs5Q1kwOG5venM3eXJGVnpmYUdNZzI5c3dkQ2lhd3NTYzdXNXlHUUtraW5ZcTdzTGZwVmR1a2NOX3F4Y201UkxDMGRxSQ?oc=5",
         "published": "Wed, 04 Nov 2026 13:00:03 GMT"
@@ -83,13 +78,18 @@
     "Omnicom": [
       {
         "title": "Omnicom Group-Aktie mit neuem 12-Monats-Hoch - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0JrckZ6UHo3cko3OUR6aWtUM0NxRzNwaXpBc2FmVFJtU1h6X2hQTUZ5V0dIeUVPODZQOElRVHJ3dWNtblF2TDlHX1RHVEVXdTU2MVo2MTBwUTd6cXplanNPcVlfbFAyMXJfUXphZU5pZkVtaWVxc2pUamZsb0lIU1FGSDZrdFFtU0FvNkM3eFA?oc=5",
-        "published": "Thu, 05 Nov 2026 06:55:00 GMT"
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHpOOXdWWFVnODdvN2hoVzY2LWo5MC1zbGNfTEVxclVIaFYzWGI2S2NUN2JpQ1JtTVRxRnpILWJyc1htaHZCOHdKVjJUSTZudXlGbG5Ja0NDZjlldkdOLXd5ZU94VlRlU3otbmVzZEUxYVkwUEktUklWUmtsNEROdmtyem5rSHNNMTR6MzkzblQ?oc=5",
+        "published": "Fri, 06 Nov 2026 06:52:00 GMT"
       },
       {
         "title": "Fotos von Agenda2050 - Heimische Medien und Marken wollen den Plattformen mehr entgegensetzen - Leadersnet",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJyMW9aSTM3TElFOUFraEVCV1JCc3ktV0ZkTlpJWW5vS1BPT0NUVXJWQ183TVBQdHFMYlJJa2xYZTg1SjBCelkyYUhWWVFXZVAweUVLem9Sb1QtbGlLTFhNUHplc0h3aVhYbmpMbG9VcEVtdmJNRGFCT0IxaFJlR250Z2FJMURmaU9mSlNDc0FFbENOSlZwMWY5RjRpVVE?oc=5",
         "published": "Thu, 05 Nov 2026 14:15:00 GMT"
+      },
+      {
+        "title": "Omnicom Group-Aktie mit neuem 12-Monats-Hoch - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0JrckZ6UHo3cko3OUR6aWtUM0NxRzNwaXpBc2FmVFJtU1h6X2hQTUZ5V0dIeUVPODZQOElRVHJ3dWNtblF2TDlHX1RHVEVXdTU2MVo2MTBwUTd6cXplanNPcVlfbFAyMXJfUXphZU5pZkVtaWVxc2pUamZsb0lIU1FGSDZrdFFtU0FvNkM3eFA?oc=5",
+        "published": "Thu, 05 Nov 2026 06:55:00 GMT"
       },
       {
         "title": "Mode: Markus Aller ist neuer Vice President Marketing bei Schiesser - Horizont.net",
@@ -100,28 +100,18 @@
         "title": "Sport, Wirtschaft und Marketing: So wird das Mapei Stadium zum Treffpunkt für den Neustart der Serie C - La Gazzetta dello Sport",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZm1kYmcycktvRFM1VTI0XzhORW8zeEx6SHVUS0p4bXVqQXZ4bE1IRHdaSWwyRFpTanRCdUxOM2JSVmtoOHdRNFI2dkVtNGpMOF91VTZSUTZ1amM1T3NicTlGM2hTTGpoQmNvLWFHdXdYZzluYTNrNU42aWlfam85SkZ2R1pzOXJaZjlIOHBqRkZYWEJsZnhkQ25RbzB0Sngzck95WDRyZ1FWX3h1alE3VGNjTWw3LXFvd1JEN05iWHLSAcABQVVfeXFMUGZtZGJnMnJLb0RTNVUyNF84TkVvM3hMekh1VEtKeG11akF2eGxNSER3WklsMkRaU2p0QnVMTjNiUlZraDh3UTRSNnZFbTRqTDhfdVU2UlE2dWpjNU9zYnE5RjNoU0xqaEJjby1hR3V3WGc5bmEzazVONmlpX2pvOUpGdkdaczlyWmY5SDhwakZGWFhCbGZ4ZENuUW8wdEp4M3JPeVg0cmdRVl94dWpRN1RjY01sNy1xb3dSRDdOYlhy?oc=5",
         "published": "Wed, 04 Nov 2026 19:16:17 GMT"
-      },
-      {
-        "title": "Acht Dinge, die Sie heute Morgen wissen sollten - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUjU2NzdLQXR5WDJBV09OSnQyaUpldzdoVkF4azBFMHpGOUhBeEg4UktpLVpjYmstQXZNNHZlQ0tQMnpiSXVVMl9ERnBkXzFxclU4eUhMdGUtRWV0QmpPaEFTb01XNnF0UERQMzBFUTZUZmdfNXc1aHgteUpJUDJ2ZTB5Rl9iLUZGaWV5M29vY0VZSE1TY0dnRzE1RTN1WEVCR2VhUmVTNXYxdXJEeWtnNWVJMzRrckticEZkTDZ3?oc=5",
-        "published": "Wed, 04 Nov 2026 07:10:00 GMT"
       }
     ],
     "Mercedes-Benz": [
       {
+        "title": "Autobauer: Wie die Elektrowelle VW, BMW und Mercedes überrollt - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWhPaldlSEdWMWo1cGtnUy1fX0NhSVpMTWJOSFlWNTI4NzYtM21URHlVWWsybzJDanlDVmlVS0FGOThSSWotMUx6akhzY2djMHkxa25pTGtPSDFGTzJ5eGlhX182VV9CY1lBeXE5aFlWRktSVG9hQ19xUW1NUU5EaEN3ZW84WmstWU5Wa2ktelNCVnBQa0Z3RmNHVUtYUzh2UFk2Y3NIMnZJNzllZ2kzb2p3ZWprWVUxd25tVXZ0aWliTlFUTGc?oc=5",
+        "published": "Fri, 06 Nov 2026 07:47:00 GMT"
+      },
+      {
         "title": "Daimler Truck Aktie: Mercedes-Benz senkt Stimmrechtsanteil - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ3ckU2Qkw5WnhTbF9JaHVnd0dfX2JHMnlLb2ZtUkxVR1FIVHJ0czJKTVc1UjljdnhNS3NNOUM2LU01WkZRaURocU9rR0VROGNQdmZ4LVFtR1UyemdoRC04T0xnel9wM3RmTndHUzNENW9HSnhJTnF0ZG9pdlFlVURYcGFwLTlVSDhsS0gwTl91bm1vSlJRczAzeXpDNnIxaUhpNVR0YS1WcUFjT2c?oc=5",
         "published": "Fri, 06 Nov 2026 01:53:22 GMT"
-      },
-      {
-        "title": "Autobauer: Die Elektrowelle überrollt VW, BMW und Mercedes - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1lleXIzOFM5LUgyUFJvdC1uUU1CUk5XQ0tfNEZCZXhlUDlmNUJ3S2JKWUxBd1d2VG1ZSDJWREdUVWkwTUFhTEZoZ2pzb09zTFFxVEMyYWpSX0ozZFFrOG1QclNDajlFajlJR3NZY3RvVGw1R3J0THEzMEluTGJyRGhpa1ktZGRiTVFDRExVT1NrekNiLUFYN1FQWV9mY0xrazJUa0pZU0F4TlhONmZZdDBsUGxQa1pEWmROYkFiRFY?oc=5",
-        "published": "Thu, 05 Nov 2026 16:30:00 GMT"
-      },
-      {
-        "title": "Fotostrecke: VM-Fahrbericht Mercedes-Benz AMG GT 63: Der spätberufene Taycan-Jäger - VISION mobility",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdi12cEpnUFB5X1R5Y0QtYzRBQzNkS1FZTnRPeUk2a2VDTm54ZkhKUTRva0EyT1RFcTNsZFJfLUUxYU9YUDkyVGNCSmxmc3lLbFZnTGN6VldqQTVpcF9SMjhfNlhvcmktb19MLUNYaHhSb0toNDEya2Z6QlAxQUk0R2pQMGl5OEVFaURwdVNFOVB1RHZQYU1GaGtoYXVjc2syNmNuRTZQb1RhZzJuMnNWdHBuemdaVjFVZnVoakI5c1d2aGR3WUpOaGhR?oc=5",
-        "published": "Thu, 05 Nov 2026 22:00:54 GMT"
       },
       {
         "title": "Mercedes-Benz beginnt mit CKD-Montage des elektrischen GLC in Indien - electrive.net",
@@ -129,9 +119,9 @@
         "published": "Thu, 05 Nov 2026 15:30:00 GMT"
       },
       {
-        "title": "Mercedes S-Klasse mit AMG Line: Luxuslimo mit hohem Wertverlust - Auto Bild",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmVpWkl0V0Vhakt0ckdWUTUtZDcxWVdMYU9UX1BYTmY0Uk52eHoxNE1NV3JTWnhFdkYtRGZQNllJY05CS1hXd3N5QzJtT21YRndmYjJuMk9zN0VPX1BnUkZrMTFvd1hJdGJNc21QUnVLNHI3MEJYYlo5c0VZY0E1OXlkV1ZySC1aaG1aMkJDdGxhcjVac0Z3TUxPVEh1NEFDM2dfUA?oc=5",
-        "published": "Wed, 04 Nov 2026 07:19:00 GMT"
+        "title": "Fotostrecke: VM-Fahrbericht Mercedes-Benz AMG GT 63: Der spätberufene Taycan-Jäger - VISION mobility",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdi12cEpnUFB5X1R5Y0QtYzRBQzNkS1FZTnRPeUk2a2VDTm54ZkhKUTRva0EyT1RFcTNsZFJfLUUxYU9YUDkyVGNCSmxmc3lLbFZnTGN6VldqQTVpcF9SMjhfNlhvcmktb19MLUNYaHhSb0toNDEya2Z6QlAxQUk0R2pQMGl5OEVFaURwdVNFOVB1RHZQYU1GaGtoYXVjc2syNmNuRTZQb1RhZzJuMnNWdHBuemdaVjFVZnVoakI5c1d2aGR3WUpOaGhR?oc=5",
+        "published": "Thu, 05 Nov 2026 22:00:54 GMT"
       },
       {
         "title": "Mercedes-Benz Group-Aktie: Kurs erholt sich - WELT",
@@ -142,6 +132,11 @@
         "title": "Die vollelektrische Mercedes-Benz C-Klasse ist in Malaysia erschienen. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2VielF2MV95bU12YWRYVTdQa2ZTbGIyUURNYU9hYWhfRDJtMDY2UU5rOXJDS2RjTDczbjhtMkFTZURHVnRWak55VGRiVi05VE1NZ1RMZWNtYlNGTUx3NGNkUjNpVnVNb1p1YnZIWkxGWlpWZEdtM3d1MElQSHVDZkJkMnhaSktR?oc=5",
         "published": "Fri, 06 Nov 2026 03:08:51 GMT"
+      },
+      {
+        "title": "Aktien von VW, Mercedes-Benz & Co. atmen auf: EU-Parlamentarier wollen das Verbrenner-Aus lockern - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelI4X3VUQldBaC1mNnpGZzFRbXc1V0VUV0Zna256bXc5TzFtNkZaZzdURDZybzE1QzhzZHMzczA5WlhCU2djbm03Z18wNUdkMkMtSk5jeWliVUYzRFlQUXA3ZjRlMy1VSktTVlhVWUdSZ3BhVktNNXRTa2R6a2x3WTNVcmJHVFlGU2x0OE9YaklTUnlPcVhCV2dSalVTc25xaWktcG50bWw5NjlGSElwVG1NLXUtWG1yWTZmU2owV09KQ1RIMVRGbklOVDJ0NUd2VUlWRndLUVBqVHJKb0t5dkxR?oc=5",
+        "published": "Wed, 04 Nov 2026 15:10:00 GMT"
       },
       {
         "title": "Mercedes tauscht Besitz gegen Zugang – aber hält an IONITY fest - MBpassion",
@@ -156,14 +151,24 @@
         "published": "Fri, 06 Nov 2026 04:00:13 GMT"
       },
       {
+        "title": "Nvidia-Aktie: Starke Zahlen, schwacher Kurs – was Anleger wissen sollten - Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUVmbU1LeUVrVHpuOFlNMnZEcnJQUzFkRmd4b3BvRXBlY0I1R2N4bUpMM2VyMFZyaURGLWtaRWJSejV5MHJIeUNVUHZ1WERyQUVMYlhCMkoxRWNfd0otY3EzMzdxVHRzYW5EX1lLZkNuZUdaYUsxcC14WTU2WUhDRjVVOUVSMkJGZzBGX0MwQ0JYdVZFOHZDcngxSE1WT3czbHQxYkJTUnFyejkyMEdaRmNETnhHTnQ3VlNJTDJBUE1sZw?oc=5",
+        "published": "Fri, 06 Nov 2026 07:19:00 GMT"
+      },
+      {
+        "title": "Megatrend Folger: Nvidia, Amazon und Alphabet – Nasdaq in Korrektur: Was die Historie jetzt sagt - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDFLakRMLW5GSFFPZVNsRUdLeWE0NE9QVHp6NmlJWDVfckh3X0RjTjRpTnpnT0lwSGFobHlWRVlHOXM3dWhWa0cwSGQxVURrSTBxdmdYSE80amtWSTNqM2E5TkxaX1Znd3V0QnVYMFNXSG1MZk8wcFp2dHBEb0NhVl9ha2lKd1dCSlNfN2VXQjBpM0lWMTN3SFBkMjlvdi1JTDZfb3V6aHN0Mi0yX3h1VlduSEtRcEw3SWFaaXRtcFVzZFF2MkpMb0Jfbk1BZUhZa2tuWk00YzEwVGRwLWlULXJn?oc=5",
+        "published": "Fri, 06 Nov 2026 07:26:07 GMT"
+      },
+      {
         "title": "US-Aktien per App: Indiens Anleger setzen auf NVIDIA, Apple und Co. - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUZBeE1Mbi1xRkdId0JaWTE3dzRVU2k4cDRNUzM5YjBEZ0xlODZ4ZWRmZHU1Z1hWbDFjZi0xdGdvbUo4UE5GUmVnNWxCajJXLXlpWVB6QTN4YjRXaVIxVEJKbV91cGZVWDA2UFN3ZlNnU2tCMVU5SkpUd3NOMzJOa0ZDanlLTDI5dnh5Rl9ILUc1M0QweGpzc3RXdHVwbTFhYnk3NGZ2SlJsRVk1NW5Dbm9XeVJjdm1vOTYw?oc=5",
         "published": "Fri, 06 Nov 2026 02:35:08 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Jetzt geht es los! - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUJzYmw3RGFfdTRicU43dnlwbmFucGxJWVNoVlhoUWs2aURrd3ZlaWdRNkdHTk9wcW5TdUo0MjZqWGVabTY2Nmd4cUdLTGtfV041MkwzSGpHT2V3ajJ2QWd4clpINDVvZk5zYkprdGxGSnA5eHdHMngyLVZfbVlxQjI5dzFmYVQ2M3c?oc=5",
-        "published": "Thu, 05 Nov 2026 16:30:42 GMT"
+        "title": "Nvidia-Aktie mit neuem 6-Monats-Tief - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzFNMW44Y0lfclRfeFBQQWV0SnFtbUZNMi1sVGVrU09ONFR0cWxKd3FvUUQ1V3hEUE9uRGJUOTlHTk9ld2EzaDZyei1mb3lkaHprb1NPSm5CckhuNVF5LWh6MTN6cXVXZk9jVW95YXo5TVE4SHFiY2hyWXZTSlFLMG04cERpdw?oc=5",
+        "published": "Fri, 06 Nov 2026 07:18:00 GMT"
       },
       {
         "title": "Neue Nvidia-Funktion: Spiele statt Hintergrundlast bevorzugen? - PCGH",
@@ -171,29 +176,24 @@
         "published": "Thu, 05 Nov 2026 17:45:00 GMT"
       },
       {
-        "title": "Tech-Aktien in den USA brechen nach den Midterms ein - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTd6QnNoZ0lueEJ1NGNhd2g3aGhkUUpaVVoxU0xIM04tQUdMVEREQkxoYlRMbTMwWUlZT0pwSzUwYk44aXVRRG56QTREVks4NFZBYm5lcGV4eVMtUjdnQW9maWVRdm1xNFdaLVNsY2U4UkwwZlo0LVRTbzRhSllVeFBNTk8weFlkTDU3TEVZMWJ4bGh2T0RUZjQwY3c?oc=5",
-        "published": "Fri, 06 Nov 2026 06:05:22 GMT"
+        "title": "Nvidia Aktie: Nach den Zwischenwahlen ging es steil runter - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTFabnNZOVJOUm94SE9xWlpTZTk2UVNPS1RPcUhCVkY0aV9LTFZzSjcxcnhQWGxIVERTYndBR2hFcnB5REFLVG9OZk92azFVdmMxdFVqdEhwTVVwLVI4VkY1YmY1a3NLdXF2cWhFd3lUbjNzUVd2QXZfM0luaUdoV3hZNlZoTEo4bEMxZW1xZEhfWkFlT2xyWUFuclcxMVBpVUg4UjNGTDNJR1d5bkE?oc=5",
+        "published": "Fri, 06 Nov 2026 05:13:16 GMT"
       },
       {
-        "title": "KI-Boom fordert Unmengen Strom: Bieten Energie-Aktien eine bessere Alternative zu NVIDIA & Co.? - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzNBbWstVzJMcVV1TUU0bTFGeDFWNG01b1FiZ0d2YU0xelE0Z2pFdllXS1hwYTZidWRzNHEwcVV5X2VKdVFla0pZVXFuUVRqOTFOVlJvd18zZFkybkxuQmZiNXB3QURsWUxBQ0UwSGplckF1UUt5RGhIUy1WdUxIQ0Jnb1RNaW1pUmoyeUZtOWx6RFo1QzduN25wNEFlcTNscVR4RzhZdmZnbndhdGhLYlNlbm1kRGRWVjc5UHp6Ul90aGJ6MHVpY2owcVRiV3lYMnBZZlFpYnNMenlockgxMUxpMXZSTVNOQ0FlRHd4MTZDUEJW?oc=5",
-        "published": "Fri, 06 Nov 2026 02:16:27 GMT"
-      },
-      {
-        "title": "20 Jahre GeForce 8800 GTX: NVIDIA lässt die Grafikkarte als RTX-Demo wieder aufleben - Hardwareluxx",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbVpZcFc2aEhtMm5IUGdGemFZR2F6QVpEU0JaM0NEb1ptaXRTemt0OEdfbEpFNndNb211NmRqNzFjcU8zaHdDMHFmTGZXZlBhaURROU1sWVJaam5aVUptUE54aHloZGVZOENWQ0E5LV80d1RPaXd0UEx1TVl1TThZMlNGUFRzRFRnVExPdU9SdVdoa3ZQUGNHS29tQlpmdlF6R19rbzZsRkxSSEFlREpzZUJGRkxXNEJWLUcwdm5KeGV1eEhPOXJRZnA0ZFBhWmhpNFJaMWN0NjVBYWlQUmRtODcwdWRVSENacXdwLTlWM0xmZw?oc=5",
-        "published": "Thu, 05 Nov 2026 14:00:00 GMT"
-      },
-      {
-        "title": "KI-Ausverkauf an der Nasdaq: Nvidia wird billig, Tesla bleibt teuer - Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbi1JZlZUYTE1ZlVZaGxBSWhwMlRQVDVUakR5eWhWTWFtOXQteXpOT0M5LWp2WE1TRG5VcXpZYnB4X0MtMWZhSDNDX3AyVGlyeVZjazZpVE4yd1R1dUI5TnRmTzJtNjI0X2c3eWo5UnVSUER5aE5QdGpKeG1jZ1lJZXo1U3kxYzBXUzFObTdwYWw2Sm1lQXFKbnRndFJxLWlWd1d4YWt3NjUxUThJc3p2OWIweHN5M24tZWxYRA?oc=5",
-        "published": "Thu, 05 Nov 2026 15:45:00 GMT"
+        "title": "NVIDIA Aktie News: NVIDIA am Abend auf Verkaufszetteln der Anleger - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1RXLWlfd3hjTm12c3dpUjcyMnllVlVKZWRtQ0tlX0VyRzBvUklBbFpyb2VudTcwcnNhTkljTC1jTUdQTFQ5UFRMeFYxZldfNGl6bjFsWC14WXZ1cXBoS3pPTkM4Q3BXUExkUHJmZW1mUmRLNnpCYlZVNjFEWGk3bjlhTjRkYUdmYU5vMk5kSjlfNkhr?oc=5",
+        "published": "Fri, 06 Nov 2026 07:32:04 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
+      {
+        "title": "Börse: Tech-Aktien in den USA brechen nach den Midterms ein - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY09pMHJjaHZUbDcwNmpkdTl6WW9xNjN4WnExZ09CX2d0cVZicDNjTVRMZkNyRGhSME9pbjYzVEhmd19IaklmX1hJSzgxQlVBUlNXMDBCd1J4MUpFVEktSU5EY3FYLU0yZnk1NGxsZ29EcTV2bjVGMFl2aUFwSGpYQ2pzZ3VQWGQzWk11anl5TV85OWxmbHZLM2V0R0FvbUpBeVhnUUNB?oc=5",
+        "published": "Fri, 06 Nov 2026 06:05:22 GMT"
+      },
       {
         "title": "US-Midterms: Was der blaue Tsunami für Wirtschaft und Börse bedeutet - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUl5bUF3S0F1bVZhQUlwaFRENmk1cU1ubUZtUHBVZFFuOHdMQk1sT1NGUTZRS04xaXI3RWNfVDYxY3F6RWVGbkYyaVNFdUd3bnBTYzdoMm82d3kwU2lobWhmaFFZNkFYa0RnNTg2Qm90dFV2UWhENmQzczFyeXJoM082bFZyNmVIa3B4SDhQenRWR2NCU1NIeExNc1NsWWxJQUpsVkhrLXZfMlpVRlB3MkNGYkV5Vzg?oc=5",
@@ -205,14 +205,19 @@
         "published": "Thu, 05 Nov 2026 16:19:56 GMT"
       },
       {
-        "title": "US-Technologiebörse Nasdaq bricht um sechs Prozent ein - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnMxWElQYTUtSTQ5MWZsNUxiRHFRZ0ZERG43cjJGam1LVFJONVRDZUp6ZmR2dzFEdkdPOUVHT3cyTjVUVjZHR2tVTWJweHFyYkxNT0VDMXJ4cDdGWi03Yk93cndEMDlEMkN4TFI1R3ZxSTcySnRLSXRrblFoMlozUjUxaWhSbGVDT2EtQg?oc=5",
-        "published": "Thu, 05 Nov 2026 16:23:00 GMT"
-      },
-      {
         "title": "Diese Wette sorgt für die steigenden Aktienkurse nach den Midterms - Merkur",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOek93UWxUd3k5MEVEWUMwWVJJcGhzdEdscjVHak9wTWhreGpodFp5cEQ4cjI3d0Zfd19DOTA4UWRjbHlLVGt6YUJfYnB3d2xacS1rS3A5cWJwajdjNXNQRGFVTEwyYmxfLUFJWDBTekFzRGdycTc2bmRPai15bjNQRklrY3lYU3BlWGdrQ1NWZHdwcWVacGZoR2JFQXVmbDd2cDFDdHhNRUp6b05OQXFuQ1FVMVozVmNo?oc=5",
         "published": "Thu, 05 Nov 2026 13:27:00 GMT"
+      },
+      {
+        "title": "Furcht vor mehr KI-Regulierung in den USA schickt auch Börsen in Asien auf Talfahrt - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDZEQ3dtV2ZMaGg5cVo4SkxBN082aUZCclk3TmNYVkFjNVpfYVZGWlRqeXowMHBOdHY4TDlXSGVvdnFaTFJYaDdjWDQ3OWZXZGlZbGtOMDBIdGJINjJnTW1kMG1SbGdxRUl1RHE5UG5ua3cwTjNTbWZ6RWJ4SVJ5R0VwLWg3NmdFMzhVc2ZRZmwwYmxlVGNjUGtvNTVDeFV6aW9hMHRaM1ZxRGVXbWt3?oc=5",
+        "published": "Fri, 06 Nov 2026 05:39:00 GMT"
+      },
+      {
+        "title": "Midterms und die Wirtschaft: Durchwachsene Reaktionen - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0dBcEpkSjRVbnZwa0NWdS1iWm1vaURFTlViQVBibzV1YWFxR3FMeUs1YmhBTnZseE1CdUJCMHhaRnU3b2V5aXhUS05GUmFKUThvYXRRbFlnUENFUUJmTFJBWjRhR25oam5SM2d0UnRzVHRUZzM4VHlmTWV4YnVqVWRuNkMwVDVVMVBwSGdLejhvWDcwQ2dDQy1fWjFKdW5BVG5fSEln?oc=5",
+        "published": "Wed, 04 Nov 2026 18:13:00 GMT"
       },
       {
         "title": "Warum die Schweizer Börse trotz Unsicherheiten Rekorde bricht - NZZ",
@@ -220,19 +225,9 @@
         "published": "Thu, 05 Nov 2026 13:36:13 GMT"
       },
       {
-        "title": "Börse: Dax steigt auf Rekordhoch - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Pdlk0QmpuYWtuWWtxY2pkb0ZybUcwazRhRWRMTU0tak5pa1BEZ1pCWVEtUVp5bGFsRGNmOWxJVUFaTGlOd0drcExhSUtjd042Y1YwbE1QMGtyUlRNa3M4WF92cUxMQUJLXzY5QTFscDF0Wmd5UUl6SlRIaw?oc=5",
-        "published": "Thu, 05 Nov 2026 09:32:27 GMT"
-      },
-      {
-        "title": "Börsen - Börsenindex Dax steigt auf Rekordhoch - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZExCcHY1LXhieUtOX2JqMEVNdElFaTVXWUNMQlU0ekpqRVdUZkxSR09RR0VKb1dmMXVzQTk2T1VuM3RjcnNDNkQ1Nm5nVk1yc2dsRWhQc283YXlhNURYOUZCLVdjdWlJMHlVRGF1REpjamZJbHQ2M2lPY1AwZG9vd0hzUk1KWVhnc2k1TWhJcFptclFZcmlJYUQtTTgtRS02Ri1qNmpSZzA1RF8zbjZPa0NsaHQ0dlN3NmFCbXJUOWNtTHN6NS0xYTJFY09ZZVRq?oc=5",
-        "published": "Thu, 05 Nov 2026 12:36:00 GMT"
-      },
-      {
-        "title": "Midterms und die Wirtschaft: Durchwachsene Reaktionen - ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0dBcEpkSjRVbnZwa0NWdS1iWm1vaURFTlViQVBibzV1YWFxR3FMeUs1YmhBTnZseE1CdUJCMHhaRnU3b2V5aXhUS05GUmFKUThvYXRRbFlnUENFUUJmTFJBWjRhR25oam5SM2d0UnRzVHRUZzM4VHlmTWV4YnVqVWRuNkMwVDVVMVBwSGdLejhvWDcwQ2dDQy1fWjFKdW5BVG5fSEln?oc=5",
-        "published": "Wed, 04 Nov 2026 18:13:00 GMT"
+        "title": "Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein - Westdeutsche Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1o2STZnWExrOEY2QUQ0N3lJUjZ3QTRESW0wNXhfdnY2Rk1MSFh5aUFFaV91SkdNOElWem1oUWdFeTdZVTVaM1NaeGxPN3AtYmRpTTRWOUhuWHFqeUctUE8zejVZOEVpaFc5SWplU0lURDAtd2dKNmtQcExUbE1DRzBMaUZFM2JKRmRWcG1vM2kxZzl1X1V5TWp0YnktS0hfaFlMVW85SQ?oc=5",
+        "published": "Fri, 06 Nov 2026 04:17:00 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -247,14 +242,14 @@
         "published": "Wed, 04 Nov 2026 12:14:15 GMT"
       },
       {
+        "title": "Neu Creative Agency: Wo Stille verlangt wird - persoenlich.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HTVVhcUQ4Y2h6ZGxCUzlFZ0tBNURvT28yaEZ4c3loeFFiRnl2ZVRuZzEyd3hzaUt6VEt1R05MMU5BMWpkclZpN2xqVjRMckRTNUdxbHlvVmxhbWtyR0U2U0hoUXhVSWRWcUJsbmplQjgxLUkwSzU4YQ?oc=5",
+        "published": "Wed, 04 Nov 2026 13:38:32 GMT"
+      },
+      {
         "title": "OWM-Vorsitzende Maike Abel: \"Menschliche Kreativität bleibt wichtig\" - Lebensmittel Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHlqV0ZvYkl0R2VCa1I5U25tSmZjd1RDSHFjbnptWWcwT20tMGZkSUJmZHF1c200cTMtUnZBQnczT196NXlTVElhWXdNY1Z2clhhUjJmeVYtR1VDb0tpTGtiSlVHM3pzVE1DOGNoU1gxbGY0c3oyOTAzRUpxU3EwbHFHbUs5Qk0tdDNwaXNaWEczZW1xdDV4dVViaDZBRzFmLVJVUHFScmh4QnZ2TmFlX0cyZmFvTTFyOHMzMnl0WENYYUpaX1I1VmtScw?oc=5",
         "published": "Thu, 05 Nov 2026 08:00:00 GMT"
-      },
-      {
-        "title": "So wirbt der Mittelstand im TV - OnlineMarketing.de",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFVzcjNqVi1aODhsSUI5S2RiaUxJY0lmUW4xUk9KWGgwcXF6b0cza1diSHVyN29UdFN3VVlJVmg0czh6OW9UZUN5Y294QmdzajZMTkluR2pCa3JKb01HcC1pa3Y1TWFab1pkV2U4bDRqdmFXZlY5VkNDZm1WQ0ltZDZDbmNQdw?oc=5",
-        "published": "Wed, 04 Nov 2026 07:23:21 GMT"
       },
       {
         "title": "Good-Good-Affäre: Ex-Marketingchef verklagt Firma und Ex-CEO auf über eine Million Dollar - Golf Post",
@@ -267,14 +262,14 @@
         "published": "Fri, 06 Nov 2026 01:00:00 GMT"
       },
       {
-        "title": "Grey Germany: Genoni hütet einen Volvo statt das Tor - persoenlich.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeW9RTHd6QmJJQjZFMWtsMHI5YnlJTzBKWkJNbC13UnRCckMxZjlNT3J0UW1LYjRqM1dUMW10R0hJdmN6ZWJDbHoxQ01FZk5JVDF0ZUQ3eWZIRVBTYjFmcl83aTRyTkpPSGcwMnFpcHltdDJJQ0pYMDZJVU10NFBwcmZxc19UMDBVeThPNA?oc=5",
-        "published": "Thu, 05 Nov 2026 08:12:32 GMT"
-      },
-      {
         "title": "palmerhargreaves ist jetzt „LinkedInAds certified agency“ - PressNetwork",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2RCdlc3cWdoLTZ0Z3c2ZlpvMDBfTGZxQXZpVWNnczI2VzNzcjFlbGNwVHRYaEZ0cjNkOW01NTRsSzJnTTNfaHFLVGxrbUVyY2ljMWtBQy1pdXVfaGozbjg5Y1A0Y0ZBX1RUdWJRZ0tzai1DY3ctWEF3MDJUNkFSUUlrOVFxbkE?oc=5",
         "published": "Thu, 05 Nov 2026 13:31:50 GMT"
+      },
+      {
+        "title": "Grey Germany: Genoni hütet einen Volvo statt das Tor - persoenlich.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeW9RTHd6QmJJQjZFMWtsMHI5YnlJTzBKWkJNbC13UnRCckMxZjlNT3J0UW1LYjRqM1dUMW10R0hJdmN6ZWJDbHoxQ01FZk5JVDF0ZUQ3eWZIRVBTYjFmcl83aTRyTkpPSGcwMnFpcHltdDJJQ0pYMDZJVU10NFBwcmZxc19UMDBVeThPNA?oc=5",
+        "published": "Thu, 05 Nov 2026 08:12:32 GMT"
       }
     ],
     "Technologie & KI": [
@@ -304,19 +299,19 @@
         "published": "Thu, 05 Nov 2026 22:32:56 GMT"
       },
       {
-        "title": "Software, deren Entwicklung Wochen dauerte, kann heute von KI in 20 Minuten verarbeitet werden. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHFUb0VCQ1V2QTZ2V1V5RHFBTWJMb09Oc2ptUXBXX0gxM1Vmd1hkRUpxemhFNzJMRE5XSXB5eVR1UEJsNThEeDdsZ3BMcmlQVmk3SWwwQmZaM3I1TTNkeDhTUVNPU3Rka2x3S3dRRUpPaDczSlIyeDdOTTh6RDZNTnA0ejl6aE1KODI1S3FCNlh1TEI4R2cxb2pWVkVpM0U?oc=5",
-        "published": "Fri, 06 Nov 2026 01:49:19 GMT"
-      },
-      {
         "title": "Midterms-Siege der Demokraten: Furcht vor KI-Regulierung lässt US-Tech-Aktien einbrechen - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTjVWVVZ0ZEZSNUxxSmdiMDlvRHc0UW5NTG5zQ3NLSUxFWkMtT2xGc0JRdDV2WDNveklwVlFvczF1elEwc2dJY295bV9uRE5HVTlzRUdWdFR5b2FldTVtbmdfaDhWUzE3QVlnQUhkdzJfWERnalYzOTBxb25zX3R5Wk1SeEVmbEZRX2pQbmtQZWpXS29ja0R2QnZCRWV0LU1nT2lSSkVlWU5LSzZ6elE5ZzF2UWtNRzd6NXVzU1c0d1JkaE4xZWEwdC04VE1wWU10WXV2amR2c1d2V18tRHN0bENYSWI0RGU0VVFFZUlaTXc3ei1LenRqc2xwUThNTnZjYldr?oc=5",
         "published": "Thu, 05 Nov 2026 21:55:00 GMT"
       },
       {
-        "title": "Fotos vom Event in Graz - LexCon zeigte neue Einsatzmöglichkeiten von KI in der Rechts- und Steuerbranche - Leadersnet",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONEFqZEtLZnJvNzZsd2pTWHJBQURhcWltTDJrT2tLOFlzclh5TGtxU1JfbkM3Tk4tYmsyUGNLX2xNY0N3NmJ2dkVVNktoT3d5Slg0dF95MDFZUVBxd3ZXZzQ2SDZKd1Z3eUQ3Zm9xQmw0Q3ZiRjlKaVMzOGR5Yjh1eTlxY2lvSkt4azZSMmtjUzJxc3hLQUtfcFoyejB4MzcxMWtsZlZJdw?oc=5",
-        "published": "Thu, 05 Nov 2026 13:45:00 GMT"
+        "title": "Software, deren Entwicklung Wochen dauerte, kann heute von KI in 20 Minuten verarbeitet werden. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHFUb0VCQ1V2QTZ2V1V5RHFBTWJMb09Oc2ptUXBXX0gxM1Vmd1hkRUpxemhFNzJMRE5XSXB5eVR1UEJsNThEeDdsZ3BMcmlQVmk3SWwwQmZaM3I1TTNkeDhTUVNPU3Rka2x3S3dRRUpPaDczSlIyeDdOTTh6RDZNTnA0ejl6aE1KODI1S3FCNlh1TEI4R2cxb2pWVkVpM0U?oc=5",
+        "published": "Fri, 06 Nov 2026 01:49:19 GMT"
+      },
+      {
+        "title": "Börse: Tech-Aktien in den USA brechen nach den Midterms ein - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY09pMHJjaHZUbDcwNmpkdTl6WW9xNjN4WnExZ09CX2d0cVZicDNjTVRMZkNyRGhSME9pbjYzVEhmd19IaklmX1hJSzgxQlVBUlNXMDBCd1J4MUpFVEktSU5EY3FYLU0yZnk1NGxsZ29EcTV2bjVGMFl2aUFwSGpYQ2pzZ3VQWGQzWk11anl5TV85OWxmbHZLM2V0R0FvbUpBeVhnUUNB?oc=5",
+        "published": "Fri, 06 Nov 2026 06:05:22 GMT"
       }
     ],
     "Meine Aktien": [
@@ -326,14 +321,29 @@
         "published": "Fri, 06 Nov 2026 04:00:13 GMT"
       },
       {
+        "title": "Megatrend Folger: Nvidia, Amazon und Alphabet – Nasdaq in Korrektur: Was die Historie jetzt sagt - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDFLakRMLW5GSFFPZVNsRUdLeWE0NE9QVHp6NmlJWDVfckh3X0RjTjRpTnpnT0lwSGFobHlWRVlHOXM3dWhWa0cwSGQxVURrSTBxdmdYSE80amtWSTNqM2E5TkxaX1Znd3V0QnVYMFNXSG1MZk8wcFp2dHBEb0NhVl9ha2lKd1dCSlNfN2VXQjBpM0lWMTN3SFBkMjlvdi1JTDZfb3V6aHN0Mi0yX3h1VlduSEtRcEw3SWFaaXRtcFVzZFF2MkpMb0Jfbk1BZUhZa2tuWk00YzEwVGRwLWlULXJn?oc=5",
+        "published": "Fri, 06 Nov 2026 07:26:07 GMT"
+      },
+      {
         "title": "US-Aktien per App: Indiens Anleger setzen auf NVIDIA, Apple und Co. - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUZBeE1Mbi1xRkdId0JaWTE3dzRVU2k4cDRNUzM5YjBEZ0xlODZ4ZWRmZHU1Z1hWbDFjZi0xdGdvbUo4UE5GUmVnNWxCajJXLXlpWVB6QTN4YjRXaVIxVEJKbV91cGZVWDA2UFN3ZlNnU2tCMVU5SkpUd3NOMzJOa0ZDanlLTDI5dnh5Rl9ILUc1M0QweGpzc3RXdHVwbTFhYnk3NGZ2SlJsRVk1NW5Dbm9XeVJjdm1vOTYw?oc=5",
         "published": "Fri, 06 Nov 2026 02:35:08 GMT"
       },
       {
+        "title": "Nvidia-Aktie: Starke Zahlen, schwacher Kurs – was Anleger wissen sollten - Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUVmbU1LeUVrVHpuOFlNMnZEcnJQUzFkRmd4b3BvRXBlY0I1R2N4bUpMM2VyMFZyaURGLWtaRWJSejV5MHJIeUNVUHZ1WERyQUVMYlhCMkoxRWNfd0otY3EzMzdxVHRzYW5EX1lLZkNuZUdaYUsxcC14WTU2WUhDRjVVOUVSMkJGZzBGX0MwQ0JYdVZFOHZDcngxSE1WT3czbHQxYkJTUnFyejkyMEdaRmNETnhHTnQ3VlNJTDJBUE1sZw?oc=5",
+        "published": "Fri, 06 Nov 2026 07:19:00 GMT"
+      },
+      {
         "title": "British American Tobacco Aktie: Goldman sieht Kursziel bei 5.600 Pence - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDM0SW5kU2dwQnZNQ3dLZnF0em80cEhfUUQtZTBXcWhKNUNQbHRlVEZ0UFo0bWhBb3diamJhZWtDV1dBV1BmRV95VTZyNnRuMU1famhnU1lQb2pNbkFNSm91ekVZamM2bHUtZVN2TGFweE5xYzBudDdfeW8zQ3lyZ0NuWVdUZ0l0UGYtXzVubUc1SkhyMlVjTkxQdmZhanEzXzlqWGVoazlIOHFvR0VrWUdRUGh2X0d6azZGWg?oc=5",
         "published": "Fri, 06 Nov 2026 05:34:26 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie mit neuem 6-Monats-Tief - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzFNMW44Y0lfclRfeFBQQWV0SnFtbUZNMi1sVGVrU09ONFR0cWxKd3FvUUQ1V3hEUE9uRGJUOTlHTk9ld2EzaDZyei1mb3lkaHprb1NPSm5CckhuNVF5LWh6MTN6cXVXZk9jVW95YXo5TVE4SHFiY2hyWXZTSlFLMG04cERpdw?oc=5",
+        "published": "Fri, 06 Nov 2026 07:18:00 GMT"
       },
       {
         "title": "Neue Nvidia-Funktion: Spiele statt Hintergrundlast bevorzugen? - PCGH",
@@ -344,21 +354,6 @@
         "title": "Ab Dezember: McDonald’s bringt große Pokémon-Aktion nach Österreich - MeinBezirk.at",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclJJVUdkTktINDd3bk0tY2tWNGtURkNENE9qN0puR3VVWDBCcTBuZm5ZdW14SHdldjZYNlJyc0ZqMGZSVmxFOVoxNEQ5YTdPNmNGcTJVN0w5Q19zSVBYQ1lVdlUzc2Y3V3puTEFud2w1ZDFJWS1tdkpQcU8xYU1scm1vQWdjeVpxcGg0M3RqSEdrMVY2RjZiY3YwUDBRUk9HbFRnaQ?oc=5",
         "published": "Thu, 05 Nov 2026 15:58:25 GMT"
-      },
-      {
-        "title": "NVIDIA Aktie News: NVIDIA am Abend auf Verkaufszetteln der Anleger - finanzen.ch",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1RXLWlfd3hjTm12c3dpUjcyMnllVlVKZWRtQ0tlX0VyRzBvUklBbFpyb2VudTcwcnNhTkljTC1jTUdQTFQ5UFRMeFYxZldfNGl6bjFsWC14WXZ1cXBoS3pPTkM4Q3BXUExkUHJmZW1mUmRLNnpCYlZVNjFEWGk3bjlhTjRkYUdmYU5vMk5kSjlfNkhr?oc=5",
-        "published": "Fri, 06 Nov 2026 03:59:26 GMT"
-      },
-      {
-        "title": "20 Jahre GeForce 8800 GTX: NVIDIA lässt die Grafikkarte als RTX-Demo wieder aufleben - Hardwareluxx",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbVpZcFc2aEhtMm5IUGdGemFZR2F6QVpEU0JaM0NEb1ptaXRTemt0OEdfbEpFNndNb211NmRqNzFjcU8zaHdDMHFmTGZXZlBhaURROU1sWVJaam5aVUptUE54aHloZGVZOENWQ0E5LV80d1RPaXd0UEx1TVl1TThZMlNGUFRzRFRnVExPdU9SdVdoa3ZQUGNHS29tQlpmdlF6R19rbzZsRkxSSEFlREpzZUJGRkxXNEJWLUcwdm5KeGV1eEhPOXJRZnA0ZFBhWmhpNFJaMWN0NjVBYWlQUmRtODcwdWRVSENacXdwLTlWM0xmZw?oc=5",
-        "published": "Thu, 05 Nov 2026 14:00:00 GMT"
-      },
-      {
-        "title": "KI-Boom fordert Unmengen Strom: Bieten Energie-Aktien eine bessere Alternative zu NVIDIA & Co.? - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzNBbWstVzJMcVV1TUU0bTFGeDFWNG01b1FiZ0d2YU0xelE0Z2pFdllXS1hwYTZidWRzNHEwcVV5X2VKdVFla0pZVXFuUVRqOTFOVlJvd18zZFkybkxuQmZiNXB3QURsWUxBQ0UwSGplckF1UUt5RGhIUy1WdUxIQ0Jnb1RNaW1pUmoyeUZtOWx6RFo1QzduN25wNEFlcTNscVR4RzhZdmZnbndhdGhLYlNlbm1kRGRWVjc5UHp6Ul90aGJ6MHVpY2owcVRiV3lYMnBZZlFpYnNMenlockgxMUxpMXZSTVNOQ0FlRHd4MTZDUEJW?oc=5",
-        "published": "Fri, 06 Nov 2026 02:16:27 GMT"
       }
     ]
   }
