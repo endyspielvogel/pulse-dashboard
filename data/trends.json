@@ -1,10 +1,18 @@
 {
-  "fetched_at": "2026-11-06T11:22:05.288483+00:00",
+  "fetched_at": "2026-11-06T12:13:17.202142+00:00",
   "countries": {
     "AT": [
       {
+        "title": "heizölpreise fallen",
+        "volume": "200+"
+      },
+      {
+        "title": "armin wolf",
+        "volume": "200+"
+      },
+      {
         "title": "viechtwang",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "kalb",
@@ -24,7 +32,7 @@
       },
       {
         "title": "marc janko",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "ticketmaster",
@@ -33,55 +41,47 @@
       {
         "title": "k.-o.-tropfen",
         "volume": "200+"
-      },
-      {
-        "title": "jesús de miguel",
-        "volume": "200+"
-      },
-      {
-        "title": "sturm graz europa league",
-        "volume": "2000+"
       }
     ],
     "US": [
       {
-        "title": "patrick mahomes",
-        "volume": "1000+"
-      },
-      {
-        "title": "dólar estadounidense",
-        "volume": "500+"
-      },
-      {
-        "title": "sophie cunningham",
-        "volume": "1000+"
-      },
-      {
-        "title": "boston weather",
-        "volume": "1000+"
-      },
-      {
-        "title": "howard jones adam dutkiewicz new band",
+        "title": "bentley hudgins",
         "volume": "100+"
       },
       {
-        "title": "explosion",
-        "volume": "100+"
+        "title": "weather nyc",
+        "volume": "1000+"
       },
       {
-        "title": "red sox news",
+        "title": "midterm elections democrats",
         "volume": "200+"
       },
       {
-        "title": "elise stefanik",
+        "title": "travis scott gta 6 nike sneakers",
         "volume": "100+"
       },
       {
-        "title": "tiger woods",
+        "title": "forecast",
         "volume": "100+"
       },
       {
-        "title": "theft",
+        "title": "estafa",
+        "volume": "100+"
+      },
+      {
+        "title": "elizabeth warren",
+        "volume": "100+"
+      },
+      {
+        "title": "weather",
+        "volume": "100000+"
+      },
+      {
+        "title": "chuck grassley",
+        "volume": "200+"
+      },
+      {
+        "title": "today's weather",
         "volume": "200+"
       }
     ]
