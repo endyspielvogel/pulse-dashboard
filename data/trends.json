@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-06T08:28:14.511330+00:00",
+  "fetched_at": "2026-11-06T09:24:40.744243+00:00",
   "countries": {
     "AT": [
       {
         "title": "k.-o.-tropfen",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "jesús de miguel",
@@ -12,7 +12,7 @@
       },
       {
         "title": "sturm graz europa league",
-        "volume": "1000+"
+        "volume": "2000+"
       },
       {
         "title": "hochstaufen",
@@ -45,44 +45,44 @@
     ],
     "US": [
       {
-        "title": "brooks",
+        "title": "bath and body works advent calendar",
         "volume": "200+"
       },
       {
-        "title": "zelda 40th anniversary switch 2",
+        "title": "hltv",
         "volume": "100+"
       },
       {
-        "title": "on",
+        "title": "el niño",
         "volume": "1000+"
       },
       {
-        "title": "anya taylor-joy",
-        "volume": "100+"
-      },
-      {
-        "title": "nifty 50",
-        "volume": "100+"
-      },
-      {
-        "title": "kylie arellano",
-        "volume": "100+"
-      },
-      {
-        "title": "chris pratt",
-        "volume": "200+"
-      },
-      {
-        "title": "when is black friday",
+        "title": "baltimore ravens lamar jackson negotiations",
         "volume": "500+"
       },
       {
-        "title": "tanker",
+        "title": "prince harry, duke of sussex",
+        "volume": "100+"
+      },
+      {
+        "title": "jd",
         "volume": "200+"
       },
       {
-        "title": "anthony santander",
+        "title": "sorana cirstea",
+        "volume": "1000+"
+      },
+      {
+        "title": "pokemon 30th anniversary",
+        "volume": "100+"
+      },
+      {
+        "title": "zelda switch 2 console",
         "volume": "200+"
+      },
+      {
+        "title": "erika kirk",
+        "volume": "100+"
       }
     ]
   }
