@@ -1,7 +1,63 @@
 {
-  "fetched_at": "2026-11-06T10:17:53.477028+00:00",
+  "fetched_at": "2026-11-06T13:25:21.131115+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Arsenal \"'Twas the season\" (in-house)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzBDUy0wQkxFOGo2dkRXQXpWZXU5Q2t1MllDWXZidzJmS0JMRkJlNHFCZldta0VKOGpLdlJoZlFibl9nR0JkWVhrVDM3b1lCZGlnWEM0X0YyMFdNN1dPMVFGM2hpZE1Va1IwNEtsd090WlJRNEpIa2NRZVVVSkxMNFd1TWNnUjFYUHpnTzFxTGtOMGRWclE3eGVFVURXU00?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T12:00:41+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Lego “The Lego holiday workshop 2026” (in-house)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdHFyenZPREh0Q1lEMDZ1R2JqWS1OMlVwd2tCNGVjNTViZXlXUmlQNmROd0hfTk5KaXZMTURZODIwNjlGTjJwWV83XzJLWjlJRTJfS1ZIaDhoY3E4VWNYNnE5bllqTEtJWDlRMlVtWFJzVG94ZUptQ19IZWJ0b0V6SDBqNTVJZVc0d1BrcC1VZi1oYUJiTEp2U1FabnZyeU42ZktEa3ZNVkYtVUhVb2swNDV3QQ?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T12:00:40+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "VCCP Media appoints director of activation amid internal shake-up",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGtpclJPbUVaRkFGU3VFd1M5T01iQXhVaGJSMTU3RTZiRXhuUXgtX25KZjlzVlN2cldMV2FMSzM4c3VNaDhCUFJWQXIyLUxseVNHb2gzdmw4RmRZRU82bDVVcDdXbEVJcmEzVmI2amI2TVBPelJ4Yk1UVzRYV3dEYmNfR3p4MHd2Z3d5M2N4SG95WkxBQkE2UUlTZFBrOVloVkE3LUZWdzNET1ZoSWdOVWdVREdGRGY2SE83NFJWS0cxVWpUcnQ2NG9raw?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T11:58:49+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Lidl hosts Christmas showcase in London and Manchester",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUxhcHR6cXFkY3JkU1puWFVnSTlNenlZSko4WXF5enZpZjlLVnFvc04yd2dyR1N3NTJmN0NSeVJzQzBtRmtlWF80aXd3NlV0LXVrSzJUWFpXb3pDb1FnY2UtNGNycGlsZXlPalRBaURvekZxQjNnejg4MkEtWVlaTXg4Ti1EbkFMREc5b05TeENnYnFUUm5Ja3JFTTQwQTNFVXFEOC1QQ1BycmlyVXg0OE5TNVZ3VVh4RG9xeg?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T11:58:49+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Snap hires Grégory Gazagne to lead Europe after Ronan Harris’ promotion",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVVnZlFrVzBkNlJsWFlLY1lEc0pOTU9GamV6czFZVDZZRGxSd1FPcU0yVVZrS3NzNzlFMEtFVDg2T25zOVdxY0E1OUZuSUNUeFZ5Z1VKZHhBLUttRFdoSG16X05KUW1UX0lZUm9vRjlhTFFfOVNCWGFjbGFTU1hacmlGTTZjUlhIV2lKcnpNS2JhVnhERjdTOXkwVVpyc29xalEyalhQYjZmYXhoY25OdTJudFdJd0pudHpGZ1VsZkppdXk1NXMwNXFRblluOEFUamc?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T10:58:15+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Waitrose teases 2026 Christmas ad with return of Keira Knightley",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnl2X01TeXhBeU9ISE0yZ2V4VFBVM0p4WGVTWThTTzVFbUpZQnZLem9adFhLdTNMR3lJVnZQN1FZeHlGcXF6MzBzZGVDcld4R1JEU0FXMGR0WDNaYTFuM0hxSTNveERfc0xMZVUxSTBNTjRGbWRpdHFFcWhla0c4UU1FQXVJSVcyc3VMNGJnVzRadXA1N2N6SExGTi1ONnBBdW96Q0F2V2JDTDlFaFBtODVOQXJaR2lZZ0lhZWpLelpMVE15NmtsTndn?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T10:18:11+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Marks & Spencer \"The home of Christmas\" by Mother",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdV9sdVpwTG52cjZZZDduNHVqd1RUd3g5cXZuVFVSZjZsRTlaYm5MUlBzanBaeUR1ZWp6S19oelNOZWZ2ZFdtUmpWdW8zUXBBcVhfU2xBSkttT1JFNTFlTWdpTjV4SnExem55eExPTWN5aTVJZEhtMmNhalNSTy1FLTlvYUZPbGdKeV9xU1hZVXdwQWhEVnJvaFNZOWtYZ3NVU051WFVIc3hVV29oVlQycQ?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T10:03:36+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "JD Sports festive ad celebrates creativity of young people",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlhwY2hGX2VFeXdDOUVWVFNvWnVLRUlrX0t6QTRzbXJteEtybVE2YTNKTWtHbVFoU0tyRGhTU01SQVQ4VU1MZUhKWER5TkdGeXNaMGFWT2QtelRpQ0lfWHAzU1V3LTgxdTk4dVNUSW13LURqMG5IcXdiWmtsUklaOHV6czZyMTZOM3JVcTFsMDVCOGRFVVppbVdBcmtkWFlIY1otZncyV2hPZDlsYk1GbWlKNHhEZlpZLXNXYlplbnVTUQ?oc=5",
@@ -14,7 +70,7 @@
       "title": "Marks & Spencer Christmas 2026 ad features James Norton as Santa",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRk10dVRZeHljaGhMaW9IMGlNLUhZejJZWk9WQ2VNWW9EcjhibFhfVlp4b2RicDNSMVZuY2pBNFhvaHowQVpybzlRWlRvY1o3d1FmOVdUT0w3V29aS0lZYjdYTGotZ2h4Ym0tQUZ4SmttejBRTEFIWHZOdWI2dGJySS1XOXpGLVF5ZFUxanhxaEYtV2hsTVl0TUFpelRUV0hjSW5KOHRSMzV0OVB4VHB2c3UtdlZKYlBONFpINXY0c19qWV9nTjdj?oc=5",
       "published": "06.11.2026",
-      "published_iso": "2026-11-06T07:18:15+00:00",
+      "published_iso": "2026-11-06T07:48:46+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -22,7 +78,7 @@
       "title": "National Lottery takes flight with reindeer and power of belief in Christmas spot",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdzdJdk1JQUFBWlRDOVRCTU13aHZobTJwMzJQV0RtYVBWaXNDTkU2Rlk1eEIydVBSbUVsckpvcDZjZmhPRjBIaTJGRk9WR3NsS0JNR0t0THAyellXTTh2SmYyUGQ3UUhQT0ZBVGw2SUwxZlpIcmt4MjZaSDNuSjJTa1lXYlpfNjRmTDRlOFJtZTNsc292VThVUFJTVGUxZmVaNS1LaUNVektHZlA5V2FoTEJaWUVNQjlsLS1xaFVfbWxwSUludk9CbnlrYy1LYmYxR1psU3NzenNYNlZfRTJCLQ?oc=5",
       "published": "06.11.2026",
-      "published_iso": "2026-11-06T06:11:15+00:00",
+      "published_iso": "2026-11-06T06:13:10+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -39,62 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3Zqd25odWRqT2NmNFFJazhGUklXbDlxdWpoVGNRclJra3JFdE9zOVkxdC16cHk3dGdyT1VXRkFBRDVBUzNyYzMxZ2o2Ny0xN0kwNkhnTHk5OFhWWExEUk5KcVE2b3p6aXlUOThDT0VHNS1JTFR4MkpobWVkMkxyZl9IclJ4d0RqR1NtQW8xMW9BTXRCR0R4VmNaTk9kY2k0Rm13VkxzZUQtbURCM3JoaGw5ZFJNMEg1LV9FYTU5LU5jNVJhRW4tTGhDSlZjRndWbkdqMUZ2VjhTcWVlQ3Mw?oc=5",
       "published": "05.11.2026",
       "published_iso": "2026-11-05T18:25:26+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign Ad Net Zero Awards 2026: winners revealed",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTRFNGhBOWZidXE2bDVpRVljQXpVNFdNRzZTWVBuX19kMk03cnJfUWJoTG5uanFqNENTR3J4RVhjNDJtb1A1NkJzZmJ1aVZDLVg3eE14Y2k2Tk00YUJXMmFHUVdDSUJCcllXSVRtSmVJZTdnaVVib3NzaDNDQU02RTRVOXBpVlY4dW9UMXUteVdtZ2ZRVmtKb3pveUpJZFNVVTdlSXNJTm5UaXR1dUVPTktaalViUQ?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T18:06:31+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Sky's Christmas ad takes to the dancefloor, with costumes from films, TV and sport",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVEhqbmliMG1TRWk0UWhKLWI0YndsZWk3VElmVm9UdTZCS09MMTJadjlnUDAxaDdFc01GZWxud3d3bWJsQ29FSXV6M2FBbEgteUtrRDVKbEtzVFo4LVp3T3ZrMVRoX3JnWnlGMDNNTmVEamxmc2R6Z29QbW54ZWpfd1pXd0xlR1ZLeldnaE9Fd1VaZndPVFdHWkNTcklPeHA1T1RNUDJEMWI1N0NFMmVGeXVGQ25aS0txUHZReDVZOEgxZUFsaThHa0pOTWwyQm1iSmw2TUF1LTMyQnUxWGJZ?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T15:05:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Review of the Week: John Lewis takes Kristin Scott Thomas for a ride",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSEliWE92NllKbFM0cFJhcTl0RVdfblZCVVNmU1ZwS1NUMlpZOU1pOHNETXNLM3BfWkV1by0td2tNd3VIS2l0R1Jhd0ZwYVExbHE5QTAtSkM4Y3lSWjJFZmlQeHpXMm16MjRQR2hDbV85Y1FOcUJSUXB0d3pJVUtqaXZTWTFNQkxuYVgwM2pyZVRHbERhT2pGaXdESVVSQlU0MjE4dlpxTG1wd09lUmM1R0NoQzE3NmNQY3p3WE5sZk1PMWdXaXFhSHRRS0cwZw?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T13:13:57+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Movers & Shakers: Ogilvy, MG OMD, TBWA\\Media Arts Lab, Dept, Omnicom, Stagwell and more",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDdER3Jaem1zQnFmWDktSzU3MmNEcXM0N3I0SmNDdExWajVBVzEyUG9WRGpodEtMZEhwV2Y1RUJhMlVETzhBZGFKQk44SkQxNmhPb051SkpsZ053UktORDhUZTlJeEM2VlRPV0habWlZdVNQOEZsYWFYcW9OVldjVDRoQ0dWRHEwenlVQkF0Slg1UFA0UjBTb1N4aUFXTGxWNlJLSlI3ZWRZOVAzb2NxdVQtbHZwbV9kQUxOVGYwZkU1RFNPSFJxSm9LbG5HczVDS1V3VnFDUEZtNVhTY0E?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T12:04:42+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Motorway launches review of media account",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHpVOWQ3UkVTRDhZa2x6Q1l3cmRBSWNDRnhMQ2ZpREV4ZFFQUWNaTkhyQ0hRek1sYnhvVVJ2bWhnUzFWRHg2M0c0NXBfeW5vRTR2LVJTUEYxeEp1MWh4ZHhKcHhYTGQwcFRObXNTTkg5Z2Y2TjZkLTIybVYtYzk3ZlhsQ1pKMjljdUFKN0xCZ0dnZkhaRV9KQWR2SlNFTE5nOURNbkpxbjNERFk?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T11:36:26+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Marks & Spencer releases second teaser for Christmas 2026 ad",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDE1NVpmR0JQeW1HZDdxeXVndzdweVhBUWJ5OElMdHNWQXNQUUZTUEhrZmw2OFo1MThYYnVNQXlrRF9kRVVnMzVOSS1ON3J0OHdfb2pHYVFOcnN0M19aSlhBcm9GN05La1plbUs1N3k2MXk0bUZZR2g3UTZzOFRhWjh1SlUtaGN5ZG9oaGlRV3MzVXFFNEhGVDFsTzVXUVVVUlhDMm9mS1l5SHBHTU5lS3BFa0x0V0VzN1UwMnVOeGRndw?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T11:35:09+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Tech Update: Q3 results and ChatGPT’s ad products",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkJNMzhsSHhYTXpWYmRQRjNIbTNHTnBna2Exd0pSdy1HcHA1MlVUTlRMdFJzMzBFZkZkUEYzM3A1SlVKQVRJbmlxUlFSUHNhMGFDT1V4OUk1OS0xZXpRdjcxV2pfVmxRazc5ODhVS1RUQ2VjdFlGYUVHUmNFVkhVc09GZ2puMDRaSXJRQ0VMXzJzQkFqWi00bnAzZWoyT25MSGlGNFo1djZUTjRHZURUS2xuZXM?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T11:34:40+00:00",
       "description": "",
       "source": "Campaign UK"
     }
