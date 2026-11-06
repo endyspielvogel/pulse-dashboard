@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-11-06T13:25:21.131115+00:00",
+  "fetched_at": "2026-11-06T16:01:52.096295+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Etsy teams up with Olivia Rodrigo for second part of its Christmas campaign",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanFjdHFMcEg2WGtadHZacGhDbmM5OVllaW05UDlTZExRUGppLXlKOUdVbzJGTWZQdG1UUkVSN1REOFhwQ3YtMVVVV2hpWlE1eFdMd3IyUEdYbnhoS2NxZGpKajNpUS0xWThhWXNVV2tzMkotb01PVEZVYXpJNXZncUg1czRCck1NZTJOX3dtNVc0Z3hhRXZpSDAtSE4wVmU2aE41cXd0QW9JSG42SzZnMExsS0ZBTHlYOFJHcDlXZndneUlQTTRmRmsxT2dIeTFrbFlSSXF5TTM?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T14:15:00+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Allwyn UK on hunt for CMO amid leadership shake-up",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVBIOFRhakVZLXBWd3ctYzF4SlBRLTZVa3RqZ3BMMlN1aEV0Mi0xY2N2TnFxMkZ4OGdwYWxRbl9FbnRISVJMemgxWjc4WV9zTjBsbjB2VVBiUE93SHR1NjFIdXROZVQtTFpFUXJ4bmVuVnNiOEV1OVBzdU5PeXIzSnNNQ1FybGhGbzE3d08zTm50ZC0yTHJfQ1ZsZ056RjIxcGtJTFItOF9ZUTYzcjNIMEowdWVORjQ?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T13:50:11+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Arsenal \"'Twas the season\" (in-house)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzBDUy0wQkxFOGo2dkRXQXpWZXU5Q2t1MllDWXZidzJmS0JMRkJlNHFCZldta0VKOGpLdlJoZlFibl9nR0JkWVhrVDM3b1lCZGlnWEM0X0YyMFdNN1dPMVFGM2hpZE1Va1IwNEtsd090WlJRNEpIa2NRZVVVSkxMNFd1TWNnUjFYUHpnTzFxTGtOMGRWclE3eGVFVURXU00?oc=5",
@@ -46,7 +62,7 @@
       "title": "Waitrose teases 2026 Christmas ad with return of Keira Knightley",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnl2X01TeXhBeU9ISE0yZ2V4VFBVM0p4WGVTWThTTzVFbUpZQnZLem9adFhLdTNMR3lJVnZQN1FZeHlGcXF6MzBzZGVDcld4R1JEU0FXMGR0WDNaYTFuM0hxSTNveERfc0xMZVUxSTBNTjRGbWRpdHFFcWhla0c4UU1FQXVJSVcyc3VMNGJnVzRadXA1N2N6SExGTi1ONnBBdW96Q0F2V2JDTDlFaFBtODVOQXJaR2lZZ0lhZWpLelpMVE15NmtsTndn?oc=5",
       "published": "06.11.2026",
-      "published_iso": "2026-11-06T10:18:11+00:00",
+      "published_iso": "2026-11-06T10:18:19+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -62,7 +78,7 @@
       "title": "JD Sports festive ad celebrates creativity of young people",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlhwY2hGX2VFeXdDOUVWVFNvWnVLRUlrX0t6QTRzbXJteEtybVE2YTNKTWtHbVFoU0tyRGhTU01SQVQ4VU1MZUhKWER5TkdGeXNaMGFWT2QtelRpQ0lfWHAzU1V3LTgxdTk4dVNUSW13LURqMG5IcXdiWmtsUklaOHV6czZyMTZOM3JVcTFsMDVCOGRFVVppbVdBcmtkWFlIY1otZncyV2hPZDlsYk1GbWlKNHhEZlpZLXNXYlplbnVTUQ?oc=5",
       "published": "06.11.2026",
-      "published_iso": "2026-11-06T08:18:16+00:00",
+      "published_iso": "2026-11-06T08:24:04+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -79,22 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdzdJdk1JQUFBWlRDOVRCTU13aHZobTJwMzJQV0RtYVBWaXNDTkU2Rlk1eEIydVBSbUVsckpvcDZjZmhPRjBIaTJGRk9WR3NsS0JNR0t0THAyellXTTh2SmYyUGQ3UUhQT0ZBVGw2SUwxZlpIcmt4MjZaSDNuSjJTa1lXYlpfNjRmTDRlOFJtZTNsc292VThVUFJTVGUxZmVaNS1LaUNVektHZlA5V2FoTEJaWUVNQjlsLS1xaFVfbWxwSUludk9CbnlrYy1LYmYxR1psU3NzenNYNlZfRTJCLQ?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T06:13:10+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Amazon \"Joy delivered\" (In-house)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDF6RFozcUcyaUJYMXh5S3Y4VFBlVGkyc2g5dUpTWFBvdXUzRjV0SV84NUJ1NldjMGtqcTdqblEzcExCVzhfbmZMVXhRUG9nT1JXekxmUW95UVBrUVZndUtCQWM0NW94UGxMX2N1by1Wc3lNQVc0M1R2dG5ueFFIYlF3SjlqZzJqVzZtRE1SdG5FNG5qdy1UY2xIQQ?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T21:06:38+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Publicis letter hits back at Cindy Rose as row over 'CEO handshake' deals heats up",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3Zqd25odWRqT2NmNFFJazhGUklXbDlxdWpoVGNRclJra3JFdE9zOVkxdC16cHk3dGdyT1VXRkFBRDVBUzNyYzMxZ2o2Ny0xN0kwNkhnTHk5OFhWWExEUk5KcVE2b3p6aXlUOThDT0VHNS1JTFR4MkpobWVkMkxyZl9IclJ4d0RqR1NtQW8xMW9BTXRCR0R4VmNaTk9kY2k0Rm13VkxzZUQtbURCM3JoaGw5ZFJNMEg1LV9FYTU5LU5jNVJhRW4tTGhDSlZjRndWbkdqMUZ2VjhTcWVlQ3Mw?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T18:25:26+00:00",
       "description": "",
       "source": "Campaign UK"
     }
