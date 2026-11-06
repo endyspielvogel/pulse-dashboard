@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-11-06T16:01:52.096295+00:00",
+  "fetched_at": "2026-11-06T19:11:00.013895+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Oxfam's festive campaign reframes the Christmas wish list",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0FGZEhYcVg5QTItbTk0VU43Ni03NUxLVk4wTXhBa0htMGwwdUlxMF9rUGtnWUFFVGd6aFg1WE5BS3ZnTkV5MEhMM2I3QXJqc2RtaXh2dl9zbDVTNDFzX25ubExTcy1UU291Zy0wQWFkTVF6dGZUXy1fRm5fZWlTMnkxMlBGcWx5TFRJUUJuY2U2OExRYmdYZHM0TW5jc0JEa1NBR003VG11QlUwQ0N0X3RsUkxpbmpNQ0RWUjlHR0g?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T17:19:25+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Etsy teams up with Olivia Rodrigo for second part of its Christmas campaign",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanFjdHFMcEg2WGtadHZacGhDbmM5OVllaW05UDlTZExRUGppLXlKOUdVbzJGTWZQdG1UUkVSN1REOFhwQ3YtMVVVV2hpWlE1eFdMd3IyUEdYbnhoS2NxZGpKajNpUS0xWThhWXNVV2tzMkotb01PVEZVYXpJNXZncUg1czRCck1NZTJOX3dtNVc0Z3hhRXZpSDAtSE4wVmU2aE41cXd0QW9JSG42SzZnMExsS0ZBTHlYOFJHcDlXZndneUlQTTRmRmsxT2dIeTFrbFlSSXF5TTM?oc=5",
@@ -14,7 +22,7 @@
       "title": "Allwyn UK on hunt for CMO amid leadership shake-up",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVBIOFRhakVZLXBWd3ctYzF4SlBRLTZVa3RqZ3BMMlN1aEV0Mi0xY2N2TnFxMkZ4OGdwYWxRbl9FbnRISVJMemgxWjc4WV9zTjBsbjB2VVBiUE93SHR1NjFIdXROZVQtTFpFUXJ4bmVuVnNiOEV1OVBzdU5PeXIzSnNNQ1FybGhGbzE3d08zTm50ZC0yTHJfQ1ZsZ056RjIxcGtJTFItOF9ZUTYzcjNIMEowdWVORjQ?oc=5",
       "published": "06.11.2026",
-      "published_iso": "2026-11-06T13:50:11+00:00",
+      "published_iso": "2026-11-06T13:52:30+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -35,14 +43,6 @@
       "source": "Campaign UK"
     },
     {
-      "title": "VCCP Media appoints director of activation amid internal shake-up",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGtpclJPbUVaRkFGU3VFd1M5T01iQXhVaGJSMTU3RTZiRXhuUXgtX25KZjlzVlN2cldMV2FMSzM4c3VNaDhCUFJWQXIyLUxseVNHb2gzdmw4RmRZRU82bDVVcDdXbEVJcmEzVmI2amI2TVBPelJ4Yk1UVzRYV3dEYmNfR3p4MHd2Z3d5M2N4SG95WkxBQkE2UUlTZFBrOVloVkE3LUZWdzNET1ZoSWdOVWdVREdGRGY2SE83NFJWS0cxVWpUcnQ2NG9raw?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T11:58:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Lidl hosts Christmas showcase in London and Manchester",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUxhcHR6cXFkY3JkU1puWFVnSTlNenlZSko4WXF5enZpZjlLVnFvc04yd2dyR1N3NTJmN0NSeVJzQzBtRmtlWF80aXd3NlV0LXVrSzJUWFpXb3pDb1FnY2UtNGNycGlsZXlPalRBaURvekZxQjNnejg4MkEtWVlaTXg4Ti1EbkFMREc5b05TeENnYnFUUm5Ja3JFTTQwQTNFVXFEOC1QQ1BycmlyVXg0OE5TNVZ3VVh4RG9xeg?oc=5",
       "published": "06.11.2026",
@@ -54,7 +54,15 @@
       "title": "Snap hires Grégory Gazagne to lead Europe after Ronan Harris’ promotion",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVVnZlFrVzBkNlJsWFlLY1lEc0pOTU9GamV6czFZVDZZRGxSd1FPcU0yVVZrS3NzNzlFMEtFVDg2T25zOVdxY0E1OUZuSUNUeFZ5Z1VKZHhBLUttRFdoSG16X05KUW1UX0lZUm9vRjlhTFFfOVNCWGFjbGFTU1hacmlGTTZjUlhIV2lKcnpNS2JhVnhERjdTOXkwVVpyc29xalEyalhQYjZmYXhoY25OdTJudFdJd0pudHpGZ1VsZkppdXk1NXMwNXFRblluOEFUamc?oc=5",
       "published": "06.11.2026",
-      "published_iso": "2026-11-06T10:58:15+00:00",
+      "published_iso": "2026-11-06T11:03:09+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Brands are fighting to own the GTA 6 drop, the smart money is on the come-down",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNk5KVWowYVdtR2tUblR1UWt5QkxocXp2aXFpUFdXTFRWNm9peWNDaENHanVsdzAtdk13aU41aFRvQ0tvaGpaUGptdUZUX1A2YVlBenJ0LUNqR3E5RUVuZkdEYVYyaGxzaVYzMjhpU0FINGZPUm5mVXp2cl9GMlBEMUhtNUFRT1d3eXkxU3BKZVBKcWIwVDR2WnN1QXdUUS1ybk0tYmN3aXNTeFVNTHBfbDg3U0ZrdktiSzJ1TFhBeldHYVk4WWZ1Y3Bab3FZay1tUkRaZDFOZTkxWk0?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T10:48:20+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -79,14 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlhwY2hGX2VFeXdDOUVWVFNvWnVLRUlrX0t6QTRzbXJteEtybVE2YTNKTWtHbVFoU0tyRGhTU01SQVQ4VU1MZUhKWER5TkdGeXNaMGFWT2QtelRpQ0lfWHAzU1V3LTgxdTk4dVNUSW13LURqMG5IcXdiWmtsUklaOHV6czZyMTZOM3JVcTFsMDVCOGRFVVppbVdBcmtkWFlIY1otZncyV2hPZDlsYk1GbWlKNHhEZlpZLXNXYlplbnVTUQ?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T08:24:04+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Marks & Spencer Christmas 2026 ad features James Norton as Santa",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRk10dVRZeHljaGhMaW9IMGlNLUhZejJZWk9WQ2VNWW9EcjhibFhfVlp4b2RicDNSMVZuY2pBNFhvaHowQVpybzlRWlRvY1o3d1FmOVdUT0w3V29aS0lZYjdYTGotZ2h4Ym0tQUZ4SmttejBRTEFIWHZOdWI2dGJySS1XOXpGLVF5ZFUxanhxaEYtV2hsTVl0TUFpelRUV0hjSW5KOHRSMzV0OVB4VHB2c3UtdlZKYlBONFpINXY0c19qWV9nTjdj?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T07:48:46+00:00",
       "description": "",
       "source": "Campaign UK"
     },
