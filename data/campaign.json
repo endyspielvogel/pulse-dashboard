@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T07:19:14.077190+00:00",
+  "fetched_at": "2026-11-07T09:59:36.549176+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -15,6 +15,14 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVBIOFRhakVZLXBWd3ctYzF4SlBRLTZVa3RqZ3BMMlN1aEV0Mi0xY2N2TnFxMkZ4OGdwYWxRbl9FbnRISVJMemgxWjc4WV9zTjBsbjB2VVBiUE93SHR1NjFIdXROZVQtTFpFUXJ4bmVuVnNiOEV1OVBzdU5PeXIzSnNNQ1FybGhGbzE3d08zTm50ZC0yTHJfQ1ZsZ056RjIxcGtJTFItOF9ZUTYzcjNIMEowdWVORjQ?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T13:59:01+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Lego “The Lego holiday workshop 2026” (in-house)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmZWYk5PRko4dWFYcTNFdmFscEFpZlR0bGRQazBNMXlQVkhWVUdiejVveVc5aDUyV2dnQktReVNCS1BKanZ2akUyeWRodmp4OTlxZ1BEN19OUWRRZFJEeUQxUG9JaXpHSGRQTDBvVWNVcEFBTXE1b1hyUXJHTENtb2RFRE1peU9oWFFyaXE1S3ZSdDBjb1NQRENRWmZrLTU1RERQVUVhZE5hb0NJLWFv?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T12:00:41+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZ0dfUUVUY0tlVTYtRnFiMkt5X2hEd1AtNHBnb1N1UVBHWUt3LUYwUE83OElrRVNUTzlxa2FfR2xBSkI5S280R2dwUHVBajhibUhkaENYNkE5M01tUi15Tzgwak5rdzlxYlFFUnI5R21Wa0NKWkltajdsVVJPOWMzb0RHamZhVUd4Q1d1QUU1STYzbHRBb25BUEMyMjc4RDdPcWFqb0hLeS1WNnJUanNhNjlpbVNmSXBKMkwwQ1dTaXFnQ0NtelRIc0hSWktPRlEwOUN2aU1ZZjR1MEMxWWFvNXZmRjI3T0lkMnp3ZjJYRlpXVEtueTVF?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T07:15:06+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "National Lottery takes flight with reindeer and power of belief in Christmas spot",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdzdJdk1JQUFBWlRDOVRCTU13aHZobTJwMzJQV0RtYVBWaXNDTkU2Rlk1eEIydVBSbUVsckpvcDZjZmhPRjBIaTJGRk9WR3NsS0JNR0t0THAyellXTTh2SmYyUGQ3UUhQT0ZBVGw2SUwxZlpIcmt4MjZaSDNuSjJTa1lXYlpfNjRmTDRlOFJtZTNsc292VThVUFJTVGUxZmVaNS1LaUNVektHZlA5V2FoTEJaWUVNQjlsLS1xaFVfbWxwSUludk9CbnlrYy1LYmYxR1psU3NzenNYNlZfRTJCLQ?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T06:13:10+00:00",
       "description": "",
       "source": "Campaign UK"
     }
