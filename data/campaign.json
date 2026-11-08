@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T21:50:58.532029+00:00",
+  "fetched_at": "2026-11-08T01:25:11.871075+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -27,6 +27,14 @@
       "source": "Campaign UK"
     },
     {
+      "title": "Liverpool FC thanks fans with 'nice one' Christmas ad",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS0FGa3pNUS1EZVhHRGk2TmJ3TGxwM185VWRaSkVaUkZkdDZfSjh3Y3VuR0pZekpuZ2pyUVNEY1l0OG5OODNxN254am1DS1NzRVpBYkYxU2F4Rkl1dTZYLTJOM0J1RDVLdUsxSkIzWGJtczVfd1VfVUtJTHVqWDZYaXRkSWR3VTFqV0ExZkpVbTRSb0xzX2g2dzJHLThuTGVLSC1XSnIzVUhrOGNvelhWTDRURXBWdDlR?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T13:19:01+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
       "title": "Arsenal \"'Twas the season\" (in-house)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzBDUy0wQkxFOGo2dkRXQXpWZXU5Q2t1MllDWXZidzJmS0JMRkJlNHFCZldta0VKOGpLdlJoZlFibl9nR0JkWVhrVDM3b1lCZGlnWEM0X0YyMFdNN1dPMVFGM2hpZE1Va1IwNEtsd090WlJRNEpIa2NRZVVVSkxMNFd1TWNnUjFYUHpnTzFxTGtOMGRWclE3eGVFVURXU00?oc=5",
       "published": "06.11.2026",
@@ -39,22 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmZWYk5PRko4dWFYcTNFdmFscEFpZlR0bGRQazBNMXlQVkhWVUdiejVveVc5aDUyV2dnQktReVNCS1BKanZ2akUyeWRodmp4OTlxZ1BEN19OUWRRZFJEeUQxUG9JaXpHSGRQTDBvVWNVcEFBTXE1b1hyUXJHTENtb2RFRE1peU9oWFFyaXE1S3ZSdDBjb1NQRENRWmZrLTU1RERQVUVhZE5hb0NJLWFv?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T12:00:41+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Lidl hosts Christmas showcase in London and Manchester",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUxhcHR6cXFkY3JkU1puWFVnSTlNenlZSko4WXF5enZpZjlLVnFvc04yd2dyR1N3NTJmN0NSeVJzQzBtRmtlWF80aXd3NlV0LXVrSzJUWFpXb3pDb1FnY2UtNGNycGlsZXlPalRBaURvekZxQjNnejg4MkEtWVlaTXg4Ti1EbkFMREc5b05TeENnYnFUUm5Ja3JFTTQwQTNFVXFEOC1QQ1BycmlyVXg0OE5TNVZ3VVh4RG9xeg?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T11:58:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Snap hires Grégory Gazagne to lead Europe after Ronan Harris’ promotion",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVVnZlFrVzBkNlJsWFlLY1lEc0pOTU9GamV6czFZVDZZRGxSd1FPcU0yVVZrS3NzNzlFMEtFVDg2T25zOVdxY0E1OUZuSUNUeFZ5Z1VKZHhBLUttRFdoSG16X05KUW1UX0lZUm9vRjlhTFFfOVNCWGFjbGFTU1hacmlGTTZjUlhIV2lKcnpNS2JhVnhERjdTOXkwVVpyc29xalEyalhQYjZmYXhoY25OdTJudFdJd0pudHpGZ1VsZkppdXk1NXMwNXFRblluOEFUamc?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T11:03:09+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -83,18 +75,26 @@
       "source": "Campaign UK"
     },
     {
-      "title": "JD Sports festive ad celebrates creativity of young people",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlhwY2hGX2VFeXdDOUVWVFNvWnVLRUlrX0t6QTRzbXJteEtybVE2YTNKTWtHbVFoU0tyRGhTU01SQVQ4VU1MZUhKWER5TkdGeXNaMGFWT2QtelRpQ0lfWHAzU1V3LTgxdTk4dVNUSW13LURqMG5IcXdiWmtsUklaOHV6czZyMTZOM3JVcTFsMDVCOGRFVVppbVdBcmtkWFlIY1otZncyV2hPZDlsYk1GbWlKNHhEZlpZLXNXYlplbnVTUQ?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T08:24:04+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Marks & Spencer Christmas 2026 ad features James Norton as Santa",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRk10dVRZeHljaGhMaW9IMGlNLUhZejJZWk9WQ2VNWW9EcjhibFhfVlp4b2RicDNSMVZuY2pBNFhvaHowQVpybzlRWlRvY1o3d1FmOVdUT0w3V29aS0lZYjdYTGotZ2h4Ym0tQUZ4SmttejBRTEFIWHZOdWI2dGJySS1XOXpGLVF5ZFUxanhxaEYtV2hsTVl0TUFpelRUV0hjSW5KOHRSMzV0OVB4VHB2c3UtdlZKYlBONFpINXY0c19qWV9nTjdj?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T07:48:46+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "National Lottery takes flight with reindeer and power of belief in Christmas spot",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdzdJdk1JQUFBWlRDOVRCTU13aHZobTJwMzJQV0RtYVBWaXNDTkU2Rlk1eEIydVBSbUVsckpvcDZjZmhPRjBIaTJGRk9WR3NsS0JNR0t0THAyellXTTh2SmYyUGQ3UUhQT0ZBVGw2SUwxZlpIcmt4MjZaSDNuSjJTa1lXYlpfNjRmTDRlOFJtZTNsc292VThVUFJTVGUxZmVaNS1LaUNVektHZlA5V2FoTEJaWUVNQjlsLS1xaFVfbWxwSUludk9CbnlrYy1LYmYxR1psU3NzenNYNlZfRTJCLQ?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T06:13:10+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Amazon \"Joy delivered\" (In-house)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDF6RFozcUcyaUJYMXh5S3Y4VFBlVGkyc2g5dUpTWFBvdXUzRjV0SV84NUJ1NldjMGtqcTdqblEzcExCVzhfbmZMVXhRUG9nT1JXekxmUW95UVBrUVZndUtCQWM0NW94UGxMX2N1by1Wc3lNQVc0M1R2dG5ueFFIYlF3SjlqZzJqVzZtRE1SdG5FNG5qdy1UY2xIQQ?oc=5",
+      "published": "05.11.2026",
+      "published_iso": "2026-11-05T21:06:38+00:00",
       "description": "",
       "source": "Campaign UK"
     }
