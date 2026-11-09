@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T21:51:24.490448+00:00",
+  "fetched_at": "2026-11-09T01:27:52.168863+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -15,6 +15,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanFjdHFMcEg2WGtadHZacGhDbmM5OVllaW05UDlTZExRUGppLXlKOUdVbzJGTWZQdG1UUkVSN1REOFhwQ3YtMVVVV2hpWlE1eFdMd3IyUEdYbnhoS2NxZGpKajNpUS0xWThhWXNVV2tzMkotb01PVEZVYXpJNXZncUg1czRCck1NZTJOX3dtNVc0Z3hhRXZpSDAtSE4wVmU2aE41cXd0QW9JSG42SzZnMExsS0ZBTHlYOFJHcDlXZndneUlQTTRmRmsxT2dIeTFrbFlSSXF5TTM?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T20:13:35+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Oxfam's festive campaign reframes the Christmas wish list",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0FGZEhYcVg5QTItbTk0VU43Ni03NUxLVk4wTXhBa0htMGwwdUlxMF9rUGtnWUFFVGd6aFg1WE5BS3ZnTkV5MEhMM2I3QXJqc2RtaXh2dl9zbDVTNDFzX25ubExTcy1UU291Zy0wQWFkTVF6dGZUXy1fRm5fZWlTMnkxMlBGcWx5TFRJUUJuY2U2OExRYmdYZHM0TW5jc0JEa1NBR003VG11QlUwQ0N0X3RsUkxpbmpNQ0RWUjlHR0g?oc=5",
+      "published": "06.11.2026",
+      "published_iso": "2026-11-06T17:19:25+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdzdJdk1JQUFBWlRDOVRCTU13aHZobTJwMzJQV0RtYVBWaXNDTkU2Rlk1eEIydVBSbUVsckpvcDZjZmhPRjBIaTJGRk9WR3NsS0JNR0t0THAyellXTTh2SmYyUGQ3UUhQT0ZBVGw2SUwxZlpIcmt4MjZaSDNuSjJTa1lXYlpfNjRmTDRlOFJtZTNsc292VThVUFJTVGUxZmVaNS1LaUNVektHZlA5V2FoTEJaWUVNQjlsLS1xaFVfbWxwSUludk9CbnlrYy1LYmYxR1psU3NzenNYNlZfRTJCLQ?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T06:13:10+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Amazon \"Joy delivered\" (In-house)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDF6RFozcUcyaUJYMXh5S3Y4VFBlVGkyc2g5dUpTWFBvdXUzRjV0SV84NUJ1NldjMGtqcTdqblEzcExCVzhfbmZMVXhRUG9nT1JXekxmUW95UVBrUVZndUtCQWM0NW94UGxMX2N1by1Wc3lNQVc0M1R2dG5ueFFIYlF3SjlqZzJqVzZtRE1SdG5FNG5qdy1UY2xIQQ?oc=5",
-      "published": "05.11.2026",
-      "published_iso": "2026-11-05T21:06:38+00:00",
       "description": "",
       "source": "Campaign UK"
     }
