@@ -1,10 +1,34 @@
 {
-  "fetched_at": "2026-11-09T05:10:07.414137+00:00",
+  "fetched_at": "2026-11-09T06:12:42.906491+00:00",
   "countries": {
     "AT": [
       {
-        "title": "kurzmeldung",
+        "title": "nvidia aktie",
         "volume": "100+"
+      },
+      {
+        "title": "rückrufaktion",
+        "volume": "500+"
+      },
+      {
+        "title": "anthropic",
+        "volume": "100+"
+      },
+      {
+        "title": "matrei in osttirol",
+        "volume": "100+"
+      },
+      {
+        "title": "kurzmeldung",
+        "volume": "200+"
+      },
+      {
+        "title": "formel1",
+        "volume": "100+"
+      },
+      {
+        "title": "zugspitze",
+        "volume": "200+"
       },
       {
         "title": "kritik tatort heute",
@@ -12,77 +36,53 @@
       },
       {
         "title": "ski",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
-        "title": "david alaba",
-        "volume": "200+"
-      },
-      {
-        "title": "vermisste person",
-        "volume": "2000+"
-      },
-      {
-        "title": "wildschwein",
+        "title": "bergunfall",
         "volume": "100+"
-      },
-      {
-        "title": "jäger",
-        "volume": "200+"
-      },
-      {
-        "title": "isack hadjar",
-        "volume": "200+"
-      },
-      {
-        "title": "tierkreiszeichen",
-        "volume": "100+"
-      },
-      {
-        "title": "geld",
-        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "vikings qb",
-        "volume": "1000+"
-      },
-      {
-        "title": "nick jonas",
+        "title": "magda linette",
         "volume": "200+"
       },
       {
-        "title": "cole irvin",
-        "volume": "200+"
-      },
-      {
-        "title": "bella coola bear trail search",
-        "volume": "200+"
-      },
-      {
-        "title": "darius acuff jr.",
-        "volume": "1000+"
-      },
-      {
-        "title": "hawaii basketball",
+        "title": "janice tjen",
         "volume": "500+"
       },
       {
-        "title": "brook lopez",
-        "volume": "200+"
-      },
-      {
-        "title": "kings",
-        "volume": "1000+"
-      },
-      {
-        "title": "zach lavine",
-        "volume": "500+"
-      },
-      {
-        "title": "pak vs sl",
+        "title": "juju watkins",
         "volume": "2000+"
+      },
+      {
+        "title": "delhi aqi",
+        "volume": "200+"
+      },
+      {
+        "title": "carson wentz",
+        "volume": "500+"
+      },
+      {
+        "title": "claressa shields",
+        "volume": "200+"
+      },
+      {
+        "title": "nfl standings",
+        "volume": "20000+"
+      },
+      {
+        "title": "mv odyssey cruise ship detained",
+        "volume": "200+"
+      },
+      {
+        "title": "ut arlington vs hawaii",
+        "volume": "200+"
+      },
+      {
+        "title": "caroline dubois",
+        "volume": "200+"
       }
     ]
   }
