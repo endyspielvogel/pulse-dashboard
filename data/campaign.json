@@ -1,12 +1,68 @@
 {
-  "fetched_at": "2026-11-09T10:13:59.418215+00:00",
+  "fetched_at": "2026-11-09T13:30:47.198290+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Power 100 2026: top five in food retail",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnpGbUFuVnljUlV2TVNwZnNCb3lYT3lWYURKQUtVczl1MWJOZm9TYmRieExPOHMwMVBlSzlKbjY4eUZCdXNpcUZEdmJ1aEZGNE9sSWdPTVlnT0VlQlFwQnBQWWxGRlVzbTZiaWJxSVE2a3ZNMVJoRDV3c3B4QXE2Q0l0amU3d2NyNGtabmZ3dk1uTzk0UGtVdjZaQUpPbGVZN1RHRHlnbw?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T13:24:30+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Disney makes the invisible visible in Christmas spot directed by Dougal Wilson",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0JiZkxIUEJtdzlJbTYzR1V4X3ZJc1pFMUJNZmtLMF8xM3pLZkhNdFVWeGNBbm9HdURBNEJ5cUVVRnNaWnRCTDhSS2ZmR3NIQkdnNVBLUjdwRjY5ZFNDOFNCOEFIbGF4dXJ0bnlXWU53cERNZ083bHUxM3BCMEM4SWRyRWlYdGEyMGpQcUN1VEZDYmRxeGVPOE8takJWYXR0OGV0MGEwVUVaOTBkb3R6MzZzcVQyd09nR3BYcGlHUmk1TTlIRXdOaE9FUl9aQ0NWNThZanV3c2FEN2l4?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T13:09:55+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The best brand ambassador might already be on your payroll",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUlqM2VtRzdJYXZaTFczWlJJaG5lenFaR0c2Y0xoNGZINEs5RGdVU2JlSEpiSy1GTmFHSEpsOWtISlJiLVN3T2RLUnN1eFBBcVU1ZWY5MWFkMVB5OVZaWmoxS053N29qTkRDXzFZWl9wOHdrRlc1ODNib1FaclZsV0ZpcnFja3U4dnk0M0E3QWFHd25zY1FmRTNUSFZMQU9iTXVMQWphNTZHcGtjUUVCQ01zX2pxcjE1Zm9SdHBGMVlGQQ?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T11:55:04+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Why it can pay to write love letters to a dead man",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakwwMWVYeU01YWN3aUZwLWRNX2V4TWZFVzlReHdiWU5jSDh0aGtUUUgzWktLTDdWaF81aldqWUFkblRhZE1yai1YbVBqNGZyWWlvYjByUnpVVERGdDJQa1RFRWhMS2tPalN3WkNteHpRLU9xYzFkNUdFSkFRZXRMcXJmQm9oWGNzYWg3WmkyLXlvakYzbVc3djAwNUd0a1ZTdGxhcmoxYndSd0VlWERIYk5Bc1Jpcmc?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T11:24:22+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Amazon accused of inflating ad prices by up to 250% on peak shopping days",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdTRENmRZNzBkVFJwWEZrNXZHamdlLTFzdWZrZXB0MXdTaUtxc2U5SGs4OVJXbnpTbEVTaXBGZ3pSbUh3QlVGaHJTRHVObnU3SGlqUXdrNUs5SXZKaFJIS0E0NWpIWXZCaGV1cFFkN2V6a3M1MW8xVWVabEJCVFVsNnl6TEloaUZRSTdJOEIxOExkbmU5MFpXUENBb2ZrSXc3cDdSZHNUZXNLSGRCYjNiME5MMzE0Wm90QlBfS1daWmwtb1NreGU2LTNuOEMyd3J6eVd2SQ?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T10:54:26+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Publicis Groupe names Matt Simpson as Epsilon chief international officer",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZURpaFo5U042OVZXTkpsekdxQ0lIc2t2RHZFWkpzZHdjdnEzRW9USUdFTFk2VEN1MWhKdzNWM2I1MTB3UkRUcFdTTHNXZmlhNFRaQjYzanpQODFiNVRLLTFRSGRmMWgwaEI1Mk84MG9Yb1hhVnoySlA1NG9WSWg0cXQ5SW15QzU0RDFMNVlaSHowbEYyWlRIanBkb1I4aUVKT180NkgyRVVycU5WNzVEM2FiQk1icjVySksxLW1mOGtkbk13WF9Tc2VNeHJhNzcyX09VVjVB?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T10:54:24+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Lidl Christmas spot stars nutcracker with a taste for festive goodies",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWM3S0U5eW1hNTFJQThVY21SdEdreXpZUENEZnJRUnlGVE8wOVNqTGU0QlVFbS15OUVBY0F3YUh2d05BRFlvQ1FQRWJHUlpabVF4WkpzdV9XazVVelhYTEY4c3NDSG8yUW1xTFZJWkVyWHJWRTFxS2NWczNVM3FKajd0R0RCQmhTQ2RIc2x5SzVYNzd1YlFZTUU4WW1wOG1ibGRwMkZPX0ZGQzVCX0lhWE8xTjIwYnkxZjFpTHRKUGk4bHhVWWFnd3Zwc1B5UWd1?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T10:54:23+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Jon Williams launches Freedom Works after Liberty Guild bought out of administration",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0pVVjI3NXRDbDA5Y1JFTDRORV9OYkJJMUpOUGIzQm1rTE41SDVnUW5ZTnpKcUFDR0FuLVlGSzJsRnJxOXJDc2gyblgzWWl4Vmg2UXFnZXNtRXR6MmtVczdSTkdNNU53M2lHRjBYak9nVHQwX3RGZGdJUjVRdjkwejdWMExJWU5hZVdSVmxGSmlBc05ZenVzbDEyZlZfTFZBejlkVWFQQXRNYkkyRDZiQkRxMmdNMENBYkhPRXFjQ09GMm5zYk5PRGphZVZHa000REFoVFRqV2NQUDI5UXlHSFN4N04?oc=5",
       "published": "09.11.2026",
-      "published_iso": "2026-11-09T06:23:43+00:00",
+      "published_iso": "2026-11-09T06:25:39+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -35,66 +91,10 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Allwyn UK on hunt for CMO amid leadership shake-up",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVBIOFRhakVZLXBWd3ctYzF4SlBRLTZVa3RqZ3BMMlN1aEV0Mi0xY2N2TnFxMkZ4OGdwYWxRbl9FbnRISVJMemgxWjc4WV9zTjBsbjB2VVBiUE93SHR1NjFIdXROZVQtTFpFUXJ4bmVuVnNiOEV1OVBzdU5PeXIzSnNNQ1FybGhGbzE3d08zTm50ZC0yTHJfQ1ZsZ056RjIxcGtJTFItOF9ZUTYzcjNIMEowdWVORjQ?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T13:59:01+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Liverpool FC thanks fans with 'nice one' Christmas ad",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS0FGa3pNUS1EZVhHRGk2TmJ3TGxwM185VWRaSkVaUkZkdDZfSjh3Y3VuR0pZekpuZ2pyUVNEY1l0OG5OODNxN254am1DS1NzRVpBYkYxU2F4Rkl1dTZYLTJOM0J1RDVLdUsxSkIzWGJtczVfd1VfVUtJTHVqWDZYaXRkSWR3VTFqV0ExZkpVbTRSb0xzX2g2dzJHLThuTGVLSC1XSnIzVUhrOGNvelhWTDRURXBWdDlR?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T13:19:01+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Lego “The Lego holiday workshop 2026” (in-house)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmZWYk5PRko4dWFYcTNFdmFscEFpZlR0bGRQazBNMXlQVkhWVUdiejVveVc5aDUyV2dnQktReVNCS1BKanZ2akUyeWRodmp4OTlxZ1BEN19OUWRRZFJEeUQxUG9JaXpHSGRQTDBvVWNVcEFBTXE1b1hyUXJHTENtb2RFRE1peU9oWFFyaXE1S3ZSdDBjb1NQRENRWmZrLTU1RERQVUVhZE5hb0NJLWFv?oc=5",
       "published": "06.11.2026",
       "published_iso": "2026-11-06T12:00:41+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Arsenal \"'Twas the season\" (in-house)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzBDUy0wQkxFOGo2dkRXQXpWZXU5Q2t1MllDWXZidzJmS0JMRkJlNHFCZldta0VKOGpLdlJoZlFibl9nR0JkWVhrVDM3b1lCZGlnWEM0X0YyMFdNN1dPMVFGM2hpZE1Va1IwNEtsd090WlJRNEpIa2NRZVVVSkxMNFd1TWNnUjFYUHpnTzFxTGtOMGRWclE3eGVFVURXU00?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T12:00:41+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Brands are fighting to own the GTA 6 drop, the smart money is on the come-down",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNk5KVWowYVdtR2tUblR1UWt5QkxocXp2aXFpUFdXTFRWNm9peWNDaENHanVsdzAtdk13aU41aFRvQ0tvaGpaUGptdUZUX1A2YVlBenJ0LUNqR3E5RUVuZkdEYVYyaGxzaVYzMjhpU0FINGZPUm5mVXp2cl9GMlBEMUhtNUFRT1d3eXkxU3BKZVBKcWIwVDR2WnN1QXdUUS1ybk0tYmN3aXNTeFVNTHBfbDg3U0ZrdktiSzJ1TFhBeldHYVk4WWZ1Y3Bab3FZay1tUkRaZDFOZTkxWk0?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T10:48:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Waitrose teases 2026 Christmas ad with return of Keira Knightley",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnl2X01TeXhBeU9ISE0yZ2V4VFBVM0p4WGVTWThTTzVFbUpZQnZLem9adFhLdTNMR3lJVnZQN1FZeHlGcXF6MzBzZGVDcld4R1JEU0FXMGR0WDNaYTFuM0hxSTNveERfc0xMZVUxSTBNTjRGbWRpdHFFcWhla0c4UU1FQXVJSVcyc3VMNGJnVzRadXA1N2N6SExGTi1ONnBBdW96Q0F2V2JDTDlFaFBtODVOQXJaR2lZZ0lhZWpLelpMVE15NmtsTndn?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T10:18:19+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Marks & Spencer \"The home of Christmas\" by Mother",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdV9sdVpwTG52cjZZZDduNHVqd1RUd3g5cXZuVFVSZjZsRTlaYm5MUlBzanBaeUR1ZWp6S19oelNOZWZ2ZFdtUmpWdW8zUXBBcVhfU2xBSkttT1JFNTFlTWdpTjV4SnExem55eExPTWN5aTVJZEhtMmNhalNSTy1FLTlvYUZPbGdKeV9xU1hZVXdwQWhEVnJvaFNZOWtYZ3NVU051WFVIc3hVV29oVlQycQ?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T10:03:36+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "JD Sports festive ad celebrates creativity of young people",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlhwY2hGX2VFeXdDOUVWVFNvWnVLRUlrX0t6QTRzbXJteEtybVE2YTNKTWtHbVFoU0tyRGhTU01SQVQ4VU1MZUhKWER5TkdGeXNaMGFWT2QtelRpQ0lfWHAzU1V3LTgxdTk4dVNUSW13LURqMG5IcXdiWmtsUklaOHV6czZyMTZOM3JVcTFsMDVCOGRFVVppbVdBcmtkWFlIY1otZncyV2hPZDlsYk1GbWlKNHhEZlpZLXNXYlplbnVTUQ?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T08:24:04+00:00",
       "description": "",
       "source": "Campaign UK"
     }
