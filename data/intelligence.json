@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T23:14:35.910866+00:00",
+  "fetched_at": "2026-11-10T00:06:36.023222+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -45,6 +45,11 @@
     ],
     "Burger King": [
       {
+        "title": "Rhein-Ruhr-Zentrum lüftet Geheimnis: Große Burgerkette eröffnet erste Filiale - WAZ",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWZXUmczLWVMVXV3cmtnMXdfSlpYM1ZFRFVBNlRSNl94eTVJNXdEU09Vd1Rqa1ozNFp0d29LclB6cVRSaWhTR1BBVGhET0M0ZFVvOXludXRNX3NKZnV5NXYtQjFqbkxzMEVOOG1HLURKMDY3RWhyVE1SU2M2Zk1wYjMzRFZXRU5kQWFUZ2VxejV3YTNfZWg4cUFrOUtVUFE2NjZKZVJoOEhoWHladGVya1RobEQ3VHYzSlNjcjMyQTV0cm1XbHVSOWZucUNtcjM0OG5n?oc=5",
+        "published": "Mon, 09 Nov 2026 13:01:00 GMT"
+      },
+      {
         "title": "Betrunkener Autofahrer flieht nach Unfall auf Parkplatz von Burger King in Burgdorf - HAZ",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU0xXa25taFJfTF9ielNKczdSZXZRaHYtSUxIbUxTM3lFT256aFdSWW5KZTVwMHg5R00xT2swVThvYzNNTXgwdmt3cURvS3AycDhZdFR4VXcyZm1fV0JLeXpIUFNMVjM4aVoxNHk5dFNIR09xeGxoVmlmXzZXaUdRWDIzZjNLLUFvNUtGdlEzOUQtbTJwVTk3UVFOdDJ5dXliNi05YjhLdDZZeVg0d0JpNkVwenVvdnB6WElKeThmdWxLZXJwLVVCcWItcFh6eHFFQXpacmM2U2FpSTl1aks3azFVTzc3R1ZBMVpJWkxxSdIBiwJBVV95cUxNWnNacWJfTkYxUU5PQWM5SmlCcy1jNHRIMEFRTTFhdW1DcnVCaFkwVDFrdDdMU3N6UmpUaVNvbkNDSEJMd3Jjb0dhSEpxdmZyYkduMGtmZWtmR2hDb2c1TkZMV280N0VnZ1ltT3lRMzdRU0hJQU9LeW56d3Bma3FEeEVTRUtCbDRUdy1RQVBGMnJ1a3F2OU1CbTVNNHNqMldaN2FzWWQxcGhfOEd6LTNXZ1ZIQ0ZReTdoUENEdVZhem0tcjR3d2l2enhhUmtBd1hLVFpsdFhQd1RQWjMwVDZpa05pVnZMeTN4ckQyY2t5SWlFMUo0MS0tdmJfUlpOemp2WV9qdFp4TXRYMnM?oc=5",
         "published": "Mon, 09 Nov 2026 09:57:28 GMT"
@@ -78,11 +83,6 @@
         "title": "Restaurantketten setzen auf bessere Speisen, um Gäste zurückzugewinnen - aktien.news",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczI3TWJZa0FhbEl0X3JpUWw0Yk5xM1lZUVphTWEtUFAxN20wTFFpbVp4SHdYZ1lSOXlmZlZsTWw5VUcxeGdISlZvNFJvSXdpOVlWUEd1RlR1ZW1XTkJhNFZjTXlDX1NBWkgtSXVhX3dDYW9hWkpiQjZZVjFpcVBTdWowUWlqbnNhcGp4LWxFWEl6djRpcTMwaQ?oc=5",
         "published": "Mon, 09 Nov 2026 15:14:22 GMT"
-      },
-      {
-        "title": "Rhein-Ruhr-Zentrum lüftet Geheimnis: Große Burgerkette eröffnet erste Filiale - WAZ",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWZXUmczLWVMVXV3cmtnMXdfSlpYM1ZFRFVBNlRSNl94eTVJNXdEU09Vd1Rqa1ozNFp0d29LclB6cVRSaWhTR1BBVGhET0M0ZFVvOXludXRNX3NKZnV5NXYtQjFqbkxzMEVOOG1HLURKMDY3RWhyVE1SU2M2Zk1wYjMzRFZXRU5kQWFUZ2VxejV3YTNfZWg4cUFrOUtVUFE2NjZKZVJoOEhoWHladGVya1RobEQ3VHYzSlNjcjMyQTV0cm1XbHVSOWZucUNtcjM0OG5n?oc=5",
-        "published": "Mon, 09 Nov 2026 13:01:00 GMT"
       }
     ],
     "Omnicom": [
@@ -94,14 +94,14 @@
     ],
     "Mercedes-Benz": [
       {
-        "title": "BMW 3er gegen Mercedes C-Klasse: Wer hat die Nase vorn? - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHRzS2VhRkNfNm82cFZNRmNNYjBzM3pXWGpKVDNVaDVxTzBubl8tTEpfNDlYb0pnejktUktJd3JhX05CTDVwS3RsMGtuUVJueDBnYVhPN3ZRcmQzc2JzZlc3aEd6WnlQTEtXSUhZLXZKZzRNYmdFM0dZS1c5RTI3VnNQVlNhLU56NHllMHAzZGV2VktQY3BBWUxqVEh2TjI3R0RqcVB0ck56dVRZMkhpcVFoekNnMlF0VVB5TlRn?oc=5",
-        "published": "Mon, 09 Nov 2026 09:11:49 GMT"
-      },
-      {
         "title": "Mercedes-Benz: Analyst erwartet Geduldsprobe - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFpnNEpweUdMR2s5bTNBdEU3ZXZ2Sy1rMk5xZUVCaFdEZ3RaNFp0WDlKTVhtSURZZHVqdVJNX3VoVDVObHIzZXVPZm5jaEFlbWkwSjZ5dzZNT1Vja2F5aUFBYkI1bUFhazhfeHZycDVUMUJfeThfWC1IZkJTRDdaSVNtbm9pZW9Nd0pIMkhXT05pbmRobm5Ia1pLUnFCeXVobmc?oc=5",
         "published": "Mon, 09 Nov 2026 11:49:10 GMT"
+      },
+      {
+        "title": "BMW 3er gegen Mercedes C-Klasse: Wer hat die Nase vorn? - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHRzS2VhRkNfNm82cFZNRmNNYjBzM3pXWGpKVDNVaDVxTzBubl8tTEpfNDlYb0pnejktUktJd3JhX05CTDVwS3RsMGtuUVJueDBnYVhPN3ZRcmQzc2JzZlc3aEd6WnlQTEtXSUhZLXZKZzRNYmdFM0dZS1c5RTI3VnNQVlNhLU56NHllMHAzZGV2VktQY3BBWUxqVEh2TjI3R0RqcVB0ck56dVRZMkhpcVFoekNnMlF0VVB5TlRn?oc=5",
+        "published": "Mon, 09 Nov 2026 09:11:49 GMT"
       },
       {
         "title": "RFO 2019 302 mit Mercedes-Benz-Trucks - LOK Report",
@@ -124,14 +124,14 @@
         "published": "Mon, 09 Nov 2026 15:47:16 GMT"
       },
       {
+        "title": "Mercedes-Benz Group-Aktie: Dritter Tag mit Gewinnen - WELT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0M1UWtaVUxzdHY4bzJXcXlZbzVqa2Jud2dSaUl4MVBtNTlaN1A2U3F2bUpTbU5JV2dGSEF0dDd2NFFxby1maG5IODdFdlFsOE1hODItdkZUZkRWWlZmVzJxcnNBRThpa0RlbkVKNFl6dWgzandCMGpuYXdCN2lIQ2pXelIyWDlOdFRVUWYtT3hTTnJYb2F2Z1ljdEh2ZDVvYVYwZ0x6ZXdqRVFiOXVBUFRHZWxGWVdzb0dCZEJrT1k?oc=5",
+        "published": "Mon, 09 Nov 2026 10:02:02 GMT"
+      },
+      {
         "title": "Mercedes: Es hat sich ausgedieselt, jetzt auch auf der Langstrecke - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWVqcVBwckZQTDU1bWRnR2NIM0dHSUI2WkFUU1puM3FkbDZXdS11OFdyanlpZVgyOGE2TGtlcEVYa1l4V2hzdVE4M0x4dlFzbV9hajYtQTRrTll0NHBrUEhaYW5EVnFVSm9TSDQyM2FPRVpkWWVIaHBnVmNIcF9QdkFlOUtPQUptTmR0ZmNtOTFiREN4bnM1ZFpRUQ?oc=5",
         "published": "Mon, 09 Nov 2026 04:10:37 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Group-Aktie: Dritter Tag in Folge Gewinne - WELT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXVzckpGa1BCcmN2ZjFWQnhnSTc1ZjlqSG12UlYtNU13QmxrWm9iTFhBX1FtYTFPWjBzd3ZCSk5CUXpNb19SdmFVNm9kcDE5cmFHWVlNRmRDYjdEZ2dVTlNvWG15RmZZQk9MYVpZY3RMUGVqRGdzckRRa0lQcFJidFdGTDV1VnJncHg2aFA1TklQWlo0WHVJcjY3TnZ0WGFGS2NHRm9SMzNhY0s0X3VodEtUclRPSTh3bnlwaTAtaFNWaHREanc?oc=5",
-        "published": "Mon, 09 Nov 2026 12:05:03 GMT"
       }
     ],
     "Nvidia": [
@@ -139,6 +139,11 @@
         "title": "Nvidia-Chef Huang: Affäre mit mutmaßlicher chinesischer Spionin - ORF",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBud0F1LXZONkl6cDZ4RlNHZENYd2R0LU54ZkFfSHMzYVkwUXBNVzlnaUFMLWdEd0tSSzFSUXRKZnNPLS04Wmc?oc=5",
         "published": "Mon, 09 Nov 2026 17:53:01 GMT"
+      },
+      {
+        "title": "Nvidia: Die Staatsaffäre – der Fall Huang erschüttert Washington - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUF4WGxKUVhhUkxZZHlRanF6VXFXQVI3UDl4RUczdUFld0JjZDYxTmRlS25pZjN0THFybE9ia2w5c3hIeVlPNEIwLURpU3lFZjBrUkhxWjFkTUp2cGEyRXNzQ2VweFByMGtrXzBJUGkwdHN5cUdyUmVkeExXOUdYTElKMTREdVVsV2RYZ3RJdjRzSEFkQ193ODZjc1VBNUZJUXZueVlpTG1IYlFEUUc4VXd0MlVDaXZMZ3c4bzRtUk1nRk1wQ0VobQ?oc=5",
+        "published": "Mon, 09 Nov 2026 18:11:42 GMT"
       },
       {
         "title": "(3⁺) NVIDIA: Das sagen die Analysten jetzt zur Aktie - stock3",
@@ -151,6 +156,11 @@
         "published": "Mon, 09 Nov 2026 18:34:49 GMT"
       },
       {
+        "title": "Nvidia: Nvidia-Aktie verliert nach Spionageverdacht vorbörslich an Wert - DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1RpVU1QOWQ3cGpzYW5FNXFwSThLMDFEdkZyNzJhRTVKWF9fNk16dTEweWczV1B5ZjdQbFNlTXAzcTJ1M3pydVA0LUFyd0JvejYxNC10ZVQxYUlaVWFKOGYxRmpocVdrTkh0WUhlQ0dwSlpiRXlURF9Ib3hUbDJuNDRWRTlLZk1rREZSYWhnTlhiV0pNSVZDcWpfU2N1UQ?oc=5",
+        "published": "Mon, 09 Nov 2026 12:01:48 GMT"
+      },
+      {
         "title": "Nvidia-Aktienkurs wegen Spionage-Verdacht im Minus - FAZ",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHRQeTRhMG1VcDJEenlTSnA2aElfa0daYld0QklvdXFxOTNoVjczYVE0X3pEZ3JmR0VGNXJaSW1JN25PWGw0U2VCTU4yWGhnSmR4eV9kMEtuNzVYal9fb1ZXaF9MTi04dERWNFR3aWhXT21JdTN4WG5DemVPNWhMakdTVGU3S2dSTUl3a21kOHVIWnFFSVU1TVg4NWZLMDFsa0NKcXhOTjFfRFhSWUhLSUluekFBdlE?oc=5",
         "published": "Mon, 09 Nov 2026 08:21:00 GMT"
@@ -161,19 +171,9 @@
         "published": "Mon, 09 Nov 2026 14:35:21 GMT"
       },
       {
-        "title": "Nvidia: Nvidia-Aktie verliert nach Spionageverdacht vorbörslich an Wert - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1RpVU1QOWQ3cGpzYW5FNXFwSThLMDFEdkZyNzJhRTVKWF9fNk16dTEweWczV1B5ZjdQbFNlTXAzcTJ1M3pydVA0LUFyd0JvejYxNC10ZVQxYUlaVWFKOGYxRmpocVdrTkh0WUhlQ0dwSlpiRXlURF9Ib3hUbDJuNDRWRTlLZk1rREZSYWhnTlhiV0pNSVZDcWpfU2N1UQ?oc=5",
-        "published": "Mon, 09 Nov 2026 12:01:48 GMT"
-      },
-      {
-        "title": "Nvidia: Die Staatsaffäre – der Fall Huang erschüttert Washington - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUF4WGxKUVhhUkxZZHlRanF6VXFXQVI3UDl4RUczdUFld0JjZDYxTmRlS25pZjN0THFybE9ia2w5c3hIeVlPNEIwLURpU3lFZjBrUkhxWjFkTUp2cGEyRXNzQ2VweFByMGtrXzBJUGkwdHN5cUdyUmVkeExXOUdYTElKMTREdVVsV2RYZ3RJdjRzSEFkQ193ODZjc1VBNUZJUXZueVlpTG1IYlFEUUc4VXd0MlVDaXZMZ3c4bzRtUk1nRk1wQ0VobQ?oc=5",
-        "published": "Mon, 09 Nov 2026 18:11:42 GMT"
-      },
-      {
-        "title": "Untersuchung gegen Nvidia-CEO wegen Affäre mit mutmaßlicher chinesischer Spionin - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmNZYjdvWUVjMU04aDluRjc0dk4zRGdyandKSEJ1MkFGem1wU1A0U3FZX0llZE8wUEFUY2s1R3c2UEZCOEhPbUlvRkdyVE9JZzdCUmREQkhOT0I3bE50Z3Q3TEhmTE9UZkVybXVOZG9uLW0yLUZ5NkdzSWhyUWY1UnNSbE1sbUhGUmdnZHJhVjdqOW0xbWpsODRRUDVrOGRFbWdxel81SXJ1OUFMQnBlbl9XbGtFYXMzeGc?oc=5",
-        "published": "Mon, 09 Nov 2026 08:43:00 GMT"
+        "title": "Droht Nvidia-Boss Huang jetzt die teuerste Scheidung der Welt? - oe24",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0lWb2psLXp0X2pPS2JXUWplcFIzWEh1NkdyOVRxdy05ZG5QOG1qVTFYUFBzT0lEa041MzY5ZHlKb0pFeWJYb2Y0U1J0LXV0NTFaeTdBcVFWOWNyaFRRYjlPY3ktS3l2RTZPenVoZUh0cy1RU0ZoYWxNd0FhZGp4bndjdEFrZlJSTDJuNlhFdWZnZ1pXNjdkOdIBngFBVV95cUxOVExiOGlsTGVGdktvNmpZZEVhaGNiYmduZ3NmUC1NTTNqWGVFY3duRVoxTHpLZFBSN19GWjBaTzlLTXNFd1dJZVBBTDlnc2M2ZWZhMVA3Y3I3UnA1SS1PZnhWeWtYWjNuZzR6MTFoSF8tQXNJbS12WTctXzFfNmxaT0psUW5YUVNXZGVsQjI1aDdnWkI3MlVsaDRzdENidw?oc=5",
+        "published": "Mon, 09 Nov 2026 22:19:31 GMT"
       }
     ]
   },
@@ -205,6 +205,11 @@
         "published": "Mon, 09 Nov 2026 08:48:08 GMT"
       },
       {
+        "title": "Nicht in New York, nicht in Frankfurt, sondern in Wil - Wil24",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUFDV1h5Vmd2alRmUHVGWGFHem9FUHZhUWFJNk9xWkpGLWJkOXJMM1dOdE5RdV91eWh5dkxlT3BPaXk3aDZOVWE1alBoRkJhN3BlSUJyOXlCbnlRMTJHb1MtVFEwRzltTWEwOVZ2NmlQOEtnZThMTk1BR2wyczdJUnEteEE5UEMwT1lkSA?oc=5",
+        "published": "Mon, 09 Nov 2026 19:54:54 GMT"
+      },
+      {
         "title": "Deutsche Börse verliert trotz positiver DAX-Entwicklung - Nau",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFdVUW14bW42NG9XV0x4TG5xd0VnWXpnRVh0a1hRSWQ0S2twZkdUNFNiYmNHSTFuM2EwbVlsY2wwWDZ1X00zZHdaOEdBZjlMLWJFelJnNVdrZkplY2ZWRUJHb2pObWdnc2hVc3NwTU1zMW9vMW9ZVk9idDViaFFkOElYWngwSjBobHRKdGd5ckdwWTQ0RG1QODlPVno5ZTc5?oc=5",
         "published": "Mon, 09 Nov 2026 15:35:53 GMT"
@@ -213,11 +218,6 @@
         "title": "Börsen-Krimi: Nach Nexum-Rauswurf führt Spur zu Benko und Marsalek - Merkur",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV096SzR0NENxdUI3ZTczRjlneHRVclhBWUJsRUlVbkJfeUlFX2ZLRDhxRWxJTE9IOHlpcVFlNkU5Y29vZHNzTkd5dGVjRWVpUkNPYk5SbFRkOU5oT21BaEV6X3FuTkhnb2haQUxTakp6VTRYNURDd1UtNHNMLTVKTHh4aVZGdkduSHR5clNLbEFXUWhJTDRsS0V6VEpkYXlLaUVISTlONFpIVFl2U3VuWEdibk8wdE16?oc=5",
         "published": "Mon, 09 Nov 2026 06:30:43 GMT"
-      },
-      {
-        "title": "Nicht in New York, nicht in Frankfurt, sondern in Wil - Wil24",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUFDV1h5Vmd2alRmUHVGWGFHem9FUHZhUWFJNk9xWkpGLWJkOXJMM1dOdE5RdV91eWh5dkxlT3BPaXk3aDZOVWE1alBoRkJhN3BlSUJyOXlCbnlRMTJHb1MtVFEwRzltTWEwOVZ2NmlQOEtnZThMTk1BR2wyczdJUnEteEE5UEMwT1lkSA?oc=5",
-        "published": "Mon, 09 Nov 2026 19:54:19 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -281,7 +281,7 @@
       {
         "title": "KI-News aktuell: Nvidia-Chef hatte wohl Affäre mit chinesischer Spionin - WirtschaftsWoche",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnBRaFBRTlo1NU12ZHoxR2VPaTUwVDM5UlExcHRWV2xwTzY2MzJRS004d2t6eXlCM1E5ek42SmllYlpFTW53OWdmVV9hczBMRHBEbG90cTV5LTNRbmwzQmlBRkVvYk5OdG51TWFSSkRLQWNsdmRZNWJtNl9xdmtyanB2VmMtcmJiajdETGtuRElaVUVOVENrT2FSOEdQcm1kd01DVUFRSGU0cE9xbm9IX05rRGtLeGwtcWsyU1JB?oc=5",
-        "published": "Mon, 09 Nov 2026 22:37:10 GMT"
+        "published": "Mon, 09 Nov 2026 23:51:03 GMT"
       },
       {
         "title": "Thomas Fuchs: Wie ein Österreicher die KI-Strategie des wertvollsten Pharmakonzerns der Welt verantwortet - brutkasten",
@@ -299,9 +299,9 @@
         "published": "Mon, 09 Nov 2026 09:28:05 GMT"
       },
       {
-        "title": "Anwendung künstlicher Intelligenz im Rundfunk und Fernsehen - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHh1bGJYWFVuOEZoWW9DSzBOVGs0YWRNVTJxd3JvSjFPQlVzTGlydlRPLXFYOEdWYmJZUy1yd1dzYk5fYkJPQ1lqZm0tVExPZ0dyY0dDWEl5S2MwS0FZNFZlRmVpYjlPLW9ac1ZzMVdOZHhMYmQ4aHFUQW1oVlVLdVBfQzVWb3JS?oc=5",
-        "published": "Mon, 09 Nov 2026 16:45:10 GMT"
+        "title": "Lehrer in der Welt der künstlichen Intelligenz: Die Qualitäten des Lehrerberufs bewahren. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDJzVVJqZ3dnY3lRRzhiQ1kwaUJ5ckxqb1BhZkxJY1YtNWJDeDlyYS1JMVFNaGt0RWdQWkVaTFFDTUdhS3BlOUN3RzlEOHlvUkFXRjQ5b1o0X1VoYndYbHZSbEU5NUs2ek1LeU9LUTVGYk9Wb0JPSGQzb2FvUXVkc3ZmUzNJdV9BTlQwclhJcmxMT3A3ZVpCLUZzYUQ?oc=5",
+        "published": "Tue, 10 Nov 2026 00:00:13 GMT"
       }
     ],
     "Meine Aktien": [
@@ -309,6 +309,11 @@
         "title": "Nvidia-Chef Huang: Affäre mit mutmaßlicher chinesischer Spionin - ORF",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBud0F1LXZONkl6cDZ4RlNHZENYd2R0LU54ZkFfSHMzYVkwUXBNVzlnaUFMLWdEd0tSSzFSUXRKZnNPLS04Wmc?oc=5",
         "published": "Mon, 09 Nov 2026 17:53:01 GMT"
+      },
+      {
+        "title": "Nvidia: Die Staatsaffäre – der Fall Huang erschüttert Washington - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUF4WGxKUVhhUkxZZHlRanF6VXFXQVI3UDl4RUczdUFld0JjZDYxTmRlS25pZjN0THFybE9ia2w5c3hIeVlPNEIwLURpU3lFZjBrUkhxWjFkTUp2cGEyRXNzQ2VweFByMGtrXzBJUGkwdHN5cUdyUmVkeExXOUdYTElKMTREdVVsV2RYZ3RJdjRzSEFkQ193ODZjc1VBNUZJUXZueVlpTG1IYlFEUUc4VXd0MlVDaXZMZ3c4bzRtUk1nRk1wQ0VobQ?oc=5",
+        "published": "Mon, 09 Nov 2026 18:11:42 GMT"
       },
       {
         "title": "(3⁺) NVIDIA: Das sagen die Analysten jetzt zur Aktie - stock3",
@@ -326,24 +331,19 @@
         "published": "Mon, 09 Nov 2026 14:35:21 GMT"
       },
       {
-        "title": "Nvidia: Die Staatsaffäre – der Fall Huang erschüttert Washington - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUF4WGxKUVhhUkxZZHlRanF6VXFXQVI3UDl4RUczdUFld0JjZDYxTmRlS25pZjN0THFybE9ia2w5c3hIeVlPNEIwLURpU3lFZjBrUkhxWjFkTUp2cGEyRXNzQ2VweFByMGtrXzBJUGkwdHN5cUdyUmVkeExXOUdYTElKMTREdVVsV2RYZ3RJdjRzSEFkQ193ODZjc1VBNUZJUXZueVlpTG1IYlFEUUc4VXd0MlVDaXZMZ3c4bzRtUk1nRk1wQ0VobQ?oc=5",
-        "published": "Mon, 09 Nov 2026 18:11:42 GMT"
-      },
-      {
         "title": "Untersuchung gegen Nvidia-CEO wegen Affäre mit mutmaßlicher chinesischer Spionin - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmNZYjdvWUVjMU04aDluRjc0dk4zRGdyandKSEJ1MkFGem1wU1A0U3FZX0llZE8wUEFUY2s1R3c2UEZCOEhPbUlvRkdyVE9JZzdCUmREQkhOT0I3bE50Z3Q3TEhmTE9UZkVybXVOZG9uLW0yLUZ5NkdzSWhyUWY1UnNSbE1sbUhGUmdnZHJhVjdqOW0xbWpsODRRUDVrOGRFbWdxel81SXJ1OUFMQnBlbl9XbGtFYXMzeGc?oc=5",
         "published": "Mon, 09 Nov 2026 08:43:00 GMT"
       },
       {
+        "title": "Droht Nvidia-Boss Huang jetzt die teuerste Scheidung der Welt? - oe24",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0lWb2psLXp0X2pPS2JXUWplcFIzWEh1NkdyOVRxdy05ZG5QOG1qVTFYUFBzT0lEa041MzY5ZHlKb0pFeWJYb2Y0U1J0LXV0NTFaeTdBcVFWOWNyaFRRYjlPY3ktS3l2RTZPenVoZUh0cy1RU0ZoYWxNd0FhZGp4bndjdEFrZlJSTDJuNlhFdWZnZ1pXNjdkOdIBngFBVV95cUxOVExiOGlsTGVGdktvNmpZZEVhaGNiYmduZ3NmUC1NTTNqWGVFY3duRVoxTHpLZFBSN19GWjBaTzlLTXNFd1dJZVBBTDlnc2M2ZWZhMVA3Y3I3UnA1SS1PZnhWeWtYWjNuZzR6MTFoSF8tQXNJbS12WTctXzFfNmxaT0psUW5YUVNXZGVsQjI1aDdnWkI3MlVsaDRzdENidw?oc=5",
+        "published": "Mon, 09 Nov 2026 22:19:31 GMT"
+      },
+      {
         "title": "Nvidia-Aktienkurs wegen Spionage-Verdacht im Minus - FAZ",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHRQeTRhMG1VcDJEenlTSnA2aElfa0daYld0QklvdXFxOTNoVjczYVE0X3pEZ3JmR0VGNXJaSW1JN25PWGw0U2VCTU4yWGhnSmR4eV9kMEtuNzVYal9fb1ZXaF9MTi04dERWNFR3aWhXT21JdTN4WG5DemVPNWhMakdTVGU3S2dSTUl3a21kOHVIWnFFSVU1TVg4NWZLMDFsa0NKcXhOTjFfRFhSWUhLSUluekFBdlE?oc=5",
         "published": "Mon, 09 Nov 2026 08:21:00 GMT"
-      },
-      {
-        "title": "NVIDIA-Aktie unter Druck: Jensen Huang zwischen Spionageverdacht und China-Geschäft - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamxtYTBnMHlVbFdrcUhkNnhWaGg0VS0xWjdfc3NiV3lJNmtZX3ZyWlFHRjltcVFWYmRHSjVqVVlPWVdfa3BzNUlidS0tc29NZWc0ajVVTzdTdE91aTJiZ1ZzSmU2elFLLVJYNldDSUt4clhFOXBuSWpjRHhETWJCdTd5T1p1cTJEWjFpS0J3VGIyeGw5T3F5WFN0S044eTU2cERSaVl6Z1FNZUoxNEwyazVINUxxRkJPYTR4NUNpQWxfSmFtaUtXSE8xZTFkMEROSUE?oc=5",
-        "published": "Mon, 09 Nov 2026 21:18:00 GMT"
       }
     ]
   }
