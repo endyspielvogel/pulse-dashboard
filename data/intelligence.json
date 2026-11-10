@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T08:11:26.184725+00:00",
+  "fetched_at": "2026-11-10T09:22:43.548202+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -11,6 +11,11 @@
         "title": "Neue Jobs: Job Day für McDonald's in Bischofshofen, 50 neue Arbeitsplätze entstehen - MeinBezirk.at",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dvaXhuOUlpaFoydllSQW1YbDBKZ1FmRHVPVTVHZVU2TUtwdFA0NUZ3ejM0cDY0QVNIN2F5bGluUjBSNHc3b0dqaHpLOWEtTjhjdlp1bnZsV3NaZzJIWkstcWZrSmJlXzlZbjE2NXlvdHh3bFBBUW9QZ203WHN1SE10b1FqdmNGZ3htZEVLUzZuczFtUFZJQjZyMm5rYzZ6MTBtakh4TzVaVHBuUjlJYVFkZEd1ekJfaGpLU2FRRmhqQQ?oc=5",
         "published": "Mon, 09 Nov 2026 09:31:36 GMT"
+      },
+      {
+        "title": "\"Mäcci-Baby\" Emily bekommt Mega-Geschenk - oe24",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENE1rWFJ0aXVVanZNWU44TDF0TjVYN2JEN1pFM2pmRm5yNWs5cmZoTzRZRC1Ud3hQdDZUUmozMENpTUtWb0hka2FOeVc3dnFXaVV0dkFwdjF3WS1fZDduYWdrN0pwbDhXRjdZTEctakdkamI4OTJ0cVV3a9IBgAFBVV95cUxOczBfcXhoN0N1Nmt2dWhKT3hlS3ZhQjR5ZDRPY1BHdkRnZ3k0dFp4OWZGQXFzZjllVzlBX2xQdjhsWEFYU2p0X1ZHeTMyOVNwbERNSnN2YTFYTGhQdVRnSVdCdXhmUV9NNUlpVzNuSXRHZVYyQjVmMnVYVjB6QWRPMg?oc=5",
+        "published": "Sun, 08 Nov 2026 13:35:00 GMT"
       },
       {
         "title": "Genshin Impact: McDonald’s-Japan-Kollab mit Varesa & Escoffier - games.gg",
@@ -36,11 +41,6 @@
         "title": "McDonald’s bringt Kult-Gadget zurück - techbook",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZW1fejZHRWFPYnk3aWdIQmg5eXJKNXpnOHduRzVEU1lpR0RHQ19iLXlQaDFLWnNLemFIcDdSb3RCTUV5V2JPYzBzSHU3TkFKU1N3RnNna1ZqcEcwd0llYkRvVU1qYnJYRmVEZDJadFNoOElhVE1LOVFodm94R2o2S2ZBellRZVR4?oc=5",
         "published": "Mon, 09 Nov 2026 14:12:00 GMT"
-      },
-      {
-        "title": "Uber und McDonald's bauen Partnerschaft aus - MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU9mMGplU2lhYTRKVWw2UWo0WHU5d19FcF80c2ZndEU5SDVMUkNxTm1SRG14azIyTDN3VjZyNzliQVAxdzFQNmR3NkFvWmQzOGNESDRPdnU0dDlBSTduUXl3azFxNXJQOFpOTnY5YTZUS3RCX0E3bUV0SW54akItR2s2NC1Ha1E2SkllcXc2VWhkTEludWRjY0prNkFEYTFqWEM1TGZzdWxxNzFXRnc?oc=5",
-        "published": "Mon, 09 Nov 2026 14:19:17 GMT"
       }
     ],
     "Burger King": [
@@ -114,14 +114,19 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Autokonzern: Mercedes-Benz will mehr grünes Aluminium und lockert Klimaziele - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnplQUNVdEJLV0RQRF9zTWJlcnZDXzdJd0ItU0t2M0xxSnkzd1J4OFJSc2JTTHlfM05oemhzcVU0aU5od01NUzVoOTg2QTFQZk1QMGhVLXdlOVZPb2JuZTFtZHRWU0JjcmNFczVIOVpGWGw3MGxGc0ZXbkpSVk81ZG8xVnlDOS1Ib3FzYWNreE14bV84Q24xU1QwdWsxRjFCcl9rSDF4NlZPTWN1bVVDYlVubXRLU3NIdUlqcmhQU3dUQWFRR1FUbzNacGQtNXNnWmlPcHdGcGxSZw?oc=5",
+        "published": "Tue, 10 Nov 2026 09:18:30 GMT"
+      },
+      {
         "title": "Daimler Buses präsentiert die neue Generation des elektrischen Stadtbusses Mercedes-Benz eCitaro - busplaner",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3dkVk5vZDFBVHhuUDVnY0J3dFpUdVJTaVdQTmtsQlJPU2lWT1gyUWplZVpPUmtqSk9IWFdBZ01uOTJmRWllVmpFQ1VzQ2NhOXFiNVhXRmg5aUZweTVnRmVwQXBydDA2ZER1NFEtOXZjaUIzYXZ6eUpnNGkyN3JsUDR2T2lWalYzY2RwU21nOHRxNHNnZmJSN1FKWmN6d0xCdmVZVXJ2NEdOSUY1RzMtOUlKRHVZTk5xR3QtbnZSU2p2TTE5aEZ0dlh6Rkc0aFp0b09ZMFk4WUZMZw?oc=5",
         "published": "Tue, 10 Nov 2026 08:01:22 GMT"
       },
       {
-        "title": "Mercedes-Benz: Analyst erwartet Geduldsprobe - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFpnNEpweUdMR2s5bTNBdEU3ZXZ2Sy1rMk5xZUVCaFdEZ3RaNFp0WDlKTVhtSURZZHVqdVJNX3VoVDVObHIzZXVPZm5jaEFlbWkwSjZ5dzZNT1Vja2F5aUFBYkI1bUFhazhfeHZycDVUMUJfeThfWC1IZkJTRDdaSVNtbm9pZW9Nd0pIMkhXT05pbmRobm5Ia1pLUnFCeXVobmc?oc=5",
-        "published": "Mon, 09 Nov 2026 11:49:10 GMT"
+        "title": "Unimog U318 NKS-F-UGE-42 Mercedes-Benz Hydrostat Agrar LOF Easy-Drive Variopilot405/10 405/12 UGE Mercedes-Benz U 318 323 327 423 427 429 430 EasyDrive Variopilot Radlader Hauer rx 500 Frontlader - top agrar",
+        "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQbjE2YkRIeU9UckhUTkpxYzN2ODVoNmZzbUNyWU1oQlVzazEtR3Z4aVdxVi1rM0wxeElkNjR4aG85V1NlYU90LUgtcFAyREZadE5pVmhJUWVSdW92R05vY3BzN3k0bm5xdWhDbWNvVmtWV0dLaGNteWY3b0o1QzB2V0hvQmN6SVZtRU9CQTB2TzlKQ3hjNFUxT3cwNThFVENiNFlHMHFQUjh4cGVQUzJjY0sxMklRZkZIRndacV9XTmdyTlZfcXJqY24xTEFQa1YxVDBnQlFLT01GQXI4dGxzRXRLRzJSckE2eUtNZk9UMlVCaFdjU2R5ZHhZcXBuRTYzNFBSajMzYmtBR0E0cU12cEN5MVdjLWUtSV9LZVlCQXZ3TkwyYVFydnVGbEZKVGVwYWpGemlhdTJXLWROX0ZacWtQRXp3OW5vUVV3Ym1FQzhIYlczMjB3aGd3XzAtY1ZxVDM4dzNxU2MtN0REN09yWWpXbzBRVldIZmhlUjJkOUxDSnJ1cGZSdzdRQXQ4UHRmRmZFeDJyM0JDSGNYUlV2elZuWENNbmUwMDNEVVNPeG41UFM4R2ZhQTBZWExuQmQ4ZXc?oc=5",
+        "published": "Mon, 09 Nov 2026 23:10:17 GMT"
       },
       {
         "title": "Fast 500.000 Euro! Dieser irre Mercedes gehörte einst einem Formel-1-Star - Autobild.de",
@@ -129,14 +134,9 @@
         "published": "Mon, 09 Nov 2026 18:28:00 GMT"
       },
       {
-        "title": "ANALYSE-FLASH: Jefferies senkt Mercedes-Benz auf 'Hold' - Ziel auf 44 Euro - T-Online",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYk1oWUN1eHhOa0hDbzhNZDN0Ql9fX2N2eGdzYzB2WnlUSEdtN0JEeE11ZkpsMzBOSWRRUjBCcGtMTktja3lNUjZRYXF1Y0FidGdiR05sOVJuODNHUkkzYm9PSV9tdThiTHZCa1dFLWtDZHNvaTBpZ0hOTDJHY2R0Y3hEVEJobUdpcEFYd2JDbUR2NUs1VjBtYW9pMnF4ZDIwVWhmcTNlSjV1MnFLYzFfNXJLbUQtY3hMeFc0VkR2QUFkZFFNMkxTOVM5bnY4VEk?oc=5",
-        "published": "Tue, 10 Nov 2026 06:35:00 GMT"
-      },
-      {
-        "title": "BMW 3er gegen Mercedes C-Klasse: Wer hat die Nase vorn? - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHRzS2VhRkNfNm82cFZNRmNNYjBzM3pXWGpKVDNVaDVxTzBubl8tTEpfNDlYb0pnejktUktJd3JhX05CTDVwS3RsMGtuUVJueDBnYVhPN3ZRcmQzc2JzZlc3aEd6WnlQTEtXSUhZLXZKZzRNYmdFM0dZS1c5RTI3VnNQVlNhLU56NHllMHAzZGV2VktQY3BBWUxqVEh2TjI3R0RqcVB0ck56dVRZMkhpcVFoekNnMlF0VVB5TlRn?oc=5",
-        "published": "Mon, 09 Nov 2026 09:11:49 GMT"
+        "title": "Mercedes-Benz: Analyst erwartet Geduldsprobe - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFpnNEpweUdMR2s5bTNBdEU3ZXZ2Sy1rMk5xZUVCaFdEZ3RaNFp0WDlKTVhtSURZZHVqdVJNX3VoVDVObHIzZXVPZm5jaEFlbWkwSjZ5dzZNT1Vja2F5aUFBYkI1bUFhazhfeHZycDVUMUJfeThfWC1IZkJTRDdaSVNtbm9pZW9Nd0pIMkhXT05pbmRobm5Ia1pLUnFCeXVobmc?oc=5",
+        "published": "Mon, 09 Nov 2026 11:49:10 GMT"
       },
       {
         "title": "Mercedes-Benz Aktie: Vorstand stellt sich Anlegerfragen - Börse Express",
@@ -144,14 +144,14 @@
         "published": "Tue, 10 Nov 2026 02:11:07 GMT"
       },
       {
-        "title": "Letzter Mercedes-Benz SLR McLaren Stirling Moss kommt zur Auktion - Tuningblog",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTFFhUWZMSXBjenJvbVZXQ0FuckZWdXV1T3l2ZGFUcS1LbTBWUGtqWlNqUDBxazZoV2VNaWFpR3lUSm1pUmZ4OFRONmI1azJRVWk3WEp6SzJ5RTlhcGgxNmp0dHNHekdkM1lOWmpBdjhxckZ6RTVHb2hYYzAwY2JoTXJjcWVGbGtENDlfVTBuUUZ3eHR5bGd1ZDhLTmdvQUxVdlNuTUpTcw?oc=5",
-        "published": "Tue, 10 Nov 2026 05:52:15 GMT"
+        "title": "BMW 3er gegen Mercedes C-Klasse: Wer hat die Nase vorn? - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHRzS2VhRkNfNm82cFZNRmNNYjBzM3pXWGpKVDNVaDVxTzBubl8tTEpfNDlYb0pnejktUktJd3JhX05CTDVwS3RsMGtuUVJueDBnYVhPN3ZRcmQzc2JzZlc3aEd6WnlQTEtXSUhZLXZKZzRNYmdFM0dZS1c5RTI3VnNQVlNhLU56NHllMHAzZGV2VktQY3BBWUxqVEh2TjI3R0RqcVB0ck56dVRZMkhpcVFoekNnMlF0VVB5TlRn?oc=5",
+        "published": "Mon, 09 Nov 2026 09:11:49 GMT"
       },
       {
-        "title": "Mercedes-Benz Group (ex Daimler) Hold (Jefferies & Company Inc.) 10.11.2026 | Analyse - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2tncTg4Y3VsTm9BYXNld3JkZW1DRVNBS1QyYzRZTWJrRU5OOXR4VUdHR3JNbVh6MlNES2UzX2FvVmtFVEQzY1lqWnVCQm5FdTdVdjMtUTZqWmpieTJTSnlINEtzSmFGREdYbENERUdWUmZRYWtuOFh0QWd2WWU2aktMbjlMYUZSSDA1TTkwc3dKODdKa3lUbVliUy1BUkc2X2Vv?oc=5",
-        "published": "Tue, 10 Nov 2026 07:09:39 GMT"
+        "title": "Letzter Mercedes-Benz SLR McLaren Stirling Moss kommt zur Auktion - Tuningblog",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1FOVTFtdm5xMUZkU29VOHZYaGtJNVRvZU1yTmhwSVh6MFB6S3NFTUtFQ3N0N0xWNEZGNjRNd0NGR3hmQ3VsMlE2dFI1YVpqZUhfNFRUOEJBVW8tdldUaEJ0QnhSTnc1OGJWSHpKOUF2NW5IYkJ3SU9jajYxQ24walR1QmdhU3pZUmlQTg?oc=5",
+        "published": "Tue, 10 Nov 2026 05:52:15 GMT"
       }
     ],
     "Nvidia": [
@@ -171,6 +171,11 @@
         "published": "Tue, 10 Nov 2026 06:21:00 GMT"
       },
       {
+        "title": "Bringt der Nvidia-Kurssturz unsere Vorsorgegelder in Gefahr? - Blick",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMElOTXBsVWpXblVUTWdoU0JCeGlBbnBoYUgwQ2VSM1pXZTMyUDdsc1A5VWpxdzBuZUFHQ2dRZFVFVEFlNzZTZUxRUW5Vb0FLS3dLTk1kUUJsbG9HNWJHZlhwaVZWMUVObDBDMU1aN05PUld3WERJc0Y4VWstajRVVkpBWmY1eTVRaEdXYUlCazV2QUpFLW02a3VRZjBKUWlNamVaMFAtQmN4LWdS?oc=5",
+        "published": "Tue, 10 Nov 2026 07:38:43 GMT"
+      },
+      {
         "title": "Nvidia: Die Staatsaffäre – der Fall Huang erschüttert Washington - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUF4WGxKUVhhUkxZZHlRanF6VXFXQVI3UDl4RUczdUFld0JjZDYxTmRlS25pZjN0THFybE9ia2w5c3hIeVlPNEIwLURpU3lFZjBrUkhxWjFkTUp2cGEyRXNzQ2VweFByMGtrXzBJUGkwdHN5cUdyUmVkeExXOUdYTElKMTREdVVsV2RYZ3RJdjRzSEFkQ193ODZjc1VBNUZJUXZueVlpTG1IYlFEUUc4VXd0MlVDaXZMZ3c4bzRtUk1nRk1wQ0VobQ?oc=5",
         "published": "Mon, 09 Nov 2026 18:11:42 GMT"
@@ -181,19 +186,14 @@
         "published": "Tue, 10 Nov 2026 07:01:15 GMT"
       },
       {
-        "title": "Bringt der Nvidia-Kurssturz unsere Vorsorgegelder in Gefahr? - Blick",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMElOTXBsVWpXblVUTWdoU0JCeGlBbnBoYUgwQ2VSM1pXZTMyUDdsc1A5VWpxdzBuZUFHQ2dRZFVFVEFlNzZTZUxRUW5Vb0FLS3dLTk1kUUJsbG9HNWJHZlhwaVZWMUVObDBDMU1aN05PUld3WERJc0Y4VWstajRVVkpBWmY1eTVRaEdXYUlCazV2QUpFLW02a3VRZjBKUWlNamVaMFAtQmN4LWdS?oc=5",
-        "published": "Tue, 10 Nov 2026 03:08:30 GMT"
+        "title": "Nvidia-Chef Jensen Huang: Warum eine Nachfolge so schwer ist - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0gzTnRYRTRudjE3S1czRlMyQUdlVkk4UlBQOTY0R1BZRHJKaEZYVm1sbkJvN1IzLXdHcmJ1YkIxTHUwVE9JX24waFlNVi1WMUxmbUJqbXdlWExCRXRzWXpKS1BoUjZqckVYQzh6MllCR3VJaUc4MkpkX2dqeV9CTFAxdTAySmd5THRpTDNGRU5uYVVkUHZNdkx4R1RoZXZLVUlWQzdRTEhUMHlFSmc?oc=5",
+        "published": "Tue, 10 Nov 2026 06:55:43 GMT"
       },
       {
-        "title": "Nvidia-Aktie unter Druck – das sagen die Analysten - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVdwQjQxcEc5MkxIclROT054c1VndFM4NjBtOC1jblZVZkxGZWhmNnNpVGNCNHVLVDlCUmphZ1ZyeDBXazZaUXRMZ3Z6TEx1THFraUNoWXk2LU53X1Iya2xnbVNTODRfd0daZWdzUE9PWngtVnREOE9BenVHU3RQQk9zb2ZDM2R4bU5hZjZzX2Z1ZXdZSjI4aUg1NERwMXB6bVFDbDdsaWE?oc=5",
-        "published": "Mon, 09 Nov 2026 18:32:00 GMT"
-      },
-      {
-        "title": "Trump verteidigt Konzernchef: Aktionäre reichen Sammelklage gegen Nvidia ein - n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDNscmdYSkt5NUpyNURQaWxJdHJEdk1sUjg4Y0pReDQ0bUdPc3lHeld1WmFDM3RGeUp4d2lsVFBnbDhJdkZsMnZRcVhqX0lUZWZWd3hpOUVwYUZid0FVTTZlTmNEdTFZdTlKZXVIbXhoMzlYZ0pfY0dJYnZSOFFKRWNiSDZxTHAxdHFCd2d4NDdraFpaUGwyLUVn?oc=5",
-        "published": "Tue, 10 Nov 2026 00:51:17 GMT"
+        "title": "FBI ermittelt zur Affäre des Nvidia-Chefs - GMX.AT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUhJci1OT3pWWHFwblAwdWU2bzRlMnEwMnF2TEdYb1R0NS10WV9jTkJ2LTZ4R05QRW1wMzFkWm1JTUNHdm9LNGdiZkFqLTVWamwxd1hfcS1nYXp6Wk5rTnJrUUh6bkI2dU03VERXNkdDQmhkcTRrbzJ2QlcyYzdvM2JHTlJWaWc3bU1iWDhKRjR6RkpwQ1czVE5zWFNsZw?oc=5",
+        "published": "Tue, 10 Nov 2026 08:39:28 GMT"
       }
     ]
   },
@@ -242,6 +242,11 @@
     ],
     "Werbung & Marketing": [
       {
+        "title": "Advertorial Agentur im Vergleich: Die Top 10 für 2027 - BASIC thinking",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkhONWl0STVXckhMV3o3YXpGaVBPbzBHcTFGUWRhSi1FNklPbldXdDFyLWFGMkRfZG9zem9PbkU1MzdVQVVsOThTWHFKSlhIa2RQWDBrTHdrWU5nMzV3ZHAxTUZVXy1YeDFYSk1FUWdJUE5fYUVlQ0ZEOEdBZ083Mm12N3dXakJ2ZUtLUHlFaldrM1FyN1lObS1DdUF3TE9ZVXc?oc=5",
+        "published": "Tue, 10 Nov 2026 08:30:35 GMT"
+      },
+      {
         "title": "JETZT Agentic AI: Wie KI-Agenten Marketing und Werbung massiv verändern und wie man sich jetzt darauf vorbereitet - INTERNET WORLD Austria",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0dnRVZjaXNqT20wdzhXT01jVk00UUZuREE0UW9CakhLSURYMS1zUDkzdHJ0NUdLSjRpSTN6SGR5T2Z5dXNQaVd6MXpBZE1nRnM4cTdPUmYxVENzTVM0TWlNcV9iQmJLWmxWbWZZVEluNjM1dGpVTHJOQUV0ckJPLVRpVU9zNEpxVmg4Z04tZXVRQVJnMDRhUG1BQ1Rma3dZYUhlcW9lbFRYaU1KZXF5bVFnQUpJcHc3OW9Yb19DZFQ5M2FtWTJWWjdTbnBRMTVpTlZaT0FB?oc=5",
         "published": "Mon, 09 Nov 2026 07:30:00 GMT"
@@ -267,36 +272,31 @@
         "published": "Mon, 09 Nov 2026 15:18:00 GMT"
       },
       {
-        "title": "PR-Stunt entgleist: \"Fake-Razzia“ von Content Creator HandOfBlood \"unterschätzt\" - derStandard.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzR1ODhIQnhfd1lSbG9lc2YxUUZrRFprb19jSWxrVmtadE1zN25nQnkwMGFxYjhvM1ZTRC1ja0hqUE9VQmZSbmxDYUhScDI2eTF0cVUwWmp4cE1OYktWUUZyemlLZkxzbXE3cXlCT3Y3TjJ0RkNIZDkwNlRJMkV3WlpBNjhOVjlWWVZmWDdHRVNYaTJlUE5qSk52ZTM3YUVVbENmMWY1cGplZkV3eFJTT3lGa1Voa0lJMGd5S1R3eXQ?oc=5",
-        "published": "Sun, 08 Nov 2026 17:03:00 GMT"
+        "title": "YouTube-Ärztewerbung: LG Darmstadt verbietet Vorher-Nachher-Bilder, Schleichwerbung & alte TV-Beiträge ohne Datumsangabe - Anwalt.de",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUmdJTHdkd1BqTDl5ZmQyS0ZXdXQzQ3pWbzdYUjZuLTJSMGtWUGFLWVd6SzlGTmFoeXFUQkNRRlkzc3dzT2RGdWhlX3NKS2d1czVncEJEUDB2N0hCcTBPR2ZveXZkd1N0VEZaLUJkcUdTVl9YNTdMZE5RUVVIQURTQWNyenBteG95SUlhTkU0R2FsYVJNVWw0MEF1bzM3VGN5WGU5ckhlZ0MybTFaaGR4RjNXRzY0Vi1VQjJ4WGNxcDB5bU1MNFFnMXJxR1l3cGRMWHg5TU5pWTJCalVQVm00Y2Q4Y0FpUVRSZ1JMRU5Vc19oU3NsMHhkSnR4VG4?oc=5",
+        "published": "Mon, 09 Nov 2026 15:08:33 GMT"
       },
       {
         "title": "Family: Agentur aus Uster baut Suchard Express neu auf - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmxyU1l3SWwxbnFKOGs3ZU9MRWZXUkE0dzJaMV9vSlBkU3FmZGlHUDFXMU5Idm5EZ2lydS1OMjZvaU5PQm9jN1UxMnlSN3hDRTFNMlkxY3l4SjVTVXN2LW1CUGNQQ1VIbHYzbkgtZlVoSW9QdnN2OXlzalNVektPZEEyS0hJWjB0OTA5N3psbUhEbGhrLXpB?oc=5",
         "published": "Mon, 09 Nov 2026 10:07:31 GMT"
-      },
-      {
-        "title": "YouTube-Ärztewerbung: LG Darmstadt verbietet Vorher-Nachher-Bilder, Schleichwerbung & alte TV-Beiträge ohne Datumsangabe - Anwalt.de",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUmdJTHdkd1BqTDl5ZmQyS0ZXdXQzQ3pWbzdYUjZuLTJSMGtWUGFLWVd6SzlGTmFoeXFUQkNRRlkzc3dzT2RGdWhlX3NKS2d1czVncEJEUDB2N0hCcTBPR2ZveXZkd1N0VEZaLUJkcUdTVl9YNTdMZE5RUVVIQURTQWNyenBteG95SUlhTkU0R2FsYVJNVWw0MEF1bzM3VGN5WGU5ckhlZ0MybTFaaGR4RjNXRzY0Vi1VQjJ4WGNxcDB5bU1MNFFnMXJxR1l3cGRMWHg5TU5pWTJCalVQVm00Y2Q4Y0FpUVRSZ1JMRU5Vc19oU3NsMHhkSnR4VG4?oc=5",
-        "published": "Mon, 09 Nov 2026 15:08:33 GMT"
       }
     ],
     "Technologie & KI": [
-      {
-        "title": "Billionen-Überschuss: Künstliche Intelligenz stärkt Chinas Exportmacht - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0tkbWg4TWgzSlpQUjhYTHNFcjl6aUlCWjF4Zmx4QWc3aXRIRHgxNDJOTDdaVTZkNWRJb2NaVG9wWHRPU0hxcVpWS3lHXzVuanhQLVRBaW0wMThQRVdfc2xIOVpobG9pUXREZXJGMmtVMFBCOFZ5Vi1QWUhXQUp1cDZqT1NkQ3pyNlMtMXIwSW1kTGcyQkd5MGtrZXl3SmtCUnl5RWl6YzZCZ2taSm8xN0w3dUMxeHJjaUo3dTBEaWtYdndVYU82VElWaw?oc=5",
-        "published": "Tue, 10 Nov 2026 06:38:26 GMT"
-      },
       {
         "title": "Technologie: Chiphersteller Infineon rechnet mit massiv steigendem KI-Umsatz - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHNidUlLNlAxNUc4ZG1mV1F3QnI1QUZMMlZXWVdtVjNPbUFCbFhtWm1xcVVQRk5JSjU0T08zaFFsSVJoMDFzMVR0VkhHV2U0REszMm12dXJUdm9SVTlza3U1X2w2X21hUmJVSENlRG9LZm8tcVpLMG1lWEhCckpmQ0NNTjdJTE9wakJFVmI2V0N2N1Q5UXZ6NEl4WDdJNWp0U2xDLTlDQ3NfREhPQ19rSzBDb0lPaE5mQUVJSmRFUEUwaGlJd0xvYUZGOXVMR0pwdnlkLVdn?oc=5",
         "published": "Tue, 10 Nov 2026 06:38:55 GMT"
       },
       {
-        "title": "Technology Impact Summit – Bild 11 von 59 - News.at",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BQnRmSllQUDg1cVhOZlZTZDQ3d0tOeEF0bm9DWHFKbV9IbFRWdkdwQzhCZlR1NlJucmQwdnI5MW9aRVhEVjllSWdtQmYzSU82a2FKLUhEN0RWWFNQbkJna1ZZaG0zYjlYU1hGaDZTdlU2QUtxaG9CQUlTZw?oc=5",
-        "published": "Mon, 09 Nov 2026 18:09:43 GMT"
+        "title": "Billionen-Überschuss: Künstliche Intelligenz stärkt Chinas Exportmacht - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0tkbWg4TWgzSlpQUjhYTHNFcjl6aUlCWjF4Zmx4QWc3aXRIRHgxNDJOTDdaVTZkNWRJb2NaVG9wWHRPU0hxcVpWS3lHXzVuanhQLVRBaW0wMThQRVdfc2xIOVpobG9pUXREZXJGMmtVMFBCOFZ5Vi1QWUhXQUp1cDZqT1NkQ3pyNlMtMXIwSW1kTGcyQkd5MGtrZXl3SmtCUnl5RWl6YzZCZ2taSm8xN0w3dUMxeHJjaUo3dTBEaWtYdndVYU82VElWaw?oc=5",
+        "published": "Tue, 10 Nov 2026 06:38:26 GMT"
+      },
+      {
+        "title": "Technology Impact Summit – Bild 14 von 59 - News.at",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14NHhWZDFOcTluUHNEVWRyVTFoUEx3SXVDeF9JbVI0MTRnTm5UNV9FQVd0UkxFZzUtTnRYNzg5dTFqdHc4QTdSeU5fbUVxZUZiVjZuNzdsNVJJUlpBWXNjSzIwMjVTM0RCdUUtREk1REk4SGdiaHJpcEpxWQ?oc=5",
+        "published": "Mon, 09 Nov 2026 15:50:03 GMT"
       },
       {
         "title": "Web Summit 2026 in Lissabon: Chinas KI-Roboter eröffnen Technologiekonferenz - Euronews.com",
@@ -309,14 +309,14 @@
         "published": "Tue, 10 Nov 2026 08:00:00 GMT"
       },
       {
-        "title": "KI-News aktuell: Nvidia-Chef hatte wohl Affäre mit chinesischer Spionin - WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnBRaFBRTlo1NU12ZHoxR2VPaTUwVDM5UlExcHRWV2xwTzY2MzJRS004d2t6eXlCM1E5ek42SmllYlpFTW53OWdmVV9hczBMRHBEbG90cTV5LTNRbmwzQmlBRkVvYk5OdG51TWFSSkRLQWNsdmRZNWJtNl9xdmtyanB2VmMtcmJiajdETGtuRElaVUVOVENrT2FSOEdQcm1kd01DVUFRSGU0cE9xbm9IX05rRGtLeGwtcWsyU1JB?oc=5",
-        "published": "Tue, 10 Nov 2026 05:34:50 GMT"
-      },
-      {
         "title": "Disney und Adobe schließen KI-Deal: Was wird jetzt aus Marvel, Star Wars und Co.? - Netzwelt",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkJiWVZ4NmZGaGdXQVBxTDlldnpMalZqRXN3REZPN2VkcVpUeVpHczB1U1JEMG9KeDhiSklMS0dyb2NaSEFyTFpoSUw1S2JsMF8zb1Y5N2JxLWdVY0Eybk9xLVl5MnFRNkJwZWtDdU1nN0lPN1BOMzlveFZqWjlfaGFMUUNLeS14MUxFaVk0cGU3Nl9JTlpv?oc=5",
         "published": "Tue, 10 Nov 2026 07:29:47 GMT"
+      },
+      {
+        "title": "KI-Reality-Check: Wie reif sind Wiens Unternehmen? | Podcast - trendingtopics.eu",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUgzRXJTMnVxcS1pWmJFM3EwZXZkYU1FZDJLYnpVaGpKaGlvWDkxbm9oQkU3YTB3S1dJTVJPcUdEMU41SjFyb3V0WjNOS3M1c0ZhV1lpdU9sbTkyZEpZWFB5TFZwaFpjZ25TX2F1SlNsenBLQkZmcnRpZEtsMGZhZC12REs?oc=5",
+        "published": "Tue, 10 Nov 2026 07:00:00 GMT"
       },
       {
         "title": "Australien ergreift strenge Maßnahmen zur Kontrolle der Risiken durch künstliche Intelligenz. - Vietnam.vn",
@@ -346,24 +346,24 @@
         "published": "Tue, 10 Nov 2026 07:01:15 GMT"
       },
       {
-        "title": "Affäre mit Spionin? Jetzt ermittelt das FBI in der Causa Huang - DiePresse.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXlVcTdJMzFSdXFQVDVQWG5HaWFES0xyNUlBVHBMRzV0dzdCUS1CQlI0V2R2dUtNQzdQT0U4QklkWDVuOGtyb1p5Z1QwekNCX1FLYURIVDVzR3NqZXlISnhFQnFDWU9XYXd4TXFnT0FlSW1aQmF3ekQ1enhDLVlvNDhHS0RXOU5kUzQ5bTFFTkdRVWZhTUZCLWR3ZUN4QQ?oc=5",
-        "published": "Tue, 10 Nov 2026 06:36:07 GMT"
-      },
-      {
-        "title": "Nvidia-Aktie unter Druck – das sagen die Analysten - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVdwQjQxcEc5MkxIclROT054c1VndFM4NjBtOC1jblZVZkxGZWhmNnNpVGNCNHVLVDlCUmphZ1ZyeDBXazZaUXRMZ3Z6TEx1THFraUNoWXk2LU53X1Iya2xnbVNTODRfd0daZWdzUE9PWngtVnREOE9BenVHU3RQQk9zb2ZDM2R4bU5hZjZzX2Z1ZXdZSjI4aUg1NERwMXB6bVFDbDdsaWE?oc=5",
-        "published": "Mon, 09 Nov 2026 18:32:00 GMT"
-      },
-      {
-        "title": "Bleibt Jensen Huang der Chef von Nvidia? - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0lhU3kwYmVfTlBQVEdoNndjQ3dRRENMODhZOHNkWklfZzRZY0tvTy1oWUdIeE5CajB6dXAyb1pxUkZKaVhJVkxMZnAxcUEtMERTYVJGNUYyclZfa2N1bmN6bXFtRVRyeThEb0I0NWdicUdKdDdwcTFmZzE2elBjRUZndUl5QmNHNGIxZ214T0J2S2JZbHRUVlM5RlE1OE43YllrSkFHQWNJYmNfN0Fr?oc=5",
-        "published": "Mon, 09 Nov 2026 10:29:39 GMT"
-      },
-      {
         "title": "Bringt der Nvidia-Kurssturz unsere Vorsorgegelder in Gefahr? - Blick",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMElOTXBsVWpXblVUTWdoU0JCeGlBbnBoYUgwQ2VSM1pXZTMyUDdsc1A5VWpxdzBuZUFHQ2dRZFVFVEFlNzZTZUxRUW5Vb0FLS3dLTk1kUUJsbG9HNWJHZlhwaVZWMUVObDBDMU1aN05PUld3WERJc0Y4VWstajRVVkpBWmY1eTVRaEdXYUlCazV2QUpFLW02a3VRZjBKUWlNamVaMFAtQmN4LWdS?oc=5",
-        "published": "Tue, 10 Nov 2026 03:08:30 GMT"
+        "published": "Tue, 10 Nov 2026 07:38:43 GMT"
+      },
+      {
+        "title": "FBI ermittelt zur Affäre des Nvidia-Chefs - GMX.AT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUhJci1OT3pWWHFwblAwdWU2bzRlMnEwMnF2TEdYb1R0NS10WV9jTkJ2LTZ4R05QRW1wMzFkWm1JTUNHdm9LNGdiZkFqLTVWamwxd1hfcS1nYXp6Wk5rTnJrUUh6bkI2dU03VERXNkdDQmhkcTRrbzJ2QlcyYzdvM2JHTlJWaWc3bU1iWDhKRjR6RkpwQ1czVE5zWFNsZw?oc=5",
+        "published": "Tue, 10 Nov 2026 08:39:28 GMT"
+      },
+      {
+        "title": "Nvidia-Chef Jensen Huang: Warum eine Nachfolge so schwer ist - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0gzTnRYRTRudjE3S1czRlMyQUdlVkk4UlBQOTY0R1BZRHJKaEZYVm1sbkJvN1IzLXdHcmJ1YkIxTHUwVE9JX24waFlNVi1WMUxmbUJqbXdlWExCRXRzWXpKS1BoUjZqckVYQzh6MllCR3VJaUc4MkpkX2dqeV9CTFAxdTAySmd5THRpTDNGRU5uYVVkUHZNdkx4R1RoZXZLVUlWQzdRTEhUMHlFSmc?oc=5",
+        "published": "Tue, 10 Nov 2026 06:55:43 GMT"
+      },
+      {
+        "title": "Nvidia-Affäre, Jil Sander, Steve Jobs: Wenn Schlüsselpersonen zur Gefahr werden – berühmte Fälle - Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUnRyMTFpODBWR1JqMTVvRWwyMklyMXQtUHR3a3BRRURjZGstNWJtZnJERG1EUmhFVnpMQ2lSdndULVpHTnhoTXFEVnFXOUtJd0V3MmgxVFNDNS15eENoU2hwVk9CN3V5bFUyd0h0aHpWdk90TkxCdWFVVWw2WTByWExfN3JwR0s3QTZ5Z09ydTU2a0gwV0kzMExGZW93TG9xa3NEeC1FYW13T09FZkdidHRsdExlRW9oTGpzTEFKY2VPSjVybXZEQTU0VkZ4M0tOSzBfTF9rMG1NRDFWbGVpS2ZfNzhLc2ZKTWRpVTVBeHdsSW5JaVNZOU11Q3Q4aWJqbGs1Wi1JdmRERENITl9F?oc=5",
+        "published": "Tue, 10 Nov 2026 09:17:00 GMT"
       }
     ]
   }
