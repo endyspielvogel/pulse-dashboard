@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T12:20:55.472887+00:00",
+  "fetched_at": "2026-11-10T13:39:18.242679+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -23,14 +23,14 @@
         "published": "Tue, 10 Nov 2026 10:44:06 GMT"
       },
       {
-        "title": "\"Mäcci-Baby\" Emily bekommt Mega-Geschenk - oe24",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENE1rWFJ0aXVVanZNWU44TDF0TjVYN2JEN1pFM2pmRm5yNWs5cmZoTzRZRC1Ud3hQdDZUUmozMENpTUtWb0hka2FOeVc3dnFXaVV0dkFwdjF3WS1fZDduYWdrN0pwbDhXRjdZTEctakdkamI4OTJ0cVV3a9IBgAFBVV95cUxOczBfcXhoN0N1Nmt2dWhKT3hlS3ZhQjR5ZDRPY1BHdkRnZ3k0dFp4OWZGQXFzZjllVzlBX2xQdjhsWEFYU2p0X1ZHeTMyOVNwbERNSnN2YTFYTGhQdVRnSVdCdXhmUV9NNUlpVzNuSXRHZVYyQjVmMnVYVjB6QWRPMg?oc=5",
-        "published": "Sun, 08 Nov 2026 13:35:00 GMT"
-      },
-      {
         "title": "Pre-Tasting der neuen McCafé Getränke von McDonald's - Leadersnet",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFFmWGpfNEc2R2NfODB5aFRPaXk4dzBxUTVrYjkteDFMSUtuZ1FkRkVuUkZka3pXYmdNNWZ4YnZRZmVYUUNjMFhJd3NhRlhLTk4wdmcxcHp4OWVKeVJielYyOUN2aGFWNy1icHprWk14QWZZWVVPZ2RKZHVnSFUwdzJ4TXUybnVUVGxwSUFTUEdORHIyeXZUS3Y1UWJudzA4cm92Q29iNEpYUFBMTXNDdW5iajJnUjQ?oc=5",
         "published": "Sun, 08 Nov 2026 23:29:51 GMT"
+      },
+      {
+        "title": "Genshin Impact: McDonald’s-Japan-Kollab mit Varesa & Escoffier - games.gg",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXVaZE5YWEtVZW9kYVkzNjg4NWNMT1RJUGQ4eWt3YUZzcWhBWWFnUDhUVERpbHVXRTJ5cHBocU9hdWZYb29uQWpxTFozSldqSGlKRVdPYWs2U3huVF9tM1Blc2JwWm1oYXJpejhtMmlTVk1NbE5lcVRiZncteVVsNm5LZDJYWVNCMXF0Q1YtRUZWMG5FMGt6R0JQcw?oc=5",
+        "published": "Tue, 10 Nov 2026 00:35:25 GMT"
       },
       {
         "title": "McDonald’s bringt Kult-Gadget zurück - techbook",
@@ -38,9 +38,9 @@
         "published": "Mon, 09 Nov 2026 14:12:00 GMT"
       },
       {
-        "title": "Genshin Impact: McDonald’s-Japan-Kollab mit Varesa & Escoffier - games.gg",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXVaZE5YWEtVZW9kYVkzNjg4NWNMT1RJUGQ4eWt3YUZzcWhBWWFnUDhUVERpbHVXRTJ5cHBocU9hdWZYb29uQWpxTFozSldqSGlKRVdPYWs2U3huVF9tM1Blc2JwWm1oYXJpejhtMmlTVk1NbE5lcVRiZncteVVsNm5LZDJYWVNCMXF0Q1YtRUZWMG5FMGt6R0JQcw?oc=5",
-        "published": "Tue, 10 Nov 2026 00:35:25 GMT"
+        "title": "McDonald's-Aktie: Dividende steigt trotz US-Schwäche - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNktOazZQMTRmekNOX3hlMU9JcnpqNThTNUU3RzJpTk5YczRILXVTclVIRDRHRF94NDA2U25zOTBGRTV4VlFGZVhZYi1vU05mdXhkLTAzUWNBM3FPc2d6VFJzVGl5bTdQcEpEYUlOdGx0YjdBMGp0TUl2ODlRal9URDBfaXM3TEl1eUNZSnlKQ2k5X3hVZ2VzajZidWZmZnpyZTQ2ektOS0dmMnZxV0RfSUlMNXhTQQ?oc=5",
+        "published": "Tue, 10 Nov 2026 12:53:07 GMT"
       }
     ],
     "Burger King": [
@@ -48,11 +48,6 @@
         "title": "Rhein-Ruhr-Zentrum lüftet Geheimnis: Große Burgerkette eröffnet erste Filiale - WAZ",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWZXUmczLWVMVXV3cmtnMXdfSlpYM1ZFRFVBNlRSNl94eTVJNXdEU09Vd1Rqa1ozNFp0d29LclB6cVRSaWhTR1BBVGhET0M0ZFVvOXludXRNX3NKZnV5NXYtQjFqbkxzMEVOOG1HLURKMDY3RWhyVE1SU2M2Zk1wYjMzRFZXRU5kQWFUZ2VxejV3YTNfZWg4cUFrOUtVUFE2NjZKZVJoOEhoWHladGVya1RobEQ3VHYzSlNjcjMyQTV0cm1XbHVSOWZucUNtcjM0OG5n?oc=5",
         "published": "Mon, 09 Nov 2026 13:01:00 GMT"
-      },
-      {
-        "title": "Der Whopper® kommt ins RRZ: Burger King® eröffnet seinen ersten Standort im Rhein-Ruhr Zentrum - lifePR",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUWdkZkMxVUdqcmtzXzNhMlBkMThGLW1ibVI0YTdVNnkxS2haS3BjbDU2UjdzODJaemF2U0pUN2dGRlBxaGZEc01odXlVLVRvMXIzZ0JOZjVQNFg0dl9mekpINElPMmVic1pXNl9LVG9oZXZuWWZrTVFiLUF2WFl0c3BsWTA1WkdKQUswUEhjc1czbXhQT0xHREJVSTZINlZna3dmNUVGeW9BWncyOE12MEMyWWN2a0RBbXFDMHRIVk90ZUNOWnpBNVc3SFgzcUlnWmlGZEdkeUFlMzQwVjRpcFlONA?oc=5",
-        "published": "Mon, 09 Nov 2026 12:54:00 GMT"
       },
       {
         "title": "Betrunkener Autofahrer flieht nach Unfall auf Parkplatz von Burger King in Burgdorf - HAZ",
@@ -63,6 +58,11 @@
         "title": "Burger King bringt Milchreis-Nuggets auf den Markt – Sally Özcan und Olivia Jones werben für neue Desserts - DIE KNIPSER",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFFlZk5VSENtYmhLODhzQVJTdW5RQkVkaVp3Szk2VXJlT056UzZEdE5uWXh5NmFTYi1zM0pDTFg2VDEzZldCdXM1T1lQQmZ2bkpKVDZSUlZZUk96ODI1UTBDRHpIQXRmZDlTdFZtUlJhVTNMTTdJTjAtaEYyWkxnV2o3dTNRSVVUeFFHZHhYVG1lam91MGV1MmxLRk8wWGxqa1NTbU1PdS1vZ0ZlVFNaNmtUT1VrOTBzSlhQbmR3?oc=5",
         "published": "Mon, 09 Nov 2026 09:59:12 GMT"
+      },
+      {
+        "title": "Der Whopper® kommt ins RRZ: Burger King® eröffnet seinen ersten Standort im Rhein-Ruhr Zentrum - lifePR",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUWdkZkMxVUdqcmtzXzNhMlBkMThGLW1ibVI0YTdVNnkxS2haS3BjbDU2UjdzODJaemF2U0pUN2dGRlBxaGZEc01odXlVLVRvMXIzZ0JOZjVQNFg0dl9mekpINElPMmVic1pXNl9LVG9oZXZuWWZrTVFiLUF2WFl0c3BsWTA1WkdKQUswUEhjc1czbXhQT0xHREJVSTZINlZna3dmNUVGeW9BWncyOE12MEMyWWN2a0RBbXFDMHRIVk90ZUNOWnpBNVc3SFgzcUlnWmlGZEdkeUFlMzQwVjRpcFlONA?oc=5",
+        "published": "Mon, 09 Nov 2026 12:54:00 GMT"
       },
       {
         "title": "Burger King im Rhein-Ruhr-Zentrum: Das sind die Pläne - Super Tipp Online",
@@ -121,12 +121,17 @@
       {
         "title": "Mercedes-Benz-Analyst: „Tiefgreifende Renovierung“ notwendig - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2M0ZV9NSDJNYUYwWXhfdHlQYnJhWDNLNTEwS0ZYbGVHZVJyYTYyOFEtTEUzeDZWay1LbThmTVRxeVVfaTlxWTVfN1FyVjJuOFNFOGxlWVk3WTFLMHN5SE9CWmxDcmp5dGVtS2liamhWLUplQ0dNb0V5NXl1Q3RFSUJmb1NNNXBiblhzelJnaWpsNnk2bjgyb0Q4bTZRSnE0OXBYWGhycmhyT0o1T2ZRQkZOUjU?oc=5",
-        "published": "Tue, 10 Nov 2026 09:26:13 GMT"
+        "published": "Tue, 10 Nov 2026 09:27:47 GMT"
       },
       {
         "title": "Mercedes-Benz erhöht die Transparenz seines CO2 - Mercedes-Benz | Österreich",
         "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcEIwSTRGSWl0eHdZa0IzSHlrcUEteG9HU1JGOXBRS01kTWxhR2g4SmFmSHhQUkh1OF8yRXN1VDJvYk1jSnVmRmt5ODNJVGxDdlJvY2U0UWh6cjRYZzRQUTdUNnhqSzdfWWVscXp2SlpLOHpuckVPeFhfcmFUZlBnN1h4SFhPSnZHUkVtRHhhMV94SV80RmtZOUxmVTV0Y0ZrcHE3RW1sc3JYbnRZaS1XUW4zM21fbzRUNzdfZ3lwMTZXMjNYNVcwN05pSk5YaGhIOThNZDBQZkVfdzR6QmN1VFFxTXdzZDhNS1pmOHJWRklGODB4ZVlWZVFxUW5URjNHRzdseFFFQlRYSEtKbko1b3dER1lYMDVJVng4WDA2WnBKbFNic3dxdnZfZzN6Rjg3WmtkQUNqRHhGeThoTHhJUFFJRGdpVjJXOTQ1emJSNGJxb1RnYzA1ZDJEX24wUTJ6V2ZSNXJlUGNYRWJZYUwwV1BrQ2RWSnEwOG9HbmNB?oc=5",
         "published": "Tue, 10 Nov 2026 10:58:51 GMT"
+      },
+      {
+        "title": "Mercedes-Benz Group-Aktie: Ohne Veränderung - WELT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONGVYeWFWQkVhWldyeFdkajNOd0ZoRy1PY3BvV3F0YTJ3Z2JpOUlNeS1hdFpuZkhMaW5VaG1pQlNVdldPcVNxbGlWcDRRV2twZ3lmRGxFSVZldHZ4bm9xOHVVM1hSQ2xZZkZkOFdJSEROZFFoQzlweVdqbnFZX1BmZXVrUy1raFpwTGk5T0tzQk5CampLV0lYc0RYblJwQ2xiaGxFUWU3ZFJHdVIzaWd2ejJhZF9pQms?oc=5",
+        "published": "Tue, 10 Nov 2026 12:04:49 GMT"
       },
       {
         "title": "Daimler Buses präsentiert die neue Generation des elektrischen Stadtbusses Mercedes-Benz eCitaro - busplaner",
@@ -144,11 +149,6 @@
         "published": "Tue, 10 Nov 2026 09:00:00 GMT"
       },
       {
-        "title": "Mercedes-Benz Group-Aktie: Ohne Veränderung - WELT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONGVYeWFWQkVhWldyeFdkajNOd0ZoRy1PY3BvV3F0YTJ3Z2JpOUlNeS1hdFpuZkhMaW5VaG1pQlNVdldPcVNxbGlWcDRRV2twZ3lmRGxFSVZldHZ4bm9xOHVVM1hSQ2xZZkZkOFdJSEROZFFoQzlweVdqbnFZX1BmZXVrUy1raFpwTGk5T0tzQk5CampLV0lYc0RYblJwQ2xiaGxFUWU3ZFJHdVIzaWd2ejJhZF9pQms?oc=5",
-        "published": "Tue, 10 Nov 2026 12:04:49 GMT"
-      },
-      {
         "title": "Mercedes-Benz verschärft Klimaziele und kämpft mit der Wirtschaftlichkeit - Automobil Produktion",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb0JqWGI0c2ZXZUthaEdEdmdTVTQ4RFJfSjNvNERGWkFwaHh4RWhZU01lWW5fTVUwLW1kS3NTVC1VM2FTUVRSU3o2V3VvWjA3b2hXRC1rby05OHN6U0pfNXlhSGw1Ym50MWxMaW9iMGZmUU1mU0h3ZHM3VDlHTzl4a2VkUXB3QUpaV0hMRDNidnFGQWNLbk5OV2JiRW1yX2ozdmJOWFM3dC1URVJKTzVDd296ZUJneVZaWTBYX0pWS2E2OGdENVFJUkJ3?oc=5",
         "published": "Tue, 10 Nov 2026 08:56:35 GMT"
@@ -161,14 +161,14 @@
         "published": "Tue, 10 Nov 2026 07:23:03 GMT"
       },
       {
-        "title": "Anleger klagen gegen Nvidia-Chef Jensen Huang - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXZ4VUdBMDhHSXZSWFl4bERYbXdyLW9iV3VpSTdITnVxTVhFaTBwSlJjdC1wUU1FODdKSUZubkZVTk5wenAybDlhSi1PZzJycDZ5VmpHNXdGWUx4cERSZFBYUHdXT3cydUVSbTlhU2NLTlNDeV9CM2N3VWZ5eTBLVkZhd1R2N2hrRWpvZ2FhS1FUYy1wYUZNcm0zVXRmMW95NHQ1Znp6d0xPQXJIZmZqMXlCa28yUHc?oc=5",
-        "published": "Tue, 10 Nov 2026 04:30:00 GMT"
-      },
-      {
         "title": "So spottet das Internet über die Affäre des Nvidia-Chefs - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQmRXUHVYampabGEyYTVWLVhHVVYxNWR5OGJFMW5DUHB6cWdXeDJ4UmlZVHVHbEtaaW9yOFo2VjZ3SVNhMkRiT0xSbXBxcnYyR2p3a1kzbktDVFlMbWV3VkpVQ3dxR0EwM09oS2xEZ0tPdG5BdnZqMUpoUFUtTXRuMTZNa001UjhQcFlyTVFpdE9tVzlpekluVUZYVmtIbmQ0eFNHaVFBYlRlVE1xSWhmUDc1RVpTNkl0NDRMYlVCWmo?oc=5",
         "published": "Tue, 10 Nov 2026 06:27:00 GMT"
+      },
+      {
+        "title": "Skandal um Nvidia-Boss - Das große Achselzucken: „Männer bleiben Männer“ - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51Z2pNa2pMYW1wQlhvRk1LZ2NacU40Mkg4VDlfNHd1TFQ1bm0tSWFRWTJ2NzVjYndIem1iMV9SQ3Jpdw?oc=5",
+        "published": "Tue, 10 Nov 2026 11:55:00 GMT"
       },
       {
         "title": "NVDA Aktienkurs - eToro",
@@ -186,19 +186,24 @@
         "published": "Tue, 10 Nov 2026 09:44:21 GMT"
       },
       {
-        "title": "„Ansteckendes Lächeln“ - Affäre von Nvidia-CEO: Wer ist Alice Huang? - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13ZTc4N05oNEpHc0I5WXBWYnhyQWZZUWRMejAwc191TzlrZnczck9YUUE1OFZEdjE4LW9LS29XLWpoUQ?oc=5",
-        "published": "Tue, 10 Nov 2026 12:05:00 GMT"
-      },
-      {
         "title": "Nvidia-Chef Jensen Huang: FBI prüft mögliche China-Spionage - VOL.AT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0JSMVktLUtka3U2T3ZSOTh1aXpaeU12VjI3Tk1mYjI2bHhGbWlXcEtYc0VLVkM3enQtVXRkUzVoLUhubXdKRlRudVNZYncxdTJOc09mMnR0Yjc5d3hVSHVIUGVpWFZWUWVrRy1DdGtmTTVaOWN1RVhfeGY4MVppMFlsUjRzeHFpSmJEWmRB?oc=5",
         "published": "Tue, 10 Nov 2026 11:54:03 GMT"
+      },
+      {
+        "title": "Nvidia-Chef Jensen Huang: FBI ermittelt im Spionage-Skandal - BILD",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOGpma0syc3d5MEZiMlR0RVJiVFdJRlBaa2lncGNCSVFhaUQ1N2ZnN3ZBVkgycGhTVXREUVZUZlNtSEp3YnVZTTY3NXpwRUJkZXgzNUFKTzR1RW9NbnJTZkZWdFJrWEMyY1FHOEVmeGZUaXBacTlIR2ZDbVRuQmJSejhnSnFKMnBfSjdsMmZYZThnQ29nYXE0NDVxVWlXd2o0SzJfdFU5bXFwVkJ4S2xfakd0Y3B5enNtUWowMTlnNTQ2LWZXTVpScWFsVlZrbXE1ZDREd0JB?oc=5",
+        "published": "Tue, 10 Nov 2026 09:23:39 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
+      {
+        "title": "Künstliche Intelligenz - KI-Firma Anthropic plant Börsengang mit Billionen-Bewertung - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOHc4eXNWQW5fajZsdjBYODU0aDFCMEd0ODlxT09mRjhrVjZrN2hRMkxPSGpidnFVaVlacl83QUpFQ0lRVHhjQ2FOREJBaF9zcnhUX1FzOTN1bHNfVGtBcEJPYkZpYU9EQ3gwXzlyNmF6MGFFVklPY0sxN1BzUGVMYUJxZGg4bkVrT0Q4VDh4Uy1RYXRQWFlteVlnSHVmdFd3MDltSHUzVkFidE00TDFjRE55TkpLSW9JV05KdnVldGpKSThYVTJRTHRRdmQ1QjFjbEdUd3dzTUJTUzBWVW1zZGtOZ0VjdHpVa0lUTElDTnJUYUxVd2llZF9vWi1MUnJYZXZv?oc=5",
+        "published": "Tue, 10 Nov 2026 13:28:24 GMT"
+      },
       {
         "title": "KORREKTUR/IW-Umfrage: Unternehmen erwarten keinen Aufschwung im nächsten Jahr - boerse.de - boerse.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbThBTVN2aGxUWkl2anNNaW50YnhZbzVKbjBEekV6YkJ4RTEtOUpyZ2JkSHNjX1VmZjZCRDFpbktyMjlwbUR0RE9zc3hDTHY1dmlwc1RfNEZzRUZMai0wZ0hkdDY1MTFRUkpTV05nVjhxQ1VkX3NTd2tpelFrd2VFTldickt3bzl6Mi1qZGg2N1lYODdXUTAtYVVDU2hKbEpvazJwcHlnSzhSRGVPMGxlOHJmcElXYnJrNVhBNNIBwgFBVV95cUxPTGtJekZqVTVBeFd0RDZnMVJROGpfZGl5d0dNTUdqSjRLdGxZRWx2SFFuV0pwRG1faUg3N1E1Q3Q4aXZqdXZfdm1IazFaSGVHNG85ZUFmWGdZVXpnbHNwVzJHLWs5X08tcTJINWNneXAwRjloaGptZlpjWHBsQWpINUNteUhlc3pwTDRhYlNqT1ZONDRlaXJtQ2VOLWZjQ0dLdXhfVWZQSUxKM0xBQnZiUUo4MW5HbkZfYUM2NE5BN0FjUQ?oc=5",
@@ -210,14 +215,19 @@
         "published": "Tue, 10 Nov 2026 10:52:16 GMT"
       },
       {
-        "title": "Mayr-Melnhof-Gruppe verkauft Verpackungsgeschäft – Aktie im Höhenflug - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanRWZHlXZDhTY1pwNHNaOWlHNmdmekxJUXA2OU1uQ0xnUFA5OWdYY2pJNGJuUUYzcTdJMFhROFp4QnQ3WHBRWHdBeEZjNjEyLXJQb1lfbUFaRmRaMGoyOXpIdHZQa2ZjMDdtdG1KNnZGcXpweThUaXJuMDZvdjFCRzU4OE9teGZqWGRHc0JUUGlnTGt2Vk1aZ0xpRFpPRFpFNEFRMVA5bUZHWVdubkxLUTljXzN1MTQ?oc=5",
-        "published": "Tue, 10 Nov 2026 09:46:00 GMT"
-      },
-      {
         "title": "IW: Unternehmen erwarten keinen Aufschwung im nächsten Jahr - T-Online",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1B6VmRwS1pwdXZmelBqZmZtZkNXTXNodlpmb2RJR3lGQ3FuQS1JeWw2UVU0OG9MN2t4dmwzMXFOVUhYVnBWUkRUWlJaenF2NzBwTHotUV96amhhMFhLd25fbDlEZHVlQlNIWXdLcXJUaFJYWVByMk5nSTNzYWU1UXRFQ1NIZG1hbGtlMWFkOFJIcjhDTkxpeTJZdmJKTzVKWjJ3MG9JZnhhejFrakhlZnhjZmNDdjV3TnhmZg?oc=5",
         "published": "Tue, 10 Nov 2026 10:31:51 GMT"
+      },
+      {
+        "title": "KI-Reality-Check: Wie reif sind Wiens Unternehmen? | Podcast - trendingtopics.eu",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUgzRXJTMnVxcS1pWmJFM3EwZXZkYU1FZDJLYnpVaGpKaGlvWDkxbm9oQkU3YTB3S1dJTVJPcUdEMU41SjFyb3V0WjNOS3M1c0ZhV1lpdU9sbTkyZEpZWFB5TFZwaFpjZ25TX2F1SlNsenBLQkZmcnRpZEtsMGZhZC12REs?oc=5",
+        "published": "Tue, 10 Nov 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Henkel bleibt in Kauflaune - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzRnQzE0bzk5Ylg4bGlGNGNDb0I5OUgwRkZIXzZKbzZCWVdUVTdyZ2M5SkxRS2J6MnYwN0Jub1BSeHJ4WGR1LVRXZk5ocEtCRFUwSnVSelVWNUZtNGE2dkFqOHJiTTdVRGVjTUpvM0VidVFjdXFBdVlVNG9VLUd3VFJYSHJsNlZNMS1PdmtuRjFtRmZZM1pV?oc=5",
+        "published": "Tue, 10 Nov 2026 13:31:43 GMT"
       },
       {
         "title": "Goldener Oktober an der Börse? Das zählt jetzt - Börse Online",
@@ -225,22 +235,17 @@
         "published": "Tue, 10 Nov 2026 05:57:51 GMT"
       },
       {
-        "title": "Dario und Daniela Amodei: Können die Anthropic-Gründer ihre Ideale wahren? - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZnRTNjB6UnhmSTRCRFJhd2VlMExjQk44ZXRCODZ6RFpRSFZTS1dHLU1sQkFINE5JV3NVb2dKRkwxVkFqOEhPRGRVMlpudnBVRjh6N1Btc2pCNkM1TWVydzVhLThDMFlwRmQwcDZfZHpEZzRvTHFaYXJrN2h6VlZNbExqT1ZGemJBbGNMUVlXQnpiQnBfaGY3QU0xb2Q0dENBY2FqZlVYQmloWHVvck5fckN3dENnamhOLVNfREh2N2lGOEJhcklGUUZvMkNSNXlXMWxRVS1yc3FoUlFMNHc?oc=5",
-        "published": "Tue, 10 Nov 2026 09:08:37 GMT"
-      },
-      {
-        "title": "Nvidia-Aktien verlieren auch zum Handelsstart in New York deutlich - Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHYzb19IcWEyMVhTYTAzN0k1Tl80UUthRk0yNmlEcmNDeHh6UFd1amtiZExmZzFkeTlFUHczVG9ScHR0T1JwQ25MOWdROFNnbVJJanhac1diaWx2X0l3MXppU2o5RHRYWTRYajBJS3Brb1NQYkNfeDhVN3Etc1k4SDZGRVFZOFZZZ2t2ZzZub0lSeHkwQy15d21yUmZPNThtU2FjRkxWR3dfN3hha0RKdnhqbjlCZTctZVFHbFE1d3NZb1lBbjBjMEpwVF8yZjd6S1B4Zk9SWGxrbUNJRTlrdWV3VFhrdw?oc=5",
-        "published": "Mon, 09 Nov 2026 15:43:00 GMT"
-      },
-      {
-        "title": "Börse: Nur ein Dämpfer für den KI-Hype - Lausitzer Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3RWTGplNEZra3lzd1JrSGluYXRrOUJKdUw4OWNWUmU0ZnJqb3VoYlkzZGY1QTJxMGF4TXhlMGpaYnFUX0MwckRnQlBMbnJqUS1LLXVFVUd2MjNPNlpUeWdWdmg1YVBBT1lCTHI3eXF4LTdCcE1xZXdmZGRiMS1CbjgzQmp5UEJocklINnQ5Z3hvNTdsc1RmSGp0N1U0a2tYeUlpcA?oc=5",
-        "published": "Tue, 10 Nov 2026 11:13:10 GMT"
+        "title": "Anlegern stößt Honeytrap-Affäre von Nvidia-Chef Huang sauer auf - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXdsa2RCSk4tZ2x4N29KaTRmUnJiR3k4czh5VThuSDBXd2ZFNGtVLVdjaDFGbkRMa3RWdEtDdEgwSlVkbUNqbVgtaHJzQUl0amF5VkhVczhFaFdVajNCTTRpdTlYblpCZTVyT0tqNTFMNlhDZjYtRktiZGRLR05uMUNsdENHczRVWUJleVpEQU1xNlQwc2dxNnFoNzhsbG93WVRESEJjUzhZb00xNzRCTWozTQ?oc=5",
+        "published": "Mon, 09 Nov 2026 14:42:00 GMT"
       }
     ],
     "Werbung & Marketing": [
+      {
+        "title": "Phillip Fumolo, KLEA Media: \"Mein Ziel mit KLEA Media ist es, die Vorteile von KI nutzen, ohne an Qualität und Kreativität zu verlieren.\" - INTERNET WORLD Austria",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb3BUZEQ0dk56ZFV6eWdDSXE0Ump2U0c3Qk5JTVA2TWhEMllQZHU5d2VGd2Q0UnVkNlJLZnplazc5NmljTUo1XzVpS0hiejFQdU9xSkhXcEU2TmRSZ0tjNzlOSGY2ODdJN1Fac2cwZkdPX2toS3lxTnNrR2lPbW1oZHZMZ0d4azloNW1yeXR5Yjc4STJXZWxoSGdQOGlPR2JQc2VYWXU1Q1BieGRJVTRpelkxd2JHZG9abWsxb2lkX01qTU93VTRyaDJYVlRmSkpEVFZMdWFiVVNESzFIU2tmOXhJdXRFREIzcUlPdF9Nbw?oc=5",
+        "published": "Tue, 10 Nov 2026 07:00:00 GMT"
+      },
       {
         "title": "Advertorial Agentur im Vergleich: Die Top 10 für 2027 - BASIC thinking",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkhONWl0STVXckhMV3o3YXpGaVBPbzBHcTFGUWRhSi1FNklPbldXdDFyLWFGMkRfZG9zem9PbkU1MzdVQVVsOThTWHFKSlhIa2RQWDBrTHdrWU5nMzV3ZHAxTUZVXy1YeDFYSk1FUWdJUE5fYUVlQ0ZEOEdBZ083Mm12N3dXakJ2ZUtLUHlFaldrM1FyN1lObS1DdUF3TE9ZVXc?oc=5",
@@ -275,23 +280,28 @@
         "title": "Family: Agentur aus Uster baut Suchard Express neu auf - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmxyU1l3SWwxbnFKOGs3ZU9MRWZXUkE0dzJaMV9vSlBkU3FmZGlHUDFXMU5Idm5EZ2lydS1OMjZvaU5PQm9jN1UxMnlSN3hDRTFNMlkxY3l4SjVTVXN2LW1CUGNQQ1VIbHYzbkgtZlVoSW9QdnN2OXlzalNVektPZEEyS0hJWjB0OTA5N3psbUhEbGhrLXpB?oc=5",
         "published": "Mon, 09 Nov 2026 10:07:31 GMT"
-      },
-      {
-        "title": "YouTube-Ärztewerbung: LG Darmstadt verbietet Vorher-Nachher-Bilder, Schleichwerbung & alte TV-Beiträge ohne Datumsangabe - Anwalt.de",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUmdJTHdkd1BqTDl5ZmQyS0ZXdXQzQ3pWbzdYUjZuLTJSMGtWUGFLWVd6SzlGTmFoeXFUQkNRRlkzc3dzT2RGdWhlX3NKS2d1czVncEJEUDB2N0hCcTBPR2ZveXZkd1N0VEZaLUJkcUdTVl9YNTdMZE5RUVVIQURTQWNyenBteG95SUlhTkU0R2FsYVJNVWw0MEF1bzM3VGN5WGU5ckhlZ0MybTFaaGR4RjNXRzY0Vi1VQjJ4WGNxcDB5bU1MNFFnMXJxR1l3cGRMWHg5TU5pWTJCalVQVm00Y2Q4Y0FpUVRSZ1JMRU5Vc19oU3NsMHhkSnR4VG4?oc=5",
-        "published": "Mon, 09 Nov 2026 15:08:33 GMT"
       }
     ],
     "Technologie & KI": [
       {
-        "title": "Technologie: Chiphersteller Infineon rechnet mit massiv steigendem KI-Umsatz - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHNidUlLNlAxNUc4ZG1mV1F3QnI1QUZMMlZXWVdtVjNPbUFCbFhtWm1xcVVQRk5JSjU0T08zaFFsSVJoMDFzMVR0VkhHV2U0REszMm12dXJUdm9SVTlza3U1X2w2X21hUmJVSENlRG9LZm8tcVpLMG1lWEhCckpmQ0NNTjdJTE9wakJFVmI2V0N2N1Q5UXZ6NEl4WDdJNWp0U2xDLTlDQ3NfREhPQ19rSzBDb0lPaE5mQUVJSmRFUEUwaGlJd0xvYUZGOXVMR0pwdnlkLVdn?oc=5",
-        "published": "Tue, 10 Nov 2026 06:38:55 GMT"
+        "title": "„Ein Mindset ändert man nicht über Nacht“ - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTDV1aHFzT0RSZWRtUWZyNk93OVFxQ3k5eXl5UEtyTWFsdEpnSlN5azI4T2pTRkticEFxUFRTbW16czFybWcyWlBINlJfNFQxellWOEtHZEFxdk15a3ZzaTdWclRKc0Q3ZnRXdDlWMDBTYmQ2aF9mMldEb2t2VUd5ZmhGbHJSdVZ2V0lIaGhNUFQ4dHYtTldMYjFaaUlmNmFu?oc=5",
+        "published": "Tue, 10 Nov 2026 09:58:00 GMT"
+      },
+      {
+        "title": "\"Betrachten wir den Umgang mit KI wie eine Impfung\" - MDR.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEN6UzN6aElXLTRxS01TOFRsMk93WUw1YjNkbDdXNjJ6SXZCN1RXckdobnJEZjFhM0FLRWxWUGZWWFJjM29Pd1BtSlRfT2EyTWJrWHQwNWREUEp0dFlGaTZLeUxJQ0tUSGwyVlhFYURKRlJJTzEwUVZxeFNnZXloUzlKTEVMdEVkXzctRWh2aE55Q09vWU1Gdm5JUVFZdU9rZHlyS3hjTzlXTloyZDJUc1g4RHAwQ2lLamxWMEdONnVmTUZSOHc?oc=5",
+        "published": "Tue, 10 Nov 2026 12:36:00 GMT"
       },
       {
         "title": "Billionen-Überschuss: Künstliche Intelligenz stärkt Chinas Exportmacht - FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0tkbWg4TWgzSlpQUjhYTHNFcjl6aUlCWjF4Zmx4QWc3aXRIRHgxNDJOTDdaVTZkNWRJb2NaVG9wWHRPU0hxcVpWS3lHXzVuanhQLVRBaW0wMThQRVdfc2xIOVpobG9pUXREZXJGMmtVMFBCOFZ5Vi1QWUhXQUp1cDZqT1NkQ3pyNlMtMXIwSW1kTGcyQkd5MGtrZXl3SmtCUnl5RWl6YzZCZ2taSm8xN0w3dUMxeHJjaUo3dTBEaWtYdndVYU82VElWaw?oc=5",
         "published": "Tue, 10 Nov 2026 06:38:26 GMT"
+      },
+      {
+        "title": "Emirates SkyCargo AI Tech ein - Fliegerweb",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaE5iNF9jTlh2aHFWcDY0RUNJSnFTMzE2Z0RjWlZGZFUtWG9YQWhZcU03MGN2YnQ3R3RnaV9BcjFHVU5EaXhGNWxKT0dfWTFhaHF2VzRPRTRPa2RyY3ZDLTBKelRLOW5uS21VVEJhWFNaWHFhTzVhbVBaX2JIeFM5eA?oc=5",
+        "published": "Tue, 10 Nov 2026 12:23:28 GMT"
       },
       {
         "title": "Nahles warnt vor KI-Einschnitt: „800.000 Jobs werden wegfallen“ – diese Branchen und Berufe trifft es - Merkur",
@@ -309,16 +319,6 @@
         "published": "Mon, 09 Nov 2026 18:09:43 GMT"
       },
       {
-        "title": "„Ein Mindset ändert man nicht über Nacht“ - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTDV1aHFzT0RSZWRtUWZyNk93OVFxQ3k5eXl5UEtyTWFsdEpnSlN5azI4T2pTRkticEFxUFRTbW16czFybWcyWlBINlJfNFQxellWOEtHZEFxdk15a3ZzaTdWclRKc0Q3ZnRXdDlWMDBTYmQ2aF9mMldEb2t2VUd5ZmhGbHJSdVZ2V0lIaGhNUFQ4dHYtTldMYjFaaUlmNmFu?oc=5",
-        "published": "Tue, 10 Nov 2026 09:58:00 GMT"
-      },
-      {
-        "title": "Web Summit 2026 in Lissabon: Chinas KI-Roboter eröffnen Technologiekonferenz - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3YwWGtzb0NPRUxSTzh5SDFqWV8tZ1djRW50WktvQ2ZVZEg1UHhZRWxRTC1WM0lBSko1MlFUUFBiYnNZRkNvMXFOTGdRc3VGSWM5cW1UUlNKaGU0dFJ2YlMtckhkcXllOG4zS3Jsc01uclByMS1fellva21KZmRjQ2tIb2V3Vi1pZlo2T290bzBfaHNMeWk0Q2pKRG13cXNwWnlYWWVoblBrUkZ5SzdJ?oc=5",
-        "published": "Mon, 09 Nov 2026 19:15:03 GMT"
-      },
-      {
         "title": "Christoph Keese: \"Wir haben unsere Rückständigkeit zur moralischen Überlegenheit verklärt\" - LEADERSNET.de",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVd1a1BZc0t6SW5GTExyZm5YbHJjdlJmMWo5bGxOZ1pZNXI5ZzhjaXVMeEp1RDFHSWdaMWt5a3FzR2ZRdzFUanNlXzJfNEhxSFVFUUxvbEZIN254QnZCbmxIUkVIWEF3eERMTUVZOGg4RVA2Y1M2TFBoU2VhTFJyM3I5SFRqVjNPSEJYS3NyNkpxMzd6S1B1dWlaRlVUQQ?oc=5",
         "published": "Tue, 10 Nov 2026 08:00:00 GMT"
@@ -331,29 +331,24 @@
         "published": "Tue, 10 Nov 2026 07:23:03 GMT"
       },
       {
-        "title": "Anleger klagen gegen Nvidia-Chef Jensen Huang - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXZ4VUdBMDhHSXZSWFl4bERYbXdyLW9iV3VpSTdITnVxTVhFaTBwSlJjdC1wUU1FODdKSUZubkZVTk5wenAybDlhSi1PZzJycDZ5VmpHNXdGWUx4cERSZFBYUHdXT3cydUVSbTlhU2NLTlNDeV9CM2N3VWZ5eTBLVkZhd1R2N2hrRWpvZ2FhS1FUYy1wYUZNcm0zVXRmMW95NHQ1Znp6d0xPQXJIZmZqMXlCa28yUHc?oc=5",
-        "published": "Tue, 10 Nov 2026 04:30:00 GMT"
-      },
-      {
-        "title": "So spottet das Internet über die Affäre des Nvidia-Chefs - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQmRXUHVYampabGEyYTVWLVhHVVYxNWR5OGJFMW5DUHB6cWdXeDJ4UmlZVHVHbEtaaW9yOFo2VjZ3SVNhMkRiT0xSbXBxcnYyR2p3a1kzbktDVFlMbWV3VkpVQ3dxR0EwM09oS2xEZ0tPdG5BdnZqMUpoUFUtTXRuMTZNa001UjhQcFlyTVFpdE9tVzlpekluVUZYVmtIbmQ0eFNHaVFBYlRlVE1xSWhmUDc1RVpTNkl0NDRMYlVCWmo?oc=5",
-        "published": "Tue, 10 Nov 2026 06:27:00 GMT"
-      },
-      {
         "title": "Brisante Affäre von Nvidia-CEO Jensen Huang: Wer ist Alice Huang? - Kurier",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzRTWDVXYVhoLWU5MmxkRUlaT005cFhGWDgtZTNfcjd4ZFBQVWJ4LW9ZdGZtUGdJM1RaSHNESmhBZzlsSmlyTF9IWnZtdHd6SXpXYzZXeHRXTnZvNzF4TGNTXzhrQlRSSGJ2TWRSNU9PQ3p4ZEQySXFLOFJRd0RUb04ySXRMNTNRdXZNcHppWFA?oc=5",
         "published": "Tue, 10 Nov 2026 12:13:00 GMT"
       },
       {
+        "title": "Chip-Riese: FBI ermittelt zu Affäre von Nvidia-Chef Huang - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnVwWWI2UXNSQkhLRGJORUZtaW8tYkVZTExTemtKYVhWXzFON0NUUXBuR201SHl0Q3pvOS1wWS1CZHZtLUUyc1RjUmNJR0FFYmpHMm5WTVRsNW9NOXRMdWNNSGtmVVp1UFRBZm5xdUZtb3IyVEZhMVUxdUlGQk5ndWlOSkF3TGwwUl83dlpfaG1LMjJtUHQyZUQzZGlsZUZ1MnlDcnVLU3BMQm43cndsaE9HNTFlb2NUT0NmdzFR?oc=5",
+        "published": "Tue, 10 Nov 2026 11:18:00 GMT"
+      },
+      {
+        "title": "Skandal um Nvidia-Boss - Das große Achselzucken: „Männer bleiben Männer“ - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51Z2pNa2pMYW1wQlhvRk1LZ2NacU40Mkg4VDlfNHd1TFQ1bm0tSWFRWTJ2NzVjYndIem1iMV9SQ3Jpdw?oc=5",
+        "published": "Tue, 10 Nov 2026 11:55:00 GMT"
+      },
+      {
         "title": "Nvidia-Skandal: Wer ist Alice Huang? - GMX.AT",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYbFdoVFBMR2VOWTRBVFdhY1RfdGZWNWdUNTNtOV9HdkpPZi1yMEY0RUxyemIzTGphOXg1bFNDbmJBLWhIRFpOUEpnalJGMFNvNUJCVEN6d0Z2cUZzS24yMlZPT2lBd1hZZkJnT0h0NWVubWN6OGNzYThpdlJtdUU?oc=5",
         "published": "Tue, 10 Nov 2026 09:44:21 GMT"
-      },
-      {
-        "title": "„Ansteckendes Lächeln“ - Affäre von Nvidia-CEO: Wer ist Alice Huang? - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13ZTc4N05oNEpHc0I5WXBWYnhyQWZZUWRMejAwc191TzlrZnczck9YUUE1OFZEdjE4LW9LS29XLWpoUQ?oc=5",
-        "published": "Tue, 10 Nov 2026 12:05:00 GMT"
       },
       {
         "title": "Nvidia-Chef Jensen Huang: FBI prüft mögliche China-Spionage - VOL.AT",
@@ -364,6 +359,11 @@
         "title": "Spionage-Affäre: Nvidia kassiert Sammelklage - BörsenNEWS.de",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnBlLTI5RkZBeDlPbDN5bGFiNFI5TUE3UWk0dFEySjJnWUFIaXN4ZEVuU3FDQWxyU2s3RUlOazl0OG9nckI0WXRrOGFXbFNGN1V1WHgtVEZNQzFMQVViMzVxaW0wY1NSclBIaVNIVzRwN29CT0NMT0lWYUY3ZmRQczdHQkxCSHZ5NHJFbW5JQjV5QTRtT3F6WXZicUVZYUV5ZXNtQk5aOGprT1lIR1VjWUp3?oc=5",
         "published": "Tue, 10 Nov 2026 10:10:42 GMT"
+      },
+      {
+        "title": "Anthropic-IPO: 64 Mrd. Dollar von der Börse, 26 Mrd. von Nvidia, Google und Co. angepeilt - Trending Topics",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYTZjU0hOaWFtZWdwZ0kzdjhrQ1J4NFFJS0k1b09YRGhCX0lEYmZPNVkyU2RfWE5WQk9Ea0p3QjFuSVo1cEhQMWF0aWhvejFzemc3bXgxQlN2SkpPWlJIdUZJZnlfVlpPaFhLRGIwcG5SYVVKMGpCdk05TDRSeGJJWmtQS2c1dw?oc=5",
+        "published": "Tue, 10 Nov 2026 11:43:00 GMT"
       }
     ]
   }
