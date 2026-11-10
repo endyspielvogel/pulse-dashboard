@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-11-09T21:59:52.666753+00:00",
+  "fetched_at": "2026-11-10T01:21:48.508320+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "VCCP",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhLU1BaW0xRWZuWXJOVjlwWXZNbTVwVGRvZUYzNGE5bmE1YkpVbzB4Ym5DMDBGbzhlUHNhMVFTTGE1TDJVMEw1MjFuMzlHMnB5eXZkY1Q4bl9Hdw?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T21:11:54+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Publicis London",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6b3o2RnRudzFRX29odlVkT3dXeXJ6ZWlRaHpDUW9aS0xxUXRzOVczbTUwbm5iQ09oS0VkZWZLVGZkZ1QtWk41b2JyY0RqZUZwRG5FMVp5N09TVFF2RWV5N1Q0OHNLbDVM?oc=5",
+      "published": "09.11.2026",
+      "published_iso": "2026-11-09T19:02:54+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Uber Advertising hires Chris Porter as head of UK and Ireland",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzJJbjFMNzNJblF4enVyVGRYd2pTWDNOR2ZIRTdqSE5NY0g1ZkJnd2pxelVRelJMb0NGZVFWOW05S3NqTVZ4SkZWQUNqX3o5UXZMLXBLRjRET0psMm4yeW9ncExFb0M2ZmNvb2RQdTJKUUtHQTNPVERrWWxQVW9LbjhjUTI2RVpGTDRwcTVvOTR3R1hzaG1jNGVmaGhXdkx2V1JKdzZkLTBFQThvcG9FZlFPanBsYTFlaHU4aTQ4dV9UZDFuRmc?oc=5",
@@ -79,22 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHhrYVl0YXpmMzB0djJqUk9IandPdGF0a0x6T2xpUVFmV08wTi14Q2kwUjhKQkZlR0RsVWxpdWZGd1FtekFTbk9tY2hwOXlXcXJESzlDRmF1WmxqeW55ZFVsMEJQY05TSXh1clVhdWFBSFJTblpVM0phWWhBa05scEdJVzFXNFRYT3pvZDU0OUJnVjl2WWNhTGE3d1ctSDVEMmsxTGt6TXJLVUFoZE0zbnBCb29TV2FSd2lQY3BJVXpVODUtT3YwbnBpbmx4OWtYWi1Ya0V2dkVrRUVJTXc?oc=5",
       "published": "08.11.2026",
       "published_iso": "2026-11-08T06:05:15+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Etsy teams up with Olivia Rodrigo for second part of its Christmas campaign",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanFjdHFMcEg2WGtadHZacGhDbmM5OVllaW05UDlTZExRUGppLXlKOUdVbzJGTWZQdG1UUkVSN1REOFhwQ3YtMVVVV2hpWlE1eFdMd3IyUEdYbnhoS2NxZGpKajNpUS0xWThhWXNVV2tzMkotb01PVEZVYXpJNXZncUg1czRCck1NZTJOX3dtNVc0Z3hhRXZpSDAtSE4wVmU2aE41cXd0QW9JSG42SzZnMExsS0ZBTHlYOFJHcDlXZndneUlQTTRmRmsxT2dIeTFrbFlSSXF5TTM?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T20:13:35+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Oxfam's festive campaign reframes the Christmas wish list",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0FGZEhYcVg5QTItbTk0VU43Ni03NUxLVk4wTXhBa0htMGwwdUlxMF9rUGtnWUFFVGd6aFg1WE5BS3ZnTkV5MEhMM2I3QXJqc2RtaXh2dl9zbDVTNDFzX25ubExTcy1UU291Zy0wQWFkTVF6dGZUXy1fRm5fZWlTMnkxMlBGcWx5TFRJUUJuY2U2OExRYmdYZHM0TW5jc0JEa1NBR003VG11QlUwQ0N0X3RsUkxpbmpNQ0RWUjlHR0g?oc=5",
-      "published": "06.11.2026",
-      "published_iso": "2026-11-06T17:19:25+00:00",
       "description": "",
       "source": "Campaign UK"
     }
