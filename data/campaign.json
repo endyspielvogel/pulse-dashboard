@@ -1,12 +1,68 @@
 {
-  "fetched_at": "2026-11-11T10:15:50.742692+00:00",
+  "fetched_at": "2026-11-11T13:28:29.263913+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
-      "title": "Who Gives A Crap ad no longer rolled out after ASA ban",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGRIRm4tSmhoMExIY1NuNXJRdF9OYkF5cDlTREp1a096LWg1enpWdHFrSzFSMmVILUhKangxT0pMazltMEQ1R2V4QkY5UExMNW1OVUJBTDNON1A2YmxlbklFeEd4TXdTQVRTVVlOOVBtRzVjV052VUZ5REJlRDVIX3pXYmkxRlpVaGxSZzZQLTRIOTFEcmpGcjNBXzZxTUdDWTdiYTNtTnpYSzl1WU56MTNBV25qTzRRZzY3cw?oc=5",
+      "title": "England Netball campaign lauds women’s participation in history of the sport",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2RZNHhPZWUwa2JRaGVEZnFyM3Vsd2ZhMm56Z1pwcW1nRlBrbmhTSnNfeDNEOUdYT1FzYnZCRTZqZG1tSlMySHRON2pxak1uWnJCc2lRSDJwVjZmT0dzcEwxNFdIQjhZX1Bid1l3ODJDcGRZZXY4ZkZuOGtjRDQwcGFHS2pNRzEtaU5lbTdZczRLOFZGNzd5QVJwelh0WV9lU1VMYWROam1CZmZTeDBncWQtNVpIczZneVFSbFMwZGlKOUlJNjhhVjFzV3d2aHFlVWRHelJ4MW41UQ?oc=5",
       "published": "11.11.2026",
-      "published_iso": "2026-11-11T00:09:33+00:00",
+      "published_iso": "2026-11-11T13:26:13+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Everton FC Women looks to community initiatives with Danish furniture partnership",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX2ZVNHpCWTNrbzJ1cDZyZ1F2dTE0ZmtvRmhHMXRDYmZtLXpyMHZkVWdPanp6V1prOWZnRWNLMUtmSl9CV0xCNTRBOUgydl9PWG1wNVJOV2l5aG9VeFI0ZzRFUXVfUlQxbWMtVklVWnB2SHlYVXVqQl9OZW1oSjVKb0haY0g5OUVyQXNqUks0OXgzdEQ3Z3pPaC1mNm4xQjZON2JOeTBMYlQ1ZnhnN2tJcWdjSWJ1dzhnVDVqQktVcEVtTnRKN0xMQ2ZpdU0zRGNUakFlSE96RUlyRk1TYWd4Wg?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T13:22:09+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Morrisons marketer on the Three Bears and ditching 'fairy-tale flawless’ for Christmas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVJFb0FwOW5Ta2IzM3pYOXgtbVo1d0pJLTlLNGpzLWhIaGtaa3RxNWs2QjUzamp4dEdRQkdPT0lCMzVqdDR5TVU1ZmxLRzByaTRZcl9NN3FlNFNQZl9Yb2RZc2NodElja3BwOVl0NXJiZFJzbVFPMTRXYnRZeWVLZlJ1WkM5TzZ4NG4xbFNCMzNIdndiZUZkMGxSSDJWaHJ4QWx1X1NKNGVic0xTRy1Ld256SUVRYmFPRE1ONkc1cVJnaUlDalhhS29oZkUxcWJPOXZzXzBxM0NfN3pmeS1xVkhNZnM?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T13:21:22+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "IN-HOUSING",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUFBidk93VHNHc241VHk4dXAtdnNNeUEwRUVmZEdSdU9wSzB0eFdxUGJfdDRTNEp0U21UNW41VU53emZjN2N4d3lLOFMtMGRQNl9QMFB5U1dfUQ?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T12:39:12+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Driver and Vehicle Standards Agency on hunt for creative shop",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjlROXk0T21xeU9YbWhlZGtORDZncWNXM3piM28yWkVfV2lTV1R1RnhlS2FNcHc4M3RwQ0xxTjdVNFFqaEhJY0NoTFdVX0xHZnVPbktKWkhCRGpfZHBIUWJCQkIwcjR0a0xXdXE5ZTZwQkVIOEx0RXZaMU1aWlBkSzV4RmNmQjlUNTRfdnREeXpxNXdIMWk2SVI5R2ZaZWZTLXd1TWtVc2R3LTYycHhxaTlqak5QS3lWQTR3cEdRczc5WDJxTEE?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T12:18:02+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Waitrose Christmas ad reactions: 'feel-good feast', 'wonderful writing', 'will Phil be safe?'",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzdMMTg5M2ctdnkwTXduMDczYWc0bEdoR294a0dhUGJmS3JQZjd6THUzekZicGZxOHZwaGlfN3BpNHZBS2V6T052NWQydS1ibUwtZjU3TTdvREtfWEZqU3FJMWc5bjFHTVl2Z19wSnRzNHg5alp6dTdKZUktcm5NSW1mMUoyWldhQzVtYjAxOGs5NC1IdnVOUFdUalVyZ2JuU1J4S0ZsQ2tqTzVxV010TWdmRDdZWWdHcEpoWG5QMFNxdmgtdEZxNkpISzJKaHR4dFFPcFlGQXFFbkYxTno5cng1aw?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T11:56:12+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Volvo and Eden Project create music with plant data for Sky Nature sponsorship",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0xHWHVkelFHUW5DdXIza2JKcXJwV3l2NnljSVFrLWNYYVRuUTdmQmgxODhWS2l1MC1mRUxBNnY4eWNOajJIR0xVRlJkSTBPVVpSLTl3RjExdWJXdU9sWWNEMTdyQlpzZldSVDR5UjkwUmJCWlN3Zm9aZnhBQkNjczR3T1haYXdJZk50b3ZTbk1LM0w3V2tSdjc5cVozMHdFV0VVdUR2b18wQzdTRHFnNkhKcmp0REJJY0VrOWVwNVpLRGo2U1BwbEJyLU1lakZTZjl3RF9maUY1MEZm?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T10:56:42+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "ITV ad revenue falls 8% in Q3 2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFNJSnh3YlJ5XzZHRUNMTnBOYmlISmdlUDk0VGhHanhRanhYQ3lZLVFUaEVBYmRsd0JjVFh0MjBxeDNpZXpWQ0RDRkhzVmRQUlhYd0dhd0lkSE4zOXhMZEE3UFZCZ1dTbWwzNWQzZG40SUpDR1ltQjl1dGFIUkZPY09nc2pLb3VnRXFVdmE1MEJ5R20wOEZocmZnckhfNVZy?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T10:43:28+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -39,62 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYV9WMXpwdXRLOW5ycnFhT1otaG5qZTFQSTBVM3J3SVREdUItS3pCZkRRaHNlbHdpQWluMmYyWlNZZ240dGcwbTU5QzNJU1h5LUJ1THF5RnRoR1UxM0lkTFpfOFlSeHVKdGd4STBJSEhfXzFuZUdLUkdpd2J1dHdTUTZVTTZYMTlZc29qLUJDQUdvdTY5WG8xZzZHTkFQU3N1?oc=5",
       "published": "10.11.2026",
       "published_iso": "2026-11-10T13:23:18+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Former the7stars investment lead Lewis Shaw joins WPP Media",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2xHdU5kQ2ItcGlyRm55WDQ2X0RpandDU0Qya3BSUm9lcWpMUi1MLUlqZkx5Q0xubGtyaDdtSEtSQ0dGMGhRdXBvX2dldFdkNjVTejJrdWJmQlNrQl9mSFBSZWZFajVNSV9PdlNOY2Q5bVRXWWRMbjZhZXNFZTF1ZjlidzZLVEdaUzk2R1hMVnBOSk5tck9ENGZZa2xaNkxFRVdtMTdaS0Z4S0NUTGYwUlRhRVhiVHpxY1lCcU1tdm95VEE?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T13:22:33+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Bet365 appoints media agency",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmszakNJbnFuS2lJRV8tNVhWWHNUdGdNd0x0M2NQUk5ubGF1SHJ1QXRYWDVibEJual9kSEtxbkF2YmVVWmtHYTh6TjY4R3RhV1BwN3NfM1lqM3dVd3F4Q1EySmIySnp1cHltNlJiMFllT3IzbUc5REpwM0lHdGVGMDR3WjRqLTcxT1lwMkhOcnYyMXhXVUxhSHl3?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T11:10:55+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Christmas Private View: John Lewis, Tesco, Sainsbury’s, Lidl, Argos and Prada",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUVOYkw5NVE3RVBHMjBFN1Z5VjVXZEw0OS1sWS1Ccm5OcVhTV1NtRktJNFd3UGxaNFdaLXRueWM3OTZJcXpvU3k1MEt2Q0t2dklRZ2NFRHdEU3RNc2kyUkRzb0ZPQWZUN0lKSVI4dVZkeDJmSmw2b2w5bk96N1RzNXN2bFdBel8wZGItbGs1bC03NmMyVjdIOUhGQ3R5bHFZZE9oaHowMm9yTXQ4RUhJdW9CbFBVT0VGNnU1b3dTekVpSEFHYzM2Um16QjlMS2RuMzA1dA?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T11:08:13+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Persil chief marketer: shifting focus to in-store campaigns, using the UK as a testbed and why indie agencies should pitch to Unilever",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdXoxYVktT3NMQnloVWpscDlxSHZwdTdIcV9xb09PX0tRa0dOQ0V6Zlh0dVo2M3ZUSHFzaXlFd3h0OWNfaU5MNlpuS0VINV9FcWhjU2ZpMmtMMGhlNmo4YURZbEM4ME93N2prdGRubEt5R0I1b01vR2h1dk5BNklzUnZjbnotdWJQVUxXX1lNYy1OTmE3Sm5hcm5SSVFfRW95bGtoMGFwVGp3M2ljSkdGY2swZFZDZFBNSHp0bFRpUkpkdHU1Z1BDSHUxcld4MFBtdWVEcm5jbGwzRkU4RjRnY1BuQjVwdW50OUZaYThSQkFUUG5wdGZqOU5IUVdsUkpLZzVrVkRTY3JKTzh4VkFpcjcxNzh2SFhjeDVPQUxHSEdHYmpQ?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T10:58:09+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Are big-ticket sponsorship deals still worth it for established brands?",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb1ZvclVYY1JDcXJ0cS1yUzg1dGZ0U1RIVF9LYS1HTTFUMTM0WmlWZVV4cUxNODdBU0hfUTdrRDZVNElwSjRoa2JOM1VYSUcwejBLT202elJ5Y0prVVI1T1dycm9seVhlbHVxelBfZHplQmJyMmpvaXNSQUw0Vjg0M1RpazBOWERMQnFyYTFaSnZDMVVJLXlkc3FPcHZzb2VxOEEwMVhIYmdsT1BGX1hXWDVQbDJjVHhuZVZUSGVXbFlKd0dGaW9KSkNkSFVOMU9XeHc?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T10:02:42+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Waitrose Christmas 2026 ad stars Keira Knightley, Joe Wilkinson and Alex Hassell",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkV0UHRTME9mR05xZDRpOGpYOUZRSC1NdFlyYWNyNDhDQzRMX2tKemxvUnJpX2dTdXY2Szhhai1TcnUzSGlZZWxBTDZ0b3lNT2J2VVBZNmktOTBnS01WVTkxWnhacXMtUU1nMGFYc1J3RlMwN0ljM3ZKbHVZMVkwUS1SUjZDR21yVVNYS3lDbHhxMU9pSEw4X0licmFSRnFUcjdWTmt1WkplUS1SeWk0WEotbDFCejB2V0NXXzJnQW05djN3dExuR1dRU1JCRS1VV1kxQlJZMjg5RnNaWXc?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T06:37:02+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Do advertising awards still hold the same weight?",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZkcyZlRtaFZSUmlvM1FPd3Jrbi1TcnJaNmFZV0E1Si1vWUl1bk9vcVpuQmk0NzJBTXAxbUJ2WTBjZ2xIaFJjb1cyRDgxS1NwRGltWHNhdGp2dElDUnZsTHM0Q3NXc3JHT1M3R3lIb0JTTDBFZEczMG5vTlUzaXF6ZkUwWE5yQzVibElhMHZjZWROT0pCUExaOW1GSnFtemtfbG1HSE5POW5iaUlKZlhTUmdYYk0?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T06:00:51+00:00",
       "description": "",
       "source": "Campaign UK"
     }
