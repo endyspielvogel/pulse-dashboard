@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T23:41:52.632587+00:00",
+  "fetched_at": "2026-11-11T00:16:23.215711+00:00",
   "countries": {
     "AT": [
       {
@@ -8,7 +8,7 @@
       },
       {
         "title": "vermögen",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "bodybuilder",
@@ -28,7 +28,7 @@
       },
       {
         "title": "arabella koller",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "abriss",
@@ -36,7 +36,7 @@
       },
       {
         "title": "nachzahlung",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "robert enke",
@@ -45,44 +45,44 @@
     ],
     "US": [
       {
-        "title": "duke basketball",
-        "volume": "5000+"
-      },
-      {
-        "title": "iowa basketball",
-        "volume": "500+"
-      },
-      {
-        "title": "drummer",
-        "volume": "500+"
-      },
-      {
-        "title": "rick van vactor",
-        "volume": "500+"
-      },
-      {
-        "title": "texas tech basketball",
-        "volume": "500+"
-      },
-      {
-        "title": "capitals vs senators",
+        "title": "ncaa basketball",
         "volume": "1000+"
       },
       {
-        "title": "devils vs jets",
-        "volume": "1000+"
-      },
-      {
-        "title": "kent state vs bowling green",
-        "volume": "1000+"
-      },
-      {
-        "title": "donna kelce",
+        "title": "brittany mahomes",
         "volume": "500+"
       },
       {
-        "title": "florida vs florida state",
-        "volume": "5000+"
+        "title": "switch 2 black friday",
+        "volume": "2000+"
+      },
+      {
+        "title": "cfp rankings show",
+        "volume": "200+"
+      },
+      {
+        "title": "college basketball rankings",
+        "volume": "500+"
+      },
+      {
+        "title": "when do cfp rankings come out",
+        "volume": "200+"
+      },
+      {
+        "title": "bronson reed",
+        "volume": "500+"
+      },
+      {
+        "title": "cfp selection show",
+        "volume": "500+"
+      },
+      {
+        "title": "unc basketball schedule",
+        "volume": "200+"
+      },
+      {
+        "title": "panthers vs blue jackets",
+        "volume": "2000+"
       }
     ]
   }
