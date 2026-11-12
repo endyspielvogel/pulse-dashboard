@@ -1,12 +1,7 @@
 {
-  "fetched_at": "2026-11-12T01:50:21.806527+00:00",
+  "fetched_at": "2026-11-12T02:48:00.372178+00:00",
   "brands": {
     "McDonald’s": [
-      {
-        "title": "Pre-Tasting der neuen McCafé Getränke von McDonald's - Leadersnet",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUxMbmhuMFVzOVdPbGpIZ1NWS3BsTUJhRHdHeU1tcDB3eE55N0pZdmJDcjhoTFdGdENJdFluVWM5Q3lPWVVUVUx1MlBrNjNSOXJtcGJYdGM5WWt1Q0dEYTZ0RXlickwtbGlqUzdURkljdUkzN0xXMG1IdG1EbVRUWGFYNXNNVWZFRHI2dHJZR2tDa3RFbmVZUTA0SnpWRXAzdWlCOEJPYjBZbDRFa0wwNHQ1UzJ2ZW8?oc=5",
-        "published": "Wed, 11 Nov 2026 20:32:26 GMT"
-      },
       {
         "title": "McDonald’s am G3-Parkplatz sperrt am 26. November auf - NÖN.at - Niederösterreichische Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDNKVDZtMDlsbWtlT0dUbmtOSUhMUGdaMHJodXBqOG5zTXJSdnVKSTNEMFFvOTlZb2NFekUyUHMwSG1ONDZPaWZYZDVQbkp0SldaMkZ2ZnNnTDlWQ3hvY3VlLTB3RTVOVkhQZ0d4SHVnQXhld0NQZzdWeVZnb0RWYTgtMVFzNHVZUS1hTDZSSWdOcnpSUks2eW5RU0N6ME45Vmc2MWRMWXhRd1NZMXJ1Tg?oc=5",
@@ -23,14 +18,14 @@
         "published": "Wed, 11 Nov 2026 07:43:00 GMT"
       },
       {
-        "title": "McDonald's Aktie: Gewinn schlägt Erwartungen, Umsatz verfehlt - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1haeGw4QXBmdmplRmxJR01tUHhCdkhIdUxOdjdCOHJLMHpNX3pFRjY2RC1LWDdpNjRTd0J5TFpuVElCRUJvR2tiVkUtVFNUejVHQUFaRENHbjB2azVxSDVNYk5MTjFhMlRjdlNOQlBoUG04ekJuRG1jWkMxcTc0US16TEFBbUQ3dWhUa1BUS2VDaGR0eVExWFNyOHZuQkVrVVJoWnoxZFZHRW04Z1hzNA?oc=5",
-        "published": "Wed, 11 Nov 2026 06:03:08 GMT"
-      },
-      {
         "title": "McDonald's Aktie: Dividenden-Hammer nach starken Quartalszahlen! - AktienCheck.de",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGRQckF0X0lLTGtaRDdnaXoyU2I0bGhWdUZIbnB3ME1kQTM1d25XLWgycG9TUkJaY2lBdEZRSzhEZ3Q3eHozZkZUWjA4bkxpa0w3WG1haldyaWxLb2VxZW5HSjE3QjM0V2RqeGhJdGozMjM3Z2JRQkFyclFMbVMwanB4Mm5HeWlkVEZ1cFJSYUgwLWhuSTZB?oc=5",
         "published": "Wed, 11 Nov 2026 15:30:53 GMT"
+      },
+      {
+        "title": "McDonald's Aktie: Gewinn schlägt Erwartungen, Umsatz verfehlt - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1haeGw4QXBmdmplRmxJR01tUHhCdkhIdUxOdjdCOHJLMHpNX3pFRjY2RC1LWDdpNjRTd0J5TFpuVElCRUJvR2tiVkUtVFNUejVHQUFaRENHbjB2azVxSDVNYk5MTjFhMlRjdlNOQlBoUG04ekJuRG1jWkMxcTc0US16TEFBbUQ3dWhUa1BUS2VDaGR0eVExWFNyOHZuQkVrVVJoWnoxZFZHRW04Z1hzNA?oc=5",
+        "published": "Wed, 11 Nov 2026 06:03:08 GMT"
       },
       {
         "title": "Jensen Huang Affäre: Nvidia, HP und McDonald’s im Vergleich - Goldesel.de",
@@ -41,6 +36,11 @@
         "title": "Nach Scheren-Attacke im McDonald’s auf Touri am Ballermann: Täter muss jahrelang in die Psychiatrie - Mallorca Magazin",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVhRR0ZTSXFDZld5Zl9kb3ZidjNiaWFJOE1tUElkYldaTi0yOHhMQ21wYmlvbkFVR0x1MDROTWx6cnM2MXJSOUk2QTlUTFItQVRET3lmdmFZNm9qM0FUanNPUEw1dGcxMnp1TlNKNG9pbnRhaFpWb2tmZUJGbUVxdElKNWZ2azljZGUzX09POXdndVNfc1Bsd0JvbDFqQldDTlNKOEN6R0FrdEFaWVFCZDBfaXZNS2RsVVJXU1hzbld6bnVneUhWb3lOQ21CQTM4bk5hS1NjMDA5T0s4WElOTGRweFdBLS12dlpUVUR5LUhwaC1yVkRCV1MwTVZGdEJk0gGAAkFVX3lxTE5TVHlfZGFHTnBVM2taZ1ZJQnJCS015ZElxWXI3SlBUTkR4LVdzbU9DWUVEQVUzOFBLR0ZXajNJOUQzeFdUaG11cWdkb2c3V0dUd0ZLdFBaMmwxWGtBTDIza0xTQ3ZYYWYwODhQV2RYQjVOSTBURVVJNW5EYWE1ajJuaU4teEF3Tk9hQ1I3ckNVODE1NDkwUkxCX1dDVWRnbjRSYzVWVjM0Smo1ZGMyNF9vMURETXVuMDBkYTJFTlZFVE1pZWQtZDJuenRqb0E3cXRPSC1XV0IxVjZma25TS0V0NUxOWVF3Sk9TTDJWSVVFT3lMY1dqUTJfWVVzc2pRODI?oc=5",
         "published": "Tue, 10 Nov 2026 10:06:35 GMT"
+      },
+      {
+        "title": "Käsegipfel und Mini-Radios: McDonald's startet Nostalgiekampagne mit beliebten Produkten - Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeU5kbllkS2x6Ul9DQ2xLY0NpMFhwZEluQ01ORzVwZWxybVFSU2pFTWxiVGlSMmlaWnNVeWtqOTgtVmVYbVNoalFZSHZlLVFmLU1Sd0FiX2R2eVpIU0U2QW82QThaRVJDRkEwbzJrMlFOYVdjZXVFR0pJallfYTVadUVfVHZnOEdTQ2p6TU5vWXlCZFkzS3NJemkzLTNlejlzb0Zxb2FxSDBLeDlMbUdud3dRUzRrSm44U1FsckJmQ3lHc3VMMWJ5Wg?oc=5",
+        "published": "Tue, 10 Nov 2026 10:44:06 GMT"
       }
     ],
     "Burger King": [
@@ -161,19 +161,24 @@
         "published": "Thu, 12 Nov 2026 00:39:31 GMT"
       },
       {
-        "title": "Nvidia-Vorstand bereitet offenbar Rauswurf von Jensen Huang vor - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUtkODNYSUZxTlJvcHFRZUtvbjhySmpEYmhWR1c1WjkwbHBULUpTRmdwck1fbU1rcFkzTDFaRkstalBscmJNMVZUOE5vZVo0SXcxV3F6WVhBQVkxa3RRYnJrLUZhcGdGV2hvaFh2RVBod2VRMnN5OUo4ZC05MmFxZ1Vkc1g4YmJKS2prM1Z6VVhibS1wRy1xSzU3WFZIQldPc1FQVGhvdzVFaDFqUXlyU09wcUd1Q2IwZUVBdDdXMVU4Tzg?oc=5",
-        "published": "Wed, 11 Nov 2026 22:57:22 GMT"
-      },
-      {
         "title": "Jensen Huangs Geliebte schleuste 240.000 Nvidia-Chips nach China - DiePresse.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmpvRHB0OGVhaUprazhhZm82Mks4X1M4ZnJnbWMyNG80eTNQYUE0UUhKLU45bDZrNHd5a3dKWXpxTS1HaTB0cE9UeHB2RkFXNEJzMTIzX1BVRTgzWUg5blY0N0dpY090WEpwN0VVZFFDWDlaMGFvd2ZLNGFETXhrM0ZHMjA1cG5rd002YjBTRDQ1WXA0ZnlpREY1WXk2NWc?oc=5",
         "published": "Wed, 11 Nov 2026 10:44:25 GMT"
       },
       {
-        "title": "Chef von Nvidia: Nvidia will sich wohl von Konzernchef Jensen Huang trennen - DIE ZEIT",
+        "title": "NVIDIA, Apple und Microsoft: Wie viel Klumpenrisiko steckt im S&P 500? - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY19XdUljSGFKN0J5UllnejFmU3VfdXlMeExwZmFTQ3IybVRHdmxvTm8yXzlmZlNaSlBpTEJ0cVhMbExBOHBCUGVKbUtEcjRMZlVyM2dtcUppUU9RRlpnVWcwYjdWaENMWHNtNTRIRXNWbjFHWUZzby11TkxUdTBRbWFUMlQtNDRSdU9UcEM3QTlzYVZCOTUwMTZUQmhNNzZKU3ZEeHR3UGZnRGQ0dXRidEg1enFLMFg4R1VmZVpn?oc=5",
+        "published": "Thu, 12 Nov 2026 02:12:51 GMT"
+      },
+      {
+        "title": "Chef von Nvidia: Nvidia diskutiert über mögliche Ablösung von Konzernchef Jensen Huang - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2pKYVZlX3dRLWp3cEZhTlM0NjRuU05FZklkX3V2NnA4MmNUOUlCT3liSDBZVjhKamotNWU4OVFqNHhzcm8wbGNHcGJtZklIam1Hc0pDYnRaOFR5eTU2M0V3a25XZlJLbmJSYVllcHJhNW9aQlBTb2ZwZ3pTWHl6cmw1LUNsQmZIVVVEcUFIUnFWYkNiVThCRHZfNVA0ellpZU5VRXpVa0ZhZw?oc=5",
         "published": "Thu, 12 Nov 2026 00:52:45 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie: Kaufen oder verkaufen? Das sagen Analysten - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGVOTFR6bVZiYmhORUtqSkNObjctdDRFamtMSElySEtMTWVpVEMtMVVQbGtXcXFUQlZsUDM5MVI1aEZhS0FGM1lBRlo0MGpTUlJndmYxUXRpal9kaHE0MUtHZlVpbDJpWHpaWExYSHR4c3BUUmVOSHlCU3N4bkZYQkx6TnFsR053LTlTVEtjUEg0bEhBd1MwTEhwcDU5cFNfRXp0RnZTMk9SMzRBd0ZCVG1sVGZ0NE1fOEFwS2JJaw?oc=5",
+        "published": "Wed, 11 Nov 2026 14:52:41 GMT"
       },
       {
         "title": "Donald Trump gerät in den Sog der Nvidia-Spionageaffäre - Kurier",
@@ -184,21 +189,11 @@
         "title": "Nvidia: Entlassung von CEO Jensen Huang nach Affären? - VOL.AT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUVpd0dlVjMtWDE3bmNET1Z3dlpZWE0tTXgtd0M2bkVJN3gxMkloYU9PTUlDZVhlN0gyUUJ5WFFJNHdzWEhkd3Q1QlhDcE5CQXVDdU9WWnJBeDl5cFFMMzBEY0hQVlZtWlpfTEJTZlc1MEk1OGM0aFVtQkNrQUxDV1ZNaEdDQ2NSVUF0UFA1N28?oc=5",
         "published": "Wed, 11 Nov 2026 23:53:35 GMT"
-      },
-      {
-        "title": "Nvidia-Krise: Verwaltungsrat berät über Rauswurf von Jensen Huang - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVhmaEtsbDI5MWxPZVRVWWc1ZHVUYWgxNk5KMzZsUDU2TDVEM25NMFpzb3Y1S1N1OUNTUS1nY0lXa0psbG5JZi1nMk5xdTM5NWV0TVYzbWlOUzZXMVMweEhBb3EyaWZSdDNEWTFLVTNNNHItZTlpYnBjMmNzU0N2dGNJQ2ZmY2wzV00zSmJEOFdvbjBoOU1VSXNwQ1FtRlhKTkl1OWZ3a08tUEdVdmt4bjloT3JGUVg3aGc?oc=5",
-        "published": "Wed, 11 Nov 2026 23:14:00 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
-      {
-        "title": "Börse - Nvidia-Aktie fällt nach Berichten über möglichen Chefwechsel - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXZwQ2l3WW1oVzNhUHdSRXFnSThSdTFDN1owbHk0ai1uS3FpOEg1SkFnTG1vTVdVVlIwOWs3WGkyUHdvODBlZWhsSEJvZUY2QTk2ZlJUTXc3VVhCRHJFdkltcUJ2US1CNWZMajZkRE1GZW5xTjNyZ0RTZTFKenhNSnBZeXdDbWlEUTRERDN3U3ZSTms1c25wWVJ5TGVPSURqSldiUDZVQy1kZmc3TlJlLS1RaW42RFZUbnZSYUNvVnRQNDAzLUM4eVR0RE5vZnUyMkxUcU8tRTI0UkVqX284eEg5LXYxRzFzVWgtMmhBYmM?oc=5",
-        "published": "Thu, 12 Nov 2026 00:16:27 GMT"
-      },
       {
         "title": "Nvidia-Aktie fällt: Börsenwert um eine Billion Dollar niedriger - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT01pTmVnM1J0S2FfZGhyMFJOdjYwcWJsMTlMMUpuTUNVMVdSX2RLUnFMem9vSmlYV2JEOUpmVEVzUTdCWnhsbXF5VHhpYUpKRjNMaENEaktxQlJuekZtdEN2bnZ1bmVhaUlsTk5nUEFubDNTRHhkUW9IUER5UTVzeU4tLXljR0ZVdm52LUZZLVdpNDYx?oc=5",
@@ -210,14 +205,19 @@
         "published": "Wed, 11 Nov 2026 10:34:17 GMT"
       },
       {
+        "title": "Millionenauftrag aus den USA: Musk beschert deutscher Firma Höhenflug an der Börse - T-Online",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbUVSd21YeGRuUndKMWtkT3hIUXRoVHpqeXZtVEJtSWRzTzBhTVdCQWhMTzhFTlBfTWxPd3NPSVZJOE8zMVBVLTRxdDZpUmc3UDZCOXBhUDZXTmtlQjJEVi10VXFLZnF1azhELU1OSmxrbWZOcTRiUkpxNjNyX2RVVTdTVFdnV2xWNkhiZU9IanBQOWwtbGxrMFFidlZWRHNxOE9mN3JtekMwdnY5NWFSMURfb2NlSnNyUEdSVm9TeEJSdERqdzk3eXJrUjJoOGxFMHFJT1hva09UT1U5?oc=5",
+        "published": "Wed, 11 Nov 2026 19:02:36 GMT"
+      },
+      {
         "title": "Vvardis: Swiss-Smile-Schwestern mit neuem Startup an der Börse - SRF",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWW5ER3I2YXJfU09oVHJsUktvYk1rUFVyVjJmZkxRX3JqMzd6VGMwWC1uNENxRlRfRlkwOFB4Xy1LTnJYZHFUdVJHTVBnZThGLWZYWHN3MmFuSURoUUxaOEtXT3ZxWno1QUFFbVVPcUpfa0lfNnhiX1FBRF84T1ZlN1c5TDg1NkNVd0tzOVdGMi11bGhoblZNSElKYW9xWGdqLUVfd1BFelBfNmtadWNYaVE4VVZIZGN6c3c?oc=5",
         "published": "Wed, 11 Nov 2026 05:03:41 GMT"
       },
       {
-        "title": "Millionenauftrag aus den USA: Musk beschert deutscher Firma Höhenflug an der Börse - T-Online",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbUVSd21YeGRuUndKMWtkT3hIUXRoVHpqeXZtVEJtSWRzTzBhTVdCQWhMTzhFTlBfTWxPd3NPSVZJOE8zMVBVLTRxdDZpUmc3UDZCOXBhUDZXTmtlQjJEVi10VXFLZnF1azhELU1OSmxrbWZOcTRiUkpxNjNyX2RVVTdTVFdnV2xWNkhiZU9IanBQOWwtbGxrMFFidlZWRHNxOE9mN3JtekMwdnY5NWFSMURfb2NlSnNyUEdSVm9TeEJSdERqdzk3eXJrUjJoOGxFMHFJT1hva09UT1U5?oc=5",
-        "published": "Wed, 11 Nov 2026 19:02:36 GMT"
+        "title": "Anthropic plant Billionenbewertung beim Börsengang - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkQzZmdnLV94N2dDczA2M1E1TmVfWmthQ0pxUjdacFhiVjVYdU1HU1g5SjF3dU5fS0paZVhvNDF3cjRUa280eTlGOVdoWFFoQld2Und2Tmp0U1JEQUpqUTBOZUtZX1I5MWtMTTFpajZ3RndLaWh6eTlMc3Iwdl81ekZCaU02SmlZdlp3b3JfYw?oc=5",
+        "published": "Tue, 10 Nov 2026 14:56:57 GMT"
       },
       {
         "title": "Anthropic vor dem Börsengang: Die KI-Firma strebt eine Bewertung von 1,4 Billionen Dollar an - NZZ",
@@ -255,11 +255,6 @@
         "title": "«Wir sehen uns als Schweiz-Versteher» - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWEtel92UDJlcnFSVnBHLWtqazhvQ1B3Q254R2Q5VEZuWnNROWZkcldLN2Fpc1Vxbk4teTNOU2hGRGtnZFNNMUZkeGlkaDVLNGVubC1FOGFaY3BYVVZaazJYOUFWMEJBWlJpYUhLN0VZR3RzbVZSdlRmSDJPN0tFczdicFFmLUNz?oc=5",
         "published": "Wed, 11 Nov 2026 20:30:03 GMT"
-      },
-      {
-        "title": "PR-Agentur PR4YOU: Professionelle Hotel-PR und Kommunikation für die Hotellerie - PressNetwork",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWRWcFUyTFAwb3A1RnRPNVhMX09ISTJPT3ZEZ0RiQ3pfeVV1NVZiOHhxTDZ4RXR1Wno0cWF3eDB6TW5TNmxxQThOOVJaX3ZDdkxQUE5QTFI0eWplWmNmTm9OSVJGTDBuSUhXOTloOWVxQnM1ajcxRklveE16RjZZVWUxSURuNHpuUkdYZmpRajdPMTBKTm9pQm85MVVLalVOdXZ4ZUNjRQ?oc=5",
-        "published": "Tue, 10 Nov 2026 13:48:29 GMT"
       },
       {
         "title": "Master of Scaling wird Dachmarke: Berliner Performance-Agentur stellt sich breiter auf - ad-hoc-news.de",
@@ -326,9 +321,19 @@
         "published": "Wed, 11 Nov 2026 10:44:25 GMT"
       },
       {
-        "title": "Nvidia-Vorstand bereitet offenbar Rauswurf von Jensen Huang vor - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUtkODNYSUZxTlJvcHFRZUtvbjhySmpEYmhWR1c1WjkwbHBULUpTRmdwck1fbU1rcFkzTDFaRkstalBscmJNMVZUOE5vZVo0SXcxV3F6WVhBQVkxa3RRYnJrLUZhcGdGV2hvaFh2RVBod2VRMnN5OUo4ZC05MmFxZ1Vkc1g4YmJKS2prM1Z6VVhibS1wRy1xSzU3WFZIQldPc1FQVGhvdzVFaDFqUXlyU09wcUd1Q2IwZUVBdDdXMVU4Tzg?oc=5",
-        "published": "Wed, 11 Nov 2026 22:57:22 GMT"
+        "title": "NVIDIA, Apple und Microsoft: Wie viel Klumpenrisiko steckt im S&P 500? - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY19XdUljSGFKN0J5UllnejFmU3VfdXlMeExwZmFTQ3IybVRHdmxvTm8yXzlmZlNaSlBpTEJ0cVhMbExBOHBCUGVKbUtEcjRMZlVyM2dtcUppUU9RRlpnVWcwYjdWaENMWHNtNTRIRXNWbjFHWUZzby11TkxUdTBRbWFUMlQtNDRSdU9UcEM3QTlzYVZCOTUwMTZUQmhNNzZKU3ZEeHR3UGZnRGQ0dXRidEg1enFLMFg4R1VmZVpn?oc=5",
+        "published": "Thu, 12 Nov 2026 02:12:51 GMT"
+      },
+      {
+        "title": "Chef von Nvidia: Nvidia diskutiert über mögliche Ablösung von Konzernchef Jensen Huang - DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2pKYVZlX3dRLWp3cEZhTlM0NjRuU05FZklkX3V2NnA4MmNUOUlCT3liSDBZVjhKamotNWU4OVFqNHhzcm8wbGNHcGJtZklIam1Hc0pDYnRaOFR5eTU2M0V3a25XZlJLbmJSYVllcHJhNW9aQlBTb2ZwZ3pTWHl6cmw1LUNsQmZIVVVEcUFIUnFWYkNiVThCRHZfNVA0ellpZU5VRXpVa0ZhZw?oc=5",
+        "published": "Thu, 12 Nov 2026 00:52:45 GMT"
+      },
+      {
+        "title": "Nvidia-Aktie: Kaufen oder verkaufen? Das sagen Analysten - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGVOTFR6bVZiYmhORUtqSkNObjctdDRFamtMSElySEtMTWVpVEMtMVVQbGtXcXFUQlZsUDM5MVI1aEZhS0FGM1lBRlo0MGpTUlJndmYxUXRpal9kaHE0MUtHZlVpbDJpWHpaWExYSHR4c3BUUmVOSHlCU3N4bkZYQkx6TnFsR053LTlTVEtjUEg0bEhBd1MwTEhwcDU5cFNfRXp0RnZTMk9SMzRBd0ZCVG1sVGZ0NE1fOEFwS2JJaw?oc=5",
+        "published": "Wed, 11 Nov 2026 14:52:41 GMT"
       },
       {
         "title": "Donald Trump gerät in den Sog der Nvidia-Spionageaffäre - Kurier",
@@ -336,19 +341,9 @@
         "published": "Wed, 11 Nov 2026 17:00:00 GMT"
       },
       {
-        "title": "Chef von Nvidia: Nvidia will sich wohl von Konzernchef Jensen Huang trennen - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2pKYVZlX3dRLWp3cEZhTlM0NjRuU05FZklkX3V2NnA4MmNUOUlCT3liSDBZVjhKamotNWU4OVFqNHhzcm8wbGNHcGJtZklIam1Hc0pDYnRaOFR5eTU2M0V3a25XZlJLbmJSYVllcHJhNW9aQlBTb2ZwZ3pTWHl6cmw1LUNsQmZIVVVEcUFIUnFWYkNiVThCRHZfNVA0ellpZU5VRXpVa0ZhZw?oc=5",
-        "published": "Thu, 12 Nov 2026 00:52:45 GMT"
-      },
-      {
         "title": "Nvidia: Entlassung von CEO Jensen Huang nach Affären? - VOL.AT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUVpd0dlVjMtWDE3bmNET1Z3dlpZWE0tTXgtd0M2bkVJN3gxMkloYU9PTUlDZVhlN0gyUUJ5WFFJNHdzWEhkd3Q1QlhDcE5CQXVDdU9WWnJBeDl5cFFMMzBEY0hQVlZtWlpfTEJTZlc1MEk1OGM0aFVtQkNrQUxDV1ZNaEdDQ2NSVUF0UFA1N28?oc=5",
         "published": "Wed, 11 Nov 2026 23:53:35 GMT"
-      },
-      {
-        "title": "Nvidia-Krise: Verwaltungsrat berät über Rauswurf von Jensen Huang - ComputerBase",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVhmaEtsbDI5MWxPZVRVWWc1ZHVUYWgxNk5KMzZsUDU2TDVEM25NMFpzb3Y1S1N1OUNTUS1nY0lXa0psbG5JZi1nMk5xdTM5NWV0TVYzbWlOUzZXMVMweEhBb3EyaWZSdDNEWTFLVTNNNHItZTlpYnBjMmNzU0N2dGNJQ2ZmY2wzV00zSmJEOFdvbjBoOU1VSXNwQ1FtRlhKTkl1OWZ3a08tUEdVdmt4bjloT3JGUVg3aGc?oc=5",
-        "published": "Wed, 11 Nov 2026 23:14:00 GMT"
       }
     ]
   }
