@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-11-12T13:30:28.786533+00:00",
+  "fetched_at": "2026-11-12T16:19:38.935207+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Wishing you a very unrelatable Christmas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2tVbHJaY1RjRk1rTk9kVmo1T003eHR0SVFqRHRfUk9lSllxRGpJR1kydE5La1hNckhyMzA0Y2ZiUk8xWVRsYlVGUkcxanNIUHJRUnR4U3BsY3hZWDNCb1RvREVMeGVJX2pwLU1fYWpjYVc2YXJ1SFl6MTVlWWN6OEdlZ2hZWnpWR3dsUkZET1JXbGFnZkNReXg4Q0N4OGp4a2MzUjMydjlwdw?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T14:44:40+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Barclays campaign uses mirroring mime artists to depict fraudsters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeF9Fc3FRdHNPczNONnVNRGV4ZVdiUFZZbURFakxYcHF4bHkzeUJQbXpqekdBWE84dWRTWFlsLWx0NkRiNjdSeTE5WnllRFE3ZGFCaHd1YXdIQzFYZ294NTV2MkFhZ0pLbFVxZnM5NGhMWXlIVGdiUlpZdjhDMm5iZHUwUmJQTWxpNTZZa3dSVFR1S0hWNlRiQ1RaYWVYNDJNSmVkUHcwc0UteTFhQ3JKR1RnYVBzRDNQb0txOWVteHF1RFZvdmxVVFFHTTE?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T14:33:28+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Krispy Kreme opens ‘doughner’ kebab van in London",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalVuTlhqOWd4YThGSVc4RXNrVERQR2RKUEtyb3ZrRGRkOFFKR1lqS3d3aVVvZkpmNnBIQkhHT2w3Wi1jWGxycjhuS1B6bkRhNHhNTGt0VEJoQUN4SGJ3UUw3VFItanlheGktR1dyLS1mQno3YlpLZXU2RDZ1ZFJiaUo1WC13TVN3Qy1WWTlEcG5NUm5ZV2RCVlJ4TFVpU1Rta0Exem9Da3FqT1RWLWxKVjZzYw?oc=5",
@@ -14,7 +30,7 @@
       "title": "Omnicom Media names Oliver Stroh brand president of UM EMEA",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2dNZGFadWJNaXlYTEVZSVk2aEVIVjdiRlRtZHRFM0VOLXQ1SWNBUkxXM3d2X1VtUnJoaWV4RUpFMUd1U1NOWUVCR2trZlFITGstQjBoTGFhZFFhWXQzRzZzc0J4azZEckFyaElIcENkODJFc0JwMXlvZ3BoNFVKWnR0REtUUThiUFlKb2ZIMHdQcnhoTXVVekx1VnoyU2NRbkZHaVlUZV9XcDBYZGlVNktWTkhGTnFpWVdsd3daOGdJY0k?oc=5",
       "published": "12.11.2026",
-      "published_iso": "2026-11-12T12:03:17+00:00",
+      "published_iso": "2026-11-12T12:00:00+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -43,6 +59,30 @@
       "source": "Campaign UK"
     },
     {
+      "title": "AnalogFolk promotes Anna-Lou Gladwell to global CEO",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDd4T3FIcnpJOE9DTkFDcERmckhNWEo3czlzUVZ6YTBsQmFleGFRbG10aDR5ejFhU2lkbmk4cG5HdTJNRlpERjJQZUIzdk5KQjFVREpWdjFKWE1LUTZQcTd3VlE1QVY5Szc1amQ2M2NiMTF5bUF1SXRsa1VXSmlWRG42bzE3QjBhWVl4bWJkY1R5dTRvQUZfQWpDX3AxUVJ6RjBDM2QwUXE1SmExWlY2RndIeHJGZW5L?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T11:08:20+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Movers & Shakers: WPP Media, Publicis Groupe, Uber Advertising, VCCP Media, Allwyn UK, Snap and more",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdE0tTHJZMTJHZDJoekxCbGxPZTZjOXUzdWlTR29LWVBUMlpKMzhGdllkazlFTXVpTHlvbEMxNW5VazFMQVNRQWRWdnBhR0hTZWVPQTV2Y3ZKR1IwSUh6T013Mmhlbk84NXJYZi11bGZCNmJUckRFdFBOZUMtNHpSUTBLUVJ5eGtIeGVOQlQ2YXBNbUh6YjVlMDFSeHl3Y3RwRUZWNl84bUNLN0pFRklSWi1EeGVEOE43Rnl6VUtfQUhFUnJTdG5qVlVpbXIyUzNJMVJQZjNldUhfWlpieGhMM3RRZURXWUduQmxTS0pLZw?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T10:43:47+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Movers Spotlight: Nagmeh Taheri, Stagwell Europe",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkpqRUp4Z1hrQ0pzeTJXd21ubGdaZzJfdEJLOFlZa05vNF9mblZubE5QcnBxZ0NhajlYblRjdXowcU9RR2N1cGdUWmFVem1kdFYyZjlacjJUd1lnd3BVSHZKXzlLbzBsX0Nzai12RWtEWjlSeXBQbmE2X0IzajNNcm9fcEt1U1ctc0liSWNqOGhZelc1OVh1bTE2OXRXaGE3dkVjMTl0djJOOTBlQjRqSGNR?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T10:23:23+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
       "title": "Gen X: the generation advertisers overlook",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjI3RHZ2czlzdnpnUWcyQUtSaTg5UFdsamNmRE94NDE2OHJCcF84cUdwWnc3UlJSVGVHTlYyS3FYSGJmMjlJZFhzYlEwZF81aGZVZ2h5bDBINnBrbnZkQU9zWWZUOUhrNTRfbmlqbF9rSXdQdHFndVRyLXFkOGRGMlUwZFJyWVBIOEd3aXdvTkxRbjRyOUJ4Skc0Zm1vRk1CaVBsbDl6SHRzTEk?oc=5",
       "published": "12.11.2026",
@@ -55,46 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRzVxcjU5R0E2WjVXY2Q3cU9ldE9LZnc5Ylkyc2dEOUsxOVpRNGhfUERMYXhnTHhYUF9lY1NmOVVjZVR1ZDZJV3NsRGU5Z3dkZ1hEZzdDYWktdkd4MW9ST0NVVXJoRUZuOG1tTEE2NU5sSDlEYUVKU0loLVoyVUpsTndvZHNFd3pFb0xhUy1Bb2FCVGx3dW1ZTFAxYVQwQXZWZEYyMHZSSXUzaFlPNWZ4MUxxLU90aU1VNGsxekEybHdUWW1uTjU4VWd3NA?oc=5",
       "published": "12.11.2026",
       "published_iso": "2026-11-12T08:01:10+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Podcast: Campaign Goes In-House at PepsiCo’s Sips & Bites",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbEg4Mk42NVR2S2RvaDNfV2JEdm9PTTRhZXFWUkFpOGRERVNHU0Y0S0o3YmM4WW94bEtJa2VDMEtYQ3NGNjlRWTlGOUI0N0JKNE5tYjUzM1BtYUdIbllOLURYVnVwenkwV0pNdHYycnlLZDN0UlpTc2VNZW5vd3VkRi1VU3ZGYnVucEJwX21oMk5ZVHgxTkJwQ19qY1N4aFVuX0NPVGMtOVl5bzI5WDJmMnlpdl9hcjV5d1puXw?oc=5",
-      "published": "11.11.2026",
-      "published_iso": "2026-11-11T15:38:07+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Lufthansa Group appoints Omnicom Media as global media agency of record",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTnJqdXdyWlpLeUlBZVFiQnNOVEdFSmMxWS1Qa1BwMm5KLTFHOVV0UTBudzljYzZHZjBiSlBVNmU5UGJTUTAtU0xDY055clhkaDVUczdMYXR3a0lveGZKcmVXZGgyYzY3eEVWb2w3WTk0d1hOU2JwRVp5M3ZUbmQ3VEsxbGlEQzhaODFQdkNjM05nOWt5VHRYQ2VLcUV1UnV1NFlpVnotOUhkclJrb3R1Q2E2RUs3UFZXVTBMUGFCejBWYmZRSjc3TWRDeHpNc3pDSFRN?oc=5",
-      "published": "11.11.2026",
-      "published_iso": "2026-11-11T14:56:15+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Waitrose festive film attracts more than two million viewers with 8pm slot on ITV",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWMyVV9aV2RxM1hvb1ZkSmRMc3FjSzNPUUFUNUpuOEw4WURycDFyRkJUY3hKVWcxeTRyZF9mS2xmakdQcEdaejd0ZVVzUUVXTmp3Ql94MllLU2tQcHY5MERlY3dzeU0ydHVxd1djSWJUa0hnSjdTOTA2YURrWmg2ZTVQSHlUc1g3LWhzM0lfdFlxaWVjel9sQlh6MEd5RGwwb01kN212SkdFMGZOQzNIamtEc213bjgydEpEVm10dHgzVHZFeDJuTEM5U3dOWVZmV19RSFloWVdkQVdFbkJ2LQ?oc=5",
-      "published": "11.11.2026",
-      "published_iso": "2026-11-11T13:53:01+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "England Netball campaign lauds women’s participation in history of the sport",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2RZNHhPZWUwa2JRaGVEZnFyM3Vsd2ZhMm56Z1pwcW1nRlBrbmhTSnNfeDNEOUdYT1FzYnZCRTZqZG1tSlMySHRON2pxak1uWnJCc2lRSDJwVjZmT0dzcEwxNFdIQjhZX1Bid1l3ODJDcGRZZXY4ZkZuOGtjRDQwcGFHS2pNRzEtaU5lbTdZczRLOFZGNzd5QVJwelh0WV9lU1VMYWROam1CZmZTeDBncWQtNVpIczZneVFSbFMwZGlKOUlJNjhhVjFzV3d2aHFlVWRHelJ4MW41UQ?oc=5",
-      "published": "11.11.2026",
-      "published_iso": "2026-11-11T13:26:13+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Everton FC Women looks to community initiatives with Danish furniture partnership",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX2ZVNHpCWTNrbzJ1cDZyZ1F2dTE0ZmtvRmhHMXRDYmZtLXpyMHZkVWdPanp6V1prOWZnRWNLMUtmSl9CV0xCNTRBOUgydl9PWG1wNVJOV2l5aG9VeFI0ZzRFUXVfUlQxbWMtVklVWnB2SHlYVXVqQl9OZW1oSjVKb0haY0g5OUVyQXNqUks0OXgzdEQ3Z3pPaC1mNm4xQjZON2JOeTBMYlQ1ZnhnN2tJcWdjSWJ1dzhnVDVqQktVcEVtTnRKN0xMQ2ZpdU0zRGNUakFlSE96RUlyRk1TYWd4Wg?oc=5",
-      "published": "11.11.2026",
-      "published_iso": "2026-11-11T13:22:58+00:00",
       "description": "",
       "source": "Campaign UK"
     }
