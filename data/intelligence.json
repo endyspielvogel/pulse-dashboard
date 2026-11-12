@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T21:43:55.536344+00:00",
+  "fetched_at": "2026-11-12T22:43:31.415163+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -16,6 +16,11 @@
         "title": "Dow Jones 30 Industrial-Titel McDonalds-Aktie: So viel Verlust wäre bei einem Investment in McDonalds von vor einem Jahr angefallen - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTXNqVExya3owT2dUaXUya0hsNjdTWk1GMXNTc2didTUxZHYxYmRET0NSZlFrYWxlV2ZEeGJUbDFmOGNmSWFzcGs0Y3AxRVdUUHg1dS1CQWItcWYzRHZqdHNfVlp4SmoxZXhoNktpZWVfdndwN3RrZl9oZ1ZPZzU2ZHVSVXBDTzc3THpMNjZjb1VIeTl6VFozMmtiZVhDZ1gxNTZYZjNzOWhFQ2dwQkdJcTdzcjM3R3Z5ajdfOHBGVXctSHE5b3c4alRSRjAwZHpJUk5OeTQ5ZUhTTEFQVndBaGtiVzRXZlVUS0RiSDlibmJsX1hINGhFZU1VLWtUNXB5bmZYYzliR2FTWVVtLXVJ?oc=5",
         "published": "Thu, 12 Nov 2026 15:00:47 GMT"
+      },
+      {
+        "title": "Süle gesteht Ernährungssünden: \"Vielleicht zu oft drei Bier und McDonald's\" - GMX.AT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEZDS081b1I3MnpWWGZJbmhmUzRwRFFvNnZfbjFGUWFHczVmbmY3aHhMTUxIdEZ2cmxOWXc5N25vTEptQ1FQeDJ2dEtNRC1uVE55V3RvdVcyTENKQndCYUI5ZWFmSWJEQjdhY29xNVZDcXRLdGw2azFMU2pIQ3ZhUjZ6MnFNU3JfRnRtanNQQmVYSWYxcUlwVFlpN0xsTkU1SW52ZW9Ga2p5ZkJzV0hKSnhUak0wX0dmakk4SGVSUnNEYTFBWG1J?oc=5",
+        "published": "Thu, 12 Nov 2026 14:49:42 GMT"
       },
       {
         "title": "McDonald's: Er machte aus einem Burgerrestaurant das weltweit größte Franchise-Imperium - Business Insider Deutschland",
@@ -36,11 +41,6 @@
         "title": "„Ich habe in meiner Karriere zu oft drei Bier getrunken und bei McDonald’s gegessen“ - WELT",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd1lzU2FHRjJZblVPaDFDU0ZsbzYxcEJGN1dGUUg2ZS1QakdCbVcyQk5KUGVJbDdnQ3pHM1FTZ3RUNUw3QUZXUTVkM0Viel9LajYwbkdQeHluWXB5Y3BsLWpRcUNibGNfcTZVXzVaVzBsZENibUVjLVVUd2xfY1NBVTZBRVFaNWh4RXZHYU5yQ2lhMWgxUFZqLWtnc3pzR1pYVjdTeFNlZndJVzczcHNZZlZLRXUyU0JMU1h1RnZlY2NVSnJRelVxU1EyQWN1UWRoS0FWOERxLW9UTGtvSE0xTElwMlN2YWN3MmpuaGhPTmxESnVpX2xPa21R?oc=5",
         "published": "Thu, 12 Nov 2026 18:28:02 GMT"
-      },
-      {
-        "title": "Virale Videos bis Nacktfoto-Mails: McDonald's und Co.: Diese COEs stürzten über Affären - n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSV9rX3lOUWRzQW11anlQbGExVHVkUDdqYXpDUmpyZlA4NXcwMVNWOWhlMFBuZjk0dkRBT0VvazBNY1lPNUY2NDdEQmRpSGZNR3ZaYUdzeS1BSzlaWGtYZFRMSGdlRlVYNXUzNERUMlVRMmIxVmFVc24zWTBmNEJfTHZ0Vlk4d2h1Smt5aEtXYzlWZ0d4Rl9VWkgtb1kyeWZjV3BzQkRSN1l2SmZ6Ql9scXVsTGZ1Rnhu?oc=5",
-        "published": "Thu, 12 Nov 2026 14:47:36 GMT"
       }
     ],
     "Burger King": [
@@ -102,14 +102,14 @@
         "published": "Wed, 11 Nov 2026 15:49:00 GMT"
       },
       {
-        "title": "Doppelter Erfolg: Serviceplan bestätigt CRM-Etatgewinn bei Lufthansa - und weiteres Mandat - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN3RqUjdkUkpVNDZyN2RpSmZBS1h0T3RTVDR2SUZpTGpCZ2JiMThnUXlVSXdBaXhlOEVLOWZEeWtDNUtac3JxbnhKQ1hTMjlYbkhGQ2oxZ0hwMjZkYkpEQzQtYXJWUGFkVXUydnhYRGJiQjlqQ1RwWlVBV19vNk5nT0FLajNxVk1mM2RHdGxrMlNqTVhHcUluXy1ra3RIdi1TZV9QZ3owTlZISHJ6RzdlVWxyYWFIOWpxV044SUNoUFRkQVU1RGhTVk91Y1RtTWdiOUFSY0dmRGJiT3Vq?oc=5",
-        "published": "Thu, 12 Nov 2026 09:45:00 GMT"
-      },
-      {
         "title": "Wildstone: Ex-BCN-Boss Tobias Conrad ist zurück – und will den OoH-Markt aufrollen - Horizont.net",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGFQbDk2Y004QUdkcjFZWFF4cEV5b1N1Ny1nUi1kWUtheUNzUWdveVdSVEZvckx2NGxjSTI0V1FqcU5PMlJsQjRSXzNNR01Tby1vRWpxVXZSS3lMZjRGNnpOZlItQUU3b3ZRcVYzVHFtajVFc0IwVlNvWFZLRzhvaUhiMWhqTWszTFVqWEpJZC15T2lHN0ZrRlhRMExRY0ZQUTBNdGVvZ29Rd3BKSFlrMzBJRmIwdGZrT0FLbkVjcDB3bVJIVFpxY09CaXI?oc=5",
         "published": "Wed, 11 Nov 2026 06:00:00 GMT"
+      },
+      {
+        "title": "Doppelter Erfolg: Serviceplan bestätigt CRM-Etatgewinn bei Lufthansa - und weiteres Mandat - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN3RqUjdkUkpVNDZyN2RpSmZBS1h0T3RTVDR2SUZpTGpCZ2JiMThnUXlVSXdBaXhlOEVLOWZEeWtDNUtac3JxbnhKQ1hTMjlYbkhGQ2oxZ0hwMjZkYkpEQzQtYXJWUGFkVXUydnhYRGJiQjlqQ1RwWlVBV19vNk5nT0FLajNxVk1mM2RHdGxrMlNqTVhHcUluXy1ra3RIdi1TZV9QZ3owTlZISHJ6RzdlVWxyYWFIOWpxV044SUNoUFRkQVU1RGhTVk91Y1RtTWdiOUFSY0dmRGJiT3Vq?oc=5",
+        "published": "Thu, 12 Nov 2026 09:45:00 GMT"
       },
       {
         "title": "Etatgewinn: HeimatTBWA setzt sich bei Ritter Sport durch - Horizont.net",
@@ -144,14 +144,14 @@
         "published": "Thu, 12 Nov 2026 20:43:09 GMT"
       },
       {
+        "title": "Pressemappe - Daimler Truck",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbzZXWUt5RUxpbUlDbE9UVlNUNm5WbWdGODJBT3FTOEhYSnpKWmNTUTE5SVV5Q2dWaWM5c2FxRFlqUjh5NC1QM1NMVFNrWXIyWVJjZ0pzOVdfa1NvZEt6WWRMV1FCeFhfWGtDbjAxcllFYllwZmdlZmtBXzhwVHdQTUM4aG1aUTlUSEg3aTlLRnJfSURhdGdFeWh4b0JVZnc3X2dyb1J1Nk9YU09iVWRsRFJaX0Z1a3JKTEhIUjNjMElEbDNMVnB2Wnp0SFFRZmM1d1E1am8zMXVVYlZ5cnljRkItLUw2M0NKRFZXaTJMVUY5N3d4Zi1EanZ3?oc=5",
+        "published": "Thu, 12 Nov 2026 21:17:25 GMT"
+      },
+      {
         "title": "(S+) Mercedes-Benz: Konzern stoppt Investitionen in deutsche Werke und prüft Schließungen - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOUhmSE1RMjNubU9qaXlfbmtZYkdCbHhmUG9ndEpyVzFpRkphRDdnVHlDdDRTOWhURjg1bG10VXNReTMzLXlIWjhHV1VLWHM0TU9zc0U5QjJoc25hckEyQ2NMYTFMdkRoZGRzMFR0Sno2N3dMQ0lwQjBhNFNkRTlNanVndzExYXF0czY5YUtiOW4tRmFTNzc2MzlILVd5TlNhVVRqYVROMDlVbnIwNTVPTnNVU1doeFBVRDdmOFpkb0VwVTRJbUFLLUQ2M19JdkhsQXdBY2MwaW9xOU5ybFJzSG5wT2dJdkVMSjU1VlFyUGJ1YlZjRVRCSmItaU5OT3c?oc=5",
         "published": "Thu, 12 Nov 2026 18:09:00 GMT"
-      },
-      {
-        "title": "Mercedes-Benz: Vorstand droht mit Werksschließungen in Deutschland und beschließt Investitionsstopp - Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWtpb3dyQnRPeEFDTEdmdU5rckQxalF1Y1BIOFg4MXhIanRQeGtjY1N6Wm12dWQtVVBZUWtQU0NaZTV3bUY5UUFURjJIMi1pYlgzenBMTXkwN0Jtd1dTU0lkdnhZVWRycUYxd2FzNWpES1EwdUgteUhRR1ZyeVF0WWJoUFJXNjQ3TXkyLTJLNU8yN19nR0dXTFY4MHhkZ0hDa3F4TEQxeFh3RnZFS0xGeTBPM0F5RUxmcUJ5OEtiYjg1OEhkalh2MWQwQkxoSFhIcjlZaGVXZkFPUQ?oc=5",
-        "published": "Thu, 12 Nov 2026 16:57:00 GMT"
       },
       {
         "title": "Mercedes-Benz: Mercedes stoppt alle neuen Investitionen in deutsche Standorte - DIE ZEIT",
@@ -159,9 +159,9 @@
         "published": "Thu, 12 Nov 2026 17:12:17 GMT"
       },
       {
-        "title": "Mercedes GLE und GLS: Die Bisons aus Stuttgart im großen Update - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPai16blR3SkpKY0pwd3l3dmZSb3pyT0R1ZE01MWpvclgtTmNnTDJDcUR2X1p3R01UOEVvZXkyWVRkdXVjcDBsTXh6Ql94QVpZVDBSNWVLOGVTbjNVRWVlSHdQZnBXV3NYRnpjZU5Kci1FYkk0YXBXb2pkZWdsdXNrVnJpYlpJdzFvYk85d3F2TWt6a3NUNFJiQzhKb3dHTmNIUlNxWklQRXF4S3V5UDdaSjZfUVZPWXZIZVlmTU5URnBpRGdmNHRBbFVSQQ?oc=5",
-        "published": "Thu, 12 Nov 2026 08:12:07 GMT"
+        "title": "Mercedes-Benz: Vorstand droht mit Werksschließungen in Deutschland und beschließt Investitionsstopp - Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWtpb3dyQnRPeEFDTEdmdU5rckQxalF1Y1BIOFg4MXhIanRQeGtjY1N6Wm12dWQtVVBZUWtQU0NaZTV3bUY5UUFURjJIMi1pYlgzenBMTXkwN0Jtd1dTU0lkdnhZVWRycUYxd2FzNWpES1EwdUgteUhRR1ZyeVF0WWJoUFJXNjQ3TXkyLTJLNU8yN19nR0dXTFY4MHhkZ0hDa3F4TEQxeFh3RnZFS0xGeTBPM0F5RUxmcUJ5OEtiYjg1OEhkalh2MWQwQkxoSFhIcjlZaGVXZkFPUQ?oc=5",
+        "published": "Thu, 12 Nov 2026 16:57:00 GMT"
       }
     ],
     "Nvidia": [
@@ -196,14 +196,14 @@
         "published": "Thu, 12 Nov 2026 17:31:17 GMT"
       },
       {
-        "title": "Nvidia: Diese Manager gelten als potenzielle Huang-Nachfolger - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlFoclVlTXRQc1NvOUNGRGhKREJBWjZfcmEzTVNMMjU1QU1temxyQ2tJenlkMng4b0JWNDY0eXd6SHN4SU1aN1llV2t6OGxJRVR4NmxRbmdJNU1tUnk4YUhRWVRTT2VVSkEwRENySkpIRkRtU3oxa20yYmJlWFBwR2Q0SWdwVm0tSzNCa01wU0Myck13TDRhZDZBTnY2dENHZTRlV2hYTmxXV2tBSm5keGMwbEhNdw?oc=5",
-        "published": "Thu, 12 Nov 2026 16:57:08 GMT"
-      },
-      {
         "title": "Zurückgetretener Nvidia-Chef Huang soll weitere Affäre mit Mitarbeiterin gehabt haben - DiePresse.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2NPc3A4NDI1RXZmVzNaRkZDR1JBTnJxUHhtX1hHSnpGTlYxVTVVckg3SVBBS3A0QVFmNGFSM0xNYXJwQ1hmc2h6bUF4eXZFTmVIaWhrc1JMVm5NMnI2aWpSWU5xazczdjFHb0U1Y3g1OVFqMUt5RFBVaWM3LW53c0M0RE92dEo1YkljY2hwd1R0bUstVE1sa3VnZ0pUcTlBVVktMg?oc=5",
         "published": "Thu, 12 Nov 2026 21:00:03 GMT"
+      },
+      {
+        "title": "Nvidia: Diese Manager gelten als potenzielle Huang-Nachfolger - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlFoclVlTXRQc1NvOUNGRGhKREJBWjZfcmEzTVNMMjU1QU1temxyQ2tJenlkMng4b0JWNDY0eXd6SHN4SU1aN1llV2t6OGxJRVR4NmxRbmdJNU1tUnk4YUhRWVRTT2VVSkEwRENySkpIRkRtU3oxa20yYmJlWFBwR2Q0SWdwVm0tSzNCa01wU0Myck13TDRhZDZBTnY2dENHZTRlV2hYTmxXV2tBSm5keGMwbEhNdw?oc=5",
+        "published": "Thu, 12 Nov 2026 16:57:08 GMT"
       }
     ]
   },
@@ -304,24 +304,24 @@
         "published": "Thu, 12 Nov 2026 12:37:00 GMT"
       },
       {
-        "title": "\"Die Zukunft liegt in der intelligenten Zusammenarbeit von Mensch und Technologie\" - Leadersnet",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzdWNWJZMXp0OGtqWG5mWTlSd0ZKdDV2eThvX1JMdXNha2cyRW1xa0FTZ1hGLXloVDVCUWp6bTVMNV9NRGtEMFhkbndyN0syQXdiRjl4S0V2Ym1KM1hpcl85SjhpaXV1M2ZoZ0Z2ay1jU25ocWxfaE1YQnZEdGZqUklmRlZMWkpmOU9FZGZENENlckVHbzkzVEsyakNmUVpKaUE?oc=5",
-        "published": "Thu, 12 Nov 2026 15:49:54 GMT"
-      },
-      {
         "title": "Legal Tech Konferenz 2026: LexisNexis präsentiert neue Agentic AI Technologie - Extrajournal.Net",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzgzb1p6SkxRTVdrY3Vqb0dqQXk5Y2drRWl6X041OHFYbWRmVFByTWJLR3ZGM3B0VXhSLWJuZXpZaHhPYkwwVW1DSmFJamxmSUY3bzA3SUR0WjJfckpHR3I1RnduRjBNUE52UjRQOHBwaXVEOWFOeVlVUmFTRzAwQ1lLRklfT0JoOUVEaVo1ZjFDMUFvQU04eGRDa0xVLXFscTNUY1FzSFNPeDA2cXRyUWRSVE4?oc=5",
         "published": "Thu, 12 Nov 2026 11:24:21 GMT"
       },
       {
-        "title": "Münchner Start-up SE3 will mit räumlicher KI-Technologie in Europa expandieren - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcmZzdVUyRnJYZTNSbjNjbVJyZ09FMHBla0tSUlgySWE0S2pvcmF1Rjd0SGZ1aUktNEREdk02RlFkWnBnQTU5cGJxZVd0X2o4MVpDbEdKVlZuWW90YS1LTndvM3RaV3pnMnh6RUZOZ2FSVlQ0NUZUdzVXQi15b1pDaFFUbDYzUWhyY0RXbmxLZTFFLUoyZnFMaEViZGROOXFJcDhQTU44ZDFuNEFLZkZKLWp5UzFKZ3FfZGlMX01pb2RzdGs5RzRWbU9STzdFMy1LcUZOcmREbDJkMndCcXJKMlJiSWJFdw?oc=5",
-        "published": "Thu, 12 Nov 2026 08:12:48 GMT"
+        "title": "Fotos vom Technology Impact Summit 2026 - Von Industrie bis Finanzwirtschaft: Wo KI das größte Potenzial bietet - Leadersnet",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdm5aT0l6UnRBcWl0ak9YaUEyeEprU1VUMWdpbDdDLVhsUElSeVpJeFFJSFNqd1ZkUl82dUtSakV6aW9IajRsVWxIbjJTczQ4WHNVcjBmSDZSS1IzMm1rVi1ZQVFCVlNYekFDNXhnb3gtRlFJY0FHM3JlQlpaRVFuR2JpaGhjS0YtaGcyd0VpTFVlVlBhamF4REstckZJYnh0WkhNQ1ZzQkJTdw?oc=5",
+        "published": "Thu, 12 Nov 2026 10:47:18 GMT"
       },
       {
         "title": "KI ist Alltag und verändert die Gesellschaft - hpd - Humanistischer Pressedienst",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UbnU5V2JlTW94RDh5MkhFdXNhVFU4dmY1alYwSFNZekJobUJHMUlmb0ZzWklvaDQzVWZuOWtWWXZIQnFEWWJtaTlaM3lta2p2RDJKcXUwV1l4VnllYkVrT3ZYNHY4NTRual9yTVl4ZzJDUHJm?oc=5",
         "published": "Thu, 12 Nov 2026 08:45:27 GMT"
+      },
+      {
+        "title": "Münchner Start-up SE3 will mit räumlicher KI-Technologie in Europa expandieren - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcmZzdVUyRnJYZTNSbjNjbVJyZ09FMHBla0tSUlgySWE0S2pvcmF1Rjd0SGZ1aUktNEREdk02RlFkWnBnQTU5cGJxZVd0X2o4MVpDbEdKVlZuWW90YS1LTndvM3RaV3pnMnh6RUZOZ2FSVlQ0NUZUdzVXQi15b1pDaFFUbDYzUWhyY0RXbmxLZTFFLUoyZnFMaEViZGROOXFJcDhQTU44ZDFuNEFLZkZKLWp5UzFKZ3FfZGlMX01pb2RzdGs5RzRWbU9STzdFMy1LcUZOcmREbDJkMndCcXJKMlJiSWJFdw?oc=5",
+        "published": "Thu, 12 Nov 2026 08:12:48 GMT"
       },
       {
         "title": "Eine IT-Sicherheitsindustrie als Chance für Europas digitale Souveränität - Der Standard",
@@ -356,24 +356,24 @@
         "published": "Thu, 12 Nov 2026 19:53:20 GMT"
       },
       {
-        "title": "Nvidia: Wie eine Affäre das wertvollste Chip-Unternehmen der Welt fast stürzte - profil.at",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHl2dmZQMmJla01jZE01aERIa1pnZ0Y0ajVnNjJCZFA4RV9wVzBoTVdLZkpZRmxZdi1fRExlLWt4bzU4eVFXSWN6VkhTS09Fa2hVQjJuVFBWRHRBbHBZYWFoMFJWcFNCUmozRUc3cXdsRmptLVJySl9BRUl0Sl85NTlWTVl5MktoTkQ5RGt1dlZGWmFMZnd6UTBvcWsxelU?oc=5",
-        "published": "Thu, 12 Nov 2026 15:22:41 GMT"
-      },
-      {
-        "title": "“Teuerster Fehler der KI-Revolution”: Bitcoin korrigiert nach Nvidia-Rücktritt - BTC-ECHO",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEhUYkJBMEFyT0lfZ1pCMW5BY1JhaUZRb0dKeWtiMWhJeXVDbjhZZDRvLUtmQURUWDNGR2ZEVmZKanQ3aFVtcnJSeU9wMG8tUTFsb1hLSmhNcWJ4aVJsTHpfS28yY2plRFVJSGl3SGstSWR6UXRnYkJ6V1E3dEVRQmZueFhTRk5BVXJDX093TkVMTnRkSTNvakdwa1YyVjlMVXI3RXJYNDlJUQ?oc=5",
-        "published": "Thu, 12 Nov 2026 19:20:10 GMT"
-      },
-      {
         "title": "Zurückgetretener Nvidia-Chef Huang soll weitere Affäre mit Mitarbeiterin gehabt haben - DiePresse.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2NPc3A4NDI1RXZmVzNaRkZDR1JBTnJxUHhtX1hHSnpGTlYxVTVVckg3SVBBS3A0QVFmNGFSM0xNYXJwQ1hmc2h6bUF4eXZFTmVIaWhrc1JMVm5NMnI2aWpSWU5xazczdjFHb0U1Y3g1OVFqMUt5RFBVaWM3LW53c0M0RE92dEo1YkljY2hwd1R0bUstVE1sa3VnZ0pUcTlBVVktMg?oc=5",
         "published": "Thu, 12 Nov 2026 21:00:03 GMT"
       },
       {
-        "title": "Nvidia: Huang ist raus - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1RWaGIzd3BXbHVXZW52X3pjLW9uRndNS01KNlFpZklBenVHb1NENTRaS2dJcS1hTUVXTFdiSWQ0dGdsejFidVpfX0VNWENiSU9DOGQtTHpCUjJNVDdOTU02MHk1czJubGVaMzQwZ0ktTWdGY1N4UzJkSmNIWnBOVlZYcm0?oc=5",
-        "published": "Thu, 12 Nov 2026 17:31:17 GMT"
+        "title": "US-Börsen vorbörslich gemischt, Nvidia-CEO tritt zurück - trend.at",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkNxXzN6clBHajBLTkp4eW9fN0dNXzNET0ZHeWxhV0VpM21JdTF6T1FOOW5VcVJoSXFzcDYwNlJSdTJPYWhiN1F4eC1ReFYwbXh4bTdmOXlxTk1oODhSR2ZYRGoxRl9hX0dBd1FxNmlTdTdBR0cwc1REc3lveWNUemRzbFJxRHM?oc=5",
+        "published": "Thu, 12 Nov 2026 21:11:00 GMT"
+      },
+      {
+        "title": "Nvidia: Wie eine Affäre das wertvollste Chip-Unternehmen der Welt fast stürzte - profil.at",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHl2dmZQMmJla01jZE01aERIa1pnZ0Y0ajVnNjJCZFA4RV9wVzBoTVdLZkpZRmxZdi1fRExlLWt4bzU4eVFXSWN6VkhTS09Fa2hVQjJuVFBWRHRBbHBZYWFoMFJWcFNCUmozRUc3cXdsRmptLVJySl9BRUl0Sl85NTlWTVl5MktoTkQ5RGt1dlZGWmFMZnd6UTBvcWsxelU?oc=5",
+        "published": "Thu, 12 Nov 2026 15:22:41 GMT"
+      },
+      {
+        "title": "Spionageskandal - Nvidia: US-Handelsminister Lutnick unter Druck - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zLXVuaUNZX3NoV0E4QXdpTkw1YWhvMkNHNDluQmh5VEJvSUxhWG5XdDJuQmNLelJQd1E3bVpsQW9MZw?oc=5",
+        "published": "Thu, 12 Nov 2026 20:02:00 GMT"
       }
     ]
   }
