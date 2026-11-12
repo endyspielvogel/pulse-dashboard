@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-11-11T22:17:22.645090+00:00",
+  "fetched_at": "2026-11-12T01:29:55.254085+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "James Fox, Imali Hettiarachchi and Augusto Sola launch Juju Studio",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRzVxcjU5R0E2WjVXY2Q3cU9ldE9LZnc5Ylkyc2dEOUsxOVpRNGhfUERMYXhnTHhYUF9lY1NmOVVjZVR1ZDZJV3NsRGU5Z3dkZ1hEZzdDYWktdkd4MW9ST0NVVXJoRUZuOG1tTEE2NU5sSDlEYUVKU0loLVoyVUpsTndvZHNFd3pFb0xhUy1Bb2FCVGx3dW1ZTFAxYVQwQXZWZEYyMHZSSXUzaFlPNWZ4MUxxLU90aU1VNGsxekEybHdUWW1uTjU4VWd3NA?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T00:15:59+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Campaign launches in-housing offering",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWNkQkNfMllKUXhhdF9tYWFtZ0JDb2NYZGxzaVZKVkZ2UF9kUFIzdUhyX2dnR1ZpVm9YVGlEUkloUDBzOU1PQkdpbUs3SFdHZTgzZGRISGVlZVZyUjZGRjQwQnlVODU5YzdmMlB2UnpiTDlmb3ZYaWh5Q2Z0Nkt6bjF4WDR6RXQ3bTVwQng0Z0hvQS1EXzJEdTc2WmxKaTd3UlRuZUl3?oc=5",
@@ -51,6 +59,14 @@
       "source": "Campaign UK"
     },
     {
+      "title": "IN-HOUSING",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUFBidk93VHNHc241VHk4dXAtdnNNeUEwRUVmZEdSdU9wSzB0eFdxUGJfdDRTNEp0U21UNW41VU53emZjN2N4d3lLOFMtMGRQNl9QMFB5U1dfUQ?oc=5",
+      "published": "11.11.2026",
+      "published_iso": "2026-11-11T12:39:12+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
       "title": "Driver and Vehicle Standards Agency on hunt for creative shop",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjlROXk0T21xeU9YbWhlZGtORDZncWNXM3piM28yWkVfV2lTV1R1RnhlS2FNcHc4M3RwQ0xxTjdVNFFqaEhJY0NoTFdVX0xHZnVPbktKWkhCRGpfZHBIUWJCQkIwcjR0a0xXdXE5ZTZwQkVIOEx0RXZaMU1aWlBkSzV4RmNmQjlUNTRfdnREeXpxNXdIMWk2SVI5R2ZaZWZTLXd1TWtVc2R3LTYycHhxaTlqak5QS3lWQTR3cEdRczc5WDJxTEE?oc=5",
       "published": "11.11.2026",
@@ -79,22 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFNJSnh3YlJ5XzZHRUNMTnBOYmlISmdlUDk0VGhHanhRanhYQ3lZLVFUaEVBYmRsd0JjVFh0MjBxeDNpZXpWQ0RDRkhzVmRQUlhYd0dhd0lkSE4zOXhMZEE3UFZCZ1dTbWwzNWQzZG40SUpDR1ltQjl1dGFIUkZPY09nc2pLb3VnRXFVdmE1MEJ5R20wOEZocmZnckhfNVZy?oc=5",
       "published": "11.11.2026",
       "published_iso": "2026-11-11T10:47:55+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Flexible data partnerships will shape the next era of advertising",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnB3YVc0SFEwV0htbGRwWm1fUm9KcUVWaUN4Tjd3WHN0WTA3b1kyRXIwREZqLUI1LUg1TVc5NF9QQWIyckpEb3pLREhzRlNyRGhfR2szWGN0N3pQdjhub3VlTnRObmotTHRqYUpPcHlaSzBFLUJJaTJwSS1tN1ZiWW1CNzQ2ZWZWSWtvN2tlcjJMNUZXTUp4NU4zeGIwRmdnbTltb29aRDFLdUVudkxsaG0tUzdJSlByRk05SU0xYV9RcXlVdTFtWjZvYw?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T16:03:43+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Women’s sport: a good place to do business",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUhlWG9Lbks2aDdsZXQ2c3pJT1JiNWRnQ1drZWg5QXBzcHpBVFgydkxLeWJyTFYyN2trVEpYUWVBT1VTRXNSbnRkOGlsdG9MUm4tRU16VmgydXJkN3VDOUgtWkZISG1LeEl1U2k0Zm5lWE80bXl6LVJLMWJrYkJyZUJpS0JiU05SMml5S25fR0FkQnJFUEY0N2NmNkNOd0dneHducUh0ZVZMeHM?oc=5",
-      "published": "10.11.2026",
-      "published_iso": "2026-11-10T14:39:15+00:00",
       "description": "",
       "source": "Campaign UK"
     }
