@@ -1,7 +1,31 @@
 {
-  "fetched_at": "2026-11-13T10:16:01.423954+00:00",
+  "fetched_at": "2026-11-13T13:27:12.578171+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Forming in-house agency in eight weeks was ‘rollercoaster’ – Asahi creative director",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMG5tWTNsX2taMXNZX0xyVThwbEs3WVFCSnAtUFU0LUNNVVR5N0x1S01pWmROOUdUU1BOeEJ6Y2lNZ0JYQ1BQdE45ek5nZU9HMXBuZDV1bkpjYnRBRzlHYloxekhOOEhOdG9JZ0ZnUTdWWEU3NHNMYl9aSFlEN1FoRkFWcnV1YXhvOVo3bERuMEE0RnJIcVNHMWdkTzl6UDI3ME04VVlGNDY5WjRQek96b0xrUURTc01tRFF3a1d4aGczVkFtTEVreWZ1ZFc0dlJRdEdkNE12RHJpd3dKWms0?oc=5",
+      "published": "13.11.2026",
+      "published_iso": "2026-11-13T13:21:52+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Walt Disney’s brand experience design legacy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHlDUEFQdXhSRmJGU25CZ19sdWRaMTZMQm1ZMEtWOEdubmxyZW5zNE9CNWJudEMyVGFFTzUzRFFFMTZOR1JEZW5RSmRsRGRFLUloMlVtbnltbHl5OFFxWFRjejJYMjZOMWVGVDNnSjJ0TFRueE1JcktzRkF1MzBtWU1RUHEwS015Yk9kNnpZZ0Z4MGNodHV0X2o3QzloMTlLTW1wYk1lWkpZTW8wX2FZ?oc=5",
+      "published": "13.11.2026",
+      "published_iso": "2026-11-13T12:28:47+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Former MullenLowe chairman Tom Knox joins Leagas Delaney",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0QyVk1FNDExcVJGdUV4Ql9kT3dFVWRoWWhDaW5naWx6TUNhN0cwSlRoT1JSTkpSdVdnSzhNY0l0NkNHbmNPbTJGTmlQVHY3Ulh6bjFhVWd0R0FBSmlRMkFBeVAwc3J2RkVxOUVsQU5LSUJmdjFDMzZWQkltUnNPc19YckdMT29HeE9ka0NVOGJ3MjdHaEJhQkVpMjBmbWNyREFNOTUwUGl6bjB2NG5XY2FIU0pYSElkS1YwN0QwMA?oc=5",
+      "published": "13.11.2026",
+      "published_iso": "2026-11-13T12:11:00+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Holding company bickering is hardly a good advertisement for the industry",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVoyUFVNaWlKS1VTR0xPcVNKSVZNdGlLWVVMLUdhTkdEZnBZdXc5VDhCOHUyMjR6TERuVm5VYjB3UWlWSDFhYnN1MkFCdWxCUTNRUlhKTnRMOVYxVW51X2VfZ0EwUkpfN3BMVl9XMTRndktVRTMwRlg1ak5BNDUtel9JYk9Lcm5hT0FXZVpzMU1WMVp6M3p4clZ6SGEzQTRqSGdjZURLdzBDZUpieEN4emVzdGIwQ2d0Zi1hNFNfZk1yY2dfYmFMYUNFdDFhYjJSc2NPWE5n?oc=5",
@@ -71,30 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObHRkNWNKS1hHd1ctS3RGLXA3TURKVWtIc3kyRUUwTzZjdzZoNzBGZWhYbVVrN0hSVFpWdmc2SFJnWW9vS2VzMnprTVpyaUVpVFlqb05RSzhTZ0JTNEpmLXZ0aDN1RklFX3ZXUjg5cDJJbHhaZHdrLUh4OU9RTHZmVUpaRXc2UVhKalJSSHVhQnRsR2FqNU1ELTZYS1dkdWE0X0xzck5NSWNBdkk4UWdpaWE5UkNJbkphWmNLMTAtcw?oc=5",
       "published": "12.11.2026",
       "published_iso": "2026-11-12T21:24:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: Design",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWMyVWV6Z3BPa3RYRENfWWh2LUdrcy1lZHY0M2hVejZXdGVPd2FWc2x3T2U3c0t1MGJ1WlJsdHU5QVl3S01CSnJ4b05lblpFeG8xUTV4X2d1dFlnUy1XNG5tX01rbWs1OU9OSk96cnpKVXdSZEVXWHc3eUloNDNwZkVFWDFIN0pCa2NELWZDenp5Nk5YaFQ4T1Fnd1ZtYVcxUjRVNmJTYldkYUxWTTNvcm5aNG0wN1JU?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:15:02+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: In-house Agency or Team of the Year",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGxnc05OeWlvSXpLUEk2SC1aT0V2OVpkRlg4d0lWMkwzTlFjbVFMS3QzVmxWejlUYWdON01NSW5xclpjYjhmdjNHaURxcnlRNjUxTGM5YlhTMkx0aWpoTkgtY0xRSENpbm9ITGpRTGxQTjYwaWUxODJ1cFR1ZU4xU3kxcm9GWDB4cjU1ZWRZRGVFaFpWYTZNbzBoN3pnSU9oWDY3dXZXcUNuM2hOM2ctWTZCTXJJU0J6VU9WWjYzX25QUE8ydnFHLVp5QVMyMW0yakdvdFlLOTlxTy0teG04?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:14:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards 2026: winners revealed",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTU82ZE5CcXpFYXNFamlZZ3ZteFgxSVRVZTdSNkNQaExkTVhWY0pzOEF3SUgwZzdPZnZqTTg0OGhQZldTZU10TDZWQnlrQXhjSS1HamxIcjBkVG9ObUQ2eDZsd2VCVmN5Q2tqRjlOa3dVVkpIX051Ui1sRVhvbWZwN3BEUFROWjZ3Q2JRc1dFRDd0VVFMRTl0RlNIV3Z0RkVzeXJDbE90V1JnNENrTWhna3VMRjZCQnctdll3?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:11:02+00:00",
       "description": "",
       "source": "Campaign UK"
     }
