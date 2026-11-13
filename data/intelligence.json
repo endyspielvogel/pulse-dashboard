@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T14:50:31.139120+00:00",
+  "fetched_at": "2026-11-13T15:45:20.070849+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -23,24 +23,24 @@
         "published": "Thu, 12 Nov 2026 13:41:13 GMT"
       },
       {
-        "title": "Niklas Süle, oder: Wenn's mal ein bisschen mehr sein darf - Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWNPcjRoMkgwZ3pNX3JiQjdBMjFNdkJmR1hlMjhvZjJKYkdOaU9XblJ0VEFVemJXdGhGR1Z0Q21tcGRHZVF3R3oyY204MGNpaVVhZXUwTm85ckE1Y3NqeTYxTTJDTl93Q3RoRUZsTHBCdGNVQ3JrQVJ5RUE5MzNER1kweEVPYWpwY2RCNlRLS2xwLTl2TEl2QzFEXzRKTk9nNDRaR05SQ2ZISGNGdURod2ktZGVaSnVmQ2xtZE41bw?oc=5",
-        "published": "Fri, 13 Nov 2026 13:54:29 GMT"
-      },
-      {
         "title": "Wie Caterpillar, McDonalds, salesforce.com, Goldman Sachs, Nike und Merck Co. für Gesprächsstoff im Dow Jones sorgten - Börse Social",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVExdlhXSUFFYTRib0l3QWtkSUNpNk5iUl9kY1QwWTJKSW9wS2dGb0F3NkZyaUczbnNlUm9sMEZmQ1pOZkM4X01POGtQY0NCNkFkM2ZadG1JRDdDWVI3WHBXWGNlUENiSllva1dJc0NvN2EwLXVkWm9nanhQRjFiQi15OU9tR3M1QU5TQVE3UzVzSE9GSklKTXhJWHV1eGhYclZMb1lRTVdGMU1BREU0X2NEeG4waVNkalczREVQSGpTQlB1VFhzSWo2b1YtLTJpM2lWbHluS3E3aWk4SWNFamtwa3pWUQ?oc=5",
         "published": "Thu, 12 Nov 2026 04:15:00 GMT"
       },
       {
-        "title": "Ex-Kicker offen wie nie – Dortmund-Star: \"Zu oft drei Bier und McDonald's\" - Heute",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWNzelNENWhXbVZrbnhKZVUtVmRWT0tJcUZ6YTZiU19CRU1QYzF3M3ZiMVoyS2lTa3licVZyb1dRTHBFSkE1c1V4VGtwM0VMUURRM3MtdEdBSXd2c3BjUFpFMXhqU2ZfWVE2MjB4OUM3ZTBFTFJicWN5QXd1c21uTmZETQ?oc=5",
-        "published": "Thu, 12 Nov 2026 19:34:00 GMT"
+        "title": "Niklas Süle, oder: Wenn's mal ein bisschen mehr sein darf - Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWNPcjRoMkgwZ3pNX3JiQjdBMjFNdkJmR1hlMjhvZjJKYkdOaU9XblJ0VEFVemJXdGhGR1Z0Q21tcGRHZVF3R3oyY204MGNpaVVhZXUwTm85ckE1Y3NqeTYxTTJDTl93Q3RoRUZsTHBCdGNVQ3JrQVJ5RUE5MzNER1kweEVPYWpwY2RCNlRLS2xwLTl2TEl2QzFEXzRKTk9nNDRaR05SQ2ZISGNGdURod2ktZGVaSnVmQ2xtZE41bw?oc=5",
+        "published": "Fri, 13 Nov 2026 13:54:29 GMT"
       },
       {
         "title": "Pre-Tasting der neuen McCafé Getränke von McDonald's - Leadersnet",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUxMbmhuMFVzOVdPbGpIZ1NWS3BsTUJhRHdHeU1tcDB3eE55N0pZdmJDcjhoTFdGdENJdFluVWM5Q3lPWVVUVUx1MlBrNjNSOXJtcGJYdGM5WWt1Q0dEYTZ0RXlickwtbGlqUzdURkljdUkzN0xXMG1IdG1EbVRUWGFYNXNNVWZFRHI2dHJZR2tDa3RFbmVZUTA0SnpWRXAzdWlCOEJPYjBZbDRFa0wwNHQ1UzJ2ZW8?oc=5",
         "published": "Wed, 11 Nov 2026 20:32:26 GMT"
+      },
+      {
+        "title": "Ex-Kicker offen wie nie – Dortmund-Star: \"Zu oft drei Bier und McDonald's\" - Heute",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWNzelNENWhXbVZrbnhKZVUtVmRWT0tJcUZ6YTZiU19CRU1QYzF3M3ZiMVoyS2lTa3licVZyb1dRTHBFSkE1c1V4VGtwM0VMUURRM3MtdEdBSXd2c3BjUFpFMXhqU2ZfWVE2MjB4OUM3ZTBFTFJicWN5QXd1c21uTmZETQ?oc=5",
+        "published": "Thu, 12 Nov 2026 19:34:00 GMT"
       }
     ],
     "Burger King": [
@@ -114,19 +114,14 @@
         "published": "Fri, 13 Nov 2026 13:18:32 GMT"
       },
       {
+        "title": "Mercedes will Werksschließungen in Deutschland vermeiden - Kurier",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3htWnplbHhUMDh2QUJIaUVZcFg3QW12VC1ub09ERGhMcWlhTEd5OThpWlM1QnhkMFhTVDdSTXhzUWpaRHBSdFFoZnQtSk5zYWMtSFpWekFUNHlQYWNfTndVdzh0a3FwWElGYlAwSnNxeTh3RWxvdmRqNTlFNzBfVjNtVE5Mb2dobERUREc1SjBrV0ZyMnk0RUtpdEg?oc=5",
+        "published": "Fri, 13 Nov 2026 15:32:00 GMT"
+      },
+      {
         "title": "Nach Investitionsstopp: Mercedes-Chef verteidigt Sparkurs und beklagt hohe Kosten - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVJNVDdCSVlXTlhWZXJ1VVNYUHl2d1RvQjlJczhORFpDVUZhQmpESmtFbFFNSGo0VVpiWUUwT2FTN3R0dHowQ01BYmlBcFR4X2h4RGlSUlZETXN2UEtkVlQyM1hNWW5EdDdRVUdyeHJ3eG1tcGlUSi1IcG5RRXM3dkEwQjFfeXlGM0VWSHc2MVJnRFdFaXgzUVF6UEd6X0t1TGRiMHVWdnBsWVh4U2tSZUotUHcxMUZVYkJF?oc=5",
         "published": "Thu, 12 Nov 2026 20:20:00 GMT"
-      },
-      {
-        "title": "Investitionsstopp von Mercedes-Benz: Landeswirtschaftsministerin besorgt - STERN.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTFXRmh1RVlCWWVyQ0M3XzRSWW9YTGVNTlJmUlpwT3dubXRCWTd6N21QVm9JUkNfYzFubnhzaGtuM21tM1AzbTBqSzYzY1l3eVVQZ1N1Mk1EM3RhZ1RnSHU2WWJaQzctX0lMRDRFQ0JESHcwblltVnhtUGw5cGc5a2ZYSm9Dc0xmaklUQVVHaVJkekdkWkdCb2FPYXFJTC1FTDZrb0x0ZEoxeVVHdUQ2N01B?oc=5",
-        "published": "Fri, 13 Nov 2026 09:23:09 GMT"
-      },
-      {
-        "title": "Rekordpreis für einen exklusiven Mercedes-Benz SLR Stirling Moss? - Motorsport-Total.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFc4Ym1tSEZVLWtIcG52YVA3WXpfekJHQzVYZ0xIMGswbnpzOVdCVDB6MWNsOXJ6TEYwbUdkWEtqaEZJcVdvNXd6QUZMNUM0WktiRWVuaE9LODNMc1FtOWkzSzZ3MlhvY2d0Z3lLUlhLeWZWM0lFUTZETjFya3hrcE5qbG9fTGpCd2VOTm9RWWpGSDVHeUs5elJwZTBabXJTaGJmVXZNYWRKVy1yNlBQNEp3MjJkUml5?oc=5",
-        "published": "Fri, 13 Nov 2026 07:01:04 GMT"
       },
       {
         "title": "Auto-Industrie in der Krise: Werden-Mercedes-Werke geschlossen? - SWR",
@@ -134,14 +129,19 @@
         "published": "Fri, 13 Nov 2026 14:00:00 GMT"
       },
       {
-        "title": "Autobauer: Mercedes stoppt alle Investitionen in Deutschland - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVm9FaEhxTjNmdWhzR2xlSFpmVU5jWFFsZzVMWGJGcXhwaGNjRmlRelYxMm9IU1BzUmQxYk9sbUlUbGVLc0ZtOE1lNDA5c1YweDhoTnV5MTJULUJaUldYdVZ4Uk5oMC16SFhKdmVNck1aTGlyT2VXTWNoNU5qVEptck5Ia1JLeTNYSk5sNHhzU050bzV0OGRwWlZyMFZlWnlOYy1Bb3pPSEZtM3Q1R1pNWFI4Y0FSVFZ3VU5VencxSHliWDg?oc=5",
-        "published": "Fri, 13 Nov 2026 06:27:00 GMT"
+        "title": "Investitionsstopp von Mercedes-Benz: Landeswirtschaftsministerin besorgt - STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTFXRmh1RVlCWWVyQ0M3XzRSWW9YTGVNTlJmUlpwT3dubXRCWTd6N21QVm9JUkNfYzFubnhzaGtuM21tM1AzbTBqSzYzY1l3eVVQZ1N1Mk1EM3RhZ1RnSHU2WWJaQzctX0lMRDRFQ0JESHcwblltVnhtUGw5cGc5a2ZYSm9Dc0xmaklUQVVHaVJkekdkWkdCb2FPYXFJTC1FTDZrb0x0ZEoxeVVHdUQ2N01B?oc=5",
+        "published": "Fri, 13 Nov 2026 09:23:09 GMT"
       },
       {
-        "title": "Krise hält an: Auch Mercedes-Benz prüft Werksschließungen | Nachrichten in 90 Sekunden - Das war der Tag - ServusTV On",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3QyZUVQS2sxVGhIcEJiSVJuUWpoUUs3d3RrWTkwWE5XWEh1OERZNnBNUUN2am5tYmJsVEdEVWhTZWJVU3VWN1F5ZXczcEdwZ212djN4T1NDbjhEdkhmQjZUTDJZVW5McElJcFFXTUxRSmZIWUNhNFZXNVlCSXN5MXlTLW5UWW43d0dFYUZ6dEo?oc=5",
-        "published": "Thu, 12 Nov 2026 18:41:06 GMT"
+        "title": "Autoindustrie: Konflikt bei Mercedes eskaliert – dabei drängt die Zeit - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONEEtcXRNdFR2aGxvLXlhUjQyRXd2QzNxR2pUYU9SdEdZYzF3SE91VHhYRFhqemo0QjJwMXl4UnVWZ2xxUm1DdE45eVBlQ2dENWlIa0FROHk2cDJtTnJuTW8wWG0wRzZwLXY0b0JIRjBBenpQNHJIaWFBLWt0eThucXExOEQ1bHVjajhKellKOHhKNFE1R3R5MlRLMkpQWjNhVnRDWEZvZHlKQTFRU01zU2Y0anlqVUdacjhCRHVhMjVrV3BkQXlLQVg2ak5DZEE?oc=5",
+        "published": "Fri, 13 Nov 2026 14:20:31 GMT"
+      },
+      {
+        "title": "Rekordpreis für einen exklusiven Mercedes-Benz SLR Stirling Moss? - Motorsport-Total.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFc4Ym1tSEZVLWtIcG52YVA3WXpfekJHQzVYZ0xIMGswbnpzOVdCVDB6MWNsOXJ6TEYwbUdkWEtqaEZJcVdvNXd6QUZMNUM0WktiRWVuaE9LODNMc1FtOWkzSzZ3MlhvY2d0Z3lLUlhLeWZWM0lFUTZETjFya3hrcE5qbG9fTGpCd2VOTm9RWWpGSDVHeUs5elJwZTBabXJTaGJmVXZNYWRKVy1yNlBQNEp3MjJkUml5?oc=5",
+        "published": "Fri, 13 Nov 2026 07:01:04 GMT"
       }
     ],
     "Nvidia": [
@@ -153,17 +153,17 @@
       {
         "title": "Nvidia-Skandal: US-Handelsminister Lutnick unter Druck - ORF",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVcGVlTVdvVkNNY2U3eWNHOHNWTVQxbkI5M3pTb0d6ZWt0RmlieUx1S2tqOUFjV3ZsWVZjM3VHWW1pVWJ2RWc?oc=5",
-        "published": "Fri, 13 Nov 2026 14:41:23 GMT"
+        "published": "Fri, 13 Nov 2026 14:44:21 GMT"
       },
       {
-        "title": "Nvidia nach Jensen Huang: Wer die besten Chancen auf die Nachfolge hat - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnVtc1FFd2xhOHZBR0hvNmxaeGc0WExDTWxlR0xXX1BERkpDbkNfRjk1Qy1Ya2FmcTlNbXNsSGNtTk1UdnJPTmtJcnl3TmNXc0Rqdkh2Vmw0SHNPV3Q1cG5tX0VkOGJTbENxMjBkUVlkalZpT1YyRmdMejhQUUVFSTlwdGZRYVU?oc=5",
-        "published": "Fri, 13 Nov 2026 11:01:00 GMT"
+        "title": "Weniger Show, mehr Kontrolle: Colette Kress übernimmt vorerst Führung bei Nvidia - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDUzWFB1MGpOVV81U1A5aUJRN2wzZW90U0RsTjNlMzVvcHFMRW1SWHhOR19VSWRmaHFPMFI4OF9jTl9SaGltcnZDdFFDWDBuZXBaalR6ekVlODZvRVhEcjFrcnc1dVFEekRxTFl2NUVrMm0wbUV4aURZN3htTW1YcXJremZMQ0tzYUhyelhaMm9ZQlZ4VEpVNHlGU2puQmNpcERqbmloZ2xHMmQ1SUVMdTJOX3I4T2JsT1lIYXRUNUk4cHlVVkE?oc=5",
+        "published": "Fri, 13 Nov 2026 15:10:00 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Lohnt sich der Einstieg jetzt? - boerse.de - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXRzTkUxdFNHRlRWVEppWDk3RjRxU1cybEhKZzhkVUNQeklZTkxvYnY2elBnN2xTLVo4UFRCaVk2RU1hQ2xkc243NjM3R0FmcHBRbUFhdmhFV3JiZDJRamJRdE1XWVdwNnpfNzFucVY5UHVvZUF1N0JoUlNXWGE5bGtFLXhrZEpWSXByLXlR0gGTAUFVX3lxTE1jY0lIWVFLSnFweTJRbFBfcjRUR21sWW9fZk5GWHVzb1Bhd29ZU0NQeVNJaTBlY01idUNoTGVDeVh1SXdZTUpkVnNwUjVfdjJZaDVNZlh4eHA3NGtpNUdLUnJiZkpLNW9ZN21pbjkyMXAyU1kyVllYRGdWcEVTdTBRU2tUSDd1OXFKTDAxYnRwaFZwbw?oc=5",
-        "published": "Fri, 13 Nov 2026 09:30:00 GMT"
+        "title": "\"Intergalaktische Freak-Show\": Nvidia-Eklat: Huangs Fall könnte noch weite Kreise ziehen - n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDlLcDhkMmNGdWRTWkM5ckpsMTgtd1ZuNVc2ZGhIY0dYVXZnMEZjU0F6UGR1NGZtVmxoUnMwbzB5YWVOcG44LVRCakNfMUZUelc0Z3NRZmY0TzBaa19jMll5Z1lvS2tNMFYwM2p3NmwtOFg3cGp5ZnFYWHg1M3pFU3RxX1VKR2NqSEtsMWxDcl85MXdBV2Q0S1dCUHZ0dUc5ejU0amhtOA?oc=5",
+        "published": "Fri, 13 Nov 2026 15:31:35 GMT"
       },
       {
         "title": "Früheres Ski-Ass und Ex-Partner von Holdener bald Nvidia-Chef? - SPORT1",
@@ -171,19 +171,19 @@
         "published": "Fri, 13 Nov 2026 13:14:00 GMT"
       },
       {
-        "title": "Nvidia: Das raten jetzt die Analysten - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkhmSi10Mmhtb2dILWY1NDdfYlVUZkthNTE2MDJEVm0tYi1wamIwR0YwLWJMV2k2RERSZ2NxQkEyWTdaVUdmRFJQMDZyeGpzSF9mcDdGanRneTYzM2ZGcW9BcGpjVGRSN01sN0dQNEdiQXdQV3BXNjhWYTlZNm1Yb0d1WElMRjBhcExzaDVCYlJLcFBHejFtMQ?oc=5",
-        "published": "Fri, 13 Nov 2026 06:08:12 GMT"
-      },
-      {
-        "title": "Wankender Weltkonzern - Wird einstiges Ski-Talent jetzt neuer Nvidia-Chef? - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ENDBvOEozUjVxWmhWbndUV3BXa0NYWHMxOG1hY3AxQlZXOUo3YlZualdINGhEOTFhOEMxbWg0WXhYUQ?oc=5",
-        "published": "Fri, 13 Nov 2026 10:05:00 GMT"
+        "title": "Nvidia-Aktie: Was der Kurssturz für Anleger und ETF-Sparer bedeutet - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGwybmxfLWg0cWNJRzJwS1I4c2lQUGE5dF9aZUpESlViX0ZnYTM4ckplUC1rb0Y5Uk1pV3ZrS250cTFUYmp4ZlVhZ0hqQnRCWTZ3Q01nVDhKcTdLbEpSXzJFRkoxSWR6S0k4eXRlRTBaMG05ZFNjT1I4TV9kUElkNlJuek9xSkZ3QUVZMlVB?oc=5",
+        "published": "Fri, 13 Nov 2026 11:19:09 GMT"
       },
       {
         "title": "NVIDIA-Aktie in Rot: Senatsausschuss lädt Handelsminister Lutnick und Ex-Chef Huang vor - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR1hxUnRBYXpxdUJBU0xTbDM4OGEwSkdlRmJobUhvUWRwRktjQ1lXUzVKa3c4WlBfVU1BLWRSaHR2SHN3N1BSVVFlM3U1RzJCTFBrZ0J5RDVJYlh4cEFQaUpWRTdLMFQ2VXljUEd2a2VieE53Z3Riejk1bWNBZloyZUE0c19tZHc1ejFCRlRZaUxpVTVJWFFkWHg0N0t4V0NzZ29kVGI4ZU9ONER6S25keGt2ZmljSXZJd0M2TVpScmRxeEFFNEpCc09zSHBoVnNmQlotVE9ZWQ?oc=5",
         "published": "Fri, 13 Nov 2026 14:36:00 GMT"
+      },
+      {
+        "title": "Nvidia: Das raten jetzt die Analysten - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkhmSi10Mmhtb2dILWY1NDdfYlVUZkthNTE2MDJEVm0tYi1wamIwR0YwLWJMV2k2RERSZ2NxQkEyWTdaVUdmRFJQMDZyeGpzSF9mcDdGanRneTYzM2ZGcW9BcGpjVGRSN01sN0dQNEdiQXdQV3BXNjhWYTlZNm1Yb0d1WElMRjBhcExzaDVCYlJLcFBHejFtMQ?oc=5",
+        "published": "Fri, 13 Nov 2026 06:08:12 GMT"
       }
     ]
   },
@@ -198,11 +198,6 @@
         "title": "Anthropic geht an die Börse: Was deutsche Anleger vor dem Kauf wissen sollten - Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1BzT0JmQjlRdDFFZFI4cW5oaTBYMjRWLU9waFd2UzlIMHB4QnRWcDNKTHd3d2tOZTczY0NEd2g0OTM5MVYxdDhqX2pqSXpoSEZNTWFoeWhjbE5HOVRFT3U2Tm5tczktTl9DSzMwMjJsYmpKYVRFb0hCaHdGS1RIbXpaemNSSTlra1F3bmxJX1JGUnlmWmpCbGFiTmptWmp1TS14RjdMakZjZW54Z3c?oc=5",
         "published": "Fri, 13 Nov 2026 10:58:24 GMT"
-      },
-      {
-        "title": "Microsoft-Ausfall: Börsenfirmen sollen Telefone nutzen - Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0pUMHlOcjc2Nk5nb2xTY3pqLXUwZzF5aHdFaEZOSllQaHNBM2ljU1o0aG41N1FYSk8wQ0d0WXVXZjRxSjlOc1FKX3VaSjJ6SURkYlA1Y2k2X2I4Y2VGNGtoVW9BUzBEOFdzYlNjMVQtNkV6a0lIQ1ZjbTktWmUzckxYNEtGQ1pfSkxVSUFoVnoydnN3Tms3UFRWbHhJaElwQ1E?oc=5",
-        "published": "Fri, 13 Nov 2026 12:50:58 GMT"
       },
       {
         "title": "Vvardis geht zu tieferem Preis als geplant an die US-Börse - Nau",
@@ -228,6 +223,11 @@
         "title": "SpaceX-Großauftrag für bayerisches Unternehmen – Börsenwert schießt in die Höhe - Berliner Morgenpost",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV012bTlOMVRHbXMtbTZLVWxkanMzS2VNMGp1Q050cnVkbkNMZFFMWk1lMTMwbTZHbnllamVPX0c4Z3E1eUdmZUd0bVNwclBZb2UyUjhhNVpUWXNHekE2b0hpTFFydzdKR210Snk1TWxGZ19vT284WkQ1VkE0QXVfc0VxREFzNGRvSFdnX3M3X1NiVW8wR0x3M1FNWFdzYW9lMW9NaDVQT2lTbkdHWmU5NzRCT05IVVJuLWhFeUZzWE1haWxtY2dpejYxazVlVGk5VUlVM0VXSDI?oc=5",
         "published": "Thu, 12 Nov 2026 19:01:57 GMT"
+      },
+      {
+        "title": "Aryzta-Chef sieht Unternehmen als möglichen Übernahmekandidaten - Nau",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0NRclRfbVBkUFlIMjdXUnlYNUgwQ0ZRTFBmdVVCR0l3dUJoaUYwWkpKTVE3UnNDREZ0Zm05QWJtY2dtNzZTY3l0NUNWNHdaT1JQNkpBdi1VQnZmV2tJYURXUVpYUl8zOE1YcV9jeUh0UFV4LVZ1SkZNQ0pFS0pLWlZ4ZXVEMXdQRlNBR09MSUQ3S0FZb2VVbDg2eWhtV2JLV1J1MmFBdWhfX0U?oc=5",
+        "published": "Fri, 13 Nov 2026 07:17:28 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -257,14 +257,14 @@
         "published": "Thu, 12 Nov 2026 11:52:00 GMT"
       },
       {
-        "title": "Website gehackt: Wangener Firma veröffentlicht Leitfaden - PressNetwork",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGtDNW5NMFdXc3FNLXYwSEd6LS1oa0g4NUNleDVKRmVlUkMwcTBfOTlvWHI3dE5oRUF5aVptYTVKZHlVZncwcUFoejk5eHVBSWJhTk9Bc0RkOFV1WVc1cnJaTFMwZlQ4M0I0OGlRSEZWcG8yeXpVblg1SnBsbl96NlFRaGZwSDRi?oc=5",
-        "published": "Thu, 12 Nov 2026 21:46:33 GMT"
-      },
-      {
         "title": "AdPoint veröffentlicht 36 Fachanalysen zu Google Ads 2027 - PressNetwork",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWJrZDRnNWhac0xBR3pWdGNkeGY4bVo1NlJxLUxDZVZZNU1vaW1Hd1psUGZmWEZHSzJKSXhFbjgyTGpkQkNKMk0zUVVWYWVrejFycVlRRXhOOUVkNEJTT3BUSGhUdkJJbExUN3ZlX1BzWDJOTTZPdnZBbEhFLVVBaFpwbnREVWU0Z0xn?oc=5",
         "published": "Thu, 12 Nov 2026 10:15:28 GMT"
+      },
+      {
+        "title": "Website gehackt: Wangener Firma veröffentlicht Leitfaden - PressNetwork",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGtDNW5NMFdXc3FNLXYwSEd6LS1oa0g4NUNleDVKRmVlUkMwcTBfOTlvWHI3dE5oRUF5aVptYTVKZHlVZncwcUFoejk5eHVBSWJhTk9Bc0RkOFV1WVc1cnJaTFMwZlQ4M0I0OGlRSEZWcG8yeXpVblg1SnBsbl96NlFRaGZwSDRi?oc=5",
+        "published": "Thu, 12 Nov 2026 21:46:33 GMT"
       }
     ],
     "Technologie & KI": [
@@ -294,19 +294,19 @@
         "published": "Fri, 13 Nov 2026 07:47:04 GMT"
       },
       {
+        "title": "Adobe MAX Sneaks 2026: Einblicke in experimentelle KI-Technologien für Bild-, Video- und Audio-Software - DOCMA.info",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeDZiWkdDR1M4ZlhqQmViWjJ2LXFWQWtsOHFOVkRHOTNCWG5lTERHTWNENmFMaWh6X3hhRTJrMkl2Vk9OQ2FGSHQ4VFB5S1pOZ1otZWRhUGxHMnBlRFdUY3BGY2NzTlRiWXlPWUtyd3h2YjdDUzhobTJ5WmZydW5zQXNHT2Y5M0gza3FTVzdkUmk4ZVRjd1dsRmFpZ1oyMDV6Y2k2akh5MFR2YTlfVUlMYlNJemdsMUtHVDZma0J3dG1pbTY3My1n?oc=5",
+        "published": "Fri, 13 Nov 2026 15:15:58 GMT"
+      },
+      {
         "title": "Cisco hebt Umsatzprognose dank starker KI-Nachfrage an - trend.at",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3hnWWZnQ3FxSmxUYmZXdzNjamFtMVNpZ2FJSzBpRDd0cWJKWVJ5MVNRaWdENTR0SEZvUUZqdXVjS1lmV2UtNXM3cW1jcEltd01DWUF3bUVBUXU2QjhxYWt4anpXb09UTGRhSmtPaHdTalhsVkhFZ2ItRTh4dlJ1emlab3p6eTA?oc=5",
         "published": "Fri, 13 Nov 2026 06:11:00 GMT"
       },
       {
-        "title": "Künstliche Intelligenz und Digitalisierung: Zukunftsthemen, die auch in Ostbelgiens Unternehmen angekommen sind - GrenzEcho",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUNTdTdRYnd2RVE4VmZtUWtlN3lOdHkyXzlaUEZVLS1tRjVFQVFiVWwyV2h5bks2a2NMeDltd2FZN0gyMFNRbVY0SXNQQ3hXTFhoazhPMmpOdUU3R3RnRXlyNTR3dE9Ca1gtemtYTGdIOFZxWjlBanB4N2hTN0ZmVW10U2dMLWpDb0RwT0J4N2tMSlNYWGhhT05yOXNvQW1LbTdEQkxHRmhWZHFHdWZrZllsR2djaXJGOEVTZFVYcU5uc21NSGpjMEp3?oc=5",
-        "published": "Fri, 13 Nov 2026 08:57:51 GMT"
-      },
-      {
-        "title": "Wie Jeremy Rifkin die Zukunft der KI zu optimistisch zeichnet - RiffReporter",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZjEtSHBFdF94TXcwQmxrWXJKZjVhSy11VlU4UGJuN0Z5aWZrbmJqOGNzdDE4TEJWWTJIXzdYMmluZ0hLamJSOWY4TFFZZWVLdGl1ZEYwbmhHSnNKTUJGaXZoLVB2dXZRdjZ1Mk1kV3d0Tlk0WXEyU3lTWW04am1wMzBFdllCdXM?oc=5",
-        "published": "Thu, 12 Nov 2026 16:15:00 GMT"
+        "title": "Minister für Wissenschaft und Technologie: Künstliche Intelligenz sicher, verantwortungsvoll und altersgerecht einsetzen. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2ZFTXMwVHhIalM4dERVZnJNeG5sak1vaUtTQTZ4dmxyRzhzUDYweV9YRXRqdUlFQmw4MGhNS3BROV9pd09YNk94cEZjY2ZwOXFtYTFoMXUzbElKbUE1TEVwTWV6c1VudGVGZW05X1c0ZHB5cjA0dDVBZnV3TlNNeGh2ZS10SEJoaF9oSE56RTNVNUg5TG5jYVZBRkhycldvajF1eDZ1bUpzNzJK?oc=5",
+        "published": "Fri, 13 Nov 2026 06:09:50 GMT"
       }
     ],
     "Meine Aktien": [
@@ -316,14 +316,14 @@
         "published": "Fri, 13 Nov 2026 11:43:36 GMT"
       },
       {
-        "title": "Nach Huang-Rücktritt: Finanzchefin Kress soll Nvidia auf Kurs halten - ORF",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwZ0hoa3RqTm9hd3JCNl9lSmdxWkJBUnJ5MGtDU18xYVRBMXVMYzNQTDdqRDNyclV2OWVtXzVFWS1Wdm1yTUE?oc=5",
-        "published": "Thu, 12 Nov 2026 22:48:48 GMT"
+        "title": "Nvidia-Skandal: US-Handelsminister Lutnick unter Druck - ORF",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVcGVlTVdvVkNNY2U3eWNHOHNWTVQxbkI5M3pTb0d6ZWt0RmlieUx1S2tqOUFjV3ZsWVZjM3VHWW1pVWJ2RWc?oc=5",
+        "published": "Fri, 13 Nov 2026 14:44:21 GMT"
       },
       {
-        "title": "Nvidia nach Jensen Huang: Wer die besten Chancen auf die Nachfolge hat - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnVtc1FFd2xhOHZBR0hvNmxaeGc0WExDTWxlR0xXX1BERkpDbkNfRjk1Qy1Ya2FmcTlNbXNsSGNtTk1UdnJPTmtJcnl3TmNXc0Rqdkh2Vmw0SHNPV3Q1cG5tX0VkOGJTbENxMjBkUVlkalZpT1YyRmdMejhQUUVFSTlwdGZRYVU?oc=5",
-        "published": "Fri, 13 Nov 2026 11:01:00 GMT"
+        "title": "Weniger Show, mehr Kontrolle: Colette Kress übernimmt vorerst Führung bei Nvidia - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDUzWFB1MGpOVV81U1A5aUJRN2wzZW90U0RsTjNlMzVvcHFMRW1SWHhOR19VSWRmaHFPMFI4OF9jTl9SaGltcnZDdFFDWDBuZXBaalR6ekVlODZvRVhEcjFrcnc1dVFEekRxTFl2NUVrMm0wbUV4aURZN3htTW1YcXJremZMQ0tzYUhyelhaMm9ZQlZ4VEpVNHlGU2puQmNpcERqbmloZ2xHMmQ1SUVMdTJOX3I4T2JsT1lIYXRUNUk4cHlVVkE?oc=5",
+        "published": "Fri, 13 Nov 2026 15:10:00 GMT"
       },
       {
         "title": "Früheres Ski-Ass und Ex-Partner von Holdener bald Nvidia-Chef? - SPORT1",
