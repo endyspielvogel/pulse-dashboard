@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-11-13T08:29:39.367889+00:00",
+  "fetched_at": "2026-11-13T09:28:13.370207+00:00",
   "countries": {
     "AT": [
       {
+        "title": "schneefallgrenze österreich",
+        "volume": "200+"
+      },
+      {
+        "title": "finanz.at",
+        "volume": "200+"
+      },
+      {
         "title": "vater",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "gta 6 lidl",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "penzing",
@@ -16,7 +24,7 @@
       },
       {
         "title": "armin assinger",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "brot",
@@ -27,62 +35,54 @@
         "volume": "100+"
       },
       {
+        "title": "wetter",
+        "volume": "20000+"
+      },
+      {
         "title": "weather",
         "volume": "500+"
-      },
-      {
-        "title": "michael olise",
-        "volume": "500+"
-      },
-      {
-        "title": "погода",
-        "volume": "200+"
-      },
-      {
-        "title": "microsoft outlook störung",
-        "volume": "10000+"
       }
     ],
     "US": [
       {
+        "title": "gta vi",
+        "volume": "2000+"
+      },
+      {
+        "title": "lamar odom",
+        "volume": "500+"
+      },
+      {
+        "title": "akira santillan",
+        "volume": "500+"
+      },
+      {
+        "title": "new zealand vs india",
+        "volume": "20000+"
+      },
+      {
+        "title": "danielle fishel",
+        "volume": "100+"
+      },
+      {
         "title": "gta 6 countdown",
-        "volume": "200+"
+        "volume": "100+"
       },
       {
         "title": "avengers endgame encore",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "new zealand breakers",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "marvel rivals season 11 release date",
         "volume": "100+"
       },
       {
-        "title": "gta 6 pc",
-        "volume": "2000+"
-      },
-      {
         "title": "gta 6 pc release date",
-        "volume": "100+"
-      },
-      {
-        "title": "friday the 13th",
-        "volume": "500+"
-      },
-      {
-        "title": "colman domingo",
-        "volume": "100+"
-      },
-      {
-        "title": "brisbane bullets",
-        "volume": "200+"
-      },
-      {
-        "title": "selena gomez",
-        "volume": "500+"
+        "volume": "2000+"
       }
     ]
   }
