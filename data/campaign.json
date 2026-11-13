@@ -1,7 +1,39 @@
 {
-  "fetched_at": "2026-11-12T21:59:58.802807+00:00",
+  "fetched_at": "2026-11-13T01:26:56.667935+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "Campaign In-House Agency Awards winners 2026: Not for Profit",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTnhpZkNNVUdkVTZiTnBieE0wSzBQTmlPLWFQZVRUZjJHclkyb0E1V3RDLVJMX2x3ZUxYTXlvcm5ySHd4ZVBkZlhTVVNSTnRqQ2tydzVUNGZtR2ZReFdjSFZBcTVZOHdqSm51MG0wTUY5N2Z1RkxCc2l2QUxNb3BRMFJBamNHaHB3TUs1NENvNE9zNlQ0clNYZ0IyU21qMFBWeWx5NFRjRW1FSGVXNVhkUnhiZzdEOVZyN0xQUjFJM1phT1k?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:33:45+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaign In-House Agency Awards winners 2026: Branded Content Strategy",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDNQY1lkcTVLYzdRV2hzazd4VHp5V1k4YU51YXNUWWVMMHNfRVB6QVhyMTdOMVBvV2pHRnlJRnlabkFkcVAyaWxYQnB4MlBxNHpFWEY5X05jemJjTXNWSEd5cjJqUkhERlZIcXVYb0N0UEVPSFNwVllqZ0EzUGJyZTNzRjJDdTJQOUR3U0R6a3h4eGdvV0xRVld3cE5yVDUwdDJaeHZnZnhESXJzYjFCWEdiTDRsc2V4WTM1S0NjQ0N3aHZmcDhyejhFYTE0TVNH?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:25:06+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaign In-House Agency Awards winners 2026: Copywriting",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObHRkNWNKS1hHd1ctS3RGLXA3TURKVWtIc3kyRUUwTzZjdzZoNzBGZWhYbVVrN0hSVFpWdmc2SFJnWW9vS2VzMnprTVpyaUVpVFlqb05RSzhTZ0JTNEpmLXZ0aDN1RklFX3ZXUjg5cDJJbHhaZHdrLUh4OU9RTHZmVUpaRXc2UVhKalJSSHVhQnRsR2FqNU1ELTZYS1dkdWE0X0xzck5NSWNBdkk4UWdpaWE5UkNJbkphWmNLMTAtcw?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:22:30+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaign In-House Agency Awards winners 2026: Creative Excellence",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHFhVG9oRk5SSGdWUldRZVRQdDRxUGd4OEZFZklJaWh0U2xEYk1xcDU5aXlXbEljVnFZanpIZFJRNURLR3ktVDFqMmNSMGtTVkNzQWJxeUJwSV85UFhjX29RX2Z1V1JZbkxWcjJ6VllXRzZuR1RtZTlfMlVvQm9vdlZDZkgyYkVlYWp3ZDZMaF9QenlKOGdoVVk3RmhOcWpLMTZVakE3Y3RUaHF4TTBpYm1xWWhua05DTUJSM2JKLU9md1BzRkpzUUR3?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:22:30+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Campaign In-House Agency Awards winners 2026: Design",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWMyVWV6Z3BPa3RYRENfWWh2LUdrcy1lZHY0M2hVejZXdGVPd2FWc2x3T2U3c0t1MGJ1WlJsdHU5QVl3S01CSnJ4b05lblpFeG8xUTV4X2d1dFlnUy1XNG5tX01rbWs1OU9OSk96cnpKVXdSZEVXWHc3eUloNDNwZkVFWDFIN0pCa2NELWZDenp5Nk5YaFQ4T1Fnd1ZtYVcxUjRVNmJTYldkYUxWTTNvcm5aNG0wN1JU?oc=5",
@@ -13,6 +45,14 @@
     {
       "title": "Campaign In-House Agency Awards winners 2026: Best Use of Emerging Technology",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcVJOZzcySmdZMjlhbk54SlBra0Z0aWZ5NnBsU1RhUExEVnc1cm9EcWt5Zjd5X2tnVU93M0psXzN0SGg1dVhCd1VfcnJRd2Y5TXpVSnFGWFRSZEd2YUZWS1h2VElyamd0bkxtd3FxY05LWURYeDNVTWNxSHNScTdya2E5T08xU081ZExRN29FV0FUN2RLUDNJMlBEMmJNU3Z6eC1wZ0hSMVRzOHFBTTZLNTRBUEthOElkQVdnQV9ScXBLdDdIanREdmE3Sk0zSmdPNnI3LVBRcjhMdw?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:15:02+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaign In-House Agency Awards winners 2026: In-House Agency Leader",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1o4VFRNRGhEYnFxQTRqSDVtVkpINndNM1N0cEE2bnQ0dHd5ZE9MOHNVZ2pUZ3ozNXBfRENYaUUyT0FNU0VCc3pjOTkxZ2xGa2xDZi1McGNaVENSb242R1ExOHFjVWpwaTZSU2J4a2l2b0VndXhRWW5hdEJtVkpUUERKYTZJR1hoOXlsR2Nfb3VXQnZxc3IyeXRrZmhuY20xRVQySkx5RS02RkJhbjdwY2o3RjhXUXJ3Y01qRzZnbXpjWXFwYnphU0hkd29rUQ?oc=5",
       "published": "12.11.2026",
       "published_iso": "2026-11-12T21:15:02+00:00",
       "description": "",
@@ -35,48 +75,8 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Campaign In-House Agency Awards winners 2026: Creative Excellence",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHFhVG9oRk5SSGdWUldRZVRQdDRxUGd4OEZFZklJaWh0U2xEYk1xcDU5aXlXbEljVnFZanpIZFJRNURLR3ktVDFqMmNSMGtTVkNzQWJxeUJwSV85UFhjX29RX2Z1V1JZbkxWcjJ6VllXRzZuR1RtZTlfMlVvQm9vdlZDZkgyYkVlYWp3ZDZMaF9QenlKOGdoVVk3RmhOcWpLMTZVakE3Y3RUaHF4TTBpYm1xWWhua05DTUJSM2JKLU9md1BzRkpzUUR3?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:14:54+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: Copywriting",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObHRkNWNKS1hHd1ctS3RGLXA3TURKVWtIc3kyRUUwTzZjdzZoNzBGZWhYbVVrN0hSVFpWdmc2SFJnWW9vS2VzMnprTVpyaUVpVFlqb05RSzhTZ0JTNEpmLXZ0aDN1RklFX3ZXUjg5cDJJbHhaZHdrLUh4OU9RTHZmVUpaRXc2UVhKalJSSHVhQnRsR2FqNU1ELTZYS1dkdWE0X0xzck5NSWNBdkk4UWdpaWE5UkNJbkphWmNLMTAtcw?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:14:53+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: Branded Content Strategy",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDNQY1lkcTVLYzdRV2hzazd4VHp5V1k4YU51YXNUWWVMMHNfRVB6QVhyMTdOMVBvV2pHRnlJRnlabkFkcVAyaWxYQnB4MlBxNHpFWEY5X05jemJjTXNWSEd5cjJqUkhERlZIcXVYb0N0UEVPSFNwVllqZ0EzUGJyZTNzRjJDdTJQOUR3U0R6a3h4eGdvV0xRVld3cE5yVDUwdDJaeHZnZnhESXJzYjFCWEdiTDRsc2V4WTM1S0NjQ0N3aHZmcDhyejhFYTE0TVNH?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:14:52+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: In-House Agency Leader",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1o4VFRNRGhEYnFxQTRqSDVtVkpINndNM1N0cEE2bnQ0dHd5ZE9MOHNVZ2pUZ3ozNXBfRENYaUUyT0FNU0VCc3pjOTkxZ2xGa2xDZi1McGNaVENSb242R1ExOHFjVWpwaTZSU2J4a2l2b0VndXhRWW5hdEJtVkpUUERKYTZJR1hoOXlsR2Nfb3VXQnZxc3IyeXRrZmhuY20xRVQySkx5RS02RkJhbjdwY2o3RjhXUXJ3Y01qRzZnbXpjWXFwYnphU0hkd29rUQ?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:14:50+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Campaign In-House Agency Awards winners 2026: In-house Agency or Team of the Year",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGxnc05OeWlvSXpLUEk2SC1aT0V2OVpkRlg4d0lWMkwzTlFjbVFMS3QzVmxWejlUYWdON01NSW5xclpjYjhmdjNHaURxcnlRNjUxTGM5YlhTMkx0aWpoTkgtY0xRSENpbm9ITGpRTGxQTjYwaWUxODJ1cFR1ZU4xU3kxcm9GWDB4cjU1ZWRZRGVFaFpWYTZNbzBoN3pnSU9oWDY3dXZXcUNuM2hOM2ctWTZCTXJJU0J6VU9WWjYzX25QUE8ydnFHLVp5QVMyMW0yakdvdFlLOTlxTy0teG04?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:14:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: Not for Profit",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTnhpZkNNVUdkVTZiTnBieE0wSzBQTmlPLWFQZVRUZjJHclkyb0E1V3RDLVJMX2x3ZUxYTXlvcm5ySHd4ZVBkZlhTVVNSTnRqQ2tydzVUNGZtR2ZReFdjSFZBcTVZOHdqSm51MG0wTUY5N2Z1RkxCc2l2QUxNb3BRMFJBamNHaHB3TUs1NENvNE9zNlQ0clNYZ0IyU21qMFBWeWx5NFRjRW1FSGVXNVhkUnhiZzdEOVZyN0xQUjFJM1phT1k?oc=5",
       "published": "12.11.2026",
       "published_iso": "2026-11-12T21:14:20+00:00",
       "description": "",
