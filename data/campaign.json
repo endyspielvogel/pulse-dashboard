@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-11-14T15:54:12.164926+00:00",
+  "fetched_at": "2026-11-14T19:00:59.710540+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "MEFA Awards 2026 winners revealed",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTG5rdjR4aGJOQkRWVjE2Q3lXVklIcUJvU3NHZkFPclczc1drcTFkZU1sSEpEVzNvRjktc0ozc1RhSmdYY3VySzdaRFc1QXpraGJMamR1MkxLc21ONFBQYW42OHF4YWlGaEMyNWxKTjdqXzhWbXR6TzRZT2w2NGJXNlRjV3ViV09KUHdveUVyWFVVUkpvNjV2anlRTGhFbVVn?oc=5",
+      "published": "13.11.2026",
+      "published_iso": "2026-11-13T16:26:05+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Leo Burnet",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYjhlZG9SX0s3NEt0SXNlUUlpNmsyREVhSTRUYVRKSUdLbk9tUzRDMGVGdm5pTEFxaDBhRXVsLWVvcXRhZ0g4ZHE3ajBHSF9GTzVTTHlpR1VTaDJSdnZseXdR?oc=5",
@@ -15,6 +23,22 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMG5tWTNsX2taMXNZX0xyVThwbEs3WVFCSnAtUFU0LUNNVVR5N0x1S01pWmROOUdUU1BOeEJ6Y2lNZ0JYQ1BQdE45ek5nZU9HMXBuZDV1bkpjYnRBRzlHYloxekhOOEhOdG9JZ0ZnUTdWWEU3NHNMYl9aSFlEN1FoRkFWcnV1YXhvOVo3bERuMEE0RnJIcVNHMWdkTzl6UDI3ME04VVlGNDY5WjRQek96b0xrUURTc01tRFF3a1d4aGczVkFtTEVreWZ1ZFc0dlJRdEdkNE12RHJpd3dKWms0?oc=5",
       "published": "13.11.2026",
       "published_iso": "2026-11-13T13:21:52+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Children’s Society “Save teenhood” by Good Agency",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGlRQzlCLWQ5bC0wTHQ0ZVRjTkRxd2hhY3BpbmtuUVM5cVJQQ1RPZ0lyd1VmZHNEN21JZ01CSmlpUnZSWEhwTmdxell1bWptWWxjUWNzR2E1RGFjdkVvZlF4UFBBdDJ2cXVnZ3FzYUdwcVl3bUVJUHlIeVg3TFYzc1NHWW1vWHhNZlpTd2h0Rll2RUFkTGlTOHZzbmlpNlhYeVhJdlR4THZhQ3hkQjZ5OFpDU1NQTkZI?oc=5",
+      "published": "13.11.2026",
+      "published_iso": "2026-11-13T13:18:58+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Barclays “We’ve got your back” by VCCP",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHVwUEFBWkt2VjN0SDl0U0d6MkZ0OXNYdENkeldqMmxXc2M3UC1jcDEyTEMwdFo2SnFMOWxYaE9JSzlTMTYySzdDdk8xa0U2SHQ5ZzM1bTVLOERGc2ExRGxLanFpSXBHN1ltZGsteEZTWldtUHlYXy1BOW1wZW9NTmZwYmMzS2pEcTBlTC1KRmQ4alVwLUJabFg1Ym00aWtkRGdaag?oc=5",
+      "published": "13.11.2026",
+      "published_iso": "2026-11-13T12:57:23+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -43,10 +67,10 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Sports Direct and Nike “Unwrap potential” by Chaos x Magic",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObV9ZQTg4WUxpZXRLVjJOaFZKQTczQi1BLWZMS2ljaEZwSXVGM2R3TU44STJrVWFBdG1sQ2pKT0dicDJNWGhoT0FqZWo4Uk80ZHN0UmZIOVl4SDhwRl9ZZzhoVnFPVEF3NUdxQ2Fub1dKRWt3aGlaLXU3OEtReTdUSUxuaHdvaVp4SnE1QlFna2lkTFhIX0pwOXZQb3pDbzJGN3BrZHgzMG9DaWtvM1AxY1FEUDFCVUtvTjRwaWhRaw?oc=5",
+      "title": "The untapped value of Gen X",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUFoaE82TGF3WVhzU3pHSlNUTHZ0SGtNOTA4RjhtbmU3b1lqTTZocWNQaGEzeWdiSnBjQl81NkVjRjNxUmhxdVhSWTBkZXVnX0k1QURtcTRZZWt4LXVkR0ZhSXZkVzRUVEJfNGlhcXNUbnY4WFZfTGI4akt5ZlNsUktEMlNDanA4cFIzY092cUNZVnVJbWNqRQ?oc=5",
       "published": "13.11.2026",
-      "published_iso": "2026-11-13T10:26:39+00:00",
+      "published_iso": "2026-11-13T10:41:42+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -71,30 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTnhpZkNNVUdkVTZiTnBieE0wSzBQTmlPLWFQZVRUZjJHclkyb0E1V3RDLVJMX2x3ZUxYTXlvcm5ySHd4ZVBkZlhTVVNSTnRqQ2tydzVUNGZtR2ZReFdjSFZBcTVZOHdqSm51MG0wTUY5N2Z1RkxCc2l2QUxNb3BRMFJBamNHaHB3TUs1NENvNE9zNlQ0clNYZ0IyU21qMFBWeWx5NFRjRW1FSGVXNVhkUnhiZzdEOVZyN0xQUjFJM1phT1k?oc=5",
       "published": "13.11.2026",
       "published_iso": "2026-11-13T00:57:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: In-House Agency Leader",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1o4VFRNRGhEYnFxQTRqSDVtVkpINndNM1N0cEE2bnQ0dHd5ZE9MOHNVZ2pUZ3ozNXBfRENYaUUyT0FNU0VCc3pjOTkxZ2xGa2xDZi1McGNaVENSb242R1ExOHFjVWpwaTZSU2J4a2l2b0VndXhRWW5hdEJtVkpUUERKYTZJR1hoOXlsR2Nfb3VXQnZxc3IyeXRrZmhuY20xRVQySkx5RS02RkJhbjdwY2o3RjhXUXJ3Y01qRzZnbXpjWXFwYnphU0hkd29rUQ?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T00:57:20+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: Creative Excellence",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHFhVG9oRk5SSGdWUldRZVRQdDRxUGd4OEZFZklJaWh0U2xEYk1xcDU5aXlXbEljVnFZanpIZFJRNURLR3ktVDFqMmNSMGtTVkNzQWJxeUJwSV85UFhjX29RX2Z1V1JZbkxWcjJ6VllXRzZuR1RtZTlfMlVvQm9vdlZDZkgyYkVlYWp3ZDZMaF9QenlKOGdoVVk3RmhOcWpLMTZVakE3Y3RUaHF4TTBpYm1xWWhua05DTUJSM2JKLU9md1BzRkpzUUR3?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:25:06+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign In-House Agency Awards winners 2026: Branded Content Strategy",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDNQY1lkcTVLYzdRV2hzazd4VHp5V1k4YU51YXNUWWVMMHNfRVB6QVhyMTdOMVBvV2pHRnlJRnlabkFkcVAyaWxYQnB4MlBxNHpFWEY5X05jemJjTXNWSEd5cjJqUkhERlZIcXVYb0N0UEVPSFNwVllqZ0EzUGJyZTNzRjJDdTJQOUR3U0R6a3h4eGdvV0xRVld3cE5yVDUwdDJaeHZnZnhESXJzYjFCWEdiTDRsc2V4WTM1S0NjQ0N3aHZmcDhyejhFYTE0TVNH?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T21:25:06+00:00",
       "description": "",
       "source": "Campaign UK"
     }
