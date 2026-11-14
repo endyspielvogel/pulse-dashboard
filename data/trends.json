@@ -1,14 +1,18 @@
 {
-  "fetched_at": "2026-11-14T08:09:15.747354+00:00",
+  "fetched_at": "2026-11-14T08:55:34.929789+00:00",
   "countries": {
     "AT": [
       {
-        "title": "rb leipzig",
+        "title": "nintendo switch 2 black friday",
         "volume": "100+"
       },
       {
+        "title": "rb leipzig",
+        "volume": "200+"
+      },
+      {
         "title": "rheinmetall",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "herr der ringe serie staffel 3",
@@ -16,11 +20,11 @@
       },
       {
         "title": "florian gschaider",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "luise bähr",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "johnny depp",
@@ -37,51 +41,47 @@
       {
         "title": "jesús owono",
         "volume": "200+"
-      },
-      {
-        "title": "spielberg",
-        "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "hailey bieber",
-        "volume": "500+"
-      },
-      {
-        "title": "alexandra daddario",
+        "title": "hltv",
         "volume": "100+"
       },
       {
-        "title": "paris hilton",
+        "title": "ana de armas",
         "volume": "100+"
       },
       {
-        "title": "los angeles weather",
+        "title": "joseph zada",
+        "volume": "100+"
+      },
+      {
+        "title": "kobe bryant",
+        "volume": "100+"
+      },
+      {
+        "title": "natalie portman",
+        "volume": "100+"
+      },
+      {
+        "title": "gta 6 ultimate edition",
+        "volume": "100+"
+      },
+      {
+        "title": "hong kong",
+        "volume": "100+"
+      },
+      {
+        "title": "haiti",
+        "volume": "100+"
+      },
+      {
+        "title": "xrp",
         "volume": "200+"
       },
       {
-        "title": "nathan fillion",
-        "volume": "100+"
-      },
-      {
-        "title": "gen x",
-        "volume": "100+"
-      },
-      {
-        "title": "santa cruz beach closures",
-        "volume": "2000+"
-      },
-      {
-        "title": "monica barbaro",
-        "volume": "100+"
-      },
-      {
-        "title": "under-19 ind vs pak live score",
-        "volume": "100+"
-      },
-      {
-        "title": "tahiti",
+        "title": "andrew garfield",
         "volume": "100+"
       }
     ]
