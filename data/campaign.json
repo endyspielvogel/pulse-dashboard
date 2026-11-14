@@ -1,15 +1,7 @@
 {
-  "fetched_at": "2026-11-14T09:59:38.041026+00:00",
+  "fetched_at": "2026-11-14T13:10:01.120539+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
-    {
-      "title": "MEFA Awards 2026 winners revealed",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTG5rdjR4aGJOQkRWVjE2Q3lXVklIcUJvU3NHZkFPclczc1drcTFkZU1sSEpEVzNvRjktc0ozc1RhSmdYY3VySzdaRFc1QXpraGJMamR1MkxLc21ONFBQYW42OHF4YWlGaEMyNWxKTjdqXzhWbXR6TzRZT2w2NGJXNlRjV3ViV09KUHdveUVyWFVVUkpvNjV2anlRTGhFbVVn?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T16:26:05+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
     {
       "title": "Leo Burnet",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYjhlZG9SX0s3NEt0SXNlUUlpNmsyREVhSTRUYVRKSUdLbk9tUzRDMGVGdm5pTEFxaDBhRXVsLWVvcXRhZ0g4ZHE3ajBHSF9GTzVTTHlpR1VTaDJSdnZseXdR?oc=5",
@@ -95,6 +87,14 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDNQY1lkcTVLYzdRV2hzazd4VHp5V1k4YU51YXNUWWVMMHNfRVB6QVhyMTdOMVBvV2pHRnlJRnlabkFkcVAyaWxYQnB4MlBxNHpFWEY5X05jemJjTXNWSEd5cjJqUkhERlZIcXVYb0N0UEVPSFNwVllqZ0EzUGJyZTNzRjJDdTJQOUR3U0R6a3h4eGdvV0xRVld3cE5yVDUwdDJaeHZnZnhESXJzYjFCWEdiTDRsc2V4WTM1S0NjQ0N3aHZmcDhyejhFYTE0TVNH?oc=5",
       "published": "12.11.2026",
       "published_iso": "2026-11-12T21:25:06+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaign In-House Agency Awards winners 2026: Copywriting",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObHRkNWNKS1hHd1ctS3RGLXA3TURKVWtIc3kyRUUwTzZjdzZoNzBGZWhYbVVrN0hSVFpWdmc2SFJnWW9vS2VzMnprTVpyaUVpVFlqb05RSzhTZ0JTNEpmLXZ0aDN1RklFX3ZXUjg5cDJJbHhaZHdrLUh4OU9RTHZmVUpaRXc2UVhKalJSSHVhQnRsR2FqNU1ELTZYS1dkdWE0X0xzck5NSWNBdkk4UWdpaWE5UkNJbkphWmNLMTAtcw?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:24:20+00:00",
       "description": "",
       "source": "Campaign UK"
     }
