@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-11-13T06:03:48.691408+00:00",
-  "date": "2026-11-13",
+  "fetched_at": "2026-11-14T05:54:22.757409+00:00",
+  "date": "2026-11-14",
   "social": [
+    {
+      "platform": "YOUTUBE SHORTS",
+      "title": "YouTube Short",
+      "url": "https://www.youtube.com/shorts/LFpBR2n4CoI",
+      "image": "https://i.ytimg.com/vi/LFpBR2n4CoI/hqdefault.jpg",
+      "link_type": "original",
+      "note": "Öffentlich auffindbarer Short · Viralität nicht unabhängig bestätigt"
+    },
     {
       "platform": "YOUTUBE SHORTS",
       "title": "YouTube Short",
@@ -13,16 +21,8 @@
     {
       "platform": "YOUTUBE SHORTS",
       "title": "YouTube Short",
-      "url": "https://www.youtube.com/shorts/l8JHCq7VyiQ",
-      "image": "https://i.ytimg.com/vi/l8JHCq7VyiQ/hqdefault.jpg",
-      "link_type": "original",
-      "note": "Öffentlich auffindbarer Short · Viralität nicht unabhängig bestätigt"
-    },
-    {
-      "platform": "YOUTUBE SHORTS",
-      "title": "YouTube Short",
-      "url": "https://www.youtube.com/shorts/sPppjTWLsCY",
-      "image": "https://i.ytimg.com/vi/sPppjTWLsCY/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/AD-RlkZI9JM",
+      "image": "https://i.ytimg.com/vi/AD-RlkZI9JM/hqdefault.jpg",
       "link_type": "original",
       "note": "Öffentlich auffindbarer Short · Viralität nicht unabhängig bestätigt"
     }
@@ -30,25 +30,25 @@
   "culture": [
     {
       "platform": "REDDIT / MEMES",
-      "title": "Sometimes following Rule 2 saves you from a permanent ban, a friendly reminder.",
-      "url": "https://www.reddit.com/r/memes/comments/1xo0yso/sometimes_following_rule_2_saves_you_from_a/",
-      "image": "https://preview.redd.it/tl6uskj72ozh1.jpeg?width=640&crop=smart&auto=webp&s=31c99c360b829631f4b0d859ea694efae2ce404b",
+      "title": "But it can",
+      "url": "https://www.reddit.com/r/memes/comments/1xvjfw8/but_it_can/",
+      "image": "https://preview.redd.it/yapmn6gw0g1i1.jpeg?width=320&crop=smart&auto=webp&s=ce18d8add7bce21801b996ed7713c0dbae220e1c",
       "link_type": "original",
       "note": "Öffentlicher Reddit-Beitrag · keine verifizierte Viral-Rangliste"
     },
     {
       "platform": "REDDIT / MEMES",
-      "title": "Use protection guys",
-      "url": "https://www.reddit.com/r/memes/comments/1xu9951/use_protection_guys/",
-      "image": "https://preview.redd.it/cmmb4sd4r51i1.jpeg?width=320&crop=smart&auto=webp&s=e52e7154d420802bd6737ddea157b5cd1861c58a",
+      "title": "It’s only an HR violation if you don't own the company",
+      "url": "https://www.reddit.com/r/memes/comments/1xv500g/its_only_an_hr_violation_if_you_dont_own_the/",
+      "image": "https://preview.redd.it/q5lcw9ah3d1i1.jpeg?width=640&crop=smart&auto=webp&s=4112246178150a9030ad34ea371b08e251607967",
       "link_type": "original",
       "note": "Öffentlicher Reddit-Beitrag · keine verifizierte Viral-Rangliste"
     },
     {
       "platform": "REDDIT / MEMES",
-      "title": "A third affair?",
-      "url": "https://www.reddit.com/r/memes/comments/1xugqno/a_third_affair/",
-      "image": "https://preview.redd.it/9ygrr6nug71i1.jpeg?width=640&crop=smart&auto=webp&s=24ad9c900db25f6ddd77ae4e1cd43ea6bbefc704",
+      "title": "Cloudflare No!",
+      "url": "https://www.reddit.com/r/memes/comments/1xv49lc/cloudflare_no/",
+      "image": "https://preview.redd.it/q5b7hddmvc1i1.jpeg?width=640&crop=smart&auto=webp&s=cbdc1d842d8cddea6bfd33af6afa13b49c456342",
       "link_type": "original",
       "note": "Öffentlicher Reddit-Beitrag · keine verifizierte Viral-Rangliste"
     }
