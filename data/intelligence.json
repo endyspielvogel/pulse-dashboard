@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T16:15:16.746111+00:00",
+  "fetched_at": "2026-11-15T17:12:35.751153+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -11,6 +11,11 @@
         "title": "MCDONALDS AKTIE Dividende | Hauptversammlung | Dividendenrendite | 856958 - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HVTg0WDM3cUJoSXE0TjhPeURKbGNJVDNYUnJZNWJLVzZGNnVvYXJuUmJHbUUxZExiVUhwQlJWazZhTjg5WjRuZDJSb29MSy1OR3hjNEkzNA?oc=5",
         "published": "Fri, 13 Nov 2026 21:43:02 GMT"
+      },
+      {
+        "title": "Sex, Lügen, Millionen: 105 Millionen US-Dollar weg: So brutal endete die Affäre eines McDonald's-Bosses - FinanzNachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeXdDQlV0T1FTTUlVTGlsUVZ5TG5xRVlHWXNuMDltS1NGVU83NHBGTVhDTldLQzB6LXdsSmhyWmFxdkZKdS1yN1RuVGo2bzFxd0pQRFJwdzVzMDlWSzIyd1BqRWlhT0JEVDFoQTJidVROUWpWdWRZYUMtNlFkQ0ViV2pqd0pjMzFKN2NqZG5mWHFlRVc3cWxaS0ZBakxtZExvWTdUZWFIcFRIMFhmRG9Ib0MzTEFCWG1vV1RoWW9RcTQ0YkJJTFlSbUUxZHUtUGhXQ21vSENjdHFfV3VuaWozRE1vRjVVZVpWbk5WZDFOUl9qck8xUmxNTUQxbEpRVGlf?oc=5",
+        "published": "Sun, 15 Nov 2026 16:23:00 GMT"
       },
       {
         "title": "Wie Coca-Cola, Chevron, 3M, VISA, Caterpillar und McDonalds für Gesprächsstoff im Dow Jones sorgten - Börse Social",
@@ -36,11 +41,6 @@
         "title": "McDonald's Aktienanalyse: US-Umsatz schrumpft, Gewinn wächst zweistellig – kommt mit den Spar-Menüs die Wende? - AktienCheck.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjZiY2xYVmtZVHVYYmVOeXFfNVg3cUdJdGx0UlhCbFdzajRONm5SazV3cDFYOGxDQ3dsUXpobl9OY3QzdUJXa2swV3IyUV9yUThEZjZYTEMwdDBEYkdSNnJkczNhbUl1Slc5UVhnWk52dE5YQ0FYNFI3YlF0Z3VUUHRSV0I5WkoxUzNkY0dvc29XRzdqUUhqS0NWSHY2ZXVUMFBqbm5MU2N6Yk9zUHFnSQ?oc=5",
         "published": "Sat, 14 Nov 2026 15:49:20 GMT"
-      },
-      {
-        "title": "105 Millionen US-Dollar weg: So brutal endete die Affäre eines McDonald’s-Bosses - Wallstreet Online",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDlOeUh1dnJpZGNmM1B4eWIxandTSjJSbnlWbWY3eEFuaGVaU0ZNUUtrUEI4QTRGT3dhY0owVnQ2T1lfMGgzd0dLRzlSQXFNeFRNSFNZS0lXc2NyRG9wbTZFTDRfaUxFRVBQb2x6TXQydUg1MlhrMjhMNHdBVDg5LV9UaXk2azdhZ2tWLTVUTzJlbzc2WXpEcEdjSHRaVVJaeG8zWTZENlJ4amFVWW9oYk5kXzcwX2ExZndlcVQ4bkp1UFA0WUZucGx5TERhRkc3OF9YZHpRMA?oc=5",
-        "published": "Sun, 15 Nov 2026 16:00:00 GMT"
       }
     ],
     "Burger King": [
@@ -99,6 +99,11 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Auto-Industrie in der Krise: Werden-Mercedes-Werke geschlossen? - SWR",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDZSdG5adDc5VlMwM2N0Q1M0ai02cjRCYTU1Y0xFNk8tbVJTSTBOajNsajIyQU9kck9VN0luVGhJVm9HQk5qRWprVXpHb19RaFA3aFU4LWJxWjY5cDZrOERYV2plcVVuTENWR190RmR0TzFLZDRnd3U4eTZ2dkJvSmRidUlnNk1WY21mSG1oc2JZRUkxSlk0THg5STdZUQ?oc=5",
+        "published": "Sun, 15 Nov 2026 14:00:00 GMT"
+      },
+      {
         "title": "Dieses Auto soll Mercedes retten – Wir sind den Mercedes GLC elektrisch gefahren - carwow.de",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjhFZHF0YUkwTWRrbUhmalVfM2dlM05jdnhqQjNXeUhMdzlMX0VjeEJrdGRWUDVYcEYzZm1LcU5aa2NsUVA0d29iQnBKSWZrc2wxbnVGTmlnRXBsMzVhaWQtRWpRU2twbU5XR01ZeWZtMkZFbTQ4emJ0UWs5aDFvUTU2a2NadXpxRVluSEVFdUtEY1h5WW5uNWotVkV6cGx0bkVsZ1pTaFE?oc=5",
         "published": "Sun, 15 Nov 2026 07:13:38 GMT"
@@ -124,11 +129,6 @@
         "published": "Sun, 15 Nov 2026 12:56:01 GMT"
       },
       {
-        "title": "Auto-Industrie in der Krise: Werden-Mercedes-Werke geschlossen? - SWR",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDZSdG5adDc5VlMwM2N0Q1M0ai02cjRCYTU1Y0xFNk8tbVJTSTBOajNsajIyQU9kck9VN0luVGhJVm9HQk5qRWprVXpHb19RaFA3aFU4LWJxWjY5cDZrOERYV2plcVVuTENWR190RmR0TzFLZDRnd3U4eTZ2dkJvSmRidUlnNk1WY21mSG1oc2JZRUkxSlk0THg5STdZUQ?oc=5",
-        "published": "Sat, 14 Nov 2026 19:00:00 GMT"
-      },
-      {
         "title": "Mercedes Marco Polo mit 237 PS: Camper jetzt deutlich günstiger - Auto Bild",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEIydVF2QnloN0xhRmpmemdielBpTjJueUc0VHZVYktRRWtCTmNYY3A4RkZJREl5dzVyU3gtRDluejQ0NzV1S2V1WVplckk5bzExLXRqZDFrNXNjcTZqTldJanVrV1ZqMzZvcUxXQURXa3VPQTgxeWMwTHBTYlpkelN3N0tPSF9rU1BMbW1Bd3VLb3ZYVm16YUdn?oc=5",
         "published": "Sat, 14 Nov 2026 11:00:00 GMT"
@@ -146,14 +146,14 @@
         "published": "Sun, 15 Nov 2026 12:21:00 GMT"
       },
       {
+        "title": "Nvidia-Angestellte wollen Jensen Huang zurück - heise online",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXFENThFSzBPbklGRllzYlktN0Q3ZW1tNjYzLVRyVHBYOGdHM2V4WHBkckxjS1JyYnJHUFZidERweWxIYnBwaXhTR3Y1SkZaZ3RSUmtDb1l0VWtzaU1rTmFnOW80MGhFVDNaM29rUWFhQ214c0JzbWpvY0pQU2R2MWpRVE9wU0NDNDlkR2stMA?oc=5",
+        "published": "Sun, 15 Nov 2026 16:09:00 GMT"
+      },
+      {
         "title": "Ein kurzes Nein reicht: Nvidia weist Geforce-Aus zurück - PCGH",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY21zblAtQzd4TnVBczhjQ0ltenZXaUNacFVKSXQ0MC1PLUVBVFRzVjBaVGNPaTZLaENkLVNTTjE1Mm9aUUNnanFiTFByeENNUl9RRnVUeVBRODRNc0VMYzBUcERyWURFTnM4VW5MRGJNdEYxclg4Vy1Ba0pucmt2cTdOTXowaFdmV3RIcHpneVBpQ0phZkVhRVV3bU90VlJoWGdDbGtHNE11Nlg5blc5Um42UWZzOWw4d0tHUFpTZG9QZlVvMWg5VHp2VVdkVjU0OWVJckl5MEdlUkNjTDNWUk94VzFKd1Z1NjFLekFEOEdpdw?oc=5",
         "published": "Sun, 15 Nov 2026 10:30:00 GMT"
-      },
-      {
-        "title": "Ex-Nvidia-Boss rastete aus: \"Ich hoffe, du stirbst\" - oe24",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNk9PSUE0QmtxbU1NeHJIWmhLWkRJbGd0cEZsemE1RTZjMklwODQtcFdGUGRwd1ctZkpTclRWcTRSS2RzOUM0ZFBmTmNMTDlsaDgwdE5BZWJJOWQwQ3FJWVdaMHhqaXp4bHJvdEVsb1JkNDF5V2FXdzQ5NDZmbnR1OXBLc29uZ9IBiwFBVV95cUxNX0FMNkplRGtodUhmS3dQQm0wYnZtWlZJTko0N0wyZnNmbXR0bFZ0RWgyMFhCUS1tMFlhMGtjMlVoTFFTaXExWF9pdW83RnlvWkpqRjJ5WXNfNm5RM0Jra3I1YVJJWW9kN3BOd2NTLTVIOWR2Qi1LTFZINndNSURMVDFyc2YxdUctNFpz?oc=5",
-        "published": "Sun, 15 Nov 2026 14:27:51 GMT"
       },
       {
         "title": "Nach dem Nvidia-Skandal ist vor dem Anthropic-Börsengang - Der Standard",
@@ -161,24 +161,24 @@
         "published": "Sun, 15 Nov 2026 16:00:00 GMT"
       },
       {
+        "title": "Ex-Nvidia-Boss rastete aus: \"Ich hoffe, du stirbst\" - oe24",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNk9PSUE0QmtxbU1NeHJIWmhLWkRJbGd0cEZsemE1RTZjMklwODQtcFdGUGRwd1ctZkpTclRWcTRSS2RzOUM0ZFBmTmNMTDlsaDgwdE5BZWJJOWQwQ3FJWVdaMHhqaXp4bHJvdEVsb1JkNDF5V2FXdzQ5NDZmbnR1OXBLc29uZ9IBiwFBVV95cUxNX0FMNkplRGtodUhmS3dQQm0wYnZtWlZJTko0N0wyZnNmbXR0bFZ0RWgyMFhCUS1tMFlhMGtjMlVoTFFTaXExWF9pdW83RnlvWkpqRjJ5WXNfNm5RM0Jra3I1YVJJWW9kN3BOd2NTLTVIOWR2Qi1LTFZINndNSURMVDFyc2YxdUctNFpz?oc=5",
+        "published": "Sun, 15 Nov 2026 14:27:51 GMT"
+      },
+      {
         "title": "Nvidia: Alice Huang hat Megaspeed bereits im August 2025 verlassen - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1dFSW5aMGdDRGhCWWV1eFY1eU1COHJSazB6UzRrdDFxZjV4TE1LaW9aLXB0MkRlQWpETW1hWldzS2I4MzNIZG5SRnZTQl9BQUZDbmJRRkNOeWh2QS01WmN1cEpFWjNmdnZDakpNUzNNYWRXMm5wRmRzd2JnRzFSeFhOOWN5SG9feGgwUWxENHhkN1BpVTBaSXZjNG1zYUpfRnBKdGg0VWhaQ180SlNPQmpwM21iWlpVVDN6SA?oc=5",
         "published": "Sun, 15 Nov 2026 11:14:31 GMT"
       },
       {
+        "title": "Ex-Nvidia-Chef: Mitarbeiter berichten von Wutanfällen und Demütigungen - BILD",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEZHSEw4c3VaLXozT0Z1Y3ZSWmktRldxZGhISmJvcHZHNUwydUUzWldlUzBTNDZvQjU0RWNFZVJzTWxuUlB3Yy1nZzVqbzk4bElPbnZTMFZkbFdhMTh6bE91RHY4VExEY1dFZHNyVk9WVXJHQkNWRU9yOTB4WXM1dk44Y0QzUURrRjRUSU80RzhLOS01NktfTUNKbFVHS2dONklqTTluLUpqaWJFZVRsemM2SENMeXBPM0J1bmlRcUNGdTJScWxtcg?oc=5",
+        "published": "Sun, 15 Nov 2026 13:47:07 GMT"
+      },
+      {
         "title": "Nvidia ohne Jensen Huang: Was das für die KI-Branche bedeutet | Wasner + Steinschaden #31 - Trending Topics",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2tlOXF1YWlPOW52NDZCOXE5M3FhSmdLZEVIeTg2ZUxKZnJQX2R3U1ZkN3V2U0J4Yk1xZG85ZE9CMWJvU2tMNlA0cno1b1pwT3ItUlcyWEFVRWM4Uk90RTZScFhnRDdLS21vcFNZMzgzR18wMVUtTHV4OWhDbTZmQ183RU0?oc=5",
         "published": "Sun, 15 Nov 2026 09:31:08 GMT"
-      },
-      {
-        "title": "Nvidia-Aktie nach Kurseinbruch: Jetzt einsteigen? - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1FxTFBWZUFvaWdGbWFwLVR2NnRpcUVERXpLSTNTN09BOXVubzlpV3RBaDBXVWtXWnRsaFRfQXRYY2tRSm13Vmh5VW1hRFhTRHJXR3hjODQ2S2pzRFlnNHBYT1VMellHdEQtTlotWGFuQjFWTnFEYjRMZXBCZDN4dUdPdlhXa0ZfRTFDeVhrbFo4NGdlMlAteTU5TlhPVDVI?oc=5",
-        "published": "Sat, 14 Nov 2026 20:01:41 GMT"
-      },
-      {
-        "title": "Nvidia-Gründer Huang: Erst eine Affäre, dann zwei – und jetzt drei? - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTJlWnpwc2twVUVFRmJOQ2JsYXk2VmpZMXF2ajdUbUUzc3NKMTZodkgwd2JFRm5nYkY3M245QlhvSk9aOV9md2hzdC1DRm0ySkhZU1VSb2dBUkYxQWJ4NGZUN3R5b3VLSzJLQXB0WGUxeUp5NkNJaWxfMTdQdVR0QkM2aVozVWowZWdmaXpmdDdBUXNyUHJyUXkzOGR2LVlKdlNvQjFXUXNiOEVyMlRrcndEZ1ZCb29MV2lya3UtRjg?oc=5",
-        "published": "Sun, 15 Nov 2026 01:38:33 GMT"
       }
     ]
   },
@@ -205,14 +205,14 @@
         "published": "Sat, 14 Nov 2026 18:59:00 GMT"
       },
       {
-        "title": "Warum plötzlich Schweizer Aktien die grossen Gewinner sind - Blick",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE83T3ppWldGcEhvNU1WZEE2eXZqcEF0STN4dUplMlNPZWJ3aGEzSEtEMnlFcDNhVVZ3OXhaSm5GYjlxdUpVRG96NkRVOFJEZ0tMOXlVTmxHOHBwT29rRjRqUkR6NVlnbzlKcDRxZ21sV2ZrMHBQYV9YcW5EbUN6bng3NWdreHFFUU43dlIwN1ZLZms5b2JQYzRJaw?oc=5",
-        "published": "Sat, 14 Nov 2026 23:01:45 GMT"
-      },
-      {
         "title": "Vvardis: Swiss-Smile Schwestern mit harter Landung an der Börse. - SRF",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVh1bFNITmtVQTV5bk1RWXVBdFU0Q3o4ZXpTWkVKR1NMTGh4N2JNa1hKR3NuQ2FOZllPbHpIVXdTZm5xMkRJa1pzS2I3Z1R5MFp0NlZZS3JmNDl6UWlXTFlKZGk5MlZGajUtRzcyOGhyMmRJa1FyNG5ueEhsUmgwZ2JyT2x5bWJocjA2RE5xOG1HUE1MSmE4WlB5QkpacTBSMzVLYTU3c3I1cGQzV2tpcUtLOUpLdw?oc=5",
         "published": "Sat, 14 Nov 2026 01:06:09 GMT"
+      },
+      {
+        "title": "Warum plötzlich Schweizer Aktien die grossen Gewinner sind - Blick",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE83T3ppWldGcEhvNU1WZEE2eXZqcEF0STN4dUplMlNPZWJ3aGEzSEtEMnlFcDNhVVZ3OXhaSm5GYjlxdUpVRG96NkRVOFJEZ0tMOXlVTmxHOHBwT29rRjRqUkR6NVlnbzlKcDRxZ21sV2ZrMHBQYV9YcW5EbUN6bng3NWdreHFFUU43dlIwN1ZLZms5b2JQYzRJaw?oc=5",
+        "published": "Sat, 14 Nov 2026 23:01:45 GMT"
       },
       {
         "title": "Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung - Neue Zürcher Zeitung",
@@ -220,9 +220,9 @@
         "published": "Sat, 14 Nov 2026 04:30:00 GMT"
       },
       {
-        "title": "17:38 Dax kommt zur Ruhe und schafft Wochengewinn - n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2hlN3VoS3dMSUNUSFM4YUNLemttbGUxQXpDZG04UFpJd1RjUWRkeV90QnFDTWJXdU85bG5oU2JpOEVsdlpuVU5QbG5EaENOZWdXeXp6WlptRUIzYnpGLTVocXpJdEhka0pLYmpydFV4Qkt0QlNPemg0Vkc1NUFGUHRfTkpVcWpWV3RYWjRoTi1pWG1LVzVMNUVqYkdWYm5QT2ZvN19B?oc=5",
-        "published": "Fri, 13 Nov 2026 16:45:06 GMT"
+        "title": "Vor dem Börsengang in Anthropic investieren: So geht es - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3lhazFsbXhqNUsydEp4N2pubkhyMlBaUlUzVUxMYzY5clVMeWZxcGR0WloxZWpwWFU1MGd0N1R6T1Q2cXZqOXpHVEVwYzRFMC1aNGtvVEZqVGZuZWFXVWRRdFMwNGgya1VJZmFDeGNLMGVsdnlacFlDa0E4WmNnSzBrVHN4ZlVfTkt3N0RLdzJ1ZlpVUlZNc0l5NWsxLU5uZzZBQ0FKdFI5Rm4tTlFFYUxB?oc=5",
+        "published": "Sat, 14 Nov 2026 11:55:37 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -249,6 +249,16 @@
         "published": "Sun, 15 Nov 2026 11:00:00 GMT"
       },
       {
+        "title": "10.000 Mal schneller: TU Graz entwickelt neue KI-Technologie - 5 Minuten",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2pNMXJrQVNKX2o5WGNhdnh3NEkzMHJEdUpXSDlnMW96ODQ1UXlHVEFzbzdwRE0zRkpMQVA4LUdaY0VYUG91OF9IdFVCS0VIeXZyV0k5WFNWNUN3aTZmSEc1elRybUdjM2VOeDJsMU9ZM1ZVdmt1SThDOVVTcm9EZ0pSOEJkZ0p5eFU4TWhGbHpELWVVUmc0OWhjTEFycDNW?oc=5",
+        "published": "Sat, 14 Nov 2026 16:58:27 GMT"
+      },
+      {
+        "title": "KI-freie Kurse am KIT: Kevin Schumacher erklärt das Konzept - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkJIVWtuMnN5Q3dGMUxCZ3p4QjRQNHo0OUxKSkdESTdiUWh3U3hLSkV1T3YyZDRhYTFreUk5MUctRmFuTXEyVnM2YVZTMnZ4ZHQ5V3Z6d3JDakFKLXl1cE92QWEzYXE0enRYdlRuUWVHbnp0YWt6OFFnYjY5a2g1T3Y3ZUV5WlYweXBWcUFBZ2lTdlJ4R21uRFlEaURrOGlTbmpCS1JybGx5RFc4VEMxVE5zck9ELVZwTEdfYWZvbDhoaXUxNDR1QUdONEt1MHRwT0E?oc=5",
+        "published": "Sun, 15 Nov 2026 13:23:55 GMT"
+      },
+      {
         "title": "AIROC 2026: Roboter und künstliche Intelligenz näher an die Schulen bringen. - Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcl9ad2RFT3YyZ2ppNTRhNlNYdXBZSWRSTU5WVy1aeWIyT2IxeFp5VWVobDhYcnlpZXdua0tmZVQwY3gxcHM4eXRjWGVydzVzZ19QME1YdnU0ZHBjYk9jZkpJMFVCMFV0eTVlVm1ub3E0R3FyWTE2ajFHUjVOOXZaYkw2eFl5NjdMd1ZFdjRTcUhzRGM?oc=5",
         "published": "Sun, 15 Nov 2026 13:39:57 GMT"
@@ -267,16 +277,6 @@
         "title": "Future-Council-Sieger präsentieren Projekte zu KI und Weltraumdaten - IndexBox",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNm1Sd2RnQXhMYVNwRDRFRzZVamx2Z092MkZ4cE1IVmdOc1diNW9Ua0h0V2ZNVUZKc3Q4clVBQ1labVhVVlRhcHVXMWdILXNQQkE0UDc4WEhXNVNYb183ZUJCNXVXWDZkMnhNcGVZU1dXZHplNTUwaUxfSEJqLUVYODQ4ZEx4WlpHU2g3REFjUDFKWmZocnQ4?oc=5",
         "published": "Sun, 15 Nov 2026 11:01:15 GMT"
-      },
-      {
-        "title": "Mike Butcher über KI, Europas Chancen und die Sprache der Politik - 48forward",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzJvaTlZZWhLY3E0WVY2RXFKdW9oQUN3SmtHSjNxYXpIcW1nYWlWMGQ2bFlXOHZhalRpMlNBOS1ieE5ydDc1VkpOWnhWQ3ZYRFBmZm5Ha1BpUWsta3lONHN3M29zNWRfNGYwbWp6Y1JwMmxEMC1wOGQ5cFpWY0U4cGlmbmZ0cHBBRG9uYzZ0Y3Q?oc=5",
-        "published": "Sat, 14 Nov 2026 20:18:30 GMT"
-      },
-      {
-        "title": "Papst Leo XIV. warnt vor \"Technik ohne Seele\" im digitalen Zeitalter - Domradio.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0dsaUN2ZkphbmhXcTVWV1R2V09XbEg2Yi0yeEFIUzFMYU9nRWo2Zi1pNGlGNC1pdkhZWUlWTXdEVGFkZWFBcktUb01uQkRxbDQ2N2k4dHBxYjd5SHRuMzlUUVhyRGZDZl9JSUNEeFdwdUtVNnVLcUJ3bzJJQmNhcW1mQmd1RURiWU5hc3N0RzhqeVluQUp6ZlVNQ0NNdw?oc=5",
-        "published": "Sat, 14 Nov 2026 14:37:39 GMT"
       }
     ],
     "Meine Aktien": [
@@ -306,19 +306,19 @@
         "published": "Sun, 15 Nov 2026 09:31:08 GMT"
       },
       {
+        "title": "Nvidia-Angestellte wollen Jensen Huang zurück - heise online",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXFENThFSzBPbklGRllzYlktN0Q3ZW1tNjYzLVRyVHBYOGdHM2V4WHBkckxjS1JyYnJHUFZidERweWxIYnBwaXhTR3Y1SkZaZ3RSUmtDb1l0VWtzaU1rTmFnOW80MGhFVDNaM29rUWFhQ214c0JzbWpvY0pQU2R2MWpRVE9wU0NDNDlkR2stMA?oc=5",
+        "published": "Sun, 15 Nov 2026 16:09:00 GMT"
+      },
+      {
         "title": "Nvidia: Alice Huang hat Megaspeed bereits im August 2025 verlassen - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1dFSW5aMGdDRGhCWWV1eFY1eU1COHJSazB6UzRrdDFxZjV4TE1LaW9aLXB0MkRlQWpETW1hWldzS2I4MzNIZG5SRnZTQl9BQUZDbmJRRkNOeWh2QS01WmN1cEpFWjNmdnZDakpNUzNNYWRXMm5wRmRzd2JnRzFSeFhOOWN5SG9feGgwUWxENHhkN1BpVTBaSXZjNG1zYUpfRnBKdGg0VWhaQ180SlNPQmpwM21iWlpVVDN6SA?oc=5",
         "published": "Sun, 15 Nov 2026 11:14:31 GMT"
       },
       {
-        "title": "Neue Enthüllungen – Sexskandal! So täuschte Nvidia-Boss seine Manager - Heute",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTE0Z2d0SmVqWG96TlZCT3RwT2pEbkZha2dTM0hkSHdUWWxIaVc1aXBoWUppQUFIVUVGMV9WR2djRUc3blNJdzVXdkJONjNvOWNvQlpNSkh4YVI2RGNhbVZiMU9VQlVKVUtISURHZkxoaUpMYzZPN3JaM1M3RzlLSUltaWNkS3U0cXc?oc=5",
-        "published": "Sun, 15 Nov 2026 11:44:00 GMT"
-      },
-      {
-        "title": "Nvidia-Skandal: US-Handelsminister Lutnick unter Druck - ORF",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVcGVlTVdvVkNNY2U3eWNHOHNWTVQxbkI5M3pTb0d6ZWt0RmlieUx1S2tqOUFjV3ZsWVZjM3VHWW1pVWJ2RWc?oc=5",
-        "published": "Fri, 13 Nov 2026 16:59:59 GMT"
+        "title": "Chip-Skandal – Nach Nvidia-Affäre ist die mysteriöse Managerin weg - Heute",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ1hUTzdrZm5CX25DaTJvY3EydEd4SHI1RTVNaWozWEdiTGNaT3NWdFNKWWNlN29yTTZ6Sl9MNTc5Y3dPLVVueXJ4TVN6ZWVLS3NqTnJ0aHM5VV96czFYb1o4WGxiQ3pIQzlTcnEtVWxXYTd4Q1BST05pVDFhdFQ5OEZTWnAzeGJlcURYcVFXYw?oc=5",
+        "published": "Sun, 15 Nov 2026 16:40:00 GMT"
       }
     ]
   }
