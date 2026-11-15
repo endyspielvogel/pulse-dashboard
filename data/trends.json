@@ -1,87 +1,87 @@
 {
-  "fetched_at": "2026-11-15T18:17:00.531125+00:00",
+  "fetched_at": "2026-11-15T19:13:54.496551+00:00",
   "countries": {
     "AT": [
       {
-        "title": "spanien england",
-        "volume": "500+"
-      },
-      {
-        "title": "oliver glasner",
+        "title": "spanien – england",
         "volume": "1000+"
       },
       {
-        "title": "braut",
-        "volume": "200+"
-      },
-      {
-        "title": "marcel hirscher",
-        "volume": "200+"
-      },
-      {
-        "title": "dr nice staffel 5",
-        "volume": "200+"
-      },
-      {
-        "title": "haakon viii.",
-        "volume": "200+"
-      },
-      {
-        "title": "spiel",
-        "volume": "200+"
-      },
-      {
-        "title": "ravenna fc",
+        "title": "kroatien – tschechien",
         "volume": "500+"
       },
       {
-        "title": "wels",
-        "volume": "500+"
+        "title": "belgien – italien",
+        "volume": "200+"
       },
       {
-        "title": "wien",
-        "volume": "5000+"
+        "title": "ramon zenhäusern",
+        "volume": "200+"
+      },
+      {
+        "title": "anthropic aktie",
+        "volume": "200+"
+      },
+      {
+        "title": "van der bellen",
+        "volume": "100+"
+      },
+      {
+        "title": "packers – vikings",
+        "volume": "100+"
+      },
+      {
+        "title": "kandahar",
+        "volume": "100+"
+      },
+      {
+        "title": "anthropic",
+        "volume": "200+"
+      },
+      {
+        "title": "falcons – chiefs",
+        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "louisville vs memphis",
+        "title": "aaron jones",
+        "volume": "1000+"
+      },
+      {
+        "title": "travis hunter",
+        "volume": "1000+"
+      },
+      {
+        "title": "jerry jeudy",
         "volume": "500+"
       },
       {
-        "title": "saints game today",
-        "volume": "1000+"
-      },
-      {
-        "title": "buffalo bills schedule",
-        "volume": "1000+"
-      },
-      {
-        "title": "vanderbilt vs iowa",
+        "title": "quenton jackson",
         "volume": "200+"
       },
       {
-        "title": "boise state vs nebraska",
-        "volume": "200+"
-      },
-      {
-        "title": "ole miss football",
-        "volume": "20000+"
-      },
-      {
-        "title": "packers game",
-        "volume": "10000+"
-      },
-      {
-        "title": "nfc north",
+        "title": "españa - inglaterra",
         "volume": "5000+"
       },
       {
-        "title": "terry bradshaw",
-        "volume": "5000+"
+        "title": "francia - turquía",
+        "volume": "2000+"
       },
       {
-        "title": "kyle mccord",
+        "title": "croatia vs czechia",
+        "volume": "2000+"
+      },
+      {
+        "title": "malik washington",
+        "volume": "2000+"
+      },
+      {
+        "title": "belgium vs italy",
+        "volume": "2000+"
+      },
+      {
+        "title": "croacia - chequia",
         "volume": "1000+"
       }
     ]
