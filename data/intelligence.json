@@ -1,16 +1,11 @@
 {
-  "fetched_at": "2026-11-15T21:15:22.830002+00:00",
+  "fetched_at": "2026-11-15T22:10:12.282725+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Macs gewinnen Final-Neuauflage gegen Linz - e-steyr.com",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVFTXVsNWZ6UXFKTjFucmZzbFkxeEhYZzd0dUlZMUtPZDktU3JpV2t2R3UtSldaLS1CdFVCbi1hMXNJM0doM3dvalA3Qmw3cUdmOTJKb1VQUkVaTDVHSmloMDhzU1JpQjlqdk1va1U3ZmdiWlBlTzhaclZHMFptRklaNXprajJxcjgyMG5DOXE?oc=5",
         "published": "Sun, 15 Nov 2026 07:32:08 GMT"
-      },
-      {
-        "title": "MCDONALDS AKTIE Dividende | Hauptversammlung | Dividendenrendite | 856958 - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HVTg0WDM3cUJoSXE0TjhPeURKbGNJVDNYUnJZNWJLVzZGNnVvYXJuUmJHbUUxZExiVUhwQlJWazZhTjg5WjRuZDJSb29MSy1OR3hjNEkzNA?oc=5",
-        "published": "Fri, 13 Nov 2026 21:43:02 GMT"
       },
       {
         "title": "Sex, Lügen, Millionen: 105 Millionen US-Dollar weg: So brutal endete die Affäre eines McDonald's-Bosses - FinanzNachrichten.de",
@@ -33,14 +28,19 @@
         "published": "Sat, 14 Nov 2026 06:04:09 GMT"
       },
       {
+        "title": "McDonald's Aktienanalyse: US-Umsatz schrumpft, Gewinn wächst zweistellig – kommt mit den Spar-Menüs die Wende? - AktienCheck.de",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjZiY2xYVmtZVHVYYmVOeXFfNVg3cUdJdGx0UlhCbFdzajRONm5SazV3cDFYOGxDQ3dsUXpobl9OY3QzdUJXa2swV3IyUV9yUThEZjZYTEMwdDBEYkdSNnJkczNhbUl1Slc5UVhnWk52dE5YQ0FYNFI3YlF0Z3VUUHRSV0I5WkoxUzNkY0dvc29XRzdqUUhqS0NWSHY2ZXVUMFBqbm5MU2N6Yk9zUHFnSQ?oc=5",
+        "published": "Sat, 14 Nov 2026 15:49:20 GMT"
+      },
+      {
         "title": "McDonalds in Illertissen ist geschlossen: So lange ist Pause - Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcElINHhNOXNvSGwxNFZWeC10aHQzRlFsTUlqQVdUODMxVEFOc09kYjJaaEVXREV2Y3Z5aWcyZVUwclp0d1NMSThMZW9uak1ucmVyQ0JTT3NYMVhxeENGOFFUOTB3T1dkdm1aU0RXWm54M1hJR0x1eENMSHVaS1Y5SEh2dkhuYlU1NE9rODVuMTdvQzVzZTlDLVlDVWZRLTJnd3F2UHhpQmxrMXBaenBlZ01MOGY?oc=5",
         "published": "Sun, 15 Nov 2026 05:07:52 GMT"
       },
       {
-        "title": "McDonald's Aktienanalyse: US-Umsatz schrumpft, Gewinn wächst zweistellig – kommt mit den Spar-Menüs die Wende? - AktienCheck.de",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjZiY2xYVmtZVHVYYmVOeXFfNVg3cUdJdGx0UlhCbFdzajRONm5SazV3cDFYOGxDQ3dsUXpobl9OY3QzdUJXa2swV3IyUV9yUThEZjZYTEMwdDBEYkdSNnJkczNhbUl1Slc5UVhnWk52dE5YQ0FYNFI3YlF0Z3VUUHRSV0I5WkoxUzNkY0dvc29XRzdqUUhqS0NWSHY2ZXVUMFBqbm5MU2N6Yk9zUHFnSQ?oc=5",
-        "published": "Sat, 14 Nov 2026 15:49:20 GMT"
+        "title": "105 Millionen US-Dollar weg: So brutal endete die Affäre eines McDonald’s-Bosses - Wallstreet Online",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDlOeUh1dnJpZGNmM1B4eWIxandTSjJSbnlWbWY3eEFuaGVaU0ZNUUtrUEI4QTRGT3dhY0owVnQ2T1lfMGgzd0dLRzlSQXFNeFRNSFNZS0lXc2NyRG9wbTZFTDRfaUxFRVBQb2x6TXQydUg1MlhrMjhMNHdBVDg5LV9UaXk2azdhZ2tWLTVUTzJlbzc2WXpEcEdjSHRaVVJaeG8zWTZENlJ4amFVWW9oYk5kXzcwX2ExZndlcVQ4bkp1UFA0WUZucGx5TERhRkc3OF9YZHpRMA?oc=5",
+        "published": "Sun, 15 Nov 2026 16:00:00 GMT"
       }
     ],
     "Burger King": [
@@ -146,6 +146,11 @@
         "published": "Sun, 15 Nov 2026 20:06:00 GMT"
       },
       {
+        "title": "An Konzernspitze - Zeitung: Ex-Nvidia-Chef arbeitet schon an Comeback - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLUpQbGNPanVmWU5WdkxhYlAyTlhXQy1YbVBOZkdNc3JoclNjckJ0M1FLWVZVZGRGWjlKT2tzcHZadw?oc=5",
+        "published": "Sun, 15 Nov 2026 20:46:00 GMT"
+      },
+      {
         "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHEwV2xzc3R1WmR4V3g0VHZBS1BQaWJuMXlyMHlxdU1wUHN1YmpibGdzOEdWYWNHREdPb3JaaHNQQXNtWlhCaGxjaHJKajJKa0hJekVnVFFjTmlQOFdBWTBnVmJYNE0yMTRIb2s3SHNaQmtFXzFVX1BZcHUzcDUzQmtFNHVWeFBTNmNXeHp2MVBpWWxhR2c?oc=5",
         "published": "Sun, 15 Nov 2026 19:31:31 GMT"
@@ -161,19 +166,14 @@
         "published": "Sun, 15 Nov 2026 20:02:37 GMT"
       },
       {
-        "title": "Jensen Huang: „Ich hoffe, du stirbst“ und was davon belegt ist - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeS00eXJ0S1NGZ2poWnFsZW5wX0VsNHk1NDFnS0l2bFcxRTAxZzRFMk1CSm5zMTJySEl5U3F5U09tS0ZidDRZWUFnbnNZUXM2ZGMxRnUtOFRoQkMzSDZqWmxER0REam5CYWhNNVNRU21wTmdwS0J1b1NuS09ZaUNJTWozWVUyVlJkQWtYcXJHM1JwSnRENjdWN0dSc01xS3BKZ3ZiM0o4WGFoRzZkWDkwbGtVN3ZqQ2s?oc=5",
-        "published": "Sun, 15 Nov 2026 14:00:00 GMT"
-      },
-      {
         "title": "Nvidia soll illegale Chip-Exporte nach China aufklären - Salzburger Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUNnVWduWkFkSzJlRXNqN2xqYlpBZzRibnZ2dkxkTWdiOEY1dUMyb1ZKdl9IM1FqTmlnNGdHOTk4d2traFlDdzBOTlBSNjR4SnFQaWFFU2pua0hyZGdva0F6TmNaM1ZxQXpSWXZ3b050NG5zT041bUd0QWJhblVYcGRfdHdZcC0tN2dscUI1X1l1LVphUEk4aGNRREdqWVdDdmc?oc=5",
         "published": "Sun, 15 Nov 2026 19:42:43 GMT"
       },
       {
-        "title": "An Konzernspitze - Zeitung: Ex-Nvidia-Chef arbeitet schon an Comeback - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLUpQbGNPanVmWU5WdkxhYlAyTlhXQy1YbVBOZkdNc3JoclNjckJ0M1FLWVZVZGRGWjlKT2tzcHZadw?oc=5",
-        "published": "Sun, 15 Nov 2026 20:46:00 GMT"
+        "title": "Jensen Huang: „Ich hoffe, du stirbst“ und was davon belegt ist - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeS00eXJ0S1NGZ2poWnFsZW5wX0VsNHk1NDFnS0l2bFcxRTAxZzRFMk1CSm5zMTJySEl5U3F5U09tS0ZidDRZWUFnbnNZUXM2ZGMxRnUtOFRoQkMzSDZqWmxER0REam5CYWhNNVNRU21wTmdwS0J1b1NuS09ZaUNJTWozWVUyVlJkQWtYcXJHM1JwSnRENjdWN0dSc01xS3BKZ3ZiM0o4WGFoRzZkWDkwbGtVN3ZqQ2s?oc=5",
+        "published": "Sun, 15 Nov 2026 14:00:00 GMT"
       },
       {
         "title": "Nach Skandal und Rücktritt – Jensen Huang soll Rückkehr als Nvidia-CEO erwägen - Heute",
@@ -187,7 +187,7 @@
       {
         "title": "Termine | Wirtschaftstermine | Börsentermine - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDQ1JmTTFmWV9nb2hBdEVRbGJ4VmROUnd1MjNKYVZjc3lKZFhUcFV5QkhZYndfdERKTDZlUU1NVjVjdlRVWUhSQw?oc=5",
-        "published": "Sun, 15 Nov 2026 12:23:18 GMT"
+        "published": "Sun, 15 Nov 2026 19:51:55 GMT"
       },
       {
         "title": "Was bedeutet der Abgang von Konzernchef Huang für die Nvidia-Aktie? - Der Standard",
@@ -215,9 +215,9 @@
         "published": "Sat, 14 Nov 2026 18:59:00 GMT"
       },
       {
-        "title": "Konjunktur im Aufwind: 9 Aktien für Anleger im Blick - Börse Online",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEV1WmJwcDRYSVozbm81eE00OERtdXlSNXRLektNSnpIT284SkYybUk5Nm9QR043ZGxkVXA4TWFVZGZ0cFBxNFVaRzdONGh4U1VEN2lISXl5ZUotUERDSHM4WjQ2cHFFOUd0eWI4bmcxNHpLRHpZdXNuRXBYQTdDOGhkQUVQLVpKdS1TemctMHBSUkZxQXZzTHVMaWVvV0ltMEI3SXlqYkFuX1RwTlFMWDBNQjhIY2VNMmZxTUFCZWhsRldkdE1ZWFBuT1FyLTV6ckE?oc=5",
-        "published": "Sun, 15 Nov 2026 19:00:00 GMT"
+        "title": "Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung - Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGFvQUpFUUlrNzBJT3hIM1JkNmp0OU5UREdzdkJHYjNQX0dMb2d1bmR5eUV5ZHVkeHRFUUI5NzB4Nkx3VHRheTQ0RGlVUk92MURNbXFGbjhuZDZSNjNKRzR1VTV5RXdoeWtrWjlPQW9Kb2hMcG50c1VjV2g2aE13d0ZGekFBRTdfeDNzMk16OFEwNEFJcnJPMjZDWDREMy1ZYTJBaFE2RDVRNWRHOFJiLTRTcm9rek5IbG83NzRMRFJqLVpvTXA2YXZ1dzBfQm9iNFBHS0ViTVhpUHJSRVE3eDJfdDNkZmRJV0N2bmFyTGdianc?oc=5",
+        "published": "Sat, 14 Nov 2026 04:30:00 GMT"
       },
       {
         "title": "Warum plötzlich Schweizer Aktien die grossen Gewinner sind - Blick",
@@ -230,11 +230,6 @@
         "title": "etisalat UAE AI Marketing Hub: Agentische KI für Werbung im Mittelstand - Nachrichten und Statistiken - IndexBox",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamZjUmFZVkFJZmlCSl9PVzQ1aVdpSlJKSkNzcGQ0YW5yMktydHNvTUFMSE1qUy03M3F1RVBFaDFrdUhveXJ0NWsxb28yb285TnZGZlpReFo1ZVI3V21LUW12X1pLS19KN1VhamdObWdQTDZtMFlFWi1JVE9JQTNzcWtDaVBncmt1UVF5a3lHd2doanlWMmhj?oc=5",
         "published": "Sun, 15 Nov 2026 12:41:19 GMT"
-      },
-      {
-        "title": "Unternehmen: Werbung und Vertrieb – so setzen Firmen KI-Influencer ein - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFZNQ2VTVXZEbDZjNUIzV1p3OWlZY1NIM0l4UnVNVi1KQWdMcUVwRnE2eF9iVTd6amxQODUtWFdLbVJmYl9lOC1EU0xGUFJoUVNjUFFVZnNGUThuRWlIejJfa25fRnBuQ3NBSTVZYnZkNU8zUEMwVl9aZGNnMTltS3AwRENXc1BhWW5SNDRrY0ZWY3hJRF9hNkNVYUd1cm5ENXdPdUxUUEZaR1YzVHEzMk5oNGJ3N0ZlZHQzc29BZnRQUkh0QWxhWTRUcTZJUQ?oc=5",
-        "published": "Sat, 14 Nov 2026 16:35:38 GMT"
       }
     ],
     "Technologie & KI": [
@@ -264,6 +259,11 @@
         "published": "Sun, 15 Nov 2026 13:31:02 GMT"
       },
       {
+        "title": "Papst Leo XIV. warnt vor \"Technik ohne Seele\" im digitalen Zeitalter - Domradio.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0dsaUN2ZkphbmhXcTVWV1R2V09XbEg2Yi0yeEFIUzFMYU9nRWo2Zi1pNGlGNC1pdkhZWUlWTXdEVGFkZWFBcktUb01uQkRxbDQ2N2k4dHBxYjd5SHRuMzlUUVhyRGZDZl9JSUNEeFdwdUtVNnVLcUJ3bzJJQmNhcW1mQmd1RURiWU5hc3N0RzhqeVluQUp6ZlVNQ0NNdw?oc=5",
+        "published": "Sat, 14 Nov 2026 14:37:39 GMT"
+      },
+      {
         "title": "Medium TK: Kostenlose Notiz-App startet mit KI-Assistent für Schreibende - BornCity",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVp4OGZyUDh2eFdyZGtLeThpVGVqclJWck8xQnJqWUMyYTVsa05aN1FtT3hxaHNiT2FPRDg1OThuemNJa1NNM3VWdVJQdjBFcTBOb3FLTUtLWkcwbUNzamZDMU5iaWRCSGRINDlkSDFpLVR2X0JELXVLa2ZQQVlKNjRiRjJXTEhTaGl2am8yU2RqY0lSaEpCWENpY2NzWVha?oc=5",
         "published": "Sun, 15 Nov 2026 14:54:05 GMT"
@@ -272,11 +272,6 @@
         "title": "Future-Council-Sieger präsentieren Projekte zu KI und Weltraumdaten - IndexBox",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNm1Sd2RnQXhMYVNwRDRFRzZVamx2Z092MkZ4cE1IVmdOc1diNW9Ua0h0V2ZNVUZKc3Q4clVBQ1labVhVVlRhcHVXMWdILXNQQkE0UDc4WEhXNVNYb183ZUJCNXVXWDZkMnhNcGVZU1dXZHplNTUwaUxfSEJqLUVYODQ4ZEx4WlpHU2g3REFjUDFKWmZocnQ4?oc=5",
         "published": "Sun, 15 Nov 2026 11:01:15 GMT"
-      },
-      {
-        "title": "Wie die Arroganz der KI-Industrie den Widerstand in der Bevölkerung verursacht hat - Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVdjN0tUMGd6dEpYQjdMdkRlU1lCZmFiaW81SVVZQjhaeEp4VXN5UzhXZ2hHTjhLbzFRX1pHd3dBSlhLR1NfQnJHR0N1TWVoLW1KUHctamExVEd6T015VjRXUEY3elF1TTFnQkdMMlE4dWdZVnBOSEpsRUY2VV9EbXQtMFByY25qYkRLSE5vNGEtM3E4Nks1YkUxNA?oc=5",
-        "published": "Sun, 15 Nov 2026 05:01:00 GMT"
       }
     ],
     "Meine Aktien": [
@@ -284,6 +279,11 @@
         "title": "Huang arbeitet laut Bericht an Rückkehr an Nvidia-Konzernspitze - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEx0N0RJbVY4dkNudWlrbTFTZVZmUVlTN20wLUFNUVF3Rmc4QkN3aXVtTWJBM1NaWGlSQllRN0hZZms1Rko5eHJMMDBlS2I4NklleWdWTVhmQVh1c1QtMmJMOHBQV1UwOS1yamhXTGNWWkhzWGw0Wk9WQWxYLTBlS0lDSU1sZDhKTUVlRWRfeENuSjM4RkFtSk5zVkFoNWR4WEt4WnBJVEEzTEpMdS1TVGRBOWFtaXZya204?oc=5",
         "published": "Sun, 15 Nov 2026 20:06:00 GMT"
+      },
+      {
+        "title": "An Konzernspitze - Zeitung: Ex-Nvidia-Chef arbeitet schon an Comeback - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLUpQbGNPanVmWU5WdkxhYlAyTlhXQy1YbVBOZkdNc3JoclNjckJ0M1FLWVZVZGRGWjlKT2tzcHZadw?oc=5",
+        "published": "Sun, 15 Nov 2026 20:46:00 GMT"
       },
       {
         "title": "US-Minister gerät unter Druck: Nvidia-Affäre erreicht US-Regierung - DiePresse.com",
@@ -301,19 +301,14 @@
         "published": "Sun, 15 Nov 2026 19:42:43 GMT"
       },
       {
-        "title": "Jensen Huang: „Ich hoffe, du stirbst“ und was davon belegt ist - PCGH",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeS00eXJ0S1NGZ2poWnFsZW5wX0VsNHk1NDFnS0l2bFcxRTAxZzRFMk1CSm5zMTJySEl5U3F5U09tS0ZidDRZWUFnbnNZUXM2ZGMxRnUtOFRoQkMzSDZqWmxER0REam5CYWhNNVNRU21wTmdwS0J1b1NuS09ZaUNJTWozWVUyVlJkQWtYcXJHM1JwSnRENjdWN0dSc01xS3BKZ3ZiM0o4WGFoRzZkWDkwbGtVN3ZqQ2s?oc=5",
-        "published": "Sun, 15 Nov 2026 14:00:00 GMT"
-      },
-      {
         "title": "Huang plant schon seine Rückkehr als Nvidia-Chef - oe24",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTRsaVRMSGZ6VmlwU1ZPVzZiWjJGYnJWUlByT0JmclFYOHdMaUhnOXVXb0tQTk9mOXJYdFRFYWp4bzZLa1U2NDlPenZ6bi02Z1lHRV83cWtCcVMxTzBjUC1OajI4eGlkbGlnY1hsdlphZDVvWlRVR3ZWR3BWT2R6THlRbzNXeVlD0gGOAUFVX3lxTE01ZWpjSVlUM1pqTnBpak5TVElaNGhXV0hlTU9hNDN0NlpISTNZMUo2VHB3WUttdUNPVnFwV1AzdWZZeXJfVFJpR0dKWnJtOUhiQjZQNmR3R2pSZDdmLTg4MHJhaE54TkloTkRfaGlXUUxRM3hNWUtnT1QwQ1dsM0xOQ2VnWW83SFlXTUtkRnc?oc=5",
         "published": "Sun, 15 Nov 2026 20:02:37 GMT"
       },
       {
-        "title": "An Konzernspitze - Zeitung: Ex-Nvidia-Chef arbeitet schon an Comeback - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLUpQbGNPanVmWU5WdkxhYlAyTlhXQy1YbVBOZkdNc3JoclNjckJ0M1FLWVZVZGRGWjlKT2tzcHZadw?oc=5",
-        "published": "Sun, 15 Nov 2026 20:46:00 GMT"
+        "title": "Jensen Huang: „Ich hoffe, du stirbst“ und was davon belegt ist - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeS00eXJ0S1NGZ2poWnFsZW5wX0VsNHk1NDFnS0l2bFcxRTAxZzRFMk1CSm5zMTJySEl5U3F5U09tS0ZidDRZWUFnbnNZUXM2ZGMxRnUtOFRoQkMzSDZqWmxER0REam5CYWhNNVNRU21wTmdwS0J1b1NuS09ZaUNJTWozWVUyVlJkQWtYcXJHM1JwSnRENjdWN0dSc01xS3BKZ3ZiM0o4WGFoRzZkWDkwbGtVN3ZqQ2s?oc=5",
+        "published": "Sun, 15 Nov 2026 14:00:00 GMT"
       },
       {
         "title": "Nach Skandal und Rücktritt – Jensen Huang soll Rückkehr als Nvidia-CEO erwägen - Heute",
