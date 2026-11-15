@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T13:12:46.578781+00:00",
+  "fetched_at": "2026-11-15T19:00:59.293561+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -7,14 +7,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYjhlZG9SX0s3NEt0SXNlUUlpNmsyREVhSTRUYVRKSUdLbk9tUzRDMGVGdm5pTEFxaDBhRXVsLWVvcXRhZ0g4ZHE3ajBHSF9GTzVTTHlpR1VTaDJSdnZseXdR?oc=5",
       "published": "13.11.2026",
       "published_iso": "2026-11-13T15:57:56+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "The Children’s Society “Save teenhood” by Good Agency",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGlRQzlCLWQ5bC0wTHQ0ZVRjTkRxd2hhY3BpbmtuUVM5cVJQQ1RPZ0lyd1VmZHNEN21JZ01CSmlpUnZSWEhwTmdxell1bWptWWxjUWNzR2E1RGFjdkVvZlF4UFBBdDJ2cXVnZ3FzYUdwcVl3bUVJUHlIeVg3TFYzc1NHWW1vWHhNZlpTd2h0Rll2RUFkTGlTOHZzbmlpNlhYeVhJdlR4THZhQ3hkQjZ5OFpDU1NQTkZI?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T13:18:58+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -95,6 +87,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGxnc05OeWlvSXpLUEk2SC1aT0V2OVpkRlg4d0lWMkwzTlFjbVFMS3QzVmxWejlUYWdON01NSW5xclpjYjhmdjNHaURxcnlRNjUxTGM5YlhTMkx0aWpoTkgtY0xRSENpbm9ITGpRTGxQTjYwaWUxODJ1cFR1ZU4xU3kxcm9GWDB4cjU1ZWRZRGVFaFpWYTZNbzBoN3pnSU9oWDY3dXZXcUNuM2hOM2ctWTZCTXJJU0J6VU9WWjYzX25QUE8ydnFHLVp5QVMyMW0yakdvdFlLOTlxTy0teG04?oc=5",
       "published": "12.11.2026",
       "published_iso": "2026-11-12T21:14:20+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Campaign In-House Agency Awards 2026: winners revealed",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTU82ZE5CcXpFYXNFamlZZ3ZteFgxSVRVZTdSNkNQaExkTVhWY0pzOEF3SUgwZzdPZnZqTTg0OGhQZldTZU10TDZWQnlrQXhjSS1HamxIcjBkVG9ObUQ2eDZsd2VCVmN5Q2tqRjlOa3dVVkpIX051Ui1sRVhvbWZwN3BEUFROWjZ3Q2JRc1dFRDd0VVFMRTl0RlNIV3Z0RkVzeXJDbE90V1JnNENrTWhna3VMRjZCQnctdll3?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T21:11:02+00:00",
       "description": "",
       "source": "Campaign UK"
     }
