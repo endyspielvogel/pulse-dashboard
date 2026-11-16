@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T01:58:02.104439+00:00",
+  "fetched_at": "2026-11-16T02:52:39.122897+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -141,14 +141,14 @@
     ],
     "Nvidia": [
       {
-        "title": "\"FT\": Huang arbeitet an Rückkehr an Nvidia-Konzernspitze - Salzburger Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQai10ZDdnMnlnQlVxUUM5bzVyX3dXeXB6akw3T3ZKd1VVbzBvdzN0WU42NlYtM0s5REFoRGZKZTY4MzNpVFc1eFF6aThRUkpmazREUVJhMnQzaGtmb3NvQWRCOEYtQlRDWmJIa0FMVFUxdW16R2FGU254NzNVc0J2MFEzQmNzbjJEQ0hMQ0FZdmNmSWJsb3pRQ3JTVXBJcVpF?oc=5",
-        "published": "Sun, 15 Nov 2026 23:02:00 GMT"
-      },
-      {
         "title": "Nvidia-Skandal: Jensen Huang erwägt laut Bericht Rückkehr als Nvidia-Chef - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0JyR0licG5KY1JLR3U1bmtIazVCcHNjbTNKNkhaSzlBOXBYOVZ1TU8xQjluRDdpUTRoVVZQenJVemJPOUJ1MzAwNGZvLUlpOXk2bjJkMTNmekphaS1FQk5iTER0NTFfbmRmMDFTOGNwOTFnUXVOdy1hckxVa3NKaHBYYk5MR0NMM0xWZHllWVZHSTd1bzFuNFo5Z1VZaVMxTEE?oc=5",
         "published": "Sun, 15 Nov 2026 22:50:55 GMT"
+      },
+      {
+        "title": "\"FT\": Huang arbeitet an Rückkehr an Nvidia-Konzernspitze - Salzburger Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQai10ZDdnMnlnQlVxUUM5bzVyX3dXeXB6akw3T3ZKd1VVbzBvdzN0WU42NlYtM0s5REFoRGZKZTY4MzNpVFc1eFF6aThRUkpmazREUVJhMnQzaGtmb3NvQWRCOEYtQlRDWmJIa0FMVFUxdW16R2FGU254NzNVc0J2MFEzQmNzbjJEQ0hMQ0FZdmNmSWJsb3pRQ3JTVXBJcVpF?oc=5",
+        "published": "Sun, 15 Nov 2026 23:02:00 GMT"
       },
       {
         "title": "Ex-Nvidia-Chef Huang arbeitet schon an Comeback - Kronen Zeitung",
@@ -166,6 +166,11 @@
         "published": "Sun, 15 Nov 2026 18:45:12 GMT"
       },
       {
+        "title": "Die Frauen, die dem Nvidia-Chef zum Verhängnis wurden - WELT",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ0xnZENMLTAzMmM3Rk1lem1UUmxHbTc5UXhybXlRaTZTcG9KMEUta2djRkZ2OGt4WENLQjdrZ2l6a09LUmFyUDJFUWREOWlOblpFcGFpVXNLT1F4ZkpubDhkLWduSEJRU3ZWdkJVZ0FkMlZkLU43bFQ5eGdzdUQzd0ltai1MaXppYVR5aDhhZWhVZlVQQWVBYXhRWTBwQ1dsU3RFRDlXcG5uY2Zsc0Y4WEhvcWlYXzB5bXBPSVRNbGdwVlpEcjF1WWRnaThCUDhMRHhjbUlKS05ldVlpT1RYVGlNYUNXRExSQnA0UXRCeEFSNU8wMDJqVThpeV92Tm1JaWZiWldSQ2FlM1BqZ1lj?oc=5",
+        "published": "Mon, 16 Nov 2026 00:32:20 GMT"
+      },
+      {
         "title": "Huang plant schon seine Rückkehr als Nvidia-Chef - oe24",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTRsaVRMSGZ6VmlwU1ZPVzZiWjJGYnJWUlByT0JmclFYOHdMaUhnOXVXb0tQTk9mOXJYdFRFYWp4bzZLa1U2NDlPenZ6bi02Z1lHRV83cWtCcVMxTzBjUC1OajI4eGlkbGlnY1hsdlphZDVvWlRVR3ZWR3BWT2R6THlRbzNXeVlD0gGOAUFVX3lxTE01ZWpjSVlUM1pqTnBpak5TVElaNGhXV0hlTU9hNDN0NlpISTNZMUo2VHB3WUttdUNPVnFwV1AzdWZZeXJfVFJpR0dKWnJtOUhiQjZQNmR3R2pSZDdmLTg4MHJhaE54TkloTkRfaGlXUUxRM3hNWUtnT1QwQ1dsM0xOQ2VnWW83SFlXTUtkRnc?oc=5",
         "published": "Sun, 15 Nov 2026 20:02:37 GMT"
@@ -174,11 +179,6 @@
         "title": "Nach Skandal und Rücktritt – Jensen Huang soll Rückkehr als Nvidia-CEO erwägen - Heute",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVNVRHg5UU9OQjlXalNodEtwNzFBckk0MUgyY1A4R0JZdXNDaUZjTnZwMmJFSlJrY3ZMN1lWVjlVd1ZhYnJIcXhGXzFJMTRiQkRQTnpqWF9TMEtUR1E3OVd3WkY4T1pLR3FxdEF4SGhEWDBya2diTGk3Wkp1WVZpWDdpZk1uNHZUMEJvdw?oc=5",
         "published": "Sun, 15 Nov 2026 20:07:00 GMT"
-      },
-      {
-        "title": "NVIDIA-Aktie: HSBC stuft ab, Börsenwert unter 4 Billionen US-Dollar – Investoren bringen Huang-Rückkehr ins Spiel - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOXlqLTVNdHJ2c0hiRkdCdzZVb05rWU9xam8ta2F2ZVJQazI5eGpXLVM5TVlmYVNGN1ptWGo3dHZycHJ2X1RqZGJhVG5IMlQ0QUFhUnl1NFUzM3JUdkhyYzUyWkRLcE05V2dKZjBaTmt1dnBoNFZjcHQyMmp5VVBPU3Q0UExsc2tsQXIzX05DQjM3YW9Dc085M3JPV3lvVk9sZ0lIY3RGVUhkX1dUOG5GcXZkYzNkTXExNHRuaWJEZldZem9MU0gtM1hUaWE0Vll4dnRFN0M2OG1ZTV9lUl8wYUotelVBSzIzYVptT1pSRWNnREJJQmVES0oyeFhnWmdWRFNpalZCdVBzYXRIR19KeC1NNTlBVnp0NGNJQ25n?oc=5",
-        "published": "Sun, 15 Nov 2026 19:19:00 GMT"
       }
     ]
   },
@@ -205,11 +205,6 @@
         "published": "Sun, 15 Nov 2026 09:13:51 GMT"
       },
       {
-        "title": "„Ohne Sorgearbeit könnte ein Elon Musk keine Gewinne machen“ - Frankfurter Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVJ3VVRNRWtuWEFhUFcwbW00Y3NkNmQ0S0t2TnRfMEpUamc3UjE4VjdrRS12VjgyRW0ySVhza1dBcV96SWlEdUZQeW1IR2J2TWlVTk9mRS1RTkxJQ2pWZ3BmblZZMHFsUDFNWjd1aDZXSUs2TlFJS3RPdE83VTRQdVd3ZTVXUmxybmFnQTFOSWt2dVVLRk5uRXhYd3ZWdkhJZ0otWmZSaXlmZmdtZnZGQV9wZV8?oc=5",
-        "published": "Sun, 15 Nov 2026 15:37:00 GMT"
-      },
-      {
         "title": "OTS: Initiativkreis Ruhr GmbH / Wirtschaftsbündnis mit rund 80 ... - boerse.de - boerse.de",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcl9xQjlPS2lwQU1MTmpadUVCZGc5RHRxWkZQNDVHRjR3RmJrWnU0NkQ5Y256TC1oZ2x6Zk9IU0hyaVY4VlExSnJEaHFmVDdmSmFfYlRxMG5mQlI5UG1TWG1IOF94QkhYTGp0dlRhVnpwVEJtWnhSVGRXbk5weGxrc1BPYk43bng1TTlGM1lqNDNVZFZka2FrSHFVV05KRGZPdkdSakFB0gGrAUFVX3lxTE1PUW5nMjBSY3pKb3VqWGNBMHI1aHgyUFVpZzhjT0hZU2tFNzNJbUdHN2VZRDlSWTRjTWdlOFE1SjBKOF8tOWtJQkpzNkYwdHdFeGNwUS10RXVOVW9FczluUlZQTi1NbnY5eE5Wb2pUcWhzazdoTTJQc245cWtpSVRqc0hKVW40NHhiWVROMlBVWlZfLWdTQmVyQzA3VDRlR3NsWEpPR3J1N2pSUQ?oc=5",
         "published": "Sat, 14 Nov 2026 18:59:00 GMT"
@@ -223,6 +218,11 @@
         "title": "Warum plötzlich Schweizer Aktien die grossen Gewinner sind - Blick",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE83T3ppWldGcEhvNU1WZEE2eXZqcEF0STN4dUplMlNPZWJ3aGEzSEtEMnlFcDNhVVZ3OXhaSm5GYjlxdUpVRG96NkRVOFJEZ0tMOXlVTmxHOHBwT29rRjRqUkR6NVlnbzlKcDRxZ21sV2ZrMHBQYV9YcW5EbUN6bng3NWdreHFFUU43dlIwN1ZLZms5b2JQYzRJaw?oc=5",
         "published": "Sat, 14 Nov 2026 23:01:45 GMT"
+      },
+      {
+        "title": "US-Tech-Unruhe stützt Schweizer Blue Chips - Rheintal24",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN19ocDBMZlBORkNxT0tlbUQtQXV3RFNveUZ4QjJhR2lBYkJ1MHRHaHlyOWtFeUlUQ1JEbUhfVEZ1S1NHOUNfOHRZUk9tU0pDbnBSbGNOa3QxN0pBY18yaFR2OFRxOHc1blJmZkk1VVFjLWpfYmRyMEdCbjNKMXRDQ2Ezb3ZJeV9hTWQ2LWR3?oc=5",
+        "published": "Sat, 14 Nov 2026 13:34:38 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -291,19 +291,19 @@
         "published": "Sun, 15 Nov 2026 20:06:00 GMT"
       },
       {
-        "title": "Ex-Nvidia-Chef Huang arbeitet schon an Comeback - Kronen Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLUpQbGNPanVmWU5WdkxhYlAyTlhXQy1YbVBOZkdNc3JoclNjckJ0M1FLWVZVZGRGWjlKT2tzcHZadw?oc=5",
-        "published": "Sun, 15 Nov 2026 20:46:00 GMT"
-      },
-      {
         "title": "US-Minister gerät unter Druck: Nvidia-Affäre erreicht US-Regierung - DiePresse.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXA4Ni1fMHNORUNmQnQ1dXV2ekNKeFQySU5GX2tvTlZtMGRESnE2bFoyUFBGd0xscUJrZ3lCbHdPN2Y2dFNiaU1veFhNS2NWWll6em5TOHlwUUhKWVBNY0F6OS1XN09FV2phMnVhTVdsWE1tMUNjTEJPRVJCZGpxSy13Tkh4UFRpMHpUTTc3dC1oOHNUWTRIenI1dnd3YnktZDF1MA?oc=5",
         "published": "Sun, 15 Nov 2026 18:45:12 GMT"
       },
       {
-        "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHEwV2xzc3R1WmR4V3g0VHZBS1BQaWJuMXlyMHlxdU1wUHN1YmpibGdzOEdWYWNHREdPb3JaaHNQQXNtWlhCaGxjaHJKajJKa0hJekVnVFFjTmlQOFdBWTBnVmJYNE0yMTRIb2s3SHNaQmtFXzFVX1BZcHUzcDUzQmtFNHVWeFBTNmNXeHp2MVBpWWxhR2c?oc=5",
-        "published": "Sun, 15 Nov 2026 19:31:31 GMT"
+        "title": "Ex-Nvidia-Chef Huang arbeitet schon an Comeback - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLUpQbGNPanVmWU5WdkxhYlAyTlhXQy1YbVBOZkdNc3JoclNjckJ0M1FLWVZVZGRGWjlKT2tzcHZadw?oc=5",
+        "published": "Sun, 15 Nov 2026 20:46:00 GMT"
+      },
+      {
+        "title": "Nvidia-Skandal: Jensen Huang erwägt laut Bericht Rückkehr als Nvidia-Chef - DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0JyR0licG5KY1JLR3U1bmtIazVCcHNjbTNKNkhaSzlBOXBYOVZ1TU8xQjluRDdpUTRoVVZQenJVemJPOUJ1MzAwNGZvLUlpOXk2bjJkMTNmekphaS1FQk5iTER0NTFfbmRmMDFTOGNwOTFnUXVOdy1hckxVa3NKaHBYYk5MR0NMM0xWZHllWVZHSTd1bzFuNFo5Z1VZaVMxTEE?oc=5",
+        "published": "Sun, 15 Nov 2026 22:50:55 GMT"
       },
       {
         "title": "Huang plant schon seine Rückkehr als Nvidia-Chef - oe24",
@@ -316,9 +316,9 @@
         "published": "Sun, 15 Nov 2026 20:07:00 GMT"
       },
       {
-        "title": "Nvidia-Chef Jensen Huang zurückgetreten: Affären und Verdach - VOL.AT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV05zSnhVb0diTkc2dnRvWGFNUUQxM2lXQ2JOR2pwbDNRRExhWXl0dVluU1dJcERNUEhiLWM3MW1aMGp5V0t0dGEyNjFSSHJpSkQ5R2UtMFFPVnhBZXdJOHlCcWlhODI5YlFEeFE3WUZpUC1wc2diNTRlVFBGaElXbk5uc3FUQW03eEJnR0N3ZkRFR3M?oc=5",
-        "published": "Mon, 16 Nov 2026 01:53:18 GMT"
+        "title": "Jensen Huang: „Ich hoffe, du stirbst“ und was davon belegt ist - PCGH",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeS00eXJ0S1NGZ2poWnFsZW5wX0VsNHk1NDFnS0l2bFcxRTAxZzRFMk1CSm5zMTJySEl5U3F5U09tS0ZidDRZWUFnbnNZUXM2ZGMxRnUtOFRoQkMzSDZqWmxER0REam5CYWhNNVNRU21wTmdwS0J1b1NuS09ZaUNJTWozWVUyVlJkQWtYcXJHM1JwSnRENjdWN0dSc01xS3BKZ3ZiM0o4WGFoRzZkWDkwbGtVN3ZqQ2s?oc=5",
+        "published": "Sun, 15 Nov 2026 14:00:00 GMT"
       }
     ]
   }
