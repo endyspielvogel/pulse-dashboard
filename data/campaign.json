@@ -1,7 +1,55 @@
 {
-  "fetched_at": "2026-11-16T10:47:50.549363+00:00",
+  "fetched_at": "2026-11-16T15:25:12.599293+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
+    {
+      "title": "What do you think of this year’s Christmas ads?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFkxZUtxVnQ3anVTTmFEelU5aDY3NGgwV1Zvbl9NbWs4ZFZxa1pGRU9YbmMxakhJWGc5eHFGblRBa3JMdEY1dVNNNGFvcXRWYm9uOHpEdklTdVJkczdWdnBhOXF3LWZzVVNtWVhTQ2lMTGxSNk9jTWpOcXNHcGlBdThhYnFEQUNIdWpPdFhPSmYxZmM3VWVsaVk1bzVuUTZqYXc2MGxSMm1NWmRpZGVzdW5n?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T12:12:46+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Omoda and Jaecoo appoints Havas London as retained agency",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekhEVV9ldUFOMEJlMzR1RlJpOWhoT3NpNUE0TW9LZVA0WWs4dGlhcmlGRUR4cWJUYkVpandrVl9hWFpWSTNVUXRhRjNBYU5yTm55V1U0R1hMWUVMcjYydDJ3SjlNaDlwemtqX1VjSUszVFByTG9mVlZveWltckxnR2FYVzZQRnVPNlhZLUJRSmRRUEx1cU9BM2NxZlFJU3NhWjE5UmlFOGJqcDBFRmJnMTkwaXNTSUhwd0JNdWdRY1U?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T11:41:51+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "‘Is it better to be safe than relevant?’: Pippa Glucklich calls out advertisers",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXNRc1dBZzJfMnhjRFFaYW1FeGdYWkdQTE16OEhrOTFCa3BBREpDeU1HazRkX2FkamcxU3dONXZJaVFYR0NibUhIU0M3LUl3REZVclo2ZUhKNS1fWE9aSnRVcEhIZnBNaS1xUEFuZXVjUW00Ynd4dUVENW1KVDBhWDBqdF81VGw4bkt6RGVtb0lRRW9VbkxkSTk5NVllbno5cDdiTG40QktmdHplSlR3R1V3RnhHNnFSWnBXd1FWSHgyZ2Jkd01tcmlQRWIyV1hmMUhwUXJJdFE?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T11:25:26+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Marie Curie “The goodbye we all deserve” by VCCP Blue",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUV9oR1pITEVXSUEtRTNncldJNTc4U2NMc1FjSUpNMkpoRVBLT0RDMWQ0bFJobTljcC1qdXZya3BKVGlubFZpSzJ2ZXdaczFwanpxNzVBdDI4MkpZRm11VFFwaVYzRks3VXc5VF9NdDNvZFBhV1ZpWTFsS2l0djNjcmRZNGdEckw5UGpFb2M4bFFtSDlmWi1UOFhWV3J4aDlJUm1rRTZoQnRkRTNvb01BdndRb3NYMFhl?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T11:07:21+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Claire Marker joins The Aperto Partnership as principal consultant partner",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHVvdDJjV09nWDJuNWRRblBLM0VQUUJTd19aemEtTzQ0R0RhdjdWcXhJTjc3UlhoMk9KdUZfT0YweVNHM0RYN2VYZnlrYURFazZBdUgxN25uNUtBQVlmVU10QUY0cS03ZU5QNG95YWZ5WGVDY0RXalZmNE9QeFQwTWhmN0JqZkdiVWVyb2NsTVlRT184UUJhTk14WVMxVWNpNkFiRWFvTklzU01kQlg1eWFBNUgtWTNNQXZodkRNc1RlcGEwUWRsaUxYbFFub2hVdmowczVuTQ?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T11:03:45+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Supergroup buys social shop Vagabond Digital to merge with Pattrns",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWloLTFWd1pHT1pjR1V3ZHdRTlpETi1fMURfUWloZnktbVE2TEc4d21Ca0tFcHR2aUFabTc3djVWY1lONTFCMnhZOEZRVHRkSTJ6MW9vRVQ0emxNVkRLc0ZzUS1WY2pqNUFYemhla2dtaVlfREFLYzJDeGpJMndLelZDaURJQ1hPSFFBd2NGYjRaZF8xWS1jbGQ1V3ZrTTJtcVpNQTRONzVZX0IzdUdMMTJHaXFkalFqVEVJVDZFUUpjekd4UW9BS2RMNU0?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T10:55:24+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
     {
       "title": "Dentsu's EMEA revenues fall 7.1% in third quarter",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEpIY1Exdy1KbHhfUWdNdU9ZT3BmQ1BPZE5lUk5XY1E2SmV0Nm8zQUhqa1FBVGYzZlUwNmE3QkYtY2x5amFSN2lia3E4NWJwZzhpR252b3BoVHFlakU1b2NRbVNIa3hGNUtkTzVZTC1PZ2hRbFFTT2NpbGJYdUlTUFRfRzJvR0p6ZFk1N1hqSnFwRURnZkVnWWtzX3BTeTlCenliYi1yT2duNE04c0lsd2I0Yzg?oc=5",
@@ -47,54 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0ZOQU1iVHBNVEREMVZYaFJ2bWdQRW5LdlVHN3JHOGR1bGgxTDJqQkVBNTRjNWhkc0hNY09LU3FoR1VmQ0ZjcnZ4VEZxa1l5dEVEOVN0NVh0ei1ZSjcwOXlTME1QSU1RTmx6WncxeFJ1SnNJcHhBQllmdnFHR1QwUVhnbmRJS2R1VjZxYVd0LUZKclBNT2t5bXE3RXZsUnBnVDdtZy1oSkZEVkprazZ4dUZkVmdCbmZGQUx6UGFkVzl3QXE0QVZr?oc=5",
       "published": "13.11.2026",
       "published_iso": "2026-11-13T13:09:05+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Dentsu UK hires managing director to head B2B",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkhadVJRUTNwYjN3U2Zpc0tBYWxSQW9iSjVHVVdJVmd3MGh6RWl6SDlwTF9yMjlFWjNhUERrcllMendwTmVpVXJmUVFfSnZMM01vcjQzdm9UcTlXWnFjZmh4a2trZlRhTVZsLW9TdV9BbXNrU2F0NUp0SmtiUGFCZEdkdVVDX3RWdnBPZmJpSkl2bGhqRV9xTlFoT1NxRHFtWjhmQkQ2ekdSU09zdHA4aw?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T11:21:43+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Climate charter for accountable advertising launched at COP31",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbXNDX08yVmRMdWxmYVd0LXQ4TERyMWR2aWRINXdObG1KeVdvdlBObGlyTWt1ZHJhOWZFSG1zeVliZ0Vkc2cxWE1HLXFEODVLQlA0ajg4M2VRRXJ5UmRVU2ZDZkgtQ0g0bWNUWkZQaXp6ZWpRMkRpQlBBeGpfd3NRNUlibFpkaHMyamotREN1Zl94ZzAzalV0X3NJajNENE1FbUViTExWOUtUUDNjaXh4bDNjYUxpYUQ5T1pnSDJvUXlxWVRtdHc?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T11:10:57+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Sports Direct and Nike “Unwrap potential” by Chaos x Magic",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObV9ZQTg4WUxpZXRLVjJOaFZKQTczQi1BLWZMS2ljaEZwSXVGM2R3TU44STJrVWFBdG1sQ2pKT0dicDJNWGhoT0FqZWo4Uk80ZHN0UmZIOVl4SDhwRl9ZZzhoVnFPVEF3NUdxQ2Fub1dKRWt3aGlaLXU3OEtReTdUSUxuaHdvaVp4SnE1QlFna2lkTFhIX0pwOXZQb3pDbzJGN3BrZHgzMG9DaWtvM1AxY1FEUDFCVUtvTjRwaWhRaw?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T10:26:39+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Holding company bickering is hardly a good advertisement for the industry",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVoyUFVNaWlKS1VTR0xPcVNKSVZNdGlLWVVMLUdhTkdEZnBZdXc5VDhCOHUyMjR6TERuVm5VYjB3UWlWSDFhYnN1MkFCdWxCUTNRUlhKTnRMOVYxVW51X2VfZ0EwUkpfN3BMVl9XMTRndktVRTMwRlg1ak5BNDUtel9JYk9Lcm5hT0FXZVpzMU1WMVp6M3p4clZ6SGEzQTRqSGdjZURLdzBDZUpieEN4emVzdGIwQ2d0Zi1hNFNfZk1yY2dfYmFMYUNFdDFhYjJSc2NPWE5n?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T10:10:50+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Review of the Week: Waitrose & Partners returns for festive seconds",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDZwck1CMmtiM29mOGRmclR0MkdaOGlDWjR5YXJYNU1UcUhaSGMwUVA2bFllTV9kb1dHekIzXzBjaDRFal95ZHJEWWRhcXFWSXQ1X3VmNGdickRmbmdIdmFzZG1mQ3Y1dFVlTk54LTB5MDM3MGdKeFNmRE1LYWNxVkhlTmRSTkFIcUJpTEVHOWFRYzUxMFh4dzRncVdfOFZQbzVmc1p5aU9UQWtvVVVCMVEtWnFtOTNpUnRDWThmLTVQWDk4clFLd1RB?oc=5",
-      "published": "13.11.2026",
-      "published_iso": "2026-11-13T01:23:15+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "British Airways parent company launches IAG Media",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEhYeVhkTjFWajA2YVVmQlRaSVRHYlV2OFY4NHlBVktvd0xhcHNKNjd2RGZhOFluV2VYR2ladGZNREpIclkzNUQ5dVE3dG1GbzNfV3VyNG5aWDQzOE00QWJGdTNTcEljdWZhTVBKV3hGbEZGdmRqUno3TTl4aEtLamZzbUJqSnN5VEp2UkEwZTYyOTRxTmwwakJOQVA3WGNWWmRvWXUzc0V5RExZWVpaRWpJQU8xdw?oc=5",
-      "published": "12.11.2026",
-      "published_iso": "2026-11-12T19:34:05+00:00",
       "description": "",
       "source": "Campaign UK"
     }
