@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T22:25:47.864198+00:00",
+  "fetched_at": "2026-11-17T23:23:59.866040+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -45,11 +45,6 @@
     ],
     "Burger King": [
       {
-        "title": "🍟 Burger King Fritzlar • Speisekarte, Preise, Fotos und Bewertungen - coolibri",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UVTJ2TDJzblktQmNqM3VDZGxsZmZLMzVvUFdzQzFuamUyUE80bk1FbFpNa3hUUHNWX1g0ajUxempOTS0zVkE2QVBaeEM5Y09SanBFU3JzV1dBR2hSZ3prOW9R?oc=5",
-        "published": "Tue, 17 Nov 2026 06:12:09 GMT"
-      },
-      {
         "title": "McDonald’s eröffnet am 17. November in Nersingen, Tür an Tür mit Burger King - L’Express Franchise",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUURreXJYQVdGRG02SF9lYjRZcGNzcWRSenJFaGpVZ0ZHUXY4c1JtRTZZZXdqZkJJQW5iRGlEc3JFQ2pLOWxuN0dFZld4ZXpTM2RoclhTa3p0enR5eDUwdDRXSHJkNExwTnZyY09oQ2hFaHdQWnA5UERHRmZ5SFFLM2Y5M2ZUY3NZTXQ0UUxNaXVwWTR6?oc=5",
         "published": "Mon, 16 Nov 2026 08:22:18 GMT"
@@ -68,6 +63,11 @@
         "title": "Coca-Cola-Weihnachtstruck 2026: Alle Termine und Standorte in der Schweiz - Südostschweiz",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWG1qVk5GTjBsSV8zYkYwYkdEdXhHc3RlQnNhY0lsOElyczh0RXRGenhZT2ZFVnVmQ1gtWWxJR1NTVmlSOXV6NHl6WWpsWjNneFp0WjRHOFZ4Um1qWlRLdThiR3pXRTZaWUd2QVg4MjlTUkEtUC1uSVBqQTl0ZG5PUFhiZmJWMDdSX05rb0JsSGNnMG9xc2RDQXBxQVhDQnNYQi1JU3JtUkR6YXpyd2hKYXVTOWVSY0JYY1dr?oc=5",
         "published": "Tue, 17 Nov 2026 09:17:16 GMT"
+      },
+      {
+        "title": "„Früher 1000 Burger am Tag“ So trotzt die „Fette Kuh“ in Köln dem abgeflachten Burger-Boom - Kölnische Rundschau",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb2xaS2MtTEIzc204RkU3MWI4RVFsMjEyXzhpV1pmck1ZWW51YmVnVmM2RTRUWng2aVBZZ1luLXBUWkp2Wk9VaTVvV0N0V0ZUSW5oNlZyaEVjZHBHZkhvSThJZXRXWmZCSnBHNFRSU054WlZ0VElsdVdYVmlFN1A3UXU5WW1ycGlPYUNwYUVISFBQZHhjbkVONmZ6ak5wMzB5dkVVME5KR1M2N01GOC01aDNGZmRqQXIzTzEyZ29TUG1zNnZlTUlYeXU3RXNhekk?oc=5",
+        "published": "Mon, 16 Nov 2026 09:32:00 GMT"
       },
       {
         "title": "Ab heute - Sindelfingen: Einbahnregelung zwischen Breuningerland und Viehweide - Nachrichten - Sindelfinger Zeitung / Böblinger Zeitung",
@@ -104,29 +104,24 @@
         "published": "Tue, 17 Nov 2026 15:46:12 GMT"
       },
       {
+        "title": "Mercedes-Benz Group-Aktie: Es geht wieder bergab - WELT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTIzcU9MVGhsaFlzdHJ3cXE1dVFzRFIxSmdidWx1dVNHZG4ycTNiSUVBdEhxSWYxOXNJYm1TS19ZcVMxQ0pXVE9ReWxxeEVUTVBoMmNlOFZuenNBam9COTkyV1BuUHctTEpyZEd3dkZhWmMybHZoTVktSUUyaDVCSFdJdnplZDBBN0VqY3ZWZ2w4VDZnazRsSEFaYVZ6VmFmWkNweWJiWkFsaDZZMEJHLU81LWI4RnEwMW4wMQ?oc=5",
+        "published": "Tue, 17 Nov 2026 15:03:00 GMT"
+      },
+      {
         "title": "Hydro und Mercedes-Benz vereinbaren langfristige Lieferung von Primär- und Recyclingaluminium mit geringem CO₂-Fußabdruck - BusinessPortal Norwegen",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdWhtbmVzVTFYZTZFT1drczU4T0xiYkEyY0tVdmt1OWJob2RtUFQ1VW90S2tMMm5Sd1NmSnpLQnBNUUVtcXVTeC1kbzhyTFVmQ1owMWVwbEpHN2xvS2s5STJKZGgwLXEycDVUdG1QTFBUZmZ2OTY4dW1OM2JkYmNWazdkRkh4NFd2SzRMNUJrRFY5OXdLN0RwYTF1ckhyUll0VlZ3aS13U013SnREcjlKRlZveE9hUjlNUDY1RzAwNTdZaGZwY3E3RFFFMWx2UHg1MTUxTXRTQ05wZnFGRmZpbjVFbkJ3OFZFMVJhZEpKQ042Z2VhNHE4VTVuM1FNT24zVHRxcHBBRl9CQQ?oc=5",
         "published": "Tue, 17 Nov 2026 16:48:55 GMT"
       },
       {
-        "title": "Assistiertes Fahren bei Mercedes-Benz: Lass doch mal los - autohaus.de",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUZacTFSM0I0ZTlMdUxyVlFpWDN2ejE4S0dpQnVGdG5yV1NyLXRlVGR3S2RYTTBxSHlrRU5JNERFRkMxQy1sRjB0M2FfVHp1a2M1NEdaVXZvTGpJWV9Ka0R1MWxKWWhVb3hiRFU2VlNEZ2htX21tTWJ5VHB1M3V2UVlOMkZfb2tndDBiSURlckhOdzVqckJQTUxBWnh5UkplMVgtLUVYZUtNNVkwQW9lNWdzOWE?oc=5",
-        "published": "Tue, 17 Nov 2026 15:36:52 GMT"
+        "title": "AMG-Schnäppchen: 390-PS-SUV für unter 40.000 Euro - Auto Bild",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGR2WnJ3ZFBvaG9WUjFCUkE4cG5RVC05V09CRUhjTGM3ZHVYUzI2a2xLN2k3YXJzcm9tNUNialRwVVM3QklDWlNRV2lrZkJESkszZUt1QmxzdmVZa0JkNlBibE5lUXdmQjRGTFhBZzg4ZnkwWndsOUdxSldUN21kX3RXTnl4a1o3WEJQd1VXOExmTWVqRlk3ZUNHUUE?oc=5",
+        "published": "Tue, 17 Nov 2026 13:32:00 GMT"
       },
       {
-        "title": "Mercedes-Benz Schnellladenetz wird in Electra-Ladeinfrastruktur integriert - Ökonews",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTNockpNSTVxclhRTHFEd3h6VmQteVJUSERiMlFBZC1XZHNVZjlaZVRKZGh0U01oUnUtOTZmUmZERm1KZkhzOUU3NGEtbTVWdmpWbkRTY3BOZ1ByZGs2dFBBRGhZVjBiS0EzVHktOEVacjZmb3lHRlFWdlhQaHEyOC1ZeU1OT3dzZV9TXzl2a0taMWpKbG9TbUVUM2h4NW16dmNWcW4yLUN2Rjg?oc=5",
-        "published": "Mon, 16 Nov 2026 23:22:21 GMT"
-      },
-      {
-        "title": "Mercedes-Benz-Aktie: Neue Fahrassistenz bis 130 km/h startet - Investor-Verlag",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHpURERTOFhJeUk2bGx0OGM4QU1lNDQteGFlM2dtNXVDanpJelFWYjRURllYUnI1Q2JJUDNxYS1IdXdJdWRickhoQmhid2IwWXNpRW05Y1lCRjVyNElGc1k0QXlhWjF5ZGxnQktHeVdETnpfQnlYYXMtb1BfTmN4MWdhYUFWZUJndlAyRTZHZzZoMVZfcmNkVWk5d3ZQOS1KUjh5NHBUQnozbEtmN2lFVzVfLXNNN2VaX1lzZ3JPQTk2YjJHOVA1RXA5MHhNdWZmN0RpWEVQS0U?oc=5",
-        "published": "Tue, 17 Nov 2026 09:48:00 GMT"
-      },
-      {
-        "title": "Mercedes-Benz Group-Aktie: Es geht wieder bergab - WELT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTIzcU9MVGhsaFlzdHJ3cXE1dVFzRFIxSmdidWx1dVNHZG4ycTNiSUVBdEhxSWYxOXNJYm1TS19ZcVMxQ0pXVE9ReWxxeEVUTVBoMmNlOFZuenNBam9COTkyV1BuUHctTEpyZEd3dkZhWmMybHZoTVktSUUyaDVCSFdJdnplZDBBN0VqY3ZWZ2w4VDZnazRsSEFaYVZ6VmFmWkNweWJiWkFsaDZZMEJHLU81LWI4RnEwMW4wMQ?oc=5",
-        "published": "Tue, 17 Nov 2026 10:03:09 GMT"
+        "title": "Mercedes-Benz: Hände weg vom Lenkrad – aber Augen auf den Verkehr - Taxi Heute",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGJiRVdGM1VXeU8zZVhGS0NxWDlXek8xNVl0QVlNc2JfeklHc3FXeU11WG9Vb1d3cnZEZmkxaXFwVGV4SkliaGo3S053clJVeTNYOG8zek1aR1NmT2czdVFkNWUxbVk2eDNRbnVxUlI0cWh1UGViZ1hvRVdnMXFCekVlSXhpdzVrVVNOZWRSbEl5MTl3TkJWcEJzOERudjlQdlRwdVVPNGVQSnNk?oc=5",
+        "published": "Tue, 17 Nov 2026 11:17:00 GMT"
       },
       {
         "title": "Mercedes-Benz USA peilt 400.000 Verkäufe pro Jahr an - Tuningblog",
@@ -134,16 +129,21 @@
         "published": "Tue, 17 Nov 2026 18:51:51 GMT"
       },
       {
-        "title": "Mercedes-Benz: Hände weg vom Lenkrad – aber Augen auf den Verkehr - Taxi Heute",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGJiRVdGM1VXeU8zZVhGS0NxWDlXek8xNVl0QVlNc2JfeklHc3FXeU11WG9Vb1d3cnZEZmkxaXFwVGV4SkliaGo3S053clJVeTNYOG8zek1aR1NmT2czdVFkNWUxbVk2eDNRbnVxUlI0cWh1UGViZ1hvRVdnMXFCekVlSXhpdzVrVVNOZWRSbEl5MTl3TkJWcEJzOERudjlQdlRwdVVPNGVQSnNk?oc=5",
-        "published": "Tue, 17 Nov 2026 11:17:00 GMT"
+        "title": "Mercedes-Benz Schnellladenetz wird in Electra-Ladeinfrastruktur integriert - Ökonews",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTNockpNSTVxclhRTHFEd3h6VmQteVJUSERiMlFBZC1XZHNVZjlaZVRKZGh0U01oUnUtOTZmUmZERm1KZkhzOUU3NGEtbTVWdmpWbkRTY3BOZ1ByZGs2dFBBRGhZVjBiS0EzVHktOEVacjZmb3lHRlFWdlhQaHEyOC1ZeU1OT3dzZV9TXzl2a0taMWpKbG9TbUVUM2h4NW16dmNWcW4yLUN2Rjg?oc=5",
+        "published": "Mon, 16 Nov 2026 23:22:21 GMT"
+      },
+      {
+        "title": "Fotostrecke Mercedes-Benz Assistenz: Hände hoch! - VISION mobility",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ2hzY0pwSXN5NnB2Q0hpUDZGMHdJSWpUVkVCZEhlSjU2X2Qzc3RjelJobkFvTWtKLTlPQXA3M1JETERhYl9NUTYyZTAzZFhKd0tibDNHV0o5ZlpGaVQ2elJKMzRodWpHY3JreDZTZndjVllqa29WRlpmTmhmN25teHN1RDFGR3E4T1VlODRjM1JXc0tsQXdSVm83QQ?oc=5",
+        "published": "Tue, 17 Nov 2026 08:52:48 GMT"
       }
     ],
     "Nvidia": [
       {
-        "title": "Nach Rücktritt: Nvidia-Gründer Huang erwägt Rückkehr auf CEO-Posten - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVUybkVwb1lzUWo1MXRnMkdBOUwtWGh0Y2ZhRkZrZWhUNHJjNUhESG5jYkkzSWk1dVA2ZUdxTEFIUVh4cVhrUlhKYXdCOGZXZldIRUlxeTN1UGxDS0YyT2laNmFqQzFpcE5EQ1BUbTNhTWJQT2RiUEVXbTFfM0d2bTZJWUtwUFNBYTNGVWRlX0QwSHZlM2NoTHZoanYxV3pPb3Nod2E0R24yR0hwdlB6dkVVSjFhRUlDc3RDeDk1RTJGRDFXMW9PNW9YTHBOSExNQWc?oc=5",
-        "published": "Tue, 17 Nov 2026 21:54:34 GMT"
+        "title": "Wer ist der Mann, der Nvidia-Chef Jensen Huang zu Fall brachte? – Expertise - NewsFlix",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXdxS0JGbm40YjFGNFFULUxWVm1xbzlDeUZiTUZQNmhRMnd1dEtMVVgtcUlfQWxIVjFSWGpNZjZLaGRRT25vblJRUTVCdVpSNGZDRjZ4TEFCaFIyS0tCbWF3UzRKMU9IUkNNNGRRWXFDTjRoLTRSM3lGS0NFRGZNV3UxaGw2MUVZTGxnLU9BU1haamRpRmlMNnJqbzZCdw?oc=5",
+        "published": "Tue, 17 Nov 2026 21:29:03 GMT"
       },
       {
         "title": "(3⁺) NVIDIA übertrifft die Erwartungen deutlich - stock3",
@@ -151,9 +151,19 @@
         "published": "Tue, 17 Nov 2026 21:43:55 GMT"
       },
       {
+        "title": "Nach Rücktritt: Nvidia-Gründer Huang erwägt Rückkehr auf CEO-Posten - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVUybkVwb1lzUWo1MXRnMkdBOUwtWGh0Y2ZhRkZrZWhUNHJjNUhESG5jYkkzSWk1dVA2ZUdxTEFIUVh4cVhrUlhKYXdCOGZXZldIRUlxeTN1UGxDS0YyT2laNmFqQzFpcE5EQ1BUbTNhTWJQT2RiUEVXbTFfM0d2bTZJWUtwUFNBYTNGVWRlX0QwSHZlM2NoTHZoanYxV3pPb3Nod2E0R24yR0hwdlB6dkVVSjFhRUlDc3RDeDk1RTJGRDFXMW9PNW9YTHBOSExNQWc?oc=5",
+        "published": "Tue, 17 Nov 2026 21:54:34 GMT"
+      },
+      {
         "title": "NVIDIA-Aktie steigt: Quartalsgewinn übertrifft die Erwartungen deutlich - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOE04OW1uWWs5MHJCZ3hSSzl4czRXU3JZYjRPWUNWZ0ZTdVhGNHExbFUzT1N4Szdpek1Uc25HWGFxcTFLeFZiT1hlQWVZLXI1bmZPd0tYazdBU0tUZHBTdzVETjFSRGprc21DSHJtQ2IwVEtYVUZGbFM2a2hFWE91akEwX0xMNkp5eE5pM0VqSzl4Q01nc093czFyZFRNSTBPUW5JVmFCN0RWLUxNdUlIaVZNYzJlLTFUbHVqNnlERDFIRUk?oc=5",
         "published": "Tue, 17 Nov 2026 21:45:00 GMT"
+      },
+      {
+        "title": "USA: Nvidia-Skandal lässt Weißes Haus nicht los - ORF",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GRU0wX1JiQ3pfRUpCSUVIV19TX0M1Zm5JdWVnTnhuNU9VRk1pUjM3UTB0aXJnSlNsaGpYV2xlWjNPUVNuOVE?oc=5",
+        "published": "Tue, 17 Nov 2026 22:16:05 GMT"
       },
       {
         "title": "Nvidia: Quartalszahlen verdoppeln sich, Ausblick über den Erwartungen - Manager Magazin",
@@ -161,24 +171,14 @@
         "published": "Tue, 17 Nov 2026 21:31:00 GMT"
       },
       {
-        "title": "Nvidia verdoppelt erneut Umsatz und Gewinn - ORF",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBySTNtNG5BaVpUYjZyN0JWSmd6UXkwdkZ4LWY2RmVRQlhwUFJFckVWUUIzWU85ZGZSRlZfRE81V3pFMVgyeVE?oc=5",
-        "published": "Tue, 17 Nov 2026 21:51:29 GMT"
-      },
-      {
-        "title": "Wer ist der Mann, der Nvidia-Chef Jensen Huang zu Fall brachte? – Expertise - NewsFlix",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXdxS0JGbm40YjFGNFFULUxWVm1xbzlDeUZiTUZQNmhRMnd1dEtMVVgtcUlfQWxIVjFSWGpNZjZLaGRRT25vblJRUTVCdVpSNGZDRjZ4TEFCaFIyS0tCbWF3UzRKMU9IUkNNNGRRWXFDTjRoLTRSM3lGS0NFRGZNV3UxaGw2MUVZTGxnLU9BU1haamRpRmlMNnJqbzZCdw?oc=5",
-        "published": "Tue, 17 Nov 2026 15:12:22 GMT"
-      },
-      {
-        "title": "Nvidia-Quartalszahlen Q3 2027: 115,8 Mrd. Dollar Umsatz, 65,3 Mrd. Gewinn und starker Ausblick ohne Jensen Huang - Trending Topics",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0RJRkFsRVdMSzlkd3ZVZkl3RkJTM1JrQmluWndtUDhwS282SnMzczR4VnE3Q0xXUi1HSlNoT1ItSEpTeHNKaEl0b0pMWHRGZnA5WXB2YmJ6cm8ySTFHWmJfRGRyUEcxOUNCY1pXWXVyTnVLald4Z1JkM2h5azhLUEtMdW53c1J5cEloa3RkSVpTVm9RcE40d0NLcWppcVJKemx3?oc=5",
-        "published": "Tue, 17 Nov 2026 21:31:40 GMT"
-      },
-      {
         "title": "Chipkonzern: Nvidia verdoppelt Umsatz und Gewinn - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3hJb19CVno2Y1cxQ2U4Q2UtN3h1NGJaZFUtSzRzaUZWMlFrQjN1THhiV3E3dEt2dy1zWkhGTmhzbER0bDFSS0ZtVXRRb0ZNd2tTQ2pLNDhfYkszQkU3c0g3X3Y1b2J1N3lNOF8zalF0VEhuMVJ4MHdRbnFiNC1YYlR6QWtmTkFnN2ZVd25xekw?oc=5",
         "published": "Tue, 17 Nov 2026 21:50:43 GMT"
+      },
+      {
+        "title": "Nvidia verdoppelt Umsatz und Gewinn - Der Standard",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWh2VXV3eDlWTGNOb0lZeHNGLUlTLTdaYlZwLTRPcXNERmFyU0VyUFpSdl9GdUxyYmkwS3BpeUwtWGlGS0FLcHhlMWlZT3ZhZ01hYWNUOU53VDJ1OWRIbzJsd1YzRTJOMUd4ZGJ1N21DVTdiWjVycEEyVmVsUzBSS2NZZjlrZTNXUmdENG1oSGl0YU9B?oc=5",
+        "published": "Tue, 17 Nov 2026 21:47:00 GMT"
       }
     ]
   },
@@ -215,9 +215,9 @@
         "published": "Mon, 16 Nov 2026 19:30:00 GMT"
       },
       {
-        "title": "(S+) Anthropic-Börsengang: Worauf Investoren beim billionenschweren IPO achten sollten - Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWoyU1RyeEZLRlZxd2cxbFdHWkhOREs1dlAtWlRJNkdFQ1Z3RjRmaEhJVm5jZDdmQUFxR3NZcVBQUF9kZnBqcnZaMlVUMFFjVXdjTGpGb2RScXdmN3VPQ015cUNyaVRiWVAyUlEzUjVTRV9CLUJFeHpmM1R1OGtvVFdEZkJRbEYySE9QTUhKbWFvbGk5bEQxenJJTVNreENhY0RRZ1N0N2h3TThmNGQycGdUZ2J0RzNjRUJ0TDBJSkRXRVJvRG5LTDRaY3RpWGlOTkZyVTJ0Rl9WRXh1LVM1MmZZMTd3c2hUUnRPdVRNbGRUaG5B?oc=5",
-        "published": "Sun, 15 Nov 2026 23:20:00 GMT"
+        "title": "Die Spannung steigt: Wie Anthropic die Börsenwelt in Atem hält - Kleine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUNvUE5hbUYzU25vVTdlazR5SFo1TGd2WFpWWk8wcnd5NzkzNmtQN0FGNkhEWG90OTNtSUZqUkp5M2k0MnMyYUpyUkFhbzU0U2kybV9HRS1iOE5YRXpRS2VSMjhzRHZReDd3bGR6dVZCcFg0NXFWb2h4RFh1NllMMElpZElvV3RHSUt3b2k4ZmN6S09jald4LXB5UnREYUFmbHlxVzRCUHRsdWRpU1E?oc=5",
+        "published": "Mon, 16 Nov 2026 19:30:00 GMT"
       },
       {
         "title": "Anthropic-Börsengang soll SpaceX-Rekord knacken: Aktien ab 70 Dollar - Frankfurter Rundschau",
@@ -227,7 +227,7 @@
     ],
     "Werbung & Marketing": [
       {
-        "title": "Criteo ernennt Adam Marki zum VP Performance Media, Agencies EMEA - Meedia.de",
+        "title": "Criteo ernennt Adam Marki zum VP Performance Media, Agencies EMEA - Meedia",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHlpQlh6ZmZEdUdzZVRQYU5aOHo2dHpLSGM5NU1BdENSUXhpZ2xlN0ZtQ2FJb3J3RVpMZGVQdjRkRWNSS0dMM0VFcG9MVlJZNDJMNGdFQWdNb0RVR0xGZzJzY3AtQ216VFFRbGd2eUpDM0dlZnoya0ktY0FXZVRUYkhqRFhIa0FIS1ppdGVkTU1oQU1oYUlzUlgwN3Y?oc=5",
         "published": "Tue, 17 Nov 2026 09:13:41 GMT"
       },
@@ -289,6 +289,11 @@
         "published": "Tue, 17 Nov 2026 19:06:53 GMT"
       },
       {
+        "title": "Prognose: Boom um KI: Gelder für deutsche Start-ups fast verdoppelt - WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjE3YmpXZzc3b1czOGstV1d0bmQ0SlE3UmJOejA0cGFHajVjNDhVMkM1Z09MM1FQSFpVVUh5VUlqckk1SktfVHZEdHlwN2FUOTB4bTJFMDZLUnVYa1kycm15UURBSnJuU05aTF9jcS1OUGZ6cEgyNXRVTk1kUm5MenhCTlVrUjVwNDhacmxOVDJhSnRkUHhaei1saUFCb0prSkRpTElMR0tid19UeVNfbGFrZUREM1VpTlAzaFo0d0ctUzFhMXc?oc=5",
+        "published": "Tue, 17 Nov 2026 23:05:06 GMT"
+      },
+      {
         "title": "Klimaerwärmung: Die ambivalente Rolle von KI - science.ORF.at",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSODV0azV6dmd5cnNZdWZMa0t4WUtrR1FDT2NhUFdqczNVUTRJQlowR0xJWnRQeFlJYXlPWUNNbnA0MWxqdjJQY3JWV19GWkkt?oc=5",
         "published": "Mon, 16 Nov 2026 11:17:11 GMT"
@@ -299,14 +304,9 @@
         "published": "Mon, 16 Nov 2026 23:31:42 GMT"
       },
       {
-        "title": "China: Künstliche Intelligenz wird zum Konsumgut. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vSXpoY2ZjSmxHS0FUSkotWmhDWG8zMlhZLUVWYjdoVWlFOFZ1X2h1aVh6VnhKUlRSZU82N09oc2EzelUwNXVXemlZT1daSlI3ZjRTR1VpMzU1SHo3cEhsbFRvV3d5TnVxRWR5bk1fQ1NaYkVxaWNr?oc=5",
-        "published": "Tue, 17 Nov 2026 17:52:55 GMT"
-      },
-      {
-        "title": "Expertin: „Ich sehe nicht, dass viele Leute wegen KI ihre Jobs verlieren“ - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0k3Z2NLOUVFWlZwUkREeWVVWVc4U0p0V0VuNlE2WEhHMXNGSjNoQUFSZ1cwYi1GRk1GeFdCNG9mc0Jlb2pfWml3M2VBZXM0LU14MnlTQWhtYk9QWWJMTjhvSzJaaHd0ZGhUam5sbm1DWGNyTGstaHlFM0VxbHN0aTl6VGhReWFBeHc3N1pCUQ?oc=5",
-        "published": "Mon, 16 Nov 2026 04:30:00 GMT"
+        "title": "Deutsche Autobranche hinkt bei KI international hinterher - AutomotiveIT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnljOF9pS3V4bG9GbzlDT0k1T1NrcWViZUdlbWZRN3ZPSF81dUVkeXplcE85UUZCQXkzOXdwS09qb3Q4Z2cya2drcHduU1d4QXREdnBaaUhVV3pTTGkxMGI2VmgtbG1ucjQtd29NZGM1ZXJaV1ZkQUZRdUREVm5kdGd2UDZBS3VWc2ZEYXBEd1NNMndtS3dXcTRfV19zdVFkY0ozSHpKaUNTd0Fkakp3MFpKMjZKWm9M?oc=5",
+        "published": "Tue, 17 Nov 2026 10:32:00 GMT"
       }
     ],
     "Meine Aktien": [
@@ -316,9 +316,9 @@
         "published": "Tue, 17 Nov 2026 21:43:55 GMT"
       },
       {
-        "title": "Nach Rücktritt: Nvidia-Gründer Huang erwägt Rückkehr auf CEO-Posten - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVUybkVwb1lzUWo1MXRnMkdBOUwtWGh0Y2ZhRkZrZWhUNHJjNUhESG5jYkkzSWk1dVA2ZUdxTEFIUVh4cVhrUlhKYXdCOGZXZldIRUlxeTN1UGxDS0YyT2laNmFqQzFpcE5EQ1BUbTNhTWJQT2RiUEVXbTFfM0d2bTZJWUtwUFNBYTNGVWRlX0QwSHZlM2NoTHZoanYxV3pPb3Nod2E0R24yR0hwdlB6dkVVSjFhRUlDc3RDeDk1RTJGRDFXMW9PNW9YTHBOSExNQWc?oc=5",
-        "published": "Tue, 17 Nov 2026 21:54:34 GMT"
+        "title": "Wer ist der Mann, der Nvidia-Chef Jensen Huang zu Fall brachte? – Expertise - NewsFlix",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXdxS0JGbm40YjFGNFFULUxWVm1xbzlDeUZiTUZQNmhRMnd1dEtMVVgtcUlfQWxIVjFSWGpNZjZLaGRRT25vblJRUTVCdVpSNGZDRjZ4TEFCaFIyS0tCbWF3UzRKMU9IUkNNNGRRWXFDTjRoLTRSM3lGS0NFRGZNV3UxaGw2MUVZTGxnLU9BU1haamRpRmlMNnJqbzZCdw?oc=5",
+        "published": "Tue, 17 Nov 2026 21:29:03 GMT"
       },
       {
         "title": "NVIDIA-Aktie steigt: Quartalsgewinn übertrifft die Erwartungen deutlich - finanzen.at",
@@ -331,9 +331,14 @@
         "published": "Tue, 17 Nov 2026 16:29:48 GMT"
       },
       {
-        "title": "Nvidia-Quartalszahlen Q3 2027: 115,8 Mrd. Dollar Umsatz, 65,3 Mrd. Gewinn und starker Ausblick ohne Jensen Huang - Trending Topics",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0RJRkFsRVdMSzlkd3ZVZkl3RkJTM1JrQmluWndtUDhwS282SnMzczR4VnE3Q0xXUi1HSlNoT1ItSEpTeHNKaEl0b0pMWHRGZnA5WXB2YmJ6cm8ySTFHWmJfRGRyUEcxOUNCY1pXWXVyTnVLald4Z1JkM2h5azhLUEtMdW53c1J5cEloa3RkSVpTVm9RcE40d0NLcWppcVJKemx3?oc=5",
-        "published": "Tue, 17 Nov 2026 21:31:40 GMT"
+        "title": "USA: Nvidia-Skandal lässt Weißes Haus nicht los - ORF",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GRU0wX1JiQ3pfRUpCSUVIV19TX0M1Zm5JdWVnTnhuNU9VRk1pUjM3UTB0aXJnSlNsaGpYV2xlWjNPUVNuOVE?oc=5",
+        "published": "Tue, 17 Nov 2026 22:16:05 GMT"
+      },
+      {
+        "title": "Nach Rücktritt: Nvidia-Gründer Huang erwägt Rückkehr auf CEO-Posten - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVUybkVwb1lzUWo1MXRnMkdBOUwtWGh0Y2ZhRkZrZWhUNHJjNUhESG5jYkkzSWk1dVA2ZUdxTEFIUVh4cVhrUlhKYXdCOGZXZldIRUlxeTN1UGxDS0YyT2laNmFqQzFpcE5EQ1BUbTNhTWJQT2RiUEVXbTFfM0d2bTZJWUtwUFNBYTNGVWRlX0QwSHZlM2NoTHZoanYxV3pPb3Nod2E0R24yR0hwdlB6dkVVSjFhRUlDc3RDeDk1RTJGRDFXMW9PNW9YTHBOSExNQWc?oc=5",
+        "published": "Tue, 17 Nov 2026 21:54:34 GMT"
       },
       {
         "title": "Nvidia: Quartalszahlen verdoppeln sich, Ausblick über den Erwartungen - Manager Magazin",
@@ -341,14 +346,9 @@
         "published": "Tue, 17 Nov 2026 21:31:00 GMT"
       },
       {
-        "title": "Wer ist der Mann, der Nvidia-Chef Jensen Huang zu Fall brachte? – Expertise - NewsFlix",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXdxS0JGbm40YjFGNFFULUxWVm1xbzlDeUZiTUZQNmhRMnd1dEtMVVgtcUlfQWxIVjFSWGpNZjZLaGRRT25vblJRUTVCdVpSNGZDRjZ4TEFCaFIyS0tCbWF3UzRKMU9IUkNNNGRRWXFDTjRoLTRSM3lGS0NFRGZNV3UxaGw2MUVZTGxnLU9BU1haamRpRmlMNnJqbzZCdw?oc=5",
-        "published": "Tue, 17 Nov 2026 15:12:22 GMT"
-      },
-      {
-        "title": "Nvidia verdoppelt erneut Umsatz und Gewinn - ORF",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBySTNtNG5BaVpUYjZyN0JWSmd6UXkwdkZ4LWY2RmVRQlhwUFJFckVWUUIzWU85ZGZSRlZfRE81V3pFMVgyeVE?oc=5",
-        "published": "Tue, 17 Nov 2026 21:51:29 GMT"
+        "title": "Nvidia-Quartalszahlen Q3 2027: 115,8 Mrd. Dollar Umsatz, 65,3 Mrd. Gewinn und starker Ausblick ohne Jensen Huang - Trending Topics",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0RJRkFsRVdMSzlkd3ZVZkl3RkJTM1JrQmluWndtUDhwS282SnMzczR4VnE3Q0xXUi1HSlNoT1ItSEpTeHNKaEl0b0pMWHRGZnA5WXB2YmJ6cm8ySTFHWmJfRGRyUEcxOUNCY1pXWXVyTnVLald4Z1JkM2h5azhLUEtMdW53c1J5cEloa3RkSVpTVm9RcE40d0NLcWppcVJKemx3?oc=5",
+        "published": "Tue, 17 Nov 2026 21:31:40 GMT"
       }
     ]
   }
