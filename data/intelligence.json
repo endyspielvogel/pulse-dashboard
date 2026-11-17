@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-17T00:15:16.267464+00:00",
+  "fetched_at": "2026-11-17T01:50:14.724447+00:00",
   "brands": {
     "McDonald’s": [
+      {
+        "title": "McDonalds Aktie News: McDonalds am Montagabend im Plus - finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUhxdEhrV3JnQ3ZnNjZYN282RnVocDUyMVNWS0h1a24zUHIzbE5ZWTZsMWZNLXFyanZXQ2I3VVBSTWJkQ2FZZ3R1TmhGOWRSeDNXYWdwdUNyYkRDeUNrT0xMN1hJb0dUVlJCdm12NFdDRUZtc2dWMDJ2d3N5bWlBNlQ3Y1dqOW94T2Y5M3hXZ0VFMEMyQi00OQ?oc=5",
+        "published": "Tue, 17 Nov 2026 01:29:25 GMT"
+      },
       {
         "title": "Volleyball-Krimi in Ried: UVC McDonald’s Ried bezwingt ungeschlagenen Tabellenführer - Tips.at",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVBUa012NlAyRGRkQWRwVU83c3pIOW5tYk8tME1zZy0xNlBMaE1CNmR3aG4zSHd2S0s1aTN5SEpyZUpKUnRDMFZXbzRGTjFYbTJRNG9saXBTWFJDVVAxMnBHVXhWWVBFVWo3bEhaXzlIdXNVVDhFWkRzR1EwV0NfUWhKVzBrcjhlelJ1WnFCUEgtQ3E3cjIydkw3Yzd0RFBMNS1CVU8xUHJDeU0zMzY1Z2dIdGcwcm43OXVCVkkyYVM3SWdYQWkyc2VrVTRXSEE?oc=5",
@@ -11,11 +16,6 @@
         "title": "McDonald's Aktie Dow Jones Gewinner: Am Morgen Spitzenreiter, am Abend knapp ein Prozent im Plus – wie belastbar ist der Defensiv-Bonus? - AktienCheck.de",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk1mZFN5dEdVV3NOVTVGUjBCcS01ZDhTUHZ2aHFDVER6NG1KYlVQZkxsMHM0MVFPWHVnbDMtVk9JYTRiRHd4Ti1Pc1NQelVrQzFseUFGcE9GRUNiZExadHhaMGQtS29PSnlfbUVwQVlQNjc1TEFCSEtmb0tsUWVKbzhWaGVuQkZUSE5sUmZhMGRSYlJjZktJcnNsU3FmU2ZGOXdoSC1jOEg1aUtQ?oc=5",
         "published": "Mon, 16 Nov 2026 21:58:27 GMT"
-      },
-      {
-        "title": "McDonalds Aktie News: McDonalds am Montagabend im Plus - finanzen.ch",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUhxdEhrV3JnQ3ZnNjZYN282RnVocDUyMVNWS0h1a24zUHIzbE5ZWTZsMWZNLXFyanZXQ2I3VVBSTWJkQ2FZZ3R1TmhGOWRSeDNXYWdwdUNyYkRDeUNrT0xMN1hJb0dUVlJCdm12NFdDRUZtc2dWMDJ2d3N5bWlBNlQ3Y1dqOW94T2Y5M3hXZ0VFMEMyQi00OQ?oc=5",
-        "published": "Mon, 16 Nov 2026 19:27:13 GMT"
       },
       {
         "title": "Drohnenlogistik - In Shanghai liefert McDonald’s per Drohne. Wäre das auch in Deutschland denkbar? - LEADERSNET.de",
@@ -50,9 +50,9 @@
         "published": "Mon, 16 Nov 2026 08:22:18 GMT"
       },
       {
-        "title": "Maileva gehackt, Datendiebstahl bei 22 Millionen Menschen bestätigt - Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0JGX1lOZFo2Ni1mbFJub1ota2dYUnNWc2RvRnpxZnUyZ3JBVnJpWUlpbWFaSmRGNHdiQlRWRzhNN29xa3Y3aURwTVl0NzZhQUUzNTl3X2Rmb0ZPOHI1N1dNQVdPdkp3M2hmckZyQ0FsRjlkSG85RjhBdVl0RWR5NDFVZGdla0Q4WVJIcHlnOGJ0Y3VHblRkX1M3MDFsZDBEa0lKVlZn?oc=5",
-        "published": "Sun, 15 Nov 2026 00:16:34 GMT"
+        "title": "Hong Kong Disneyland stoppt Online-Buchungen nach dem gemeldeten Diebstahl von 17.000 Ticket-QR-Codes - eSecurity Planet",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWZPSnloR0prc2hkYVdRS1hTQkc1REdGdkdoOXppT0ZjbDBFTUljMEtNM0sxUFpXRmNONndBQ1djbXVEbjF1c3ZYNmFSaFk3d00zYWZpQjFzNm10T2FrSUN3ZG5jeEp1aTJYRUdlM1ZlOWZzMTlXZkRlSkptLUk3aWxtb3FpT2d4R2M2Ti1HS2xlN0VhZ2xjSWs1Nk93SkVaWU9Oc25jQUd5NlpRS3F0eGlURzFpQ3pOODBGVUFCdFRyU0pyZ1Z6TzF0MUoza0gtemlBbkEyMVJpZw?oc=5",
+        "published": "Sun, 15 Nov 2026 08:00:00 GMT"
       },
       {
         "title": "Aus aktuellem Anlass: Die ARD ändert am Montag (16.11.) ihr Programm - Netzwelt",
@@ -65,9 +65,9 @@
         "published": "Mon, 16 Nov 2026 09:32:00 GMT"
       },
       {
-        "title": "Reformhaus Schirm in Burgdorf dicht – das sind die Gründe für die Schließung - HAZ",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa0J0SFBrVmc5a3h5eU5XRGdFTFJlY1RxVndFbGVzMkZXSUgwRXNnRE55ZW1XTDZJeXFBNWV0bnB4Y2xhLW5XTmljOWQxYXRnYXNOOFd5QUp3alVnUC1vMDdVTmZxQXY4M1pMdF80WVlRTEpvZVRxek5LbjVMY09YSTdnMjA4Q0IxaU8wai1QZ1B0Y2kzbmNwdmg2cE90MG1KQS12V0ZWZ0NNcWE1RVRlSVlwUUtKek5kc0JuRjc1Wm1SSnFWbjhwVVRUSTJpRFJPcTNDVUQzd3d4MHVxRVlDMWhGR3lVaEHSAYMCQVVfeXFMT3poNEFpY3JCZlAtVWJPLS1ST0JOWnc5MTlnNXE0X0VxS0JvY3MzejMxb3lGTTZsNllQNmwyMWV5Q3FHNVc2ZzVhY09sbng2bnpvMDlubXRRN0hRY2NNa2phQmtUQ09ZdGRLMlMzV2VSZFluc09TanZWTVV2dEczMEFYS0ZxeExTcEl4S3JQZ2k3Y3FBbE1YRWdpZmp3Ql9BTS1IbjNZTlVqdWZ1VDUyekNFMXlWRjhFT2tLTGkwRV9yeEtzenBLbWJjNUdQRFcycGg0bmNVa042X1l2MzdqbFo5UzNKY1k5OUdLOWV1RHBkTVdBVzhEb2xaRThsNFlWWHNHOA?oc=5",
-        "published": "Mon, 16 Nov 2026 03:30:54 GMT"
+        "title": "SCC Slusia Schleusingen: Wenn Justitia die Brille aufhat - inSüdthüringen",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFNpWXZJN2RVVkFHZ2FqUjZQS01sc0FMTmF0MnNqSE1qWUpZdFhzU3RzbjhqN2ZpNUp6VXMyQjEzWFVuUXJXWGMxM2VBVGtaS0VEOUZwRTJkSGRocVhPMXpZVUNXdVo5VUxnMXBtenl5ZUhOZ2gzMGpGODRVX0RHVk5tN01rNHJLeVNRRjFLZFlNekVLUThoTFRKbm0yQUpfUlRJM3VBWm5mUEFLYWRFQnZvNWRGWVRveTJneVVVYU5JdEg5RjBnakFscmxvLUlMd0E?oc=5",
+        "published": "Mon, 16 Nov 2026 13:48:15 GMT"
       },
       {
         "title": "Schwangere Jasmin und Ehemann Maik müssen mit 7 Euro in 16 Tagen hinkommen - TAG24",
@@ -85,6 +85,11 @@
         "title": "Mediaagenturen: Initiative und Spark Foundry sind die Gewinner im Recma-Qualitätsranking - Horizont.net",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM3Fad2Y1MElqQ1JqamdKQXZBUU5NU1FOckpjd1pjY3FPSXZVYkZTMm1wRWhxODdERmJILXluYlhWdXVtNExQTVYtOXVsSFRkSTUwOVowbXE0WGJCRTNMXzdoNUhfRHVuQzdFY2g5VG1WbEdVRUV4S19IVXNJQ1l4SUk5UHlwWlpraldMVFd4SVBhZU5sUlJpbTQ4aWIwOTAwMGdaTGl3R2FVNndzM0RvSWxXMmNXUzBodEZQQmM3MW84Q1djN3NfajZra0R5YnlySTZ4dGlBcnExQQ?oc=5",
         "published": "Sun, 15 Nov 2026 10:00:00 GMT"
+      },
+      {
+        "title": "Jörg Quoos wird Editor at Large: Melanie Amann wird Chefredakteurin der Funke-Zentralredaktion - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS19mbWZPS2k4SjZQTEYwSUE1cWlWemVpLUgtVnBERzRIQTlnMk5yX3lEMXdiSXhOMDE4VUlFMmdGUzU3MUdUWDl1Z3JXR0hMQWw2OXBhU2c5bzRTdnV2S1Y1Wm83UWlHbzNrRjh4S2NSOWI1Q2lzb19XcFVwelVWY3BPXzBzaUdFSjB0YkN0ajM0MEtBRUtWYU1WQUo1QXNHd2l0bE1zenRaMlFoT1VyaEFvOE0za1pPVzFBUkV1YnVCbHRmWmhXS3RDbU1yTVVBb1c2OGZiOGxrMEdzS1E?oc=5",
+        "published": "Mon, 16 Nov 2026 12:48:00 GMT"
       }
     ],
     "Mercedes-Benz": [
@@ -99,14 +104,14 @@
         "published": "Mon, 16 Nov 2026 23:26:49 GMT"
       },
       {
+        "title": "Mercedes-Benz: Ein wichtiger Schritt - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc005ZDM5bnY3NGEtOVFUT24yN0w1c3kwYzlkM0Vub1lPbzdNYWJxX1ZnWXhfVXppU19DWHpnOFpvRXRjQjJiY28wV253bFUwQ2FlQXlha2R5N1VpNlExcGZWVzY2Q2xha3M3c3ZMQmVGOGZUTHlqdUlYLTJlNjd4R3owQWdjaFJjTjVZdDJia0pIR1dSdmdz?oc=5",
+        "published": "Mon, 16 Nov 2026 14:39:00 GMT"
+      },
+      {
         "title": "Mercedes-Benz führt freihändiges Fahren und assistiertes Point-to-Point-Fahren in Deutschland und den USA ein - Mercedes-Benz | Österreich",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZmFhTnd4WkZYRjNxbnpPQzYxdlF2R1RFcUktTXJZRzNERjB5VWVNLXhkV0pZckdqM216dF9rNUJ6X0pBZ1JteTd4MEVvZW9KMXRnS2VnNU9mWnFhVy1SVERMN3h2ekRuRk5RV29jc055bFBRUGQ5TElFNFdHVXRVYUh5QnlWWE5wVlRBSms3cnYwbldFaHhnU0o0eU9zLUhEQ2ZydDhQaldqczluTUV3ZkpmNEQ3SzgzU0pMOV9LR0E4Y3UzM0hJRVZ2Z3c5ZjFDQnZBV29HbElsRE8tR204QWwxRnlzTXFwajVBOHp4ajlvenRvRGp3OTJoOEt0V3FTcGpXalJST1NFcHhF?oc=5",
         "published": "Mon, 16 Nov 2026 14:08:55 GMT"
-      },
-      {
-        "title": "Mercedes-Benz: Ein wichtiger Schritt - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc005ZDM5bnY3NGEtOVFUT24yN0w1c3kwYzlkM0Vub1lPbzdNYWJxX1ZnWXhfVXppU19DWHpnOFpvRXRjQjJiY28wV253bFUwQ2FlQXlha2R5N1VpNlExcGZWVzY2Q2xha3M3c3ZMQmVGOGZUTHlqdUlYLTJlNjd4R3owQWdjaFJjTjVZdDJia0pIR1dSdmdz?oc=5",
-        "published": "Mon, 16 Nov 2026 14:40:27 GMT"
       },
       {
         "title": "200.000 Euro verdienen: Mit diesem seltenen Mercedes klappt das - Auto Bild",
@@ -151,24 +156,24 @@
         "published": "Mon, 16 Nov 2026 22:11:00 GMT"
       },
       {
-        "title": "Nach Rücktritt: Jensen Huang spricht über Rückkehr an Nvidia-Spitze - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnJTak45QmxVaW5mbTFLdzJKTmV2SG92M2hNWVpzTFdkdFJyVUptX0ZlZmFoSzVsN3F4THN4QW9uendiWUJvbTY0THh5Y1YxX2M4a1lhZFlNZEZuY05mVU5pWFBKcjZLTm55VUZMc3N2ckRpa3QzVDRKRHFLSUptVk5KQnFGS2tkQVZMaDREaEJIbktVclJv?oc=5",
-        "published": "Mon, 16 Nov 2026 18:35:08 GMT"
-      },
-      {
         "title": "Nvidia: Was der Abgang von Jensen Huang für Anleger bedeuten könnte - FAZ",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmJUMktRdDlyMGFnWEt3ZUFKUG1uOW5VR2JmT0ZKZkgtczRmWm4zdFNMLUZYR3dYRjc5c0V6b1RqcFJpZXlRSmloUmhKVFNKYmw5UzljRy1FSWF0LTN5NGNsNFNlVTZEZEN0Wk9EYWRLTUlzQ0wyREtGa2xhUVFWMWZDX1kzRFlBZU9TYzNtWHQyY3hRbXdfLWNUSjUtdHllOXpzd3BiNnd2ckJhOU1aTXJqYW11dUI5VFBDS25OWkl6TjFpTmFIYkNYMEk0Nk01QU1z?oc=5",
         "published": "Mon, 16 Nov 2026 13:52:28 GMT"
       },
       {
+        "title": "Nach Rücktritt: Jensen Huang spricht über Rückkehr an Nvidia-Spitze - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnJTak45QmxVaW5mbTFLdzJKTmV2SG92M2hNWVpzTFdkdFJyVUptX0ZlZmFoSzVsN3F4THN4QW9uendiWUJvbTY0THh5Y1YxX2M4a1lhZFlNZEZuY05mVU5pWFBKcjZLTm55VUZMc3N2ckRpa3QzVDRKRHFLSUptVk5KQnFGS2tkQVZMaDREaEJIbktVclJv?oc=5",
+        "published": "Mon, 16 Nov 2026 18:35:08 GMT"
+      },
+      {
+        "title": "Jensen Huang spricht schon über Rückkehr an Nvidia-Spitze – 150.000 unterschreiben offenen Brief - WELT",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNejltUnU2MzBqa2l0R1VVZ1JxTzhVdE5qdUtjSEtVNDFucUxPR29LSDJEOUhXLWl0UnNGUnVIYkFrOGFJOTNJaWVUNTgya09USjFuSk9ETzB4MEg1ZWJjM2xOQVpmMXlSdU9ibC1JZ2RZZTJVYTJYQURhLUx0SkRKcXlkbUNvZms4RHNSVkZ1d1c3eWpWMWx1SC13V1gtMnlzNVd3SHVQaFJBbklEb214Q1UzXzY2WEJtcTE2OS1HeHdVNEVaMEU3c3MybndMeXItMTNfaDB5UWE5QXFGMEhYVmppOGxQYkd4RDlIMjNtR3lKbHY0cEE?oc=5",
+        "published": "Mon, 16 Nov 2026 14:14:43 GMT"
+      },
+      {
         "title": "Jensen Huang: Trump offen für mögliche Rückkehr von Jensen Huang als Nvidia-CEO - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3E2bVljOENZcGdTdm00aVEyY0Y2OTFJUTlJeXpLMmJHQTctODYxTzNmQk9OTkNOeUJLODFxQlRuU0tueWt0NXBYcnlKQ1lkb1U4ZWFTTjMtOTNrc2pJSnIzQ1dtc3VPSXJqVm05Tm5qc3lpbjRFZEVTZ0dmQ0JVR04yOWw3QmJId094TmlXdjl5dGc?oc=5",
         "published": "Mon, 16 Nov 2026 17:39:34 GMT"
-      },
-      {
-        "title": "Musk setzt sich für ihn ein: Huang will offenbar als Nvidia-Chef zurückkehren - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEx0N0RJbVY4dkNudWlrbTFTZVZmUVlTN20wLUFNUVF3Rmc4QkN3aXVtTWJBM1NaWGlSQllRN0hZZms1Rko5eHJMMDBlS2I4NklleWdWTVhmQVh1c1QtMmJMOHBQV1UwOS1yamhXTGNWWkhzWGw0Wk9WQWxYLTBlS0lDSU1sZDhKTUVlRWRfeENuSjM4RkFtSk5zVkFoNWR4WEt4WnBJVEEzTEpMdS1TVGRBOWFtaXZya204?oc=5",
-        "published": "Mon, 16 Nov 2026 04:19:00 GMT"
       }
     ]
   },
@@ -242,11 +247,6 @@
         "published": "Mon, 16 Nov 2026 05:00:00 GMT"
       },
       {
-        "title": "etisalat UAE AI Marketing Hub: Agentische KI für Werbung im Mittelstand - Nachrichten und Statistiken - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamZjUmFZVkFJZmlCSl9PVzQ1aVdpSlJKSkNzcGQ0YW5yMktydHNvTUFMSE1qUy03M3F1RVBFaDFrdUhveXJ0NWsxb28yb285TnZGZlpReFo1ZVI3V21LUW12X1pLS19KN1VhamdObWdQTDZtMFlFWi1JVE9JQTNzcWtDaVBncmt1UVF5a3lHd2doanlWMmhj?oc=5",
-        "published": "Sun, 15 Nov 2026 12:41:19 GMT"
-      },
-      {
         "title": "Erdmannpeisker: Glücksfee mischt sich unter die Menschen - persoenlich.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0owZmVWVm9SRTN0bUJSeFNrN1NubWlVek9NOENNRzVJUXpwSzQ0QWxaNjhuc2hLeHJWX3BfSm5kLWFuWEZYYWIxc04yZVhxUFVkSVMxbWRMbFNmXzRJdUt6UkozQjNXWVdzMnhaZWJwLXk4cGV2VWo4RzQ0Z2xwcGZxSXZqTVB5bDJ2NnBxbw?oc=5",
         "published": "Mon, 16 Nov 2026 14:20:35 GMT"
@@ -255,6 +255,11 @@
         "title": "Spacebooq startet als Buchagentur für Experten - PressNetwork",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IWTlnRXZlN1lrVUtJRGhYLTdoOVJjRFE3ZWhUOUMxTXREYVBKZFlleGN2MHpFTG5pekQ0SFhKNjdTRGo4UnhLS1BQY3FSQ1hpaDFTdlQ3OWdQNXlJSHkzbUcwMDlpaS0wWW1pWVR2aE9na1h5aExNbktyb0E?oc=5",
         "published": "Mon, 16 Nov 2026 11:16:58 GMT"
+      },
+      {
+        "title": "One Marketing: In Schwarzweiss und in Farben - persoenlich.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTVp6SFFYcDJnZDA4NkV6Vk90dFFTdENtejU2OXlNR3RCNG04UGJRcUQtNURINTdxNE1VaWk5cW9Hekh2S250YU5fZjZuaFV2eWtONUFrZ1hJLTNJbldHMnJqX3lNUTN1Tko3SERUNDI3Y3U3QVQzdm5OSHJDSU5hQw?oc=5",
+        "published": "Sun, 15 Nov 2026 23:01:00 GMT"
       }
     ],
     "Technologie & KI": [
