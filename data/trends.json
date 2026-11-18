@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-11-18T12:52:00.026755+00:00",
+  "fetched_at": "2026-11-18T14:07:03.990876+00:00",
   "countries": {
     "AT": [
       {
-        "title": "ticketmaster",
+        "title": "slalom",
+        "volume": "1000+"
+      },
+      {
+        "title": "carlos alcaraz",
+        "volume": "500+"
+      },
+      {
+        "title": "trade republic",
         "volume": "200+"
       },
       {
-        "title": "axel hoffmann orf",
+        "title": "klimaticket",
         "volume": "100+"
+      },
+      {
+        "title": "antibiotikaresistenz",
+        "volume": "500+"
+      },
+      {
+        "title": "ticketmaster",
+        "volume": "500+"
+      },
+      {
+        "title": "axel hoffmann orf",
+        "volume": "200+"
       },
       {
         "title": "ski",
         "volume": "2000+"
       },
       {
+        "title": "gta 6 pc",
+        "volume": "200+"
+      },
+      {
         "title": "sc riessersee",
         "volume": "200+"
-      },
-      {
-        "title": "christina födermayr",
-        "volume": "1000+"
-      },
-      {
-        "title": "großer preis von las vegas",
-        "volume": "500+"
-      },
-      {
-        "title": "anne hathaway baby",
-        "volume": "1000+"
-      },
-      {
-        "title": "fabio gstrein",
-        "volume": "200+"
-      },
-      {
-        "title": "bauträger",
-        "volume": "200+"
-      },
-      {
-        "title": "julia schütze",
-        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "carrie ann inaba dwts comfort",
+        "title": "daniil medvedev",
+        "volume": "500+"
+      },
+      {
+        "title": "northern lights forecast",
         "volume": "200+"
       },
       {
-        "title": "jason eck",
-        "volume": "200+"
-      },
-      {
-        "title": "gta6 map",
+        "title": "carlos alcaraz",
         "volume": "2000+"
       },
       {
-        "title": "gta 6 cheat codes",
+        "title": "emma grede",
+        "volume": "500+"
+      },
+      {
+        "title": "glenn close",
+        "volume": "2000+"
+      },
+      {
+        "title": "anthropic ipo",
+        "volume": "5000+"
+      },
+      {
+        "title": "toxic hall of shame",
+        "volume": "1000+"
+      },
+      {
+        "title": "gta 6 radio stations",
         "volume": "200+"
       },
       {
-        "title": "product recall",
-        "volume": "200+"
+        "title": "florida flooding",
+        "volume": "5000+"
       },
       {
-        "title": "prince william",
-        "volume": "100+"
-      },
-      {
-        "title": "bobby moynihan",
-        "volume": "200+"
-      },
-      {
-        "title": "ruby bridges",
-        "volume": "100+"
-      },
-      {
-        "title": "nifty 50",
-        "volume": "100+"
-      },
-      {
-        "title": "celebrini",
-        "volume": "200+"
+        "title": "carrie ann inaba dwts comfort",
+        "volume": "500+"
       }
     ]
   }
