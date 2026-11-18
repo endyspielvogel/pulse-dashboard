@@ -1,22 +1,26 @@
 {
-  "fetched_at": "2026-11-18T07:56:33.409068+00:00",
+  "fetched_at": "2026-11-18T08:52:57.149220+00:00",
   "countries": {
     "AT": [
       {
-        "title": "java4shell",
+        "title": "julia schütze",
         "volume": "200+"
       },
       {
-        "title": "quentin grimes",
-        "volume": "200+"
+        "title": "java4shell",
+        "volume": "500+"
       },
       {
         "title": "mary peltola",
-        "volume": "100+"
+        "volume": "200+"
+      },
+      {
+        "title": "ralf rangnick",
+        "volume": "1000+"
       },
       {
         "title": "neunkirchen",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "bürgermeister",
@@ -27,62 +31,58 @@
         "volume": "200+"
       },
       {
-        "title": "nvidia aktien",
-        "volume": "2000+"
-      },
-      {
-        "title": "gta6",
-        "volume": "200+"
-      },
-      {
         "title": "wien wetter",
         "volume": "500+"
       },
       {
         "title": "lakers – hornets",
-        "volume": "200+"
+        "volume": "500+"
+      },
+      {
+        "title": "weather",
+        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "nba standings",
-        "volume": "2000+"
-      },
-      {
-        "title": "cox",
-        "volume": "100+"
-      },
-      {
-        "title": "fuel",
-        "volume": "500+"
-      },
-      {
-        "title": "gas",
-        "volume": "500+"
-      },
-      {
-        "title": "flash flooding florida",
-        "volume": "2000+"
-      },
-      {
-        "title": "medicare part b premium 2027",
+        "title": "glastonbury",
         "volume": "200+"
       },
       {
-        "title": "how long is gta 6 story mode",
+        "title": "john madden",
+        "volume": "500+"
+      },
+      {
+        "title": "bangladesh vs south africa",
         "volume": "100+"
       },
       {
-        "title": "matisse thybulle",
+        "title": "david montgomery",
+        "volume": "100+"
+      },
+      {
+        "title": "chris evans",
+        "volume": "100+"
+      },
+      {
+        "title": "new zealand breakers",
+        "volume": "200+"
+      },
+      {
+        "title": "ign",
         "volume": "1000+"
       },
       {
-        "title": "adou thiero",
-        "volume": "200+"
+        "title": "red flag (fire weather) warning",
+        "volume": "100+"
       },
       {
-        "title": "austin reaves injury",
-        "volume": "500+"
+        "title": "ps5 black friday deals",
+        "volume": "2000+"
+      },
+      {
+        "title": "gta 6 new screenshots",
+        "volume": "1000+"
       }
     ]
   }
