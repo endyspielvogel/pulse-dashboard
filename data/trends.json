@@ -1,7 +1,19 @@
 {
-  "fetched_at": "2026-11-18T02:42:41.205286+00:00",
+  "fetched_at": "2026-11-18T03:36:24.424086+00:00",
   "countries": {
     "AT": [
+      {
+        "title": "poziții echipa națională de fotbal a bosniei-herțegovina vs echipa națională de fotbal a româniei",
+        "volume": "1000+"
+      },
+      {
+        "title": "verbraucherkreditgesetz",
+        "volume": "200+"
+      },
+      {
+        "title": "öbb",
+        "volume": "100+"
+      },
       {
         "title": "gta 6 release",
         "volume": "100+"
@@ -16,73 +28,61 @@
       },
       {
         "title": "schörfling am attersee",
-        "volume": "100+"
-      },
-      {
-        "title": "nvidia quartalszahlen heute",
-        "volume": "100+"
+        "volume": "1000+"
       },
       {
         "title": "gebühr",
         "volume": "2000+"
       },
       {
+        "title": "nvidia",
+        "volume": "500+"
+      },
+      {
         "title": "nations league tabelle",
-        "volume": "200+"
-      },
-      {
-        "title": "yanik spalt",
-        "volume": "200+"
-      },
-      {
-        "title": "fernando alonso",
-        "volume": "100+"
-      },
-      {
-        "title": "nvidia zahlen",
         "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "pedro pascal",
+        "title": "julián quiñones",
+        "volume": "200+"
+      },
+      {
+        "title": "paul reed",
         "volume": "500+"
       },
       {
-        "title": "old dominion vs virginia",
+        "title": "utah basketball",
         "volume": "200+"
       },
       {
-        "title": "seth rogen",
+        "title": "devin vassell",
+        "volume": "200+"
+      },
+      {
+        "title": "judge nathan milliron",
+        "volume": "200+"
+      },
+      {
+        "title": "raúl rangel",
+        "volume": "200+"
+      },
+      {
+        "title": "hornets vs lakers",
+        "volume": "20000+"
+      },
+      {
+        "title": "big ten volleyball tournament",
         "volume": "500+"
       },
       {
-        "title": "only murders in the building",
+        "title": "univision",
         "volume": "200+"
       },
       {
-        "title": "wmu football",
-        "volume": "200+"
-      },
-      {
-        "title": "mi state vs tennessee",
+        "title": "college football rankings",
         "volume": "10000+"
-      },
-      {
-        "title": "flames vs sharks",
-        "volume": "1000+"
-      },
-      {
-        "title": "mike pence",
-        "volume": "5000+"
-      },
-      {
-        "title": "college basketball scores",
-        "volume": "500+"
-      },
-      {
-        "title": "miss universe 2026",
-        "volume": "500+"
       }
     ]
   }
