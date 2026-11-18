@@ -1,10 +1,34 @@
 {
-  "fetched_at": "2026-11-18T19:55:20.272591+00:00",
+  "fetched_at": "2026-11-18T20:43:33.014718+00:00",
   "countries": {
     "AT": [
       {
-        "title": "vremea de mâine",
+        "title": "rohöl",
         "volume": "200+"
+      },
+      {
+        "title": "الطقس غدًا",
+        "volume": "200+"
+      },
+      {
+        "title": "погода завтра",
+        "volume": "200+"
+      },
+      {
+        "title": "wetter morgen",
+        "volume": "10000+"
+      },
+      {
+        "title": "weather tomorrow",
+        "volume": "500+"
+      },
+      {
+        "title": "holnapi időjárás",
+        "volume": "200+"
+      },
+      {
+        "title": "vremea de mâine",
+        "volume": "500+"
       },
       {
         "title": "unsere kleine farm",
@@ -16,73 +40,49 @@
       },
       {
         "title": "hagel",
-        "volume": "500+"
-      },
-      {
-        "title": "windhaag bei perg",
-        "volume": "1000+"
-      },
-      {
-        "title": "alphabet inc",
-        "volume": "200+"
-      },
-      {
-        "title": "anthropic aktie",
-        "volume": "200+"
-      },
-      {
-        "title": "em qualifikation",
-        "volume": "200+"
-      },
-      {
-        "title": "roland weißmann",
-        "volume": "1000+"
-      },
-      {
-        "title": "donaustadt",
         "volume": "1000+"
       }
     ],
     "US": [
       {
+        "title": "sonny gray",
+        "volume": "500+"
+      },
+      {
+        "title": "albemarle county public schools",
+        "volume": "500+"
+      },
+      {
+        "title": "anheuser busch",
+        "volume": "200+"
+      },
+      {
+        "title": "star wars",
+        "volume": "500+"
+      },
+      {
+        "title": "chicago cubs",
+        "volume": "200+"
+      },
+      {
+        "title": "baaja",
+        "volume": "500+"
+      },
+      {
+        "title": "frances tiafoe",
+        "volume": "1000+"
+      },
+      {
+        "title": "tiafoe",
+        "volume": "1000+"
+      },
+      {
+        "title": "sarah paulson",
+        "volume": "1000+"
+      },
+      {
         "title": "ngc 1433 supernova",
-        "volume": "500+"
-      },
-      {
-        "title": "kash patel",
-        "volume": "500+"
-      },
-      {
-        "title": "florence pugh governors awards",
-        "volume": "200+"
-      },
-      {
-        "title": "golf",
-        "volume": "200+"
-      },
-      {
-        "title": "jace jung",
-        "volume": "200+"
-      },
-      {
-        "title": "nick fortes",
-        "volume": "2000+"
-      },
-      {
-        "title": "senate majority leader",
         "volume": "1000+"
-      },
-      {
-        "title": "start 'em, sit 'em",
-        "volume": "1000+"
-      },
-      {
-        "title": "chelsea vs psg",
-        "volume": "500+"
-      },
-      {
-        "title": "playstation network",
-        "volume": "5000+"
       }
     ]
   }
