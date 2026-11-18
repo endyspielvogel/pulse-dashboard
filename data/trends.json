@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-11-18T22:30:54.959142+00:00",
+  "fetched_at": "2026-11-18T23:30:11.410152+00:00",
   "countries": {
     "AT": [
+      {
+        "title": "lotterie",
+        "volume": "100+"
+      },
+      {
+        "title": "nicolas seiwald",
+        "volume": "100+"
+      },
+      {
+        "title": "eisenbahn",
+        "volume": "100+"
+      },
+      {
+        "title": "raab",
+        "volume": "100+"
+      },
       {
         "title": "kredit",
         "volume": "100+"
@@ -11,78 +27,62 @@
         "volume": "100+"
       },
       {
-        "title": "atp finals 2026",
-        "volume": "100+"
-      },
-      {
         "title": "yannick shetty",
         "volume": "200+"
       },
       {
         "title": "flavio cobolli",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "russland",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "rohöl",
         "volume": "500+"
-      },
-      {
-        "title": "الطقس غدًا",
-        "volume": "200+"
-      },
-      {
-        "title": "погода завтра",
-        "volume": "200+"
-      },
-      {
-        "title": "wetter morgen",
-        "volume": "20000+"
       }
     ],
     "US": [
       {
-        "title": "coritiba vs santos",
-        "volume": "500+"
-      },
-      {
-        "title": "anheuser-busch",
-        "volume": "2000+"
-      },
-      {
-        "title": "jason michael",
-        "volume": "500+"
-      },
-      {
-        "title": "pokebeach",
-        "volume": "500+"
-      },
-      {
-        "title": "can you game share gta 6",
-        "volume": "200+"
-      },
-      {
-        "title": "nz vs ind",
+        "title": "bucks vs heat",
         "volume": "10000+"
       },
       {
-        "title": "florida basketball",
-        "volume": "20000+"
+        "title": "rockets vs pacers",
+        "volume": "5000+"
       },
       {
-        "title": "bo french",
-        "volume": "1000+"
+        "title": "76ers vs magic",
+        "volume": "5000+"
       },
       {
-        "title": "cma awards 2026 where to watch",
-        "volume": "1000+"
+        "title": "grizzlies vs cavaliers",
+        "volume": "5000+"
       },
       {
-        "title": "clavicular",
+        "title": "hakeem jeffries",
+        "volume": "10000+"
+      },
+      {
+        "title": "kyle isbel",
         "volume": "500+"
+      },
+      {
+        "title": "grand theft auto: san andreas",
+        "volume": "5000+"
+      },
+      {
+        "title": "flamengo vs athletico-pr",
+        "volume": "1000+"
+      },
+      {
+        "title": "cruzeiro vs palmeiras",
+        "volume": "1000+"
+      },
+      {
+        "title": "cruzeiro x palmeiras",
+        "volume": "1000+"
       }
     ]
   }
