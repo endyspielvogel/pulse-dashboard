@@ -1,25 +1,29 @@
 {
-  "fetched_at": "2026-11-18T09:49:35.375517+00:00",
+  "fetched_at": "2026-11-18T10:51:52.292725+00:00",
   "countries": {
     "AT": [
       {
-        "title": "anne hathaway",
+        "title": "großer preis von las vegas",
         "volume": "100+"
       },
       {
-        "title": "fabio gstrein",
-        "volume": "100+"
-      },
-      {
-        "title": "bauträger",
-        "volume": "100+"
-      },
-      {
-        "title": "julia schütze",
+        "title": "twitch",
         "volume": "500+"
       },
       {
-        "title": "java4shell",
+        "title": "anne hathaway baby",
+        "volume": "500+"
+      },
+      {
+        "title": "fabio gstrein",
+        "volume": "200+"
+      },
+      {
+        "title": "bauträger",
+        "volume": "200+"
+      },
+      {
+        "title": "julia schütze",
         "volume": "500+"
       },
       {
@@ -37,28 +41,40 @@
       {
         "title": "bürgermeister",
         "volume": "100+"
-      },
-      {
-        "title": "jagd",
-        "volume": "200+"
       }
     ],
     "US": [
       {
-        "title": "retirement",
+        "title": "strands hint today",
+        "volume": "100+"
+      },
+      {
+        "title": "new york lottery",
+        "volume": "100+"
+      },
+      {
+        "title": "nyt connections answers",
+        "volume": "5000+"
+      },
+      {
+        "title": "nayib bukele",
+        "volume": "100+"
+      },
+      {
+        "title": "estados unidos",
         "volume": "200+"
       },
       {
-        "title": "india",
-        "volume": "100+"
+        "title": "retirement",
+        "volume": "500+"
       },
       {
         "title": "coinbase",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "nice",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "los angeles",
@@ -67,22 +83,6 @@
       {
         "title": "腾讯财报",
         "volume": "200+"
-      },
-      {
-        "title": "truck accident lawyer",
-        "volume": "100+"
-      },
-      {
-        "title": "car accident attorney",
-        "volume": "100+"
-      },
-      {
-        "title": "imelda marcos",
-        "volume": "500+"
-      },
-      {
-        "title": "glastonbury",
-        "volume": "500+"
       }
     ]
   }
