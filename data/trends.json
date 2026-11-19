@@ -1,87 +1,87 @@
 {
-  "fetched_at": "2026-11-19T04:41:10.526735+00:00",
+  "fetched_at": "2026-11-19T05:40:12.262105+00:00",
   "countries": {
     "AT": [
       {
-        "title": "eishockey",
+        "title": "wetter",
+        "volume": "10000+"
+      },
+      {
+        "title": "погода",
+        "volume": "200+"
+      },
+      {
+        "title": "grenzkontrolle",
         "volume": "100+"
       },
       {
-        "title": "schnitzel",
+        "title": "hava durumu",
         "volume": "100+"
       },
       {
-        "title": "bahn",
+        "title": "počasie",
+        "volume": "100+"
+      },
+      {
+        "title": "bitcoin kurs",
+        "volume": "100+"
+      },
+      {
+        "title": "weather",
         "volume": "500+"
       },
       {
-        "title": "ukraine",
+        "title": "cadillac f1 team",
         "volume": "100+"
       },
       {
-        "title": "heizöl",
+        "title": "időjárás",
         "volume": "200+"
       },
       {
-        "title": "andrea kimi antonelli",
+        "title": "vrijeme",
         "volume": "200+"
-      },
-      {
-        "title": "steiermark",
-        "volume": "200+"
-      },
-      {
-        "title": "stromrechnung",
-        "volume": "1000+"
-      },
-      {
-        "title": "anthropic",
-        "volume": "100+"
-      },
-      {
-        "title": "gta 6 cheats",
-        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "supernova explosion",
+        "title": "ziaire williams",
         "volume": "500+"
       },
       {
-        "title": "technology news",
+        "title": "cal state fullerton basketball",
+        "volume": "200+"
+      },
+      {
+        "title": "내일 날씨",
+        "volume": "500+"
+      },
+      {
+        "title": "lakers game today",
+        "volume": "10000+"
+      },
+      {
+        "title": "weather today",
         "volume": "2000+"
       },
       {
-        "title": "portland vs colorado",
+        "title": "resin",
         "volume": "500+"
       },
       {
-        "title": "national book award 2026",
+        "title": "dillon brooks",
         "volume": "500+"
       },
       {
-        "title": "matt rife",
-        "volume": "1000+"
+        "title": "domantas sabonis",
+        "volume": "500+"
       },
       {
-        "title": "male vocalist of the year",
+        "title": "best hdr calibration for gta 6",
         "volume": "200+"
       },
       {
-        "title": "red dead redemption",
-        "volume": "200+"
-      },
-      {
-        "title": "connections hint nov 18",
-        "volume": "2000+"
-      },
-      {
-        "title": "amazing race",
-        "volume": "200+"
-      },
-      {
-        "title": "fresno state basketball",
+        "title": "salvadoran forces haiti operation",
         "volume": "200+"
       }
     ]
