@@ -1,25 +1,37 @@
 {
-  "fetched_at": "2026-11-19T12:53:55.396443+00:00",
+  "fetched_at": "2026-11-19T14:11:02.310623+00:00",
   "countries": {
     "AT": [
       {
-        "title": "krim-brücke",
+        "title": "ben shelton",
+        "volume": "200+"
+      },
+      {
+        "title": "taiwan",
         "volume": "100+"
       },
       {
-        "title": "satteins",
+        "title": "anif",
+        "volume": "100+"
+      },
+      {
+        "title": "könig",
         "volume": "200+"
+      },
+      {
+        "title": "krim-brücke",
+        "volume": "200+"
+      },
+      {
+        "title": "satteins",
+        "volume": "500+"
       },
       {
         "title": "ingvild flugstad østberg",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "ec vsv",
-        "volume": "200+"
-      },
-      {
-        "title": "orf vorarlberg",
         "volume": "200+"
       },
       {
@@ -29,60 +41,48 @@
       {
         "title": "johannes kopf",
         "volume": "1000+"
-      },
-      {
-        "title": "florence pugh",
-        "volume": "100+"
-      },
-      {
-        "title": "bauernhof",
-        "volume": "500+"
-      },
-      {
-        "title": "a1 störungen",
-        "volume": "5000+"
       }
     ],
     "US": [
       {
-        "title": "us winter 2026 2027 snow outlook",
+        "title": "annmarie hordern",
         "volume": "200+"
       },
       {
-        "title": "movie directors",
-        "volume": "100+"
+        "title": "bob woodward",
+        "volume": "500+"
       },
       {
-        "title": "ben shapiro",
+        "title": "nitto atp finals",
+        "volume": "500+"
+      },
+      {
+        "title": "$ant",
         "volume": "200+"
       },
       {
-        "title": "jax taylor",
+        "title": "ben shelton",
+        "volume": "2000+"
+      },
+      {
+        "title": "brooks koepka",
         "volume": "200+"
       },
       {
-        "title": "ohio powerball winners nov 18 2026",
+        "title": "gma deals and steals today",
+        "volume": "500+"
+      },
+      {
+        "title": "next friday",
+        "volume": "500+"
+      },
+      {
+        "title": "uma thurman",
+        "volume": "500+"
+      },
+      {
+        "title": "fox news politics",
         "volume": "200+"
-      },
-      {
-        "title": "cignetti",
-        "volume": "100+"
-      },
-      {
-        "title": "fútbol",
-        "volume": "200+"
-      },
-      {
-        "title": "dolar hoje",
-        "volume": "100+"
-      },
-      {
-        "title": "noah kahan tour supporting acts 2027",
-        "volume": "100+"
-      },
-      {
-        "title": "wmt stock",
-        "volume": "1000+"
       }
     ]
   }
