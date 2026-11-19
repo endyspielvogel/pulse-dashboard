@@ -1,14 +1,18 @@
 {
-  "fetched_at": "2026-11-18T23:30:11.410152+00:00",
+  "fetched_at": "2026-11-19T00:32:49.448207+00:00",
   "countries": {
     "AT": [
       {
         "title": "lotterie",
+        "volume": "200+"
+      },
+      {
+        "title": "ps5 kaufen",
         "volume": "100+"
       },
       {
         "title": "nicolas seiwald",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "eisenbahn",
@@ -16,7 +20,7 @@
       },
       {
         "title": "raab",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "kredit",
@@ -27,62 +31,58 @@
         "volume": "100+"
       },
       {
+        "title": "atp finals 2026",
+        "volume": "100+"
+      },
+      {
         "title": "yannick shetty",
         "volume": "200+"
       },
       {
         "title": "flavio cobolli",
-        "volume": "200+"
-      },
-      {
-        "title": "russland",
-        "volume": "500+"
-      },
-      {
-        "title": "rohöl",
-        "volume": "500+"
+        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "bucks vs heat",
-        "volume": "10000+"
+        "title": "hawks vs thunder",
+        "volume": "2000+"
       },
       {
-        "title": "rockets vs pacers",
+        "title": "pistons vs pelicans",
+        "volume": "2000+"
+      },
+      {
+        "title": "brendan boyle",
+        "volume": "200+"
+      },
+      {
+        "title": "high potential",
+        "volume": "200+"
+      },
+      {
+        "title": "corinthians x botafogo",
+        "volume": "200+"
+      },
+      {
+        "title": "warriors vs mavericks",
         "volume": "5000+"
       },
       {
-        "title": "76ers vs magic",
-        "volume": "5000+"
-      },
-      {
-        "title": "grizzlies vs cavaliers",
-        "volume": "5000+"
-      },
-      {
-        "title": "hakeem jeffries",
-        "volume": "10000+"
-      },
-      {
-        "title": "kyle isbel",
+        "title": "corinthians vs botafogo",
         "volume": "500+"
       },
       {
-        "title": "grand theft auto: san andreas",
-        "volume": "5000+"
+        "title": "jason kidd",
+        "volume": "200+"
       },
       {
-        "title": "flamengo vs athletico-pr",
-        "volume": "1000+"
+        "title": "van gogh",
+        "volume": "200+"
       },
       {
-        "title": "cruzeiro vs palmeiras",
-        "volume": "1000+"
-      },
-      {
-        "title": "cruzeiro x palmeiras",
-        "volume": "1000+"
+        "title": "nwsl awards",
+        "volume": "200+"
       }
     ]
   }
