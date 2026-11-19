@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-11-19T05:40:12.262105+00:00",
+  "fetched_at": "2026-11-19T06:37:35.559009+00:00",
   "countries": {
     "AT": [
       {
+        "title": "ramon zenhäusern",
+        "volume": "200+"
+      },
+      {
         "title": "wetter",
-        "volume": "10000+"
+        "volume": "20000+"
       },
       {
         "title": "погода",
+        "volume": "500+"
+      },
+      {
+        "title": "hava durumu",
         "volume": "200+"
       },
       {
@@ -15,12 +23,8 @@
         "volume": "100+"
       },
       {
-        "title": "hava durumu",
-        "volume": "100+"
-      },
-      {
         "title": "počasie",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "bitcoin kurs",
@@ -28,61 +32,57 @@
       },
       {
         "title": "weather",
-        "volume": "500+"
+        "volume": "1000+"
       },
       {
         "title": "cadillac f1 team",
-        "volume": "100+"
-      },
-      {
-        "title": "időjárás",
         "volume": "200+"
       },
       {
         "title": "vrijeme",
-        "volume": "200+"
+        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "ziaire williams",
-        "volume": "500+"
-      },
-      {
-        "title": "cal state fullerton basketball",
-        "volume": "200+"
-      },
-      {
-        "title": "내일 날씨",
-        "volume": "500+"
-      },
-      {
-        "title": "lakers game today",
-        "volume": "10000+"
-      },
-      {
-        "title": "weather today",
+        "title": "fuel",
         "volume": "2000+"
       },
       {
-        "title": "resin",
+        "title": "where is strip club in gta 6",
         "volume": "500+"
       },
       {
-        "title": "dillon brooks",
-        "volume": "500+"
-      },
-      {
-        "title": "domantas sabonis",
-        "volume": "500+"
-      },
-      {
-        "title": "best hdr calibration for gta 6",
+        "title": "fix railing gta 6",
         "volume": "200+"
       },
       {
-        "title": "salvadoran forces haiti operation",
+        "title": "kristen ruskey",
         "volume": "200+"
+      },
+      {
+        "title": "the body season 2",
+        "volume": "200+"
+      },
+      {
+        "title": "monica barbaro",
+        "volume": "100+"
+      },
+      {
+        "title": "amy poehler",
+        "volume": "200+"
+      },
+      {
+        "title": "cathay pacific",
+        "volume": "100+"
+      },
+      {
+        "title": "gta 6 main character",
+        "volume": "100+"
+      },
+      {
+        "title": "emirates",
+        "volume": "100+"
       }
     ]
   }
