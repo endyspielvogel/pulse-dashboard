@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T15:28:43.394050+00:00",
+  "fetched_at": "2026-11-19T16:33:00.789144+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -45,6 +45,11 @@
     ],
     "Burger King": [
       {
+        "title": "Kein Aprilscherz: Burger King bringt echten Schoko-Whopper - oe24",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDlkMzc3NHhfbXFGUE1aVWxIQWNHUzVjdFhhNVd0YVBMY1lxYW1ac0pENHpfX2w4VFR3WjdEZm5PZHoteEZuVnZLZ0l3eGdkVXlmb09LczdDOGVIdFM3OHdzbTQ0WU43dzJxemt4c0NTWEdHc2ZWYkRxWkllci0zLVB4UzRTTVRFUURENVN5MmZBaE3SAZgBQVVfeXFMUEhfaEEwV0lwLUs4TDJ4Tmp6LWljeE1Zam5QNGVRNGpCZ29abU84cVZaUE1ZcUJxMklBRlhqbERnaTB1OFR1MjZXb0U2NTZXczlfbkRpOHR0dFJsVFM2aTRENy1sTEVqTEE4SmpvVU1UNUdwZEx5T2FGYVNhWEE4eEZqSXhzY0RPak1qMzJnWDJKRm1VWmFleTg?oc=5",
+        "published": "Thu, 19 Nov 2026 16:22:28 GMT"
+      },
+      {
         "title": "McDonald's, Burger King, XXXLutz: Wer Österreichs Systemgastronomie dominiert - Leadersnet",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVZqQnNrbHNYNEtPcFlhYVZpaldfSG1fOUlBbEQweWVZOXFFUUI4bVkyR0c4T1RuZG02czZMWjFNckNlZFhOd2p5VkRHMU1Ic0JjOG9HOVpPTi1aZmJpQ3lTTWwwQjkzLW9UMTJ3bko2WEZMdWFVcUlCQzdiZWhRalBpWXU4VUVRaFVlZXl6Mjg5N1E?oc=5",
         "published": "Thu, 19 Nov 2026 12:00:00 GMT"
@@ -78,11 +83,6 @@
         "title": "43 Soldaten haben ihren Dienstvertrag verlängert, um GTA 6 zu spielen - IGN Deutschland",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3VjaERGOGhzeExXa05kVGtWSHlIaXJtY0RtZjluMll1c25UNXpUbUllQTlOQ1BLY29DUWdHS2NsMUc5MllzeTJOaUhVYkt4WWd3YkpUNWNOZjlzN0JRVFdHSkdNR0prTGNKSkhncHMtdGFGdmZRZlUzaFk3R3NtUmhpQjI3WmQ3RHJ1Z1M5a1BJVlpWWlNRODNvck5LNlYyQ0JRVklsU1g3OV9tcEltWTg3Wno?oc=5",
         "published": "Thu, 19 Nov 2026 11:03:00 GMT"
-      },
-      {
-        "title": "GTA VI im Test: Das erhoffte Meisterwerk - IGN Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1VYX0pQYjJHYTRQUENZNzhheFhOdnc0ZmNWUkp2VUJvX2t3N0t5RnVZWlpvbXlRMTVmLVRIQnhLU296cVl4Q3hXZ1hCZ3ZoNDRHdkQwNHBzeGxyekdiYUhONjBDYXRkeFJLMjZBeW1zQklPV0I4RFVIUERtN0o3MGNFUEdPdTYwT1pXM3V3?oc=5",
-        "published": "Wed, 18 Nov 2026 11:04:21 GMT"
       }
     ],
     "Omnicom": [
@@ -124,14 +124,14 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Vergleichstest BMW i3 vs. Mercedes-Benz C400 - ÖAMTC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm90RFJhVWV0dDdpcGFBX0dnTjFMbDVheWRYcVJjazhJdURuMkRwZEZOc2JvN0hGRC1lVHAwZHJqNk5BbTd5VW95VWN4dE1pd21WNW5BUjlTOVVMY3FEYmkwRnhBT0h4X0ZzcXpMZzlQS1lKdGxhZk9wZEF6elI3eGExZUJIMWRMTVRuUlNmQThPVVNHR2c?oc=5",
+        "published": "Thu, 19 Nov 2026 09:31:09 GMT"
+      },
+      {
         "title": "(3⁺) MERCEDES-BENZ - Neues Mehrjahrestief untermauert die anhaltende Schwäche - stock3",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2VJLVZJYXZneHVCcER5TTB2RmpINlBuXzZwbjBMRUxuNkxqcF8tRjlOYjdOaGlubUVleVBQQ2VYd0NTTEt2Yzh1VEtUWFdKSF9Dd1kwQlZaczlRX1hVXzFJS3BuS2Npc0RsSmMtTTVZV2lfMWltSk5pN1NOVjVjdS02dzQydDhaTW1uRWwxWnhpYUUtYkR4RG1xc2ZHOFpzRGg0cmJHRQ?oc=5",
         "published": "Thu, 19 Nov 2026 11:33:00 GMT"
-      },
-      {
-        "title": "Mit Spannung erwartet - ÖAMTC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUDRROEdQeldBNmM2TFBKX1hqQjFIa0pDc1VtSlZnc1p2UWI3Smp3SmhYdFFITGdqSU0xMkhVempmVU5NREFkOUZzZ0hySW1DZ0c0ZHRyN3lXM3d6SC10ZDExNHN1V0N0dEd4VFpvNjEyRzVZU1V5OA?oc=5",
-        "published": "Thu, 19 Nov 2026 09:31:09 GMT"
       },
       {
         "title": "UBS AG: Neutral-Note für Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
@@ -142,6 +142,11 @@
         "title": "Mercedes-Benz unter Druck: US-Kongress fordert Verträge und Vorstandsnotizen - FAZ",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXZaeE54NjNadDZrcWNlcmVhWWZoVGxEY1AtYmR1dkc1bExZblBMLWRCZ1pacTdwb1I1WklGNWxIWUtqWjFiYVpoRXBGRWJNa2MzSnd0eVBZd28xQm8xWS0xYmoyZ3ZjSDhiU0JPSmhQdURuWFlROGZkaEI5TDRvWXpWTkg1T2dOOElCeWpnbEZyeHdDWTVJSzJra3A1N1JiSGplTndPLXhDdmZKMlVxS3kyektQN2x3TnFsZUtJbHBFY2l6QVJxWkhwMVM2QlR6QnJYaDNYZGdkdw?oc=5",
         "published": "Wed, 18 Nov 2026 18:39:59 GMT"
+      },
+      {
+        "title": "Mercedes-Benz Group-Aktie: Dritter Tag mit Verlusten - WELT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEFDYWZUZTV4cnBkTWwxVFJGcjVISktjNFlObVFXTFVETGpEdS1IV3dOdXZJRWxSdGZ2QjYteDBvSmIxZmJodExUY012eEU4ekZwaUZRRC1YREhiQ2k1YTBPZnhLckY0SDFTU253SUxGVld5Yng3b2g5cVVUc2dYOHFHb2RiemVBYU51RG5SLVptZkJGcG1TS3NYZjd5bHJlN1FIUm0zRWxSMkZIMWEtTUkwQzFGaVZOWld6ZklyOFQwQQ?oc=5",
+        "published": "Thu, 19 Nov 2026 16:06:17 GMT"
       },
       {
         "title": "(S+) Mercedes-Benz: US-Abgeordnete erhöhen Druck wegen Chinaverbindungen - Spiegel",
@@ -157,11 +162,6 @@
         "title": "Erlkönig erwischt: Mercedes-Benz Baby G Prototyp bereitet sich auf den Wintertest vor - Sternstunde - Mercedes-Fans",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcXVsU3lFX1lFUnVSQ0xFak1sNTc5VGt2c19KWElpVGJRWmpDQzhwUHVpZjg4cjR0RmlQaElsd1hHZzZuMkg4ODdXRnpad1FVcHhiNXhrT3Nqb3dTdlJETjBOQ3l0dVdUMkRJNnpnb3ZvOTJDN2R5U0VFOWRkc0tzdjk2RUxVZXNfRDR3LVZ2SWhZOHlKQVdyN3RNS3hfNWVtZnRpZVF2MUhMYzRxclgzS1hwbGxoa0UwYmMzek9VTHl1Skw3QVFWNEt3OW91YWZJdGRKelZRQQ?oc=5",
         "published": "Thu, 19 Nov 2026 08:53:06 GMT"
-      },
-      {
-        "title": "Mercedes-Benz GLE holt fünf Sterne im Euro-NCAP-Crashtest 2026 - Tuningblog",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2pzMWFIaXlXcVU5ZVdkMWRBY2xLYTVQTHNDSEdBbk5rMjFWNzRhS3JwWHRWTUs0aGVsZU9iTTVjWUI5ejFwX2FPV2RYUjllWjV1U0ZVN1ZmSFNIbGozUlIzMExHcjFQbDZHdEpMWVpmbUNpYnZ4N1h4MWlrZUljcWNhVU9CaFZ5UWc?oc=5",
-        "published": "Thu, 19 Nov 2026 11:46:05 GMT"
       }
     ],
     "Nvidia": [
@@ -191,6 +191,11 @@
         "published": "Thu, 19 Nov 2026 12:46:12 GMT"
       },
       {
+        "title": "Prognosemärkte: So wetten Anleger auf die Nachfolge von Nvidia-Chef Huang - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkFXNlcwaGN3eVNBNURUa04zS1lQdms2SWpPVEhZUUstMWVoVEJhblBsMmNGV1d4WVZodElVNl9MUnd1R0ptcDhGcWpfem8tZDF3RDNNeG8ycDhSRS1KNlo1blhtVWZfbUMtQU5NX0JFMlNHY0RrRTJmTS1uUHVmcTRSMjBDcXFyY2h6VTNSVmRyc0l6R0VHMFUwVkxIbUJHeUFnd1BTVXl5SHNxVjFkYXlqQWJCZm1MODFMbUluYTZBS2NaVnBPaG9Fbw?oc=5",
+        "published": "Thu, 19 Nov 2026 10:17:12 GMT"
+      },
+      {
         "title": "USA: Nvidia-Skandal lässt Weißes Haus nicht los - ORF",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GRU0wX1JiQ3pfRUpCSUVIV19TX0M1Zm5JdWVnTnhuNU9VRk1pUjM3UTB0aXJnSlNsaGpYV2xlWjNPUVNuOVE?oc=5",
         "published": "Tue, 17 Nov 2026 22:16:05 GMT"
@@ -199,11 +204,6 @@
         "title": "NVIDIA Buy von UBS AG am 19.11.26 - finanzen.at",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ER3BTZ21pRG8xeXNCMGtaaWU0eGdWYU5MdjRQY1hNTDlGbWtncVByaDdKZFpVSFhRRHJkWl80STlvTnlwWjY4WkFBaUlqTTRvTFd2YTNQNUZSZUUyNkJB?oc=5",
         "published": "Thu, 19 Nov 2026 10:18:25 GMT"
-      },
-      {
-        "title": "Chips: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Rückkehr Huangs? - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVFlXX1dkRDdPeXdqM2JHbGl6czZmVS1oQjNwRGlXa3U0b1ZNbm92ZzhDa0NNdGtYQUlSMGFick1fVmNtUWphd3BMdWM2WVdsT1g0X29lSVZxd0kyRHNPQjRUZ3hLakdjSE0tWUNYTzNST2lKRGNHUXJLTHR5dFJndjhvendVbEtQZ216bnVMRVRUbEhyczVTY1JnRzdXVFUzUXZiRTZnRnB2NzFNVHpiNF9BRjJJeFJQUFJ1ZHhsRDhPZnpqQW5IbHJrWkVBU0NU?oc=5",
-        "published": "Thu, 19 Nov 2026 14:03:07 GMT"
       }
     ]
   },
@@ -287,31 +287,26 @@
         "published": "Thu, 19 Nov 2026 07:44:00 GMT"
       },
       {
-        "title": "Top-Personalie: Iskra Velichkova heuert bei Coca-Cola an - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWhGMEpWanRKRGJkUXJCN3N4T1pmNkJHN0RkbkpCYVpTQlhPMzZCRUlWSkJqZDJSOEtyWnZiSTZTNWRYTzd6UXpiNDYwd19UQmxJaldleGRySFZTZXVJUVItU2xiTHNjc3RhcDVSVGEyUHBVYmtrN3E3TnFTeGQ2ajlZOFRXMXJEZDVERjlpX3JQOGt1NGJjMkpheHp0czg3NGlWMW1XZVdMMzhmZEE?oc=5",
-        "published": "Wed, 18 Nov 2026 10:30:00 GMT"
+        "title": "Cloudginny übernimmt die Werbung von Onlineshops zum Festpreis ab 790 Euro - openPR.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHNHRjJBM2tycmFyMFphQkRTM2FvRHljTnQ5UG1mVjZxN3ZHejdkZ3dvSnJFb2NKd3JvcjFVb0RFUkNVemd4VXdfN0I5Vk5tLW9HR2dwUWl0NlRXZjZFT3dXYU9sYUJhYzZDLS0zcm9CQ0ZzaE5STVZJbERrUjBYNjgwSDZ3ZG5XeGxpQ0RwajhWUUNIZzdLeEdYNEV5ZF9MUGU4WEsxcE9NRmVlTElzRjNSanBydw?oc=5",
+        "published": "Wed, 18 Nov 2026 14:01:00 GMT"
       }
     ],
     "Technologie & KI": [
+      {
+        "title": "„Der KI-Tsunami wird kommen“ - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMloyb1JKc296UVB2ZjktbGdjb2VKNVM4SUt4MndsNWNYNVdFYVlrYXlTTTVOclNlRUh4aE5ELTlIa3dTM0dMN3poSy02dUdnYXJsQkRNeG1lRXI2Zkl5YmYtaDZlcEtsbXBGWXJRdXdXbzhzRGZRUHp2RUQtaVFvRmlVYW8wUE1LTFI2R1Q4Tk5tOFhvQ1RlWg?oc=5",
+        "published": "Thu, 19 Nov 2026 08:59:00 GMT"
+      },
       {
         "title": "Technologie-Investmentausblick 2027: Die Stunde der Wahrheit für KI - BNP Paribas Asset Management",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDVySnZWamZKQXMxRUZIT2tOSTFPcnFqcFpzRFczMm9HUTFRZHlfVlV4NmlvOGdrV0YwYUttcnFuMXpKREg5V18zU0JjbHZXNEFCUWVRZmdPYnF6ZE00cW9QV3M0LVBKdXBvZmFRWEhJT1ZOVW5zVU5rbUtmX21NWE42cU9LRkZmN09TRV84VWhyam9TMXhUSVE0Rk8tN2d2cFgyZk5fUF9RdmdGcFI4LVFCNEp1c3VuQWFsbEdtcFh1d0Q1?oc=5",
         "published": "Thu, 19 Nov 2026 12:01:06 GMT"
       },
       {
-        "title": "Lidl gegen die Tech-Giganten: Wie Schwarz mit Milliarden nach KI-Macht greift - Industriemagazin",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGJJbWtJWXE3dlE0NUFra3hQSC1IU3FEWDVnZlJQeGtiTkFyeThlTE1obnhOYU1VSHJQWWpaa1ZvdDV5b1JQTE9lVncySmFzdmtLbENtX0Z1MmZuU21xZGpESzhERVVJeVUyeDR1TG52SjNMSTJpbENGUW10M1BDMWVndU5BdEQ4bVBn?oc=5",
-        "published": "Thu, 19 Nov 2026 10:09:00 GMT"
-      },
-      {
         "title": "Agentic AI als verlässliche Prozessarchitektur - kpmg.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmVsWjF4LVJUcElaMXJjeDliMzhZZ051OFg3RzdZdFY1TjdHTFJCbGxQWTM4SXhud3BpaDFGOEFnc242WUhSX21vdFRjTlVteWJMZmFCbUJnLWxpMDdHLVA2Q1l2bjdCcDVwcXllNUhsR2VmYlpRanFJYVRtLVBGemdFN2pPTWZGZ1BqbGRDVHN2SDNWb1hR?oc=5",
         "published": "Thu, 19 Nov 2026 10:11:09 GMT"
-      },
-      {
-        "title": "„Die Weltspitze der KI kommt aktuell aus China und den USA“ - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXVEUmhkU1kxZnlGb0NENFFDRDJZWThjSUpoUnA5N2QtNDdJSzF3WTlVSVljRkZQZmxicEloM0hVMlJzbmNMOUhGeW9XaUF4LWZ4dnpXclRueFY4RGIxVWdqa21YNDgyd29ySTZ0bFhzVW15OG9tOUJuYU5ia3Q3TFkya1R3Nks5dFhIYmFnUkttcmw5X3ZmWTdTamVKckwwMHdUTUlGVHZLaXFHbmtNZl9jekxheFNCeTFJQzFYVkJqQQ?oc=5",
-        "published": "Thu, 19 Nov 2026 12:59:00 GMT"
       },
       {
         "title": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort - a3BAU",
@@ -332,9 +327,19 @@
         "title": "Mirko Reuter wird Chief Technology Officer bei ARX Robotics - Militär Aktuell",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51eGFlM3NwMDc1cE16eUdfcjB6S0NuaDJnd1lxLXY2YmM2alRnZjZWeHJ6LVZ4UnJsanRuS1cxdzRlMHVjZVZqLTAxQnNheXhWaVdqNUI3b29Ja3h5ZWRpdkJIY1dBR2RpXzlraWJ3c3hCT2d5UTE5STFR?oc=5",
         "published": "Thu, 19 Nov 2026 07:43:36 GMT"
+      },
+      {
+        "title": "Helsing gegen Palantir: Wie aus einem KI-Start-up ein neuer Rüstungskonzern wird - Industriemagazin",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDV3daZXVqR0hwYUxfWl9Yck1ZZ2xXTExZTi1kdzlZV0FfWmNlX0dBQldrMkt4Zm84a0ZtZVgzSExYWWRuaE5HQVk5bkNva1JnSmtfN1FWZEVsM1lZZzVOMGRacjBCQlM0WDhaOGJDbGdvVWVaNVgwaGx1N25PTkk?oc=5",
+        "published": "Thu, 19 Nov 2026 10:50:00 GMT"
       }
     ],
     "Meine Aktien": [
+      {
+        "title": "Vergleichstest BMW i3 vs. Mercedes-Benz C400 - ÖAMTC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm90RFJhVWV0dDdpcGFBX0dnTjFMbDVheWRYcVJjazhJdURuMkRwZEZOc2JvN0hGRC1lVHAwZHJqNk5BbTd5VW95VWN4dE1pd21WNW5BUjlTOVVMY3FEYmkwRnhBT0h4X0ZzcXpMZzlQS1lKdGxhZk9wZEF6elI3eGExZUJIMWRMTVRuUlNmQThPVVNHR2c?oc=5",
+        "published": "Thu, 19 Nov 2026 09:31:09 GMT"
+      },
       {
         "title": "(3⁺) MERCEDES-BENZ - Neues Mehrjahrestief untermauert die anhaltende Schwäche - stock3",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2VJLVZJYXZneHVCcER5TTB2RmpINlBuXzZwbjBMRUxuNkxqcF8tRjlOYjdOaGlubUVleVBQQ2VYd0NTTEt2Yzh1VEtUWFdKSF9Dd1kwQlZaczlRX1hVXzFJS3BuS2Npc0RsSmMtTTVZV2lfMWltSk5pN1NOVjVjdS02dzQydDhaTW1uRWwxWnhpYUUtYkR4RG1xc2ZHOFpzRGg0cmJHRQ?oc=5",
@@ -349,11 +354,6 @@
         "title": "Skandal weitet sich aus: Hat das chinesische Militär Zugriff auf Nvidia-Chips? - Kurier",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03eVc5QXZvMFRWbS1EUEVrMUxLMDdCcDhNYmxnM0hFR0ZEU1VheVNTNVFBUW5oRHFQY0ZJbUhZdE1UWDF2UzR2UUtyb3oxYlhheDNyWmlHU2k3ZWtkZWI5ZGExNjdVeHk4NU9Ddkk3amkzcnFSeG1z?oc=5",
         "published": "Thu, 19 Nov 2026 12:32:00 GMT"
-      },
-      {
-        "title": "Mit Spannung erwartet - ÖAMTC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUDRROEdQeldBNmM2TFBKX1hqQjFIa0pDc1VtSlZnc1p2UWI3Smp3SmhYdFFITGdqSU0xMkhVempmVU5NREFkOUZzZ0hySW1DZ0c0ZHRyN3lXM3d6SC10ZDExNHN1V0N0dEd4VFpvNjEyRzVZU1V5OA?oc=5",
-        "published": "Thu, 19 Nov 2026 09:31:09 GMT"
       },
       {
         "title": "Nvidia-Aktie unter Druck: Wird Anthropic zur heißeren KI-Wette? - Der Aktionär",
