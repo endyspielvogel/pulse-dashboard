@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T05:59:02.406701+00:00",
+  "fetched_at": "2026-11-20T07:10:28.262417+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -75,14 +75,14 @@
         "published": "Thu, 19 Nov 2026 10:09:27 GMT"
       },
       {
+        "title": "Alle Themen auf einen Blick - WDR Presselounge",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vS0pnM3lUMFVpa2R2U3VRTUE2eVNwV1pzcDZqMmpzdDFQMlUtUDBWdUUtWm5wQ19WSU5MYjVNRklZMUttTldZZ2JPaE9zaW0xcXdUVG5TU3hMUDFFRTVYdXF3?oc=5",
+        "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+      },
+      {
         "title": "Kaum offen, ist dieses Krienser Restaurant wieder weg - zentralplus",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkl1MlNsbVNNYjlkdGJJUUR5NVpwalBqZ3BYWlktc0pPaHA4WGViM3g5Qmtad2NaUVV1LXAtcjRaOGFDMl9aeThMYThYZmJQTHczcVJSUUZhbHFkUXVQX2NUTVFqSmtDVHZRY3QtTVhmd0dXZFlVWS1ROXMxRzlBY2NlQjAtNzV3UjFCcEFJM0s0V09hMG5keVB6WGJ3MVVjRGc?oc=5",
         "published": "Thu, 19 Nov 2026 17:02:00 GMT"
-      },
-      {
-        "title": "[Nürnberg] Burgerheart - 100 Gratis-Burger am 26.11. - mydealz",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzBoRmFqb0FNNGI3b1Y5TkRyVldYNTl6UmdPUzdiQ01ubUF2NWRwNlVjWS1Kak5wZ0I3M05KcGEwWFlZSDQxZnltS1NBVjRaWlBUcjhsYkhJOU9YMDRuc1NvNWhZNjAwNzUtTldQa1dwbk5aclFkb1hkaE9PNDlMa3hheVp6R01ka1hz?oc=5",
-        "published": "Thu, 19 Nov 2026 14:10:24 GMT"
       }
     ],
     "Omnicom": [
@@ -129,19 +129,14 @@
         "published": "Thu, 19 Nov 2026 09:31:09 GMT"
       },
       {
-        "title": "(3⁺) MERCEDES-BENZ - Neues Mehrjahrestief untermauert die anhaltende Schwäche - stock3",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2VJLVZJYXZneHVCcER5TTB2RmpINlBuXzZwbjBMRUxuNkxqcF8tRjlOYjdOaGlubUVleVBQQ2VYd0NTTEt2Yzh1VEtUWFdKSF9Dd1kwQlZaczlRX1hVXzFJS3BuS2Npc0RsSmMtTTVZV2lfMWltSk5pN1NOVjVjdS02dzQydDhaTW1uRWwxWnhpYUUtYkR4RG1xc2ZHOFpzRGg0cmJHRQ?oc=5",
-        "published": "Thu, 19 Nov 2026 11:33:00 GMT"
-      },
-      {
         "title": "Mehr Dynamik für die Voll-Fett-Stufe: Der neue Mercedes Benz GLC 53 AMG mit H&R Tieferlegungsfedern - Tuningblog",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkZuMUdoV0N0VjlfTmxlMVFENHVmTkF6OU40OXZjaHNPLXJVY1BYVGFPenR4MFZQWnVrVzhEWEZZWkJGSjJ0TTVqcWJuNENMcWhRQXJraTNMMWZKOHBSUFRlNUhVa0RTb1lhTjlDWlByTnlWSmFEbksyT25zOHY1TmZYRWk?oc=5",
         "published": "Thu, 19 Nov 2026 23:01:58 GMT"
       },
       {
-        "title": "UBS AG: Neutral-Note für Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3AwV1ozRDcwcHV4U2RwNjZQZDVjbm5DVHNvM0c1dmJIS1FPN0txWlAtQ2tNSUp2OUhXZ09oSm1LMzkyWnhHZ1gxMV82SWhBQ0FHbElTOUk1UlQxTno0UGd4ZUhmbmRtOGhXWFRlVzJMRndVTnR1VENsZmtCX2h3eXRGdldKOXdlWDV6Q2hKaHJ4QnA3OUVxYjhjNWNiZWFJY0hBSzV2Nkk3cGpWWjJjT3Z6b2FpUQ?oc=5",
-        "published": "Thu, 19 Nov 2026 11:13:47 GMT"
+        "title": "(3⁺) MERCEDES-BENZ - Neues Mehrjahrestief untermauert die anhaltende Schwäche - stock3",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2VJLVZJYXZneHVCcER5TTB2RmpINlBuXzZwbjBMRUxuNkxqcF8tRjlOYjdOaGlubUVleVBQQ2VYd0NTTEt2Yzh1VEtUWFdKSF9Dd1kwQlZaczlRX1hVXzFJS3BuS2Npc0RsSmMtTTVZV2lfMWltSk5pN1NOVjVjdS02dzQydDhaTW1uRWwxWnhpYUUtYkR4RG1xc2ZHOFpzRGg0cmJHRQ?oc=5",
+        "published": "Thu, 19 Nov 2026 11:33:00 GMT"
       },
       {
         "title": "Mercedes-Benz unter Druck: US-Kongress fordert Verträge und Vorstandsnotizen - FAZ",
@@ -149,30 +144,45 @@
         "published": "Wed, 18 Nov 2026 18:39:59 GMT"
       },
       {
-        "title": "Mercedes-Benz Group-Aktie: Dritter Tag mit Verlusten - WELT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEFDYWZUZTV4cnBkTWwxVFJGcjVISktjNFlObVFXTFVETGpEdS1IV3dOdXZJRWxSdGZ2QjYteDBvSmIxZmJodExUY012eEU4ekZwaUZRRC1YREhiQ2k1YTBPZnhLckY0SDFTU253SUxGVld5Yng3b2g5cVVUc2dYOHFHb2RiemVBYU51RG5SLVptZkJGcG1TS3NYZjd5bHJlN1FIUm0zRWxSMkZIMWEtTUkwQzFGaVZOWld6ZklyOFQwQQ?oc=5",
-        "published": "Thu, 19 Nov 2026 16:06:17 GMT"
+        "title": "UBS AG: Neutral-Note für Mercedes-Benz Group (ex Daimler)-Aktie - finanzen.at",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3AwV1ozRDcwcHV4U2RwNjZQZDVjbm5DVHNvM0c1dmJIS1FPN0txWlAtQ2tNSUp2OUhXZ09oSm1LMzkyWnhHZ1gxMV82SWhBQ0FHbElTOUk1UlQxTno0UGd4ZUhmbmRtOGhXWFRlVzJMRndVTnR1VENsZmtCX2h3eXRGdldKOXdlWDV6Q2hKaHJ4QnA3OUVxYjhjNWNiZWFJY0hBSzV2Nkk3cGpWWjJjT3Z6b2FpUQ?oc=5",
+        "published": "Thu, 19 Nov 2026 11:13:47 GMT"
       },
       {
-        "title": "(S+) Mercedes-Benz: US-Abgeordnete erhöhen Druck wegen Chinaverbindungen - Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMWNIa0ZxVmFtZnQwdjhPXy16eEFEandlZzFWcTJpRlZTbHlNc19CRVMxakJqVUdLNDNMMVBIeFZ1SVJGMVNnejZKMUx5Ynh0U05aWWgzcDlUNVBUSTExQllEMnRmLUJNeWltQXBwU05wdUFpUXJYOXd4bUNyUDNhYWF3S1IzNjVpNzdYanIxTlZ6eHNpUE91ekJQT1dzaVlxeXd6VXk3X01TU0dBVHB5UHJoMF9mRHBLWk1FRzRCX09kQ0RJdWItbWlOTFEtSUo5MjF4aUZmTkxTbkl0SzI2UExn?oc=5",
-        "published": "Thu, 19 Nov 2026 13:55:00 GMT"
+        "title": "Mercedes-Benz Group (ex Daimler) Sector Perform (RBC Capital Markets) 20.11.2026 | Analyse - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbE9PaEFIMl9pT0tTWThZQjQ4b2pCaTczY3Q3RlRmREZrazQwNFJJUmd3ZWVGWGFldXJlVXJlZDhfcURKWlk3N1dPSWVQUUxkcFYxSHNGdFZKTEdnbnJmZ3NGVkRGLWlpODdUVlpjSjNlZ3JXaG5BWC0wY1pPTUNaa1RzXzB0MlhCaWNmNy1Ca29RaTBvSlZNNEt2TkpfZ05FVlpHMVluRXlLUQ?oc=5",
+        "published": "Fri, 20 Nov 2026 07:08:03 GMT"
       },
       {
-        "title": "Analyse: So bewertet UBS AG die Mercedes-Benz Group (ex Daimler)-Aktie - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXR5TjJBdU93LTIyTjRNSjFPVW9jSGppdHdvOTk1VEdNcGVneG05LUxFcmlack1pSWVuVVF4Z0UtbXZ1Y1labWJuZVZxVW5pWWdsZ0N6TkJtMENXX180bWNNNGdpUm1vVXFRdWVnbmMwNGhFck4wTkJ1cHNFUF9aUm54ZTRGVm1pQnFzQmhLMDMyd3JEWXhzZE1ZaTlVRWlHVUtFWkM3RU83eWdNRVpuS2U5ZWlmQ0xuOWc?oc=5",
-        "published": "Thu, 19 Nov 2026 11:13:41 GMT"
+        "title": "Der legendäre orangefarbene Mercedes C111 steht endlich zum Verkauf - Hypebeast",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTZ5UTA4SzVIaHJyOVpHRzRDQmZFWFVXbDEteTJVNVRJamN0ZG82Zmtqb05rWmRURWpBdXo5c0ZiWnNwc2Y0NHduQ19wTGFObjdaOERjblp5UlNRT3U5N3JXTE5aMDhfOWVUb2R5UFpLRzk3ci1DX0drNklYMFN0N1B2ZHZTUQ?oc=5",
+        "published": "Fri, 20 Nov 2026 05:55:49 GMT"
+      },
+      {
+        "title": "RBC: Mercedes-Benz Group (ex Daimler) \"hold\" - boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVEFvUURmbHBoYXlQQjZ5RWwyRDZaaTlJOU1XR2ZqbkZPMlpGWE8zUEZOR0tLN2szVnJ1SVlPNlh6M1NuUjlNSEN1WUtERmt4Mlc0T2hSSEpVUG1KUHBaNEtZdjVxUjl4a1NRYTYzMC1rbzBOUWxGdlp1UXRyRlMydy1iNEZ4dUMzWEHSAY8BQVVfeXFMUG1oR0hFWUt2SXEzTHFqQUNRODVXYlUxWWU4YnIyNUs3RDNDNEdJOHpQb1g5YjZDbEgtaEFQbGowZWszam9iS2VvcjBPWVdFcWhmeVlhZ25FTlp1eGRsanlfdmw0LU42V0VnNTRYTkc0SW1ydnNhMGFwbzNSUUNuaEVTd2lJZWFNeHhJcTJ4bWM?oc=5",
+        "published": "Fri, 20 Nov 2026 05:27:19 GMT"
       }
     ],
     "Nvidia": [
+      {
+        "title": "Nvidia: Weiter unter Druck - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXRVZ0F2V0FGQl9oT2ppazBVRW90MHlabUZsTGs2Nzd4ZklyT3dJSVZyWi0wWGlRbk1uSk8xaEc0ODZmVnBfdU1lWXlfM214Smwyc3FKWGNTdlJ6WUFTaXVmbWFPa1JXSmhjUUpCMmplZll4eHc3Q0ZITllpTHhfNElqRUYzVDZiLWc?oc=5",
+        "published": "Fri, 20 Nov 2026 05:42:05 GMT"
+      },
       {
         "title": "Kalifornien will von Nvidia Aufklärung zu China-Lieferungen - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGlXcDNacklidUVKdW80VlNzZWVQcDhFZ044NEM1Y0ZpdXRsTFBOYko4ekhYQ2R6RGJoVWNsZmpMNk9JZGhmZktaVEJUcUp3MldDUmM4Um1YcTRHR0NzNnNrTTR0blo3RDhaUGgyU0J0WDlKQTJLVl9ZbnlwVG9SUHVmTlBsSVJ2eGFfNUdnNmZvLWVlb1pTMUgxYVRvYXhPNkJoWThhdkNXeVU?oc=5",
         "published": "Fri, 20 Nov 2026 05:00:00 GMT"
       },
       {
+        "title": "Spionage-Affäre um Nvidia-Chef Jensen Huang – Die neusten Entwicklungen - Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3haWUdnVFE0Ny0wckFsN252bTFRQk1LRFdzMG9rMXJsUWJEWFB5UlFDU0dseENKRjU1dlRKalN1d0h1enBvcXFjaVdHbk15eS1faGdFMDc5RUNFSUptOTkzNnAzbVNJdnVJckZXTG9odW5ndkR4REFrZ3J6Qm5xeEM1V0sxUFk5QzJsRkZiczZaMGZ0TWFWSkFaUjFpRlJKcUFXRFVuMjZrd0Q0STBR?oc=5",
+        "published": "Fri, 20 Nov 2026 04:42:45 GMT"
+      },
+      {
         "title": "Nvidia: Die Folgen einer Affäre - ORF ON",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3NzhmWnBJaEFES1BBVnlqXzR4TldrVk1ua1VZcGFxVWNORjVsYXgyLXJaRENIWnZoZ01TSnpKUGVBSUxqR0s4OElUXzNyNkI2UURpbnVQNG5aNXFVXzBrcW1jaDJGUzNrNXJhNWZESFYzTmxkakVWYnVLMUZWdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzNaM1ZIaEhQalNHeV9hU05sRWU5U2hNcFd6UUROWW5HUEFkNTNZVFppYjhoSEgwN1dfZXN2MmYxN3JLQXNWcV9PSnFjY1pTekFLT2R2OEdNVmg5aTJzZUZ5MUZLOUZBWlViWmdBbzE5ZE1xQ3lxZmZBTDZvVVlpUmY0SlZzdk5LZkIxODdXRzFqYmhn?oc=5",
         "published": "Thu, 19 Nov 2026 21:54:38 GMT"
       },
       {
@@ -186,29 +196,44 @@
         "published": "Fri, 20 Nov 2026 03:00:00 GMT"
       },
       {
-        "title": "Nvidia: Weiter unter Druck - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXRVZ0F2V0FGQl9oT2ppazBVRW90MHlabUZsTGs2Nzd4ZklyT3dJSVZyWi0wWGlRbk1uSk8xaEc0ODZmVnBfdU1lWXlfM214Smwyc3FKWGNTdlJ6WUFTaXVmbWFPa1JXSmhjUUpCMmplZll4eHc3Q0ZITllpTHhfNElqRUYzVDZiLWc?oc=5",
-        "published": "Fri, 20 Nov 2026 05:41:58 GMT"
-      },
-      {
         "title": "Dieser Name fällt als Nachfolger für Jensen Huang: Wann lohnt sich der Einstieg in die NVIDIA-Aktie? - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMHh2WmNIdlQ3dlUtTl80c2t4MUFOMXd4MnNuZzdMR19KZ3drQXFIaW9YOXlNYlBZbnJVVTg0SGh0cFpkNUc3d0w1VzZxRFNRbnIyb3Nna2J4QWs0bVlBYTVURXlERnQ0dC16dmpQNlBHR0pOcjB4Tm1HbDREMU1iSzFtZWh3Vk9QSGhNTEVEcjA4THFzcDViUDNSNTRFNHpzZEtnRlNEZmVGRmp5QVZESi1sSVJVRDNKV2xneHJFeEFONW9FVXVfYncyZDNjMG51eHcxLXpaVC10NnVXSFliUE9fMWUxNV9YWldrN0h2RGlrX2Vhb1lzZFdrbTlzUTluUkp1LUdGS05XQXc?oc=5",
         "published": "Thu, 19 Nov 2026 20:39:10 GMT"
       },
       {
-        "title": "Anthropic und Nvidia: Wie Jensen Huangs Abgang die Partnerschaft verändert - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzZUOWEtdUlJdDlDZkhEYVctdlRLNjdZOF9lOWJPWklObThEbms3TVNCREFyREQ2TjNabXY5LVFUbHR1NkI1VnhEYlp6SnhYUXlLTGJMNnpvN1VsSnYwWkYtQnlOOC1PZGo3YWZHTGdDNUVLTUp2VF9SOE45WVEtRFd2a2E1bm1jMzMwRXVMYTJCSWpQYm9NUUJZX3IxZEdQSUYtUGlXbmJxRkVqaTdiVHBjS1RIc25hVzVFRkxoOFFLN0RZTnpVd3pZTnhXaks1U3p1TEFJZmpxN2pSbXc?oc=5",
-        "published": "Thu, 19 Nov 2026 12:12:19 GMT"
-      },
-      {
-        "title": "Nvidia in Kalifornien: Generalstaatsanwalt erlässt investigative Vorladung - BornCity",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdThSenJGWGVZT0ZDS2dOZzl2cENiNkFKcTdiNm9WWjd1TmtwaTQ5S3NVZDYtSXQ3aGZsd1o2Mms3RjNLRjhXZHU5RjgySTBTLWpRZUFfaDd3R2ZUeWE4TlVFUFRmUktPMXBSWHYxa3F2LW9uOFlkU0Y2OVJ4bjNfREJRWjIyVkRFUXRpbGN1dVNjaW1kYkFiYnZ3LVJGTlJ1ckJR?oc=5",
-        "published": "Fri, 20 Nov 2026 05:07:06 GMT"
+        "title": "Cathie Wood verkauft Nvidia - und investiert in diese umstrittene Tech-Aktie - Börse Online",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU5FeE5abHprOEJzWVJWMHJ2WWxGZUQ0YTBQS3ZvN1FJaHlrUXlTbUpwUmNFM04zZ2FRaXN5emJJYU8zUzQ1bjBLLWZLSVdoaWtGUDE0MnJuX0FpOTA3di15UnVwbkF2ZFlMY2NfYmtJOWtCLTJ0bDF0OVBkWnc0V1Y1Y2NYUWRuV0VSUV9rSmdWN0JQQmZha1F1cVVQTWs3NEYwLXJFaU5Ccmd3NDFGLTZ6enJ0OFlXUGlTOUEyUXhESXgzVWdaSXg4SWh4RGRScUE?oc=5",
+        "published": "Fri, 20 Nov 2026 05:25:00 GMT"
       }
     ]
   },
   "topics": {
     "Wirtschaft": [
+      {
+        "title": "Börsenstart von Anthropic: Zum Wachstum verdammt - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2JnOHFnWHFuYkwxaHQ1WVZRZ2lfOVQ5NndyVU80Z0xPQVBhRGlEQlA4N1NIeDZtdmk0VHhBa0hJc2tNZjRicDgxZDhBVC1mc0Fnb0VKeGU2dldJMmtZNm1haHhITWw5R2VfSTc5czBkQmY2ZDBqUlhRZ2pTS2tLR0R4SXVlSEp2OFhuajJzZUlXNXVHblZpTFMwQ212YVF2MjRLOFJwMHNHSFlDRWtNYXBVdmg?oc=5",
+        "published": "Fri, 20 Nov 2026 05:44:43 GMT"
+      },
+      {
+        "title": "Anthropic geht an die Börse - News.at",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qTi1zUm9PSmt3Q0JMRGVQMXJQX043TFB1V1lMakVmb3hFYlJJQ21qczAwSjdLMnZBMmN2RHZUN24xYTZ3eUtSQlBMeWh0SFlNbXlSTGJzZmNOZmxpVzYxV1ItVjEyODNHdnc?oc=5",
+        "published": "Thu, 19 Nov 2026 03:20:51 GMT"
+      },
+      {
+        "title": "Run auf Anthropic-Aktien: Rekord-IPO für KI-Konzern - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZ0SDRGd3FVeG5fMmxPakZod2VXaFl6cmlwOFJYekRDazRTdXpSb19QSnE2U2tHc0VKZ0NvR3BvRkJSa3d4d0tacnZmUWl3bEN0cWJhWnI4REEzYlJTUkxuQ3ltYzVFbkRCYVlUU254a21IYXhNR1Q2czVaSzE4Mw?oc=5",
+        "published": "Thu, 19 Nov 2026 16:19:00 GMT"
+      },
+      {
+        "title": "Börsengang von Anthropic: KI-Aktien könnten wieder gefragter sein - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEpQV3FObzFkU0RxMEdmOVBCQzhjcUZUYnhhSkdrdGR0N21NNml5dmRJLTFmTk4wYkg1ZVpOV1FWSXJBaHMyd0NaS0k1M1UzSEZoZ2trUWhJTThLRW56Tkt1WkhmbW5BSHZmUjdkYmo3UTZOeXVSaGpic1hrSktZX0Z4aUlKRFZpYTJYNFMtcm1JSXlHRHZ3cEZlWkQ3ejJpNkdVS1NYRDE?oc=5",
+        "published": "Thu, 19 Nov 2026 13:38:50 GMT"
+      },
+      {
+        "title": "Rekordbörsengang: KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse - Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWU1WbnoyR0wwSUtoUklhemh3eXhLcTB4NXdrT0YxUGpRTmlTWHQzX29CTnF3c0N2SkNOcEVkc1Q0UnBSaWxoQWxGRDBvZm1peHkwZFliMGFBV1JnVXU3SGtoNWRzTVlFZDU3XzhZUDZxVy16SVNoZnVHWmZzclBDZUJnam5KRUMwUWd6dDNiODA2a0cyZERQV1R5X2xZSWpWU1JTVU1ZOVdfQzdYS3ZZMWZGUm1TdDdjN01mbnpMY3QtN1o4YVMxbml6enNZMUZrT3hJRmZVS2ZTby13dkl3WERtdw?oc=5",
+        "published": "Thu, 19 Nov 2026 17:06:00 GMT"
+      },
       {
         "title": "Geld für die KI: Anthropic legt Rekord-Börsengang hin - FAZ",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjNyV0RBM0ZnbE9kNHNheEx1ZWswcnQ3WlRwLVpVVnFEbDNab1dfZ3NOb3JVSzdFYWszWC1ESDR4cXljMVBNeERSWjNjR3lxV1p2V2ROTG85V3Q5R1BBaG1QUzNFVWtxV0N1Sk45cnl1X2JVREgwNVlRSlJzWjg1QUtVZU1iZ081ZFpQTkhXS0ZvZ0dicjBfSndadGxfMmVHUkpDc1N6bkhacmZEcUNoRzhXUWc3MEhSWVJ5OQ?oc=5",
@@ -217,37 +242,12 @@
       {
         "title": "Rekord-IPO: Wie viel ist Anthropics Vision wert? - Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGFCY2o0Q0FsMUZ0Q1dEaHE1ODN2WVM4SV9Qc0hMMW5leUJKVXpLSl9IczNQU1g1cjdxTVVNX1prZ09USUNoclh2Sk9aR0o5ZUZ5TW9yOEpieFZKQk81UElqM3dHem5tQ05LT01XM0tIRnFORU52cUpOZ0NOcHNmZjgzaVdPQ0E0cUl5SzcxbnVQOVRvTWhQTHlRRWxBbjBLZW5LX2ktVkNhUGwtUzVEbWVhR1Rfa3MzbE9JV180ZDhWMURycDF6WDRxa1JOZw?oc=5",
-        "published": "Fri, 20 Nov 2026 05:18:09 GMT"
+        "published": "Wed, 18 Nov 2026 14:30:00 GMT"
       },
       {
-        "title": "Anthropic geht an die Börse - News.at",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qTi1zUm9PSmt3Q0JMRGVQMXJQX043TFB1V1lMakVmb3hFYlJJQ21qczAwSjdLMnZBMmN2RHZUN24xYTZ3eUtSQlBMeWh0SFlNbXlSTGJzZmNOZmxpVzYxV1ItVjEyODNHdnc?oc=5",
-        "published": "Thu, 19 Nov 2026 03:20:51 GMT"
-      },
-      {
-        "title": "Börsengang von Anthropic: KI-Aktien könnten wieder gefragter sein - Wirtschaft - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEpQV3FObzFkU0RxMEdmOVBCQzhjcUZUYnhhSkdrdGR0N21NNml5dmRJLTFmTk4wYkg1ZVpOV1FWSXJBaHMyd0NaS0k1M1UzSEZoZ2trUWhJTThLRW56Tkt1WkhmbW5BSHZmUjdkYmo3UTZOeXVSaGpic1hrSktZX0Z4aUlKRFZpYTJYNFMtcm1JSXlHRHZ3cEZlWkQ3ejJpNkdVS1NYRDE?oc=5",
-        "published": "Thu, 19 Nov 2026 13:38:50 GMT"
-      },
-      {
-        "title": "Run auf Anthropic-Aktien: Rekord-IPO für KI-Konzern - ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZ0SDRGd3FVeG5fMmxPakZod2VXaFl6cmlwOFJYekRDazRTdXpSb19QSnE2U2tHc0VKZ0NvR3BvRkJSa3d4d0tacnZmUWl3bEN0cWJhWnI4REEzYlJTUkxuQ3ltYzVFbkRCYVlUU254a21IYXhNR1Q2czVaSzE4Mw?oc=5",
-        "published": "Thu, 19 Nov 2026 16:19:00 GMT"
-      },
-      {
-        "title": "[1] Nächster Rekord rollt an – Anthropic geht an die Börse - Liveticker - Wirtschaft - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3phczJsVENHUVR3WXY0M3NLX2RSNDRQNzJ5TVhnR25MTHRiS2RxTjVQa0V1ZWtaUEg5d0Y1dnhaTHZ4cXhPZG5rdVNpejFDVUdaQ2Q5bS01MThLSlduekxncjJiNksxclBwcllqbDJ0RVBpWS00T3A2QVhtdDVUN3NvSER1Q3BqRTk2bGxUOXFpalY2M2p5S0tUaWsyUXhkUVBRcHZrX05veno2dlFXZnFfYw?oc=5",
-        "published": "Thu, 19 Nov 2026 04:48:00 GMT"
-      },
-      {
-        "title": "Rekordbörsengang: KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse - Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWU1WbnoyR0wwSUtoUklhemh3eXhLcTB4NXdrT0YxUGpRTmlTWHQzX29CTnF3c0N2SkNOcEVkc1Q0UnBSaWxoQWxGRDBvZm1peHkwZFliMGFBV1JnVXU3SGtoNWRzTVlFZDU3XzhZUDZxVy16SVNoZnVHWmZzclBDZUJnam5KRUMwUWd6dDNiODA2a0cyZERQV1R5X2xZSWpWU1JTVU1ZOVdfQzdYS3ZZMWZGUm1TdDdjN01mbnpMY3QtN1o4YVMxbml6enNZMUZrT3hJRmZVS2ZTby13dkl3WERtdw?oc=5",
-        "published": "Thu, 19 Nov 2026 17:06:00 GMT"
-      },
-      {
-        "title": "Anleger von Anthropic vor der \"Feuerprobe\": Was der Börsengang des KI-Unternehmens bedeutet - ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemVmR042OG9DQjJ6RzBmaElfSTIyZ3lCa3RIckE1YVpZSHo2cldURklfaVB1WkFVLUN5SkZyaks4a1kwSXhBeDVEa28xVTlJdl82SWVOcEI3akV3MElYY3lQR1NCSlFON21aYjlvU01UZEI4SVRwdmxnUDFxd1IyUzRfQ3hBSmc2eVpjbmlCX2k?oc=5",
-        "published": "Thu, 19 Nov 2026 05:28:00 GMT"
+        "title": "Börsengang von Anthropic: Ist Dario Amodei noch einer von den Guten? - Wirtschaft - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUhGakQxY0piLU1RbnV3VHFpZGZfTnB1SGRzN0VHMkRwM25XUkx1YjRFTEdnZ0tGLUYwRWlCbjRwMXhJd2VjRmo3V2QxQ3kzMmJ4VHpKTzV3TXZxT1d0Mm16T3Z2bG1sYl80WjRrdVVUaVpQTXhIQlpVLVRGYzRuRi1GY0dXWkY1ZnVyUkxsdnJGTW9DU3d2UGFPanI5WjhaYTh6VmllaUR2WWc?oc=5",
+        "published": "Thu, 19 Nov 2026 04:25:47 GMT"
       }
     ],
     "Werbung & Marketing": [
@@ -314,6 +314,11 @@
         "published": "Thu, 19 Nov 2026 10:11:09 GMT"
       },
       {
+        "title": "Wie man die Leidenschaft der Lehrer im Zeitalter der KI am Leben erhält. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFdzbHY2MW9TYnBjdVpmZmFzcUVWclpydWZZbzF5Mkp6Tm04X3diX0pjODNOZzhLOFJGd0lBZlduZS1FOG9LYXpiSnF0QnkwcFBYTFVsWGxyRDNxWUdaVzNrcDNLTWVOWXFJZXVQWEZOZzNJVmZ4VVFYNkpFN2o0UUFB?oc=5",
+        "published": "Fri, 20 Nov 2026 07:03:33 GMT"
+      },
+      {
         "title": "Anthropic-Börsengang: Belohnung fürs Good-Guy-Image - profil.at",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmJBXzZYS3NESGk5VjNJMzY5SmZzWGkwZlpIVVJKT1BsbDhXQ0J2Tm52YlFNTnlpaU4zQmdMZDUxa24yR3Q4RkdIelNDcHBkZktwR0VjT2hBMERDYjlWYUdYYTdSamhQTU4tVk9JNXhhbVkxd19qamFrVW9wRklpc19DeGtIMk5COExnLWkwZkx0MnpuUDRURWRlX0k3SVhtTkJ1UkhqU1JCYWg0aExYYy1HMThCYk8w?oc=5",
         "published": "Thu, 19 Nov 2026 14:29:50 GMT"
@@ -324,14 +329,9 @@
         "published": "Thu, 19 Nov 2026 16:48:23 GMT"
       },
       {
-        "title": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort - a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Qd2pRWjZEWW50WGpqR2doWWh0bnRjeXlyR3J0Y0VLdENjYU1JNUduUWtUUlpKYkJoY3NZYlY4VFIxcEtmOWlvekREYlBfN0JnamlPZWNfX3VzLUtRRmxfS1p0S2ZZbGxiNUZSTkg3c3lQcE41VjFicW5xYmxmb3M?oc=5",
-        "published": "Thu, 19 Nov 2026 10:56:26 GMT"
-      },
-      {
-        "title": "USA: Der Skandal um KI-Chips von Nvidia weitet sich aus - Politik - SZ.de - SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlJvR0ttS0JYYXNMeXlrLVhXWEt4V3dMQlRJZl9MZ1hubVlFdXhIZk9uMktxWjRSLVdRMTlhdnRVVV9wTHZ3QUJwSk9VTnItazhWamJ3OWJPeXJTT1l5dmVZeV9fU0JPVkNJSTdlY1VDaDY4RUFSWWx2WlRCMF8tczRJckpJeXhlZHVWRzhnMUN3SjkzbXR6TUlIZUxKVGFuODJjT2drbUdBSlNmN1VHRW8xNzZuUGlBa1ZMTGhoY1FMUVRM?oc=5",
-        "published": "Fri, 20 Nov 2026 02:51:52 GMT"
+        "title": "Lidl gegen die Tech-Giganten: Wie Schwarz mit Milliarden nach KI-Macht greift - Industriemagazin",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGJJbWtJWXE3dlE0NUFra3hQSC1IU3FEWDVnZlJQeGtiTkFyeThlTE1obnhOYU1VSHJQWWpaa1ZvdDV5b1JQTE9lVncySmFzdmtLbENtX0Z1MmZuU21xZGpESzhERVVJeVUyeDR1TG52SjNMSTJpbENGUW10M1BDMWVndU5BdEQ4bVBn?oc=5",
+        "published": "Thu, 19 Nov 2026 10:09:00 GMT"
       }
     ],
     "Meine Aktien": [
@@ -339,6 +339,11 @@
         "title": "Kalifornien will von Nvidia Aufklärung zu China-Lieferungen - Der Standard",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGlXcDNacklidUVKdW80VlNzZWVQcDhFZ044NEM1Y0ZpdXRsTFBOYko4ekhYQ2R6RGJoVWNsZmpMNk9JZGhmZktaVEJUcUp3MldDUmM4Um1YcTRHR0NzNnNrTTR0blo3RDhaUGgyU0J0WDlKQTJLVl9ZbnlwVG9SUHVmTlBsSVJ2eGFfNUdnNmZvLWVlb1pTMUgxYVRvYXhPNkJoWThhdkNXeVU?oc=5",
         "published": "Fri, 20 Nov 2026 05:00:00 GMT"
+      },
+      {
+        "title": "Nvidia: Weiter unter Druck - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXRVZ0F2V0FGQl9oT2ppazBVRW90MHlabUZsTGs2Nzd4ZklyT3dJSVZyWi0wWGlRbk1uSk8xaEc0ODZmVnBfdU1lWXlfM214Smwyc3FKWGNTdlJ6WUFTaXVmbWFPa1JXSmhjUUpCMmplZll4eHc3Q0ZITllpTHhfNElqRUYzVDZiLWc?oc=5",
+        "published": "Fri, 20 Nov 2026 05:42:05 GMT"
       },
       {
         "title": "Männer, Macht und Mikrochips - Wiener Zeitung",
@@ -351,19 +356,9 @@
         "published": "Thu, 19 Nov 2026 21:54:38 GMT"
       },
       {
-        "title": "„Menschen wie Jensen Huang begegnen mir immer wieder“ - Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVBwYW5SbUx1THhHM19vUUxZUmFPbWxrTlJYdHZHOWJoUUxxZF9WR0V6ZGZ1bE9Ha2VqZHJsa3RERERvVUdFQUtBa0RSdXNWbGtTMXQ2d2VBNFFtb1ZVSHVfbjY4YkhjMVBiellobjRhSFNScWtYaGo5YkJYN2dyYXRKSDFmVFNxalFQV2p0NVpHelJrQS1aOFFRakJsZlktYWZJS3JnY0hLQU9scF9vWTJibEV2NkR2eXNKNXcxVVVDQms?oc=5",
-        "published": "Fri, 20 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "title": "Nvidia: Weiter unter Druck - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXRVZ0F2V0FGQl9oT2ppazBVRW90MHlabUZsTGs2Nzd4ZklyT3dJSVZyWi0wWGlRbk1uSk8xaEc0ODZmVnBfdU1lWXlfM214Smwyc3FKWGNTdlJ6WUFTaXVmbWFPa1JXSmhjUUpCMmplZll4eHc3Q0ZITllpTHhfNElqRUYzVDZiLWc?oc=5",
-        "published": "Fri, 20 Nov 2026 05:41:58 GMT"
-      },
-      {
-        "title": "Vergleichstest BMW i3 vs. Mercedes-Benz C400 - ÖAMTC",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm90RFJhVWV0dDdpcGFBX0dnTjFMbDVheWRYcVJjazhJdURuMkRwZEZOc2JvN0hGRC1lVHAwZHJqNk5BbTd5VW95VWN4dE1pd21WNW5BUjlTOVVMY3FEYmkwRnhBT0h4X0ZzcXpMZzlQS1lKdGxhZk9wZEF6elI3eGExZUJIMWRMTVRuUlNmQThPVVNHR2c?oc=5",
-        "published": "Thu, 19 Nov 2026 09:31:09 GMT"
+        "title": "AMD und Nvidia: US-Regierung gerät wegen Chipexporten nach China unter Druck - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0pJcU14dzV5MVhma2dlOTR3Zi02eDJUNHhISzM0ekZoeU9JNDI0NnJhWE1fd2JvcE9nTW5uM1FycVVKT1BjWnc0VDBycElydUR3NlgzamhBY3QzaWZEa1Z2VjNKT3ZKRmp0RWhFbFF4ZmFsVnE5LVdsWHU0M2EzRFpjWTR0NGs0U2pHSkdUWFJRUG9DM1F1S3pSRWJ2R3NKYmZjS0RPbktmNGhKdnZZbGFpbko0Y0k1MkFKeHM5NXRhdGEzWnptcmk5Yw?oc=5",
+        "published": "Fri, 20 Nov 2026 05:46:52 GMT"
       },
       {
         "title": "Nvidia in Kalifornien: Generalstaatsanwalt erlässt investigative Vorladung - BornCity",
@@ -371,9 +366,14 @@
         "published": "Fri, 20 Nov 2026 05:07:06 GMT"
       },
       {
-        "title": "Anthropic und Nvidia: Wie Jensen Huangs Abgang die Partnerschaft verändert - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzZUOWEtdUlJdDlDZkhEYVctdlRLNjdZOF9lOWJPWklObThEbms3TVNCREFyREQ2TjNabXY5LVFUbHR1NkI1VnhEYlp6SnhYUXlLTGJMNnpvN1VsSnYwWkYtQnlOOC1PZGo3YWZHTGdDNUVLTUp2VF9SOE45WVEtRFd2a2E1bm1jMzMwRXVMYTJCSWpQYm9NUUJZX3IxZEdQSUYtUGlXbmJxRkVqaTdiVHBjS1RIc25hVzVFRkxoOFFLN0RZTnpVd3pZTnhXaks1U3p1TEFJZmpxN2pSbXc?oc=5",
-        "published": "Thu, 19 Nov 2026 12:12:19 GMT"
+        "title": "Vergleichstest BMW i3 vs. Mercedes-Benz C400 - ÖAMTC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm90RFJhVWV0dDdpcGFBX0dnTjFMbDVheWRYcVJjazhJdURuMkRwZEZOc2JvN0hGRC1lVHAwZHJqNk5BbTd5VW95VWN4dE1pd21WNW5BUjlTOVVMY3FEYmkwRnhBT0h4X0ZzcXpMZzlQS1lKdGxhZk9wZEF6elI3eGExZUJIMWRMTVRuUlNmQThPVVNHR2c?oc=5",
+        "published": "Thu, 19 Nov 2026 09:31:09 GMT"
+      },
+      {
+        "title": "Druck wächst - Kalifornien prüft Nvidias China-Verbindungen - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Kb19IalY1bXJRaWZmWWNWU0lheUQyWVNiU21PUmlZTWo4RF96QUtFWjQxSng2QWZNSWdscVRvdDR0UQ?oc=5",
+        "published": "Fri, 20 Nov 2026 07:02:00 GMT"
       }
     ]
   }
