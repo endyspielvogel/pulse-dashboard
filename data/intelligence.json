@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T02:49:44.577952+00:00",
+  "fetched_at": "2026-11-20T03:51:42.208186+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -61,18 +61,18 @@
       },
       {
         "title": "Die Tricks von McDonalds und Burger King - Heute",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVI5eHVMcmZfMTJPRmhNanpLZl9YVkhkRWhHeHNLeXBpaHJMMWgtTTU4VXhmeTlVMHpBYUtRRjY2R1hQazh0X0FEOTg5QlNJNm5FQmhFcUxWMXhMZ0xCS3ZFX1U4NVo3dzR0Q1pUUkM0TU41Vm5vN0M2WDhzUGdzWWg1Qk9rLVRUcUxUTUpGb0cwMEFfSWc?oc=5",
-        "published": "Wed, 18 Nov 2026 05:25:54 GMT"
-      },
-      {
-        "title": "Burger King ist erst der Anfang: Neue Gastro-Pläne im Rhein-Ruhr-Zentrum - WAZ | Westdeutsche Allgemeine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRl9Ma09TVmZlT2NzOTlJdmhJMTlpWVRQZDFWbVJNZVlVWHh5TTM0bGFtQ0tyeWlqbF9TMU0yc0FlWkFWS2dmTFpwMVNoNktsN0xxSXJ1ZDRrQ21KZ0NRbU9qcU1mR3Nva0hwaDdxM1FSSmhZYXpFV1YzeXhFYnUzWk1RazFhVDl3SVkwbTN4NHNmeUp3VHZQdTdxODdoNXE5djVhb2dKSHBhdWh0Qk82bk5EbFpSa01ZYS1WYTFST18zSmJJV0cycXQwR29UUnRWX01YV3NqZw?oc=5",
-        "published": "Thu, 19 Nov 2026 10:00:15 GMT"
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMU40STN1Wkg3YUNYcGNDWEpTRk1Md2JBZzIxd014elVjR0pySXNvbHhtM2gzQlBFX2NmeTE0ak9xWktfNXVwbkRFRFZJVHZvQ0dLY2U3a19Vdm5IcUhBUWE5d09mUlZvV1JVNGdBSDZ1V1owWXBjZ2NUc1FQeExtRVdWUk13NFlWNDRpeHpqNVpZQ1dFNWc?oc=5",
+        "published": "Wed, 18 Nov 2026 05:25:55 GMT"
       },
       {
         "title": "Ekelvideo über Fast-Food-Ketten in Deutschland: Was ist echt, was ist belegt? - Mimikama",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vbTk0bzhkTlJlMG1uckFsQlZuM2p4TmpyNkxqbjNHR3RWQnJfeHY2Z3p2MHZoNnFsd2ttOEI2aThwckNha2UzZkFYUURZZXNrRmQ1UmYzWTZzcGdwODU5QjBXMmRyenhRb28yM2JneWMxOEJYTDJTMjRkUk9ZQQ?oc=5",
         "published": "Wed, 18 Nov 2026 16:28:50 GMT"
+      },
+      {
+        "title": "Burger King ist erst der Anfang: Neue Gastro-Pläne im Rhein-Ruhr-Zentrum - WAZ | Westdeutsche Allgemeine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRl9Ma09TVmZlT2NzOTlJdmhJMTlpWVRQZDFWbVJNZVlVWHh5TTM0bGFtQ0tyeWlqbF9TMU0yc0FlWkFWS2dmTFpwMVNoNktsN0xxSXJ1ZDRrQ21KZ0NRbU9qcU1mR3Nva0hwaDdxM1FSSmhZYXpFV1YzeXhFYnUzWk1RazFhVDl3SVkwbTN4NHNmeUp3VHZQdTdxODdoNXE5djVhb2dKSHBhdWh0Qk82bk5EbFpSa01ZYS1WYTFST18zSmJJV0cycXQwR29UUnRWX01YV3NqZw?oc=5",
+        "published": "Thu, 19 Nov 2026 10:00:15 GMT"
       },
       {
         "title": "Kaum offen, ist dieses Krienser Restaurant wieder weg - zentralplus",
@@ -167,13 +167,18 @@
     "Nvidia": [
       {
         "title": "Nvidia: Die Folgen einer Affäre - ORF ON",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3NzhmWnBJaEFES1BBVnlqXzR4TldrVk1ua1VZcGFxVWNORjVsYXgyLXJaRENIWnZoZ01TSnpKUGVBSUxqR0s4OElUXzNyNkI2UURpbnVQNG5aNXFVXzBrcW1jaDJGUzNrNXJhNWZESFYzTmxkakVWYnVLMUZWdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzNaM1ZIaEhQalNHeV9hU05sRWU5U2hNcFd6UUROWW5HUEFkNTNZVFppYjhoSEgwN1dfZXN2MmYxN3JLQXNWcV9PSnFjY1pTekFLT2R2OEdNVmg5aTJzZUZ5MUZLOUZBWlViWmdBbzE5ZE1xQ3lxZmZBTDZvVVlpUmY0SlZzdk5LZkIxODdXRzFqYmhn?oc=5",
         "published": "Thu, 19 Nov 2026 21:54:38 GMT"
       },
       {
         "title": "Dieser Name fällt als Nachfolger für Jensen Huang: Wann lohnt sich der Einstieg in die NVIDIA-Aktie? - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMHh2WmNIdlQ3dlUtTl80c2t4MUFOMXd4MnNuZzdMR19KZ3drQXFIaW9YOXlNYlBZbnJVVTg0SGh0cFpkNUc3d0w1VzZxRFNRbnIyb3Nna2J4QWs0bVlBYTVURXlERnQ0dC16dmpQNlBHR0pOcjB4Tm1HbDREMU1iSzFtZWh3Vk9QSGhNTEVEcjA4THFzcDViUDNSNTRFNHpzZEtnRlNEZmVGRmp5QVZESi1sSVJVRDNKV2xneHJFeEFONW9FVXVfYncyZDNjMG51eHcxLXpaVC10NnVXSFliUE9fMWUxNV9YWldrN0h2RGlrX2Vhb1lzZFdrbTlzUTluUkp1LUdGS05XQXc?oc=5",
         "published": "Thu, 19 Nov 2026 20:39:10 GMT"
+      },
+      {
+        "title": "„Menschen wie Jensen Huang begegnen mir immer wieder“ - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVBwYW5SbUx1THhHM19vUUxZUmFPbWxrTlJYdHZHOWJoUUxxZF9WR0V6ZGZ1bE9Ha2VqZHJsa3RERERvVUdFQUtBa0RSdXNWbGtTMXQ2d2VBNFFtb1ZVSHVfbjY4YkhjMVBiellobjRhSFNScWtYaGo5YkJYN2dyYXRKSDFmVFNxalFQV2p0NVpHelJrQS1aOFFRakJsZlktYWZJS3JnY0hLQU9scF9vWTJibEV2NkR2eXNKNXcxVVVDQms?oc=5",
+        "published": "Fri, 20 Nov 2026 03:00:00 GMT"
       },
       {
         "title": "Anthropic und Nvidia: Wie Jensen Huangs Abgang die Partnerschaft verändert - FAZ",
@@ -191,19 +196,14 @@
         "published": "Thu, 19 Nov 2026 16:04:00 GMT"
       },
       {
-        "title": "Skandal weitet sich aus: Hat das chinesische Militär Zugriff auf Nvidia-Chips? - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03eVc5QXZvMFRWbS1EUEVrMUxLMDdCcDhNYmxnM0hFR0ZEU1VheVNTNVFBUW5oRHFQY0ZJbUhZdE1UWDF2UzR2UUtyb3oxYlhheDNyWmlHU2k3ZWtkZWI5ZGExNjdVeHk4NU9Ddkk3amkzcnFSeG1z?oc=5",
-        "published": "Thu, 19 Nov 2026 12:32:00 GMT"
-      },
-      {
         "title": "Nvidia-Aktie unter Druck: Wird Anthropic zur heißeren KI-Wette? - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNjBsVWVRbnh4bWNvUnN5VTVNdnRkdXM1SC04dDViZWhKQWF6MlNyaUVNcjFPc0Jld1lvX1IzNzNRV3ByYVpReTVZSTZBR29FMHhlS0xSME1Kak9KR3JNa0U4NnBoZWtpZGRQa3gtS0pCeE5vdDh5UG0wWlAzQVNaLTBoZnFoRzhMLXROSXFQdW5OSHhwQmlKR19jNS1yZS1SUURVZWFTOGN5eHRHOHVmRW5JX0NWWWdmUWUyNQ?oc=5",
         "published": "Thu, 19 Nov 2026 06:31:00 GMT"
       },
       {
-        "title": "Nvidia-Aktie: Lohnt sich der Einstieg im Monat November? - boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZ5RWxSdXZISFdEanI3YndhOWRqUmZDb0tKWVJZWjJER0swZjh0Q1JIM2FCSmJucmF5QXE3WnlSREZOUGRaWjlwYnZWMGtLQ3NIdEpNa3A2ckxqb3I3cFkyRjBTRGxBN0ZYUExUTHNmY2JVTkhicVZjcjRPTHZuajZtSWlZdkhzZDdvQmd1cS1rSXpLZHBmc3hMODBiQdIBowFBVV95cUxPdW9zdEx1eGF1Z3FpYVJRbXhXQ19BNzRTMTk5TGVqOHgzTGxfcHBXaHk3YTZ5aWlraWtyQThHR2luWk1DRVlmRzg4bVdXaHExaXFhWG1jYzRqa0ZJSm43UjR2RlZsbGxMVU5mandoZ0d0YUVYd3lNcEJCWUhtYUttd3V2WUd4Zkt1dk1vYUxBbE9ReUxIN0Z3RnpyU3pOWUxMRGpj?oc=5",
-        "published": "Thu, 19 Nov 2026 09:27:00 GMT"
+        "title": "Skandal weitet sich aus: Hat das chinesische Militär Zugriff auf Nvidia-Chips? - Kurier",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03eVc5QXZvMFRWbS1EUEVrMUxLMDdCcDhNYmxnM0hFR0ZEU1VheVNTNVFBUW5oRHFQY0ZJbUhZdE1UWDF2UzR2UUtyb3oxYlhheDNyWmlHU2k3ZWtkZWI5ZGExNjdVeHk4NU9Ddkk3amkzcnFSeG1z?oc=5",
+        "published": "Thu, 19 Nov 2026 12:32:00 GMT"
       }
     ]
   },
@@ -252,9 +252,9 @@
     ],
     "Werbung & Marketing": [
       {
-        "title": "Influencer sind längst fixer Teil der Kommunikation – mnews - medianet.at",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1pLb3U3SDhENGlFSmwzcXpRdk1tWURmUklIa1FoVUp3bm41X29zaHBodmR2bEt0SnJmVFh3LTRSUnhsOHUyZlZSa3ExSmk5cnUyOWFjbVdFd1d6bHpDd2c1TnF0ZW0tNkM3VjVsSzRrRUd5UFpEQi1IdEpUQUtIcmxTenIzTllMNHhXczJ5V0x4WmVkTjNqVGcyLXBqS0lra3lLNjl5U2RzWE9f?oc=5",
-        "published": "Thu, 19 Nov 2026 10:37:09 GMT"
+        "title": "Effie: Eine Nacht effektiver Werbung – mnews - medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ05DZzdhVWFhSmxfMWZVakNwWU9xMC1PakViY1lrTk4wU19UXzlaeVFEeVRfNXdEYTR4NXVMaW8wTzNCQngyNXVLY2NXRnhxTkxETUhaLUROeFY5NXpuMm5lTExPM3lpZjktMjJVYlZSOEIyV2o5RDRRNGNISjdLN2dGVXpFREFUSzVsZkxnbHlQVHFlVlE?oc=5",
+        "published": "Thu, 19 Nov 2026 09:09:06 GMT"
       },
       {
         "title": "«‹Reduced to the max› brachte mich in die Werbung» - persoenlich.com",
@@ -267,9 +267,9 @@
         "published": "Thu, 19 Nov 2026 13:28:00 GMT"
       },
       {
-        "title": "Effie: Eine Nacht effektiver Werbung – mnews - medianet.at",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ05DZzdhVWFhSmxfMWZVakNwWU9xMC1PakViY1lrTk4wU19UXzlaeVFEeVRfNXdEYTR4NXVMaW8wTzNCQngyNXVLY2NXRnhxTkxETUhaLUROeFY5NXpuMm5lTExPM3lpZjktMjJVYlZSOEIyV2o5RDRRNGNISjdLN2dGVXpFREFUSzVsZkxnbHlQVHFlVlE?oc=5",
-        "published": "Thu, 19 Nov 2026 09:09:06 GMT"
+        "title": "Influencer sind längst fixer Teil der Kommunikation – mnews - medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1pLb3U3SDhENGlFSmwzcXpRdk1tWURmUklIa1FoVUp3bm41X29zaHBodmR2bEt0SnJmVFh3LTRSUnhsOHUyZlZSa3ExSmk5cnUyOWFjbVdFd1d6bHpDd2c1TnF0ZW0tNkM3VjVsSzRrRUd5UFpEQi1IdEpUQUtIcmxTenIzTllMNHhXczJ5V0x4WmVkTjNqVGcyLXBqS0lra3lLNjl5U2RzWE9f?oc=5",
+        "published": "Thu, 19 Nov 2026 10:37:09 GMT"
       },
       {
         "title": "Mindcatcher: Provokante Kampagne von IKK Südwest will Frauengesundheit neu denken - marketingScout.com",
@@ -300,8 +300,8 @@
       },
       {
         "title": "Technologie-Investmentausblick 2027: Die Stunde der Wahrheit für KI - BNP Paribas Asset Management",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDVySnZWamZKQXMxRUZIT2tOSTFPcnFqcFpzRFczMm9HUTFRZHlfVlV4NmlvOGdrV0YwYUttcnFuMXpKREg5V18zU0JjbHZXNEFCUWVRZmdPYnF6ZE00cW9QV3M0LVBKdXBvZmFRWEhJT1ZOVW5zVU5rbUtmX21NWE42cU9LRkZmN09TRV84VWhyam9TMXhUSVE0Rk8tN2d2cFgyZk5fUF9RdmdGcFI4LVFCNEp1c3VuQWFsbEdtcFh1d0Q1?oc=5",
-        "published": "Thu, 19 Nov 2026 12:01:06 GMT"
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUdMQ0JRU1dyNmx1MENYWU13am1FOWhfeFNXOWxUVHo5TWZRczh0OGk2T0M4SXF3LThSNkk4WGx3azBYWVFtSk1lUHBpZjFvM1pMMXpiem1kV09mMjh6eHg1MWFGRFltM0xIaHJwSjIxcGdXWlRUQ3Zxd3J6dWFOMUhXdXI0b0I1YndTYmZFdkx3eVZGNlBZX1dGUWYtc0hKZzdsZU1hMjRsU1RZQUpVaHJuSDJUVzlzZGxrN2I0WU1qbEpz?oc=5",
+        "published": "Thu, 19 Nov 2026 19:10:33 GMT"
       },
       {
         "title": "\"Kipppunkt-Rede\" - Prölls KI-Rede enthielt weitreichende Pläne für den Wirtschaftsstandort - Leadersnet",
@@ -324,14 +324,14 @@
         "published": "Thu, 19 Nov 2026 16:48:23 GMT"
       },
       {
+        "title": "USA: Der Skandal um KI-Chips von Nvidia weitet sich aus - Politik - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlJvR0ttS0JYYXNMeXlrLVhXWEt4V3dMQlRJZl9MZ1hubVlFdXhIZk9uMktxWjRSLVdRMTlhdnRVVV9wTHZ3QUJwSk9VTnItazhWamJ3OWJPeXJTT1l5dmVZeV9fU0JPVkNJSTdlY1VDaDY4RUFSWWx2WlRCMF8tczRJckpJeXhlZHVWRzhnMUN3SjkzbXR6TUlIZUxKVGFuODJjT2drbUdBSlNmN1VHRW8xNzZuUGlBa1ZMTGhoY1FMUVRM?oc=5",
+        "published": "Fri, 20 Nov 2026 02:51:52 GMT"
+      },
+      {
         "title": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort - a3BAU",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Qd2pRWjZEWW50WGpqR2doWWh0bnRjeXlyR3J0Y0VLdENjYU1JNUduUWtUUlpKYkJoY3NZYlY4VFIxcEtmOWlvekREYlBfN0JnamlPZWNfX3VzLUtRRmxfS1p0S2ZZbGxiNUZSTkg3c3lQcE41VjFicW5xYmxmb3M?oc=5",
         "published": "Thu, 19 Nov 2026 10:56:26 GMT"
-      },
-      {
-        "title": "Lidl gegen die Tech-Giganten: Wie Schwarz mit Milliarden nach KI-Macht greift - Industriemagazin",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGJJbWtJWXE3dlE0NUFra3hQSC1IU3FEWDVnZlJQeGtiTkFyeThlTE1obnhOYU1VSHJQWWpaa1ZvdDV5b1JQTE9lVncySmFzdmtLbENtX0Z1MmZuU21xZGpESzhERVVJeVUyeDR1TG52SjNMSTJpbENGUW10M1BDMWVndU5BdEQ4bVBn?oc=5",
-        "published": "Thu, 19 Nov 2026 10:09:00 GMT"
       }
     ],
     "Meine Aktien": [
@@ -346,9 +346,9 @@
         "published": "Thu, 19 Nov 2026 09:31:09 GMT"
       },
       {
-        "title": "Anthropic und Nvidia: Wie Jensen Huangs Abgang die Partnerschaft verändert - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzZUOWEtdUlJdDlDZkhEYVctdlRLNjdZOF9lOWJPWklObThEbms3TVNCREFyREQ2TjNabXY5LVFUbHR1NkI1VnhEYlp6SnhYUXlLTGJMNnpvN1VsSnYwWkYtQnlOOC1PZGo3YWZHTGdDNUVLTUp2VF9SOE45WVEtRFd2a2E1bm1jMzMwRXVMYTJCSWpQYm9NUUJZX3IxZEdQSUYtUGlXbmJxRkVqaTdiVHBjS1RIc25hVzVFRkxoOFFLN0RZTnpVd3pZTnhXaks1U3p1TEFJZmpxN2pSbXc?oc=5",
-        "published": "Thu, 19 Nov 2026 12:12:19 GMT"
+        "title": "„Menschen wie Jensen Huang begegnen mir immer wieder“ - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVBwYW5SbUx1THhHM19vUUxZUmFPbWxrTlJYdHZHOWJoUUxxZF9WR0V6ZGZ1bE9Ha2VqZHJsa3RERERvVUdFQUtBa0RSdXNWbGtTMXQ2d2VBNFFtb1ZVSHVfbjY4YkhjMVBiellobjRhSFNScWtYaGo5YkJYN2dyYXRKSDFmVFNxalFQV2p0NVpHelJrQS1aOFFRakJsZlktYWZJS3JnY0hLQU9scF9vWTJibEV2NkR2eXNKNXcxVVVDQms?oc=5",
+        "published": "Fri, 20 Nov 2026 03:00:00 GMT"
       },
       {
         "title": "Österreichs Systemgastronomie wächst – McDonald's führt, Handel holt auf - ImmoFokus",
@@ -356,14 +356,14 @@
         "published": "Thu, 19 Nov 2026 17:55:00 GMT"
       },
       {
+        "title": "Anthropic und Nvidia: Wie Jensen Huangs Abgang die Partnerschaft verändert - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzZUOWEtdUlJdDlDZkhEYVctdlRLNjdZOF9lOWJPWklObThEbms3TVNCREFyREQ2TjNabXY5LVFUbHR1NkI1VnhEYlp6SnhYUXlLTGJMNnpvN1VsSnYwWkYtQnlOOC1PZGo3YWZHTGdDNUVLTUp2VF9SOE45WVEtRFd2a2E1bm1jMzMwRXVMYTJCSWpQYm9NUUJZX3IxZEdQSUYtUGlXbmJxRkVqaTdiVHBjS1RIc25hVzVFRkxoOFFLN0RZTnpVd3pZTnhXaks1U3p1TEFJZmpxN2pSbXc?oc=5",
+        "published": "Thu, 19 Nov 2026 12:12:19 GMT"
+      },
+      {
         "title": "Dieser Name fällt als Nachfolger für Jensen Huang: Wann lohnt sich der Einstieg in die NVIDIA-Aktie? - Finanzen.net",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMHh2WmNIdlQ3dlUtTl80c2t4MUFOMXd4MnNuZzdMR19KZ3drQXFIaW9YOXlNYlBZbnJVVTg0SGh0cFpkNUc3d0w1VzZxRFNRbnIyb3Nna2J4QWs0bVlBYTVURXlERnQ0dC16dmpQNlBHR0pOcjB4Tm1HbDREMU1iSzFtZWh3Vk9QSGhNTEVEcjA4THFzcDViUDNSNTRFNHpzZEtnRlNEZmVGRmp5QVZESi1sSVJVRDNKV2xneHJFeEFONW9FVXVfYncyZDNjMG51eHcxLXpaVC10NnVXSFliUE9fMWUxNV9YWldrN0h2RGlrX2Vhb1lzZFdrbTlzUTluUkp1LUdGS05XQXc?oc=5",
         "published": "Thu, 19 Nov 2026 20:39:10 GMT"
-      },
-      {
-        "title": "Chip-Riese: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGh2dFRkcnByYXNzRzRHcTZxUGZlSFpzQlVSV2c4WmJDd3hSSGp1b05jQmtKVnVUNXBNSVM3TTZoSE51NnFFYUVIWHgySnllbWxzTGYxUWtBdGdId25sUXZFaC1GUVNnZVI3RngwTk1hcXJpbVd5U1dfNG0zYzZ1cGNyUkYtdks4cUtpdFIwaWZ4RzJuMXk5aEZPNW0?oc=5",
-        "published": "Fri, 20 Nov 2026 00:57:43 GMT"
       },
       {
         "title": "Zerplatzt der Nvidia-Skandal die KI-Blase? - Der Standard",
@@ -371,9 +371,9 @@
         "published": "Thu, 19 Nov 2026 16:04:00 GMT"
       },
       {
-        "title": "Skandal weitet sich aus: Hat das chinesische Militär Zugriff auf Nvidia-Chips? - Kurier",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03eVc5QXZvMFRWbS1EUEVrMUxLMDdCcDhNYmxnM0hFR0ZEU1VheVNTNVFBUW5oRHFQY0ZJbUhZdE1UWDF2UzR2UUtyb3oxYlhheDNyWmlHU2k3ZWtkZWI5ZGExNjdVeHk4NU9Ddkk3amkzcnFSeG1z?oc=5",
-        "published": "Thu, 19 Nov 2026 12:32:00 GMT"
+        "title": "Chip-Riese: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen - DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGh2dFRkcnByYXNzRzRHcTZxUGZlSFpzQlVSV2c4WmJDd3hSSGp1b05jQmtKVnVUNXBNSVM3TTZoSE51NnFFYUVIWHgySnllbWxzTGYxUWtBdGdId25sUXZFaC1GUVNnZVI3RngwTk1hcXJpbVd5U1dfNG0zYzZ1cGNyUkYtdks4cUtpdFIwaWZ4RzJuMXk5aEZPNW0?oc=5",
+        "published": "Fri, 20 Nov 2026 00:57:43 GMT"
       }
     ]
   }
