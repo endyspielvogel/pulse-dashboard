@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-11-20T13:03:32.058462+00:00",
+  "fetched_at": "2026-11-20T14:17:48.679336+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "(3⁺) MCDONALD’S - Von wegen kleine Brötchen backen! - stock3",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUpoa1BRcXJaMmdnLXV1dVp6elQwN3hnWHFGN0xiNlhBS2JsY1hKNl9iMExMWExtdjU0UW1PNndmemVNWkRkeEc3ODVCa25Cbm52YmhRanhfZnR3eVZnLVJfT2J2bkx1Z0FMdnQ0cVBUV1oxMl92b3Q1YUxpcTJvMHZ3?oc=5",
         "published": "Fri, 20 Nov 2026 12:45:00 GMT"
+      },
+      {
+        "title": "Auch bei McDonalds – Neuer mit mysteriöser Frau in Brasilien aufgetaucht - Heute",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDVUUUgtZy1ZZTI2UGpDaXZ0RU80Y1ZZY2ROcFczTWlVNDZ0Q1owSzhIczZQZHRvTEdQbV8zQk5pQmFxLTJFLTRpWnRRa0RKeFJudFFFQUpWQ1U0S0t4Q25JTHhRRzEyYTY5LTFyQXZtS3hKNUdYeDRBak1WWllxLTJRN1dOc0VJVmc2Zzh3?oc=5",
+        "published": "Fri, 20 Nov 2026 13:08:00 GMT"
       },
       {
         "title": "Systemgastronomie Österreich: 17% Marktanteil, McDonald's führt - Die unabhängige Immobilien Redaktion",
@@ -28,19 +33,14 @@
         "published": "Fri, 20 Nov 2026 07:19:00 GMT"
       },
       {
-        "title": "Österreichs Systemgastronomie wächst – McDonald's führt, Handel holt auf - ImmoFokus",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3hRUDhRZDlaSWs5YWd0SHhscEJKUTlZTmpFbVlhQkxwX1N5R0tZZFFPWDRxc2p6SS1iM19pNXNRdWY4ZnpneEdKSUJWR1d0ZmJrX1IyTUVIeGpaNjdXOXdKZzBRd2EtbWJmUncwX3JZZEZ5dmVYZE9jdjhzRVhWdEtNaFp0RFQ1MF9fVlI4OUtyMTJEbjU0TE5B?oc=5",
-        "published": "Thu, 19 Nov 2026 17:55:00 GMT"
-      },
-      {
         "title": "McDonald’s Kenn: Neues Restaurant am Mosel-Einkaufszentrum eröffnet - L’Express Franchise",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeklvenh2UDltd3N5bndMVmJPdzB4T1YwdEZoaThTUEttZTZiM2djNHU3NGZhNmNFNC1pbEFOSVFKenhWUjMxX0cwNFFwMmxZN3B0Wm9UUmNmMFVoSTJ3c3ZXajczYThXYVI0c25kcDljSmNwZjNTVHhoRjNoSnZlMy1oaDVYQmV1WEFaMTRMUmg1Yk1PNkxz?oc=5",
         "published": "Fri, 20 Nov 2026 08:57:19 GMT"
       },
       {
-        "title": "Dow Jones 30 Industrial-Papier McDonalds-Aktie: Hätte sich ein Investment in McDonalds vor 3 Jahren inzwischen rentiert? - finanzen.at",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOc1VVWE5abGJLaHJsQ2h3Z2h0QjN4bVJhSF9sdEI5X2w2NWhMY0VfM3ROMS1lMWJSVUtncXkyNGJubHlQeElhWU5zQ05BZDBySERXd0o1ekFEdVV6S3gtbndoblpLVmJqODFNejRrakR3QjdxTW5GRUdDWnhxR1Jaemp1QUhGSUprRUx6OVZYUm5PUUlYWk5XOVZrbDVfaHI4ZVAyeUxZb243al9RYVJKS09DTlkzR19uS1ZRblRxblBlOFl6akdieHlfRlc4a0lLLTA4bEROdU55NDFXcGdSdnpCRUk5ZV8yVmtIcndZdmw2SVpFV3dkTkJYd1l5c0FOZWc?oc=5",
-        "published": "Thu, 19 Nov 2026 15:03:43 GMT"
+        "title": "Österreichs Systemgastronomie wächst – McDonald's führt, Handel holt auf - ImmoFokus",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3hRUDhRZDlaSWs5YWd0SHhscEJKUTlZTmpFbVlhQkxwX1N5R0tZZFFPWDRxc2p6SS1iM19pNXNRdWY4ZnpneEdKSUJWR1d0ZmJrX1IyTUVIeGpaNjdXOXdKZzBRd2EtbWJmUncwX3JZZEZ5dmVYZE9jdjhzRVhWdEtNaFp0RFQ1MF9fVlI4OUtyMTJEbjU0TE5B?oc=5",
+        "published": "Thu, 19 Nov 2026 17:55:00 GMT"
       }
     ],
     "Burger King": [
@@ -124,9 +124,19 @@
         "published": "Fri, 20 Nov 2026 08:30:00 GMT"
       },
       {
+        "title": "Mercedes-Benz Aktie: China-Krise drückt auf die Kursziele - 4investors.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IQWwzZjlfWjJfOVdXZm5rUVdKdTc3MjZRX0JoV2xNVW5GNWNnZ25DZ2lHV0ZULVRPekE1Tm9qRUpraURybTJDZWluWjg1cG5pMkRDYkFFUXJUTmY3UDUwVVFiX1lubExyVU9HME5EcXVqV2RPNXVrU0pOTUU?oc=5",
+        "published": "Fri, 20 Nov 2026 14:13:31 GMT"
+      },
+      {
         "title": "Mercedes-Benz Group-Aktie: Gleichbleibend - WELT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVFFYngtbVpLeXRSZDQyNkJIb19TS2FnQ1loRlEwamFXOGdZNVNoVzI0M05sLWNFa0o0QUFPTjhRSlJWbW82YzJ0NXRnU3ZXSjhQdFh6blNJaWFIOWthMFdLUDEzSE5Cb193a052UEVnTUt4dElxUjZUNlQxZFZ3bkY0aUhwTzk1S0cxN2JQbVdrd1NSZHI1b0xCNmg2VTd1X29JZGZSSWhBOHJRSVZsTmpJRQ?oc=5",
-        "published": "Fri, 20 Nov 2026 12:06:39 GMT"
+        "published": "Fri, 20 Nov 2026 11:55:00 GMT"
+      },
+      {
+        "title": "Mercedes-Benz Aktie: Kurs rutscht aufs 52-Wochen-Tief - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcldjeHU3aFN0RWZxT0NoYUNmb0FkdFB6MzBRdzlwWWEySlBuM3ZQWVJ5b0MzaXNob3U0QzBzX044NXdGeWNlT2x4cGk5bFZKN1Qxbk55Z1pQOGZGRzJDYUpBblRyX01VVXVHWG9ya1RQeTJ6Yno3LWk3T0ZxWktOVzIxRDRHVnVHZnQ4SmFMckZKbmN5ekN1ajN5WVV3OF9STWc2NlhHNA?oc=5",
+        "published": "Fri, 20 Nov 2026 13:11:07 GMT"
       },
       {
         "title": "Vergleichstest BMW i3 vs. Mercedes-Benz C400 - ÖAMTC",
@@ -134,14 +144,9 @@
         "published": "Thu, 19 Nov 2026 09:31:09 GMT"
       },
       {
-        "title": "Mehr Dynamik für die Voll-Fett-Stufe: Der neue Mercedes Benz GLC 53 AMG mit H&R Tieferlegungsfedern (ab Baujahr 04/2026) - News - VAU-MAX.de",
+        "title": "Der neue Mercedes Benz GLC 53 AMG mit H&R Tieferlegungsfedern (ab Baujahr 04/2026) - VAU-MAX.de",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDBSZ2w0a1NzRWxxTnRMdUZTOE84aUNqbHRjc1JaYlBrSFdEc0wyV0JxOWVhT0RlRm9rdE5HOTVJc29JeWpWMFBuQkZ6cDdIajdTQkdqa0pYVml6WkJNYW1hR1o0NlNvRk50cF9KTXF2SW1yNm5wT3QzNE9FNzZNQUdZUmRkZ1JzdktkcXBMYUlTY2I4TWxDTTFydTQ3U0hPbFVzeTZRWFZWdzRBR2IwbHFKRktyUy1wRDNj?oc=5",
-        "published": "Fri, 20 Nov 2026 09:56:15 GMT"
-      },
-      {
-        "title": "Mercedes-Benz unter Druck: US-Kongress fordert Verträge und Vorstandsnotizen - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXZaeE54NjNadDZrcWNlcmVhWWZoVGxEY1AtYmR1dkc1bExZblBMLWRCZ1pacTdwb1I1WklGNWxIWUtqWjFiYVpoRXBGRWJNa2MzSnd0eVBZd28xQm8xWS0xYmoyZ3ZjSDhiU0JPSmhQdURuWFlROGZkaEI5TDRvWXpWTkg1T2dOOElCeWpnbEZyeHdDWTVJSzJra3A1N1JiSGplTndPLXhDdmZKMlVxS3kyektQN2x3TnFsZUtJbHBFY2l6QVJxWkhwMVM2QlR6QnJYaDNYZGdkdw?oc=5",
-        "published": "Wed, 18 Nov 2026 18:39:59 GMT"
+        "published": "Fri, 20 Nov 2026 10:04:10 GMT"
       },
       {
         "title": "Autobauer: Mercedes rückt dem selbstfahrenden Auto näher - Handelsblatt",
@@ -149,14 +154,9 @@
         "published": "Fri, 20 Nov 2026 09:59:00 GMT"
       },
       {
-        "title": "Mehr Dynamik für die Voll-Fett-Stufe: Der neue Mercedes Benz GLC 53 AMG mit H&R Tieferlegungsfedern - Tuningblog",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkZuMUdoV0N0VjlfTmxlMVFENHVmTkF6OU40OXZjaHNPLXJVY1BYVGFPenR4MFZQWnVrVzhEWEZZWkJGSjJ0TTVqcWJuNENMcWhRQXJraTNMMWZKOHBSUFRlNUhVa0RTb1lhTjlDWlByTnlWSmFEbksyT25zOHY1TmZYRWk?oc=5",
-        "published": "Thu, 19 Nov 2026 23:01:58 GMT"
-      },
-      {
-        "title": "Rarer Flügeltürer mit Wankelmotor: Dieser Mercedes-Benz C111-II wird versteigert - n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX042aW1vUjQ3T0k3ZmI5RFBkQVVYdzRBeVlFeTZpWFU3bUNOeG1pSUZoc0lRbEVVVVp3OUZHazNqdEFwcDhTaURUeEowVjFuUENTZWduUTJWWjNfR1ZjeU1aYlRlSUNhUS1DeFBJZWdPTWxZaHMwWndyN2ZNZFFPOThqczZSdVRScXZ3SVM1Y1ZUamZoNGNwWnk2RzFlZmViRVRBaE40WEZYYWMzN1E?oc=5",
-        "published": "Fri, 20 Nov 2026 11:19:00 GMT"
+        "title": "Mercedes-Benz unter Druck: US-Kongress fordert Verträge und Vorstandsnotizen - FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXZaeE54NjNadDZrcWNlcmVhWWZoVGxEY1AtYmR1dkc1bExZblBMLWRCZ1pacTdwb1I1WklGNWxIWUtqWjFiYVpoRXBGRWJNa2MzSnd0eVBZd28xQm8xWS0xYmoyZ3ZjSDhiU0JPSmhQdURuWFlROGZkaEI5TDRvWXpWTkg1T2dOOElCeWpnbEZyeHdDWTVJSzJra3A1N1JiSGplTndPLXhDdmZKMlVxS3kyektQN2x3TnFsZUtJbHBFY2l6QVJxWkhwMVM2QlR6QnJYaDNYZGdkdw?oc=5",
+        "published": "Wed, 18 Nov 2026 18:39:59 GMT"
       }
     ],
     "Nvidia": [
@@ -225,14 +225,14 @@
         "published": "Thu, 19 Nov 2026 13:38:50 GMT"
       },
       {
+        "title": "Anleger von Anthropic vor der \"Feuerprobe\": Was der Börsengang des KI-Unternehmens bedeutet - ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemVmR042OG9DQjJ6RzBmaElfSTIyZ3lCa3RIckE1YVpZSHo2cldURklfaVB1WkFVLUN5SkZyaks4a1kwSXhBeDVEa28xVTlJdl82SWVOcEI3akV3MElYY3lQR1NCSlFON21aYjlvU01UZEI4SVRwdmxnUDFxd1IyUzRfQ3hBSmc2eVpjbmlCX2k?oc=5",
+        "published": "Thu, 19 Nov 2026 05:28:00 GMT"
+      },
+      {
         "title": "Rekordbörsengang: KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse - Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWU1WbnoyR0wwSUtoUklhemh3eXhLcTB4NXdrT0YxUGpRTmlTWHQzX29CTnF3c0N2SkNOcEVkc1Q0UnBSaWxoQWxGRDBvZm1peHkwZFliMGFBV1JnVXU3SGtoNWRzTVlFZDU3XzhZUDZxVy16SVNoZnVHWmZzclBDZUJnam5KRUMwUWd6dDNiODA2a0cyZERQV1R5X2xZSWpWU1JTVU1ZOVdfQzdYS3ZZMWZGUm1TdDdjN01mbnpMY3QtN1o4YVMxbml6enNZMUZrT3hJRmZVS2ZTby13dkl3WERtdw?oc=5",
         "published": "Thu, 19 Nov 2026 17:06:00 GMT"
-      },
-      {
-        "title": "Run auf Anthropic-Aktien: Rekord-IPO für KI-Konzern - ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZ0SDRGd3FVeG5fMmxPakZod2VXaFl6cmlwOFJYekRDazRTdXpSb19QSnE2U2tHc0VKZ0NvR3BvRkJSa3d4d0tacnZmUWl3bEN0cWJhWnI4REEzYlJTUkxuQ3ltYzVFbkRCYVlUU254a21IYXhNR1Q2czVaSzE4Mw?oc=5",
-        "published": "Thu, 19 Nov 2026 16:19:00 GMT"
       },
       {
         "title": "Geld für die KI: Anthropic legt Rekord-Börsengang hin - FAZ",
@@ -246,6 +246,11 @@
       }
     ],
     "Werbung & Marketing": [
+      {
+        "title": "Von Basketball bis Parteiwerbung: Das sind die kuriosesten Markenaktionen zum Start von GTA 6 - Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVl9TS3Fzc2R4YlpxN1NoQ0lCS2Y2R0g1ZDNsV2luY0o0dUdRZ0pCVWkyMWt3TEpoaExwQTYxLWk3MFJkRUdPNEpJcGtDT3JPN1Buc3VFUGV5S05nZ3dUQkxJMGFWT3JFZDlWMXVjZld0TVpsVGRKMDNwc2wyZkYtMnMtZkY0dGpTWXFpd1NBdXBWTjZ0d1h6eG5nUEZUanZfNDY3VkQ3UThEaVpfUXNnVFM4RFlqcnFkZG5qeUpGSzYyMnF1ckJHZlNRT1BpSER2Z2VyU3V0NjBteWlJcWlR?oc=5",
+        "published": "Fri, 20 Nov 2026 13:21:49 GMT"
+      },
       {
         "title": "Eleonora Frigerio, Danone: Creator bringen Menschen zusammen - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHpJbWNSbWxnRnFtd2Fta2dRNEJmTE1zSEEzSXhJWVJjS2h4X3Fnc3pUSFVNb3l2WlJEeWlFNDFRNnpHUFBSVjZzNWY0bldVX0tNdUQwc3Y5TXc5NEhzVW41ZlA3N0V2WXdtczRXTUlzQkhVYURwQmJUT2RGZmZWUnlpa1c2b25wTDJrWEI5WDVfQ1hZcEMzVi1pS25COGFGaFE?oc=5",
@@ -262,14 +267,14 @@
         "published": "Thu, 19 Nov 2026 20:30:00 GMT"
       },
       {
-        "title": "BCG-Studie: Viele Marketer zweifeln an KI-Kompetenz ihrer Dienstleister - Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVndfR3Q2OEtuV0hlVGpnSmEtQXExUWNsNl95UlAyNVQ2RkxUQTg4d1ZySW91RHRJS3AwbFFLZ2ZQVjdDVFNDdzVrblJPQlBQaU5DaWVXN3piSHNSWjYzV3hMN1ZLNkM3T2JQcXI4VlpXcjU4UDBncEJjbmZGaFltdXQ1UnpYa0lEQVY3STZVaU9ncVFMelJzaUkwa2NoYlJOamRyNkJJR0k0cXNEYmhnRld1Z0NobmZyMmlsX2dmYzFjUQ?oc=5",
-        "published": "Fri, 20 Nov 2026 06:00:00 GMT"
-      },
-      {
         "title": "Influencer sind längst fixer Teil der Kommunikation – mnews - medianet.at",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1pLb3U3SDhENGlFSmwzcXpRdk1tWURmUklIa1FoVUp3bm41X29zaHBodmR2bEt0SnJmVFh3LTRSUnhsOHUyZlZSa3ExSmk5cnUyOWFjbVdFd1d6bHpDd2c1TnF0ZW0tNkM3VjVsSzRrRUd5UFpEQi1IdEpUQUtIcmxTenIzTllMNHhXczJ5V0x4WmVkTjNqVGcyLXBqS0lra3lLNjl5U2RzWE9f?oc=5",
         "published": "Thu, 19 Nov 2026 10:37:09 GMT"
+      },
+      {
+        "title": "Agentur-Skalierung 2026: Warum 68 Prozent der Dienstleister trotz Umsatzwachstum an operativer Marge verlieren - PressNetwork",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVE5QdU8wY2RUcjFCRTlJdFZYOVlYU29iaDlDcEtDOExYQzA0MUlSdkNYZUFsVVR1ak9DTkpNal9wUXNSRHZzNFhqWVZMSWRiVHBrY0RSZEVmcHVaVHlXRG5MMEhxY1FES3ptXzlGVWlmN3VUb0EwYXhkNjdWclFuZUp5VGttZXhqVDZuVkpraWFwZWQzelpMYUxORVVoN183Z0pGZFpWVGZVNTZlQ2ZCNzFER1N4Rll0YTlvV2p0QzNoM0tMZUFwMGtBMXlCOU0?oc=5",
+        "published": "Fri, 20 Nov 2026 13:16:37 GMT"
       },
       {
         "title": "Mindcatcher: Provokante Kampagne von IKK Südwest will Frauengesundheit neu denken - marketingScout.com",
@@ -279,12 +284,7 @@
       {
         "title": "Ex-Antenne-Deutschland-Chef Mirko Drenger wechselt ins Digitalmarketing - Meedia.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU9yS0duMlJGMVJlN1Zqd09QNFk4SXFrUFhCRmFSVXUxbkJZMVRnSXJldnBQZldZR1RMcU9QWnhDUVBkZ2d2ZXVyX3FyOXI0WlRyVEh0SnpWa3J2cU1JWWV6NnlFTm5jRmU5T0lDeG1uNG5VcG82WXB0T2JoanNkeDBiaHhqV1MxN3BfUnNLSHpqRFozNjhCSUE2aHFMaEYyclNHNE03bFQ2dVVNTVdDblJhWQ?oc=5",
-        "published": "Fri, 20 Nov 2026 10:25:18 GMT"
-      },
-      {
-        "title": "Dreifach ausgezeichnet: SEYBOLD ONE gewinnt den Deutschen Agenturpreis 2026 in drei Kategorien - openPR.de",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbm1FRmtFYTVPNUd2bG1kN0ZLTk5NR3JtMktOV3RkR0Z2OHRuUi1GbmxYVzA0SFNCVFk4bFg1YXpac3ZrbUJsanNpWjlXLW9FNXJ4a2p6MkdlWno1VVZ5V1JxNWI2a0dGSDFKYi1aM0l5c3p3eE5MNVBDeUVDWDMtaFcyNDE3YTdRbnkxTW8tYkxGUUo4dUMxanNwV3FPY3VtYkhFNVFjWkdRZHhYRVZvcjVLalBMUGYzVHNzb1RCUU9vX3RmQlVYZmxXaFZqUQ?oc=5",
-        "published": "Thu, 19 Nov 2026 09:28:00 GMT"
+        "published": "Fri, 20 Nov 2026 09:24:00 GMT"
       }
     ],
     "Technologie & KI": [
@@ -304,14 +304,14 @@
         "published": "Fri, 20 Nov 2026 11:23:32 GMT"
       },
       {
-        "title": "Könnten KIs demnächst durch Selbstoptimierung Superintelligenz erlangen? - Der Standard",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2VrZVNNN2FqbHRpZUM0dTZPdFplSDYyNkJkSlA5dldTeVVfa005VjRval9FUWZnS1A0VFJNa1FvWFZybzJ6Y1FWZHU0X0VFYU5UaGxINXJ0djNOWTFLY3N0R3F6SjdGbS1HSC1pLWRDRlhFQ2taNnJwV0ZJTnNXcDN2cUYteUYtaVFXMkNPZGx0YjJQWFFCVWJpbDhwS0ZkTzQ4OU8yaWFGOEk2aUFpS3NadXgxd3U4QXZzTg?oc=5",
-        "published": "Fri, 20 Nov 2026 04:00:00 GMT"
+        "title": "Digital Finance Day 2026: Wie Technologie konkreten Mehrwert schafft - Blogartikel - Medien & Politik - Schweizerische Bankiervereinigung - Swiss Banking",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUliQ0ZTeVdHaXFDRGpMQ2N4bnN0Y1pSQk1FamJfS1hUdFk2Sk1HNXBHbTNnWTNiSDhGb183RFZJWTNwejZkXzhVbmhwOTc5LTlHVHc0QjJnWGtDZ1dTOWdjRTIyYlJscDJzWFhKZFBGYWN2TnVRQXh1TXdhZWNzUkVOTDlyelB4cEdDQVRSa013c3RXTHo2UGV6eWYyQUZvZy1PTXp4elQyRW9Wak55a2ZFQ1lYQ1BveUhhZjcwZVJkcU0?oc=5",
+        "published": "Fri, 20 Nov 2026 07:48:41 GMT"
       },
       {
-        "title": "Bayerischer Materialflusskongress: Humanoide Robotik und künstliche Intelligenz im Fokus - Logistra.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWJkMmNjS01FNE1mLUhCRDBRNjg1YU1FOUVSeXpMTm5ZekNVZ3NVOWlSXzN4MnRxbmFDSDdweGQ4UDFjQ255eXVBUHIyMmI3OXdQRDFBdVQ1cGJoS1VfWkVEbGtNdzl6dzVQZkVOQkpRVkhHM0IzRE9WYl9HN19ua2FVRlRxRWxLOXFiUUN3Wlc0bUM2ZXZRWlpsTlVqeU5OUTlpTmpabkFkeFdCVm1qcEdhNjlQZ0FqVmxhQ3JsNEZqTm8?oc=5",
-        "published": "Fri, 20 Nov 2026 07:51:03 GMT"
+        "title": "Nestlé-Chef will Produktentwicklung durch KI beschleunigen - Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR1c5dDJQXzNPR2Z6Njh2bGRxTFRMX2FwUHpGTzVJT3l3Rlp0ZGVlT09KWU9xcGhEQVhpcDJDVWhoRUhVRUYxMVY2S1dnZzhyMDlEeXRzLUVZb3Q4VjZkQUVXbGMwamd5M2hSeDdMVFNpSnlFcmJ0blBqRXNBUnlaVWZKN0xqWFNvQkprTmhxZzZFMDhHaTlLYjdhYVhhdU1yOWJZNA?oc=5",
+        "published": "Fri, 20 Nov 2026 13:33:41 GMT"
       },
       {
         "title": "Xi fordert Südostasien zur Stärkung der Technologie- und KI-Kooperation auf - IDNFinancials",
@@ -319,14 +319,14 @@
         "published": "Fri, 20 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "Künstliche Intelligenz kann Lehrer nicht ersetzen, wenn es darum geht, kreative Bestrebungen zu entfachen. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXgzRnJsNmZ3aHRVS3h1dnpCQWt5NmUwRzk5UmhobENqYlc0cTNURmwxZ3ZwQnA0NV9mbjl3WjRXU0lGenhGOF9rdVp5Zl9aSFVqOER3R1hjTUJIdlVuaUFTOXRGaVZfUVJJZ192d1V6SjljVF9ZeTcxNTJkWS1LTmZNdTRZaGExdEE?oc=5",
-        "published": "Fri, 20 Nov 2026 09:05:10 GMT"
+        "title": "Bayerischer Materialflusskongress: Humanoide Robotik und künstliche Intelligenz im Fokus - Logistra.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWJkMmNjS01FNE1mLUhCRDBRNjg1YU1FOUVSeXpMTm5ZekNVZ3NVOWlSXzN4MnRxbmFDSDdweGQ4UDFjQ255eXVBUHIyMmI3OXdQRDFBdVQ1cGJoS1VfWkVEbGtNdzl6dzVQZkVOQkpRVkhHM0IzRE9WYl9HN19ua2FVRlRxRWxLOXFiUUN3Wlc0bUM2ZXZRWlpsTlVqeU5OUTlpTmpabkFkeFdCVm1qcEdhNjlQZ0FqVmxhQ3JsNEZqTm8?oc=5",
+        "published": "Fri, 20 Nov 2026 07:51:03 GMT"
       },
       {
-        "title": "Technologie-Investmentausblick 2027: Die Stunde der Wahrheit für KI - BNP Paribas Asset Management",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUdMQ0JRU1dyNmx1MENYWU13am1FOWhfeFNXOWxUVHo5TWZRczh0OGk2T0M4SXF3LThSNkk4WGx3azBYWVFtSk1lUHBpZjFvM1pMMXpiem1kV09mMjh6eHg1MWFGRFltM0xIaHJwSjIxcGdXWlRUQ3Zxd3J6dWFOMUhXdXI0b0I1YndTYmZFdkx3eVZGNlBZX1dGUWYtc0hKZzdsZU1hMjRsU1RZQUpVaHJuSDJUVzlzZGxrN2I0WU1qbEpz?oc=5",
-        "published": "Thu, 19 Nov 2026 19:10:33 GMT"
+        "title": "Symposium Schaden 2026: KI, Haftung und neue Herausforderungen in der Schadenregulierung - AssCompact Österreich",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXFOdmpEZXViSWZIQmE1LTFUTThaN2ZEaDQtX0dGZnlNOW11US1pWEJxVlNlU2plcWdYZ0RWUEdUMjhlNUJnU0tQVFY0TjRRcjdYRV9PeV9LQnZSeVVnLUYwRzB6c1RZbkJnajg4djRvR1JWRU1kNEFLUnMtbnBXd01adWJKZnNVQ09yTTV4emhEYVZBRDRka3dkTmdVdEYtWVIyd2ZSb3FBLThLSWRmYW9TYjF6b3M?oc=5",
+        "published": "Thu, 19 Nov 2026 18:45:08 GMT"
       }
     ],
     "Meine Aktien": [
