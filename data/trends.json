@@ -1,87 +1,87 @@
 {
-  "fetched_at": "2026-11-20T05:53:57.789839+00:00",
+  "fetched_at": "2026-11-20T06:54:55.893086+00:00",
   "countries": {
     "AT": [
       {
-        "title": "phishing",
+        "title": "maria von welser",
         "volume": "100+"
+      },
+      {
+        "title": "flüssigerdgas",
+        "volume": "100+"
+      },
+      {
+        "title": "phishing",
+        "volume": "200+"
+      },
+      {
+        "title": "impfpflicht",
+        "volume": "100+"
+      },
+      {
+        "title": "christian k. schaeffer",
+        "volume": "200+"
       },
       {
         "title": "grand slam of darts",
         "volume": "100+"
       },
       {
+        "title": "mönchsgeier",
+        "volume": "100+"
+      },
+      {
         "title": "grand theft auto vi",
-        "volume": "200+"
+        "volume": "100+"
       },
       {
         "title": "befragung",
-        "volume": "200+"
+        "volume": "500+"
       },
       {
         "title": "black friday 2026",
-        "volume": "200+"
-      },
-      {
-        "title": "zalando",
-        "volume": "100+"
-      },
-      {
-        "title": "rohöl",
-        "volume": "100+"
-      },
-      {
-        "title": "feuerwehr",
-        "volume": "1000+"
-      },
-      {
-        "title": "johannes strolz",
-        "volume": "200+"
-      },
-      {
-        "title": "wann ist black friday",
-        "volume": "200+"
+        "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "florida flash flooding",
-        "volume": "20000+"
+        "title": "earthquake",
+        "volume": "5000+"
       },
       {
-        "title": "where is mandy's house in gta 6",
+        "title": "earthquake san jose",
+        "volume": "500+"
+      },
+      {
+        "title": "earthquake today",
+        "volume": "200+"
+      },
+      {
+        "title": "earthquake california",
+        "volume": "200+"
+      },
+      {
+        "title": "how to sell cars in gta 6",
+        "volume": "200+"
+      },
+      {
+        "title": "tyran stokes",
         "volume": "1000+"
       },
       {
-        "title": "haiti news",
-        "volume": "200+"
+        "title": "tyler barton missing colorado",
+        "volume": "100+"
       },
       {
-        "title": "mls",
-        "volume": "20000+"
+        "title": "miles teller",
+        "volume": "500+"
       },
       {
-        "title": "apple iphone 20",
-        "volume": "200+"
+        "title": "sri lanka vs pakistan",
+        "volume": "2000+"
       },
       {
-        "title": "kraken game",
-        "volume": "200+"
-      },
-      {
-        "title": "jlo",
-        "volume": "200+"
-      },
-      {
-        "title": "dallas stars",
-        "volume": "1000+"
-      },
-      {
-        "title": "los angeles dodgers",
-        "volume": "200+"
-      },
-      {
-        "title": "is there a casino in gta 6",
+        "title": "liam hemsworth",
         "volume": "200+"
       }
     ]
