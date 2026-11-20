@@ -1,10 +1,30 @@
 {
-  "fetched_at": "2026-11-20T13:17:23.886101+00:00",
+  "fetched_at": "2026-11-20T14:28:17.837100+00:00",
   "countries": {
     "AT": [
       {
-        "title": "sky",
+        "title": "sprengstoff",
         "volume": "200+"
+      },
+      {
+        "title": "polen",
+        "volume": "100+"
+      },
+      {
+        "title": "helene fischer was hast du mit mir gemacht",
+        "volume": "100+"
+      },
+      {
+        "title": "carlos alcaraz",
+        "volume": "1000+"
+      },
+      {
+        "title": "motorsport",
+        "volume": "200+"
+      },
+      {
+        "title": "sky",
+        "volume": "500+"
       },
       {
         "title": "teich",
@@ -12,7 +32,7 @@
       },
       {
         "title": "wernberg",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "stefan bradl",
@@ -21,68 +41,48 @@
       {
         "title": "todesstrafe",
         "volume": "100+"
-      },
-      {
-        "title": "xaver schlager",
-        "volume": "200+"
-      },
-      {
-        "title": "nations league auslosung",
-        "volume": "200+"
-      },
-      {
-        "title": "demo wien",
-        "volume": "100+"
-      },
-      {
-        "title": "boeing",
-        "volume": "200+"
-      },
-      {
-        "title": "saxen",
-        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "france vs spain",
-        "volume": "200+"
-      },
-      {
-        "title": "corey heim",
-        "volume": "200+"
-      },
-      {
-        "title": "marketwatch",
-        "volume": "500+"
-      },
-      {
-        "title": "sat",
-        "volume": "200+"
-      },
-      {
-        "title": "regions",
-        "volume": "500+"
-      },
-      {
-        "title": "warren buffett",
-        "volume": "200+"
-      },
-      {
-        "title": "quinn hughes injury",
-        "volume": "200+"
-      },
-      {
-        "title": "anthony ippolito",
-        "volume": "500+"
-      },
-      {
-        "title": "john grisham",
-        "volume": "100+"
-      },
-      {
-        "title": "rikers island",
+        "title": "melania trump",
         "volume": "1000+"
+      },
+      {
+        "title": "thanksgiving",
+        "volume": "2000+"
+      },
+      {
+        "title": "guy oseary",
+        "volume": "2000+"
+      },
+      {
+        "title": "abdul el-sayed u.s. senate",
+        "volume": "1000+"
+      },
+      {
+        "title": "grandes ligas de béisbol",
+        "volume": "200+"
+      },
+      {
+        "title": "3x3",
+        "volume": "200+"
+      },
+      {
+        "title": "carlos alcaraz",
+        "volume": "2000+"
+      },
+      {
+        "title": "turkey",
+        "volume": "2000+"
+      },
+      {
+        "title": "walton goggins",
+        "volume": "500+"
+      },
+      {
+        "title": "trinity rodman",
+        "volume": "200+"
       }
     ]
   }
