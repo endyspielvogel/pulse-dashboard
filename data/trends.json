@@ -1,10 +1,26 @@
 {
-  "fetched_at": "2026-11-20T09:10:17.597601+00:00",
+  "fetched_at": "2026-11-20T10:10:31.211852+00:00",
   "countries": {
     "AT": [
       {
-        "title": "autonomes fahren",
+        "title": "finanz at",
+        "volume": "1000+"
+      },
+      {
+        "title": "dolomitenstadt",
         "volume": "100+"
+      },
+      {
+        "title": "lance broadway",
+        "volume": "100+"
+      },
+      {
+        "title": "patrick stewart",
+        "volume": "500+"
+      },
+      {
+        "title": "autonomes fahren",
+        "volume": "200+"
       },
       {
         "title": "goldpreis prognose",
@@ -25,63 +41,47 @@
       {
         "title": "phishing",
         "volume": "200+"
-      },
-      {
-        "title": "impfpflicht",
-        "volume": "200+"
-      },
-      {
-        "title": "grand slam of darts",
-        "volume": "200+"
-      },
-      {
-        "title": "mönchsgeier",
-        "volume": "200+"
-      },
-      {
-        "title": "grand theft auto vi",
-        "volume": "100+"
       }
     ],
     "US": [
       {
-        "title": "travel",
+        "title": "music",
         "volume": "5000+"
       },
       {
-        "title": "hayden panettiere",
-        "volume": "100+"
-      },
-      {
-        "title": "gta 6 money glitch",
+        "title": "cruise ship",
         "volume": "200+"
       },
       {
-        "title": "swimming",
+        "title": "playstation plus",
         "volume": "100+"
       },
       {
-        "title": "latest news",
-        "volume": "2000+"
+        "title": "does jason die in gta 6",
+        "volume": "100+"
       },
       {
-        "title": "criminal defense lawyer",
+        "title": "gta online",
         "volume": "200+"
       },
       {
-        "title": "mobland season 2 episode 10",
+        "title": "bridge",
         "volume": "100+"
       },
       {
-        "title": "karely ruiz",
-        "volume": "200+"
-      },
-      {
-        "title": "x.",
+        "title": "tiger",
         "volume": "100+"
       },
       {
-        "title": "app",
+        "title": "dinner",
+        "volume": "500+"
+      },
+      {
+        "title": "mobland season 3",
+        "volume": "100+"
+      },
+      {
+        "title": "train",
         "volume": "100+"
       }
     ]
