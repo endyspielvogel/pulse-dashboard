@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-11-20T06:54:55.893086+00:00",
+  "fetched_at": "2026-11-20T08:10:50.924129+00:00",
   "countries": {
     "AT": [
       {
+        "title": "goldpreis prognose",
+        "volume": "2000+"
+      },
+      {
+        "title": "großer preis von las vegas",
+        "volume": "200+"
+      },
+      {
         "title": "maria von welser",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "flüssigerdgas",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "phishing",
@@ -16,73 +24,65 @@
       },
       {
         "title": "impfpflicht",
-        "volume": "100+"
-      },
-      {
-        "title": "christian k. schaeffer",
         "volume": "200+"
       },
       {
         "title": "grand slam of darts",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "mönchsgeier",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "grand theft auto vi",
-        "volume": "100+"
+        "volume": "200+"
       },
       {
         "title": "befragung",
-        "volume": "500+"
-      },
-      {
-        "title": "black friday 2026",
         "volume": "500+"
       }
     ],
     "US": [
       {
-        "title": "earthquake",
-        "volume": "5000+"
-      },
-      {
-        "title": "earthquake san jose",
-        "volume": "500+"
-      },
-      {
-        "title": "earthquake today",
+        "title": "karely ruiz",
         "volume": "200+"
       },
       {
-        "title": "earthquake california",
-        "volume": "200+"
-      },
-      {
-        "title": "how to sell cars in gta 6",
-        "volume": "200+"
-      },
-      {
-        "title": "tyran stokes",
-        "volume": "1000+"
-      },
-      {
-        "title": "tyler barton missing colorado",
+        "title": "will gta 6 have online",
         "volume": "100+"
       },
       {
-        "title": "miles teller",
+        "title": "one piece 1199",
         "volume": "500+"
       },
       {
-        "title": "sri lanka vs pakistan",
-        "volume": "2000+"
+        "title": "daycare",
+        "volume": "500+"
       },
       {
-        "title": "liam hemsworth",
+        "title": "sndk",
+        "volume": "100+"
+      },
+      {
+        "title": "truck accident lawyer",
         "volume": "200+"
+      },
+      {
+        "title": "car accident attorney",
+        "volume": "200+"
+      },
+      {
+        "title": "aleksandre topuria",
+        "volume": "100+"
+      },
+      {
+        "title": "5.4 magnitude earthquake",
+        "volume": "200+"
+      },
+      {
+        "title": "pg&e",
+        "volume": "100+"
       }
     ]
   }
