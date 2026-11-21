@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T01:30:31.417157+00:00",
+  "fetched_at": "2026-11-21T04:08:37.734523+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -7,22 +7,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSWdiWmkzTnhMVHNPMGZud2dFZFU2X19HMTZjUEYxblZsaV80Q2l1TEZrd1FCTG5aSlkwOXVPUXRDVktuSUtsdnk5QXdtWmxoWVdibDNZQThZMjAzcmN0THUzVGoyZWh4MUdDb0ZGdWs0bWNmMUZ4NnYtbmRSbTJUMVV1TXBtenVpM3ZFMmRxS1hhamhhRkJlOTBYU0pWS0FNWlZqNXFQT3lBQU9NZzh0LWh0ZmZSOHZVSjRVV2hGUlpuWUM4UFNMbnM0THgxM0dfZmxoem1TcDFvWnFQRHBFVDdEcFE?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T14:21:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Licence to chat: What Robert Pattinson’s James Bond reveal teaches marketers",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWR6MG01WDZWWUZGRkN3SG1OMUF2X0VPSjZ3SVdCSjY5ZVVuVFZreUpoTlhlY1Bhb1EzeW50b3J3RG0xRU9fb3Z3WUxOOXBJVjltR1ZjeWs5ZEljZWNrLTRKTXVTaEttMWRpdlhyZ212SGZVYS1LaWY4R1AwWTA3cGxQU3JJTTJBS3ZtWGVxU0RJV0EtQXc4SWZxMEJWOU1rTnRKYWdDelJOUEVlTnByUWxrNmV5T3dSdnI2YnFJYmpEd2FSZjBMaXFYYjg4ZzRpMHJBYnZvZTU?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T14:21:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Lean into fanbases’ individuality – World Cup fan report",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDNBcXRWRTBTSUg5NXk2dW1hT1B4XzQ0dVBVX2VfRnRHNDVRUmFEb2otMXVEZVlKZy1hMmJNcVBnS1dpczhHaU52NWFxakR5SlpRX2RJWGtWT0hUaUtKN1Z4ZWZhenBsTVQ4SUJUTURZVFRSSFVQc3VzUGotODRMSS1IclgzaGlqRm90c3oyVV9tTTZvSlJiRFdrMU1NVWdsanBOOXJ5OVpfMHoxd3lxaGo3QXE4U05xRXFV?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T13:20:09+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -35,30 +19,6 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Gogglebox reacts to Morrisons Christmas ad",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHVkUjhRQmh3MG1rSU1MY25nODN6aTN4X09kbzJqbUtKaVVrTlFPZlREeVJrZW1yTXhjdmVhcUxVNXhtWHBjeVZtb0gzMEI3d1d2RlpqSlVOODVXSzBkRTcyblp5djdnOHg5dVVKUENZOVNiMmFuR2NDWHFUZ05xTDdvSGI5Qmdqd2RzeVJiRW9zcHVXRktlQ1Fta1hYZHlrRjdLRGFVQkgzVUtw?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T11:49:53+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Royal Collection Trust launches media review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOam9qT1laaml4TWhBS1VWazRma3d3N2oxXy1FeEN5VkFLT2otUTdtU0NzMjBETVp3bzFnT2NIZElCMkQ1N3kxc29pMWZobEhCTU1zZ0JDQTRzOWVCSnExNkItU0lPdGZsbktRYmh4TTgxcDRoaGhnRnJHalRiWEZIVmdvYjE5eURwWmptcGl4Zjh6NWd3VzJxdHRHQ1FBbERXVzhGelMwRzdTXzZJd1dZ?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T11:28:46+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Financial Times chief communications and marketing officer departs",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnhMdFk0Z2s0LVU5UVZkUUZ0Tlp4NDYxeWVUQTFuNlpfRlZoUlNhSEVibEVoTDBQdmVtaEVCSkx2LUNzR05kc25ZSHoxZEhwYzc0WGlBMkJNZHJWQnFqVUpod2ZCX0xYMm91NmxMeGJ4YmNEQ21vZm1iVk5DUkc4bURDSC1fZXV5czdmaDlkeWxyQkd4QnhHZ0p5WV9feFJLeTRiMkxOdWRteW9GMFdHMzBncVV4Rl9zNm1hbnlvOUhMSkN5eTlaT0pYNEk?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T11:05:08+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
       "title": "Branding brief: Barr revamps packaging",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1RFY0RZUFh1Uy1FM2pTQmFvY3h2bFVXRlJuNTRfWjR3ZDg3Tlh1WnExY2lSRFdaSmI2T1dsSTlmWGZuc1JwYUt1Mkp3NUJ4dzJjdVBxdjNHd0tTdTZGWUxCZ0p1U0ZyQ2xsWGRBY0Q5ekI0Vm02MnRLR3cyOElqbDh5S1ZUcGhXUHMzNnJPRjNLYzJaRFNxQ3lweWJnNDVnaHdzRm5n?oc=5",
       "published": "20.11.2026",
@@ -67,24 +27,8 @@
       "source": "Campaign UK"
     },
     {
-      "title": "McCann Erickson wins £10m Evening Standard account",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlpPOUk2OEdlM2FSN1kyLURDRFVDT2RyU2U3WEhwek1PRnl1NWlVWnZKUnFZZEgzVWJIanR0dEYxbUhneENiYkplRkJ4TkhLazc2d29BRlgtX200cVU0NlVEUG5VbGZVaEk2TDVDYnoxSmJaeWx2dmRVOXZ6djNmZjlwaGtiUGpYbEZKS2g1aEJVdkRMMGUwa18tS3hFeDNqRzF4NUQyV3NDTzU2QlkwZkZxc3hVdw?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Aqueduct creates brand guidelines for English Heritage",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcm9JNlRrSVFFMXBrX3lONEVzTE9zMUZvdWxWY0JRTUJmclJtMnBpRWdWRzctWldJNE9WOVJOd1Z4RFJqYzROTkZNOGZETGlwX2RGUGZEMFRMSngtVGdaUG5ZQlZ1X0R2MTBYeXp0RDhCaGxFWC1HX012bnc2ZGp4bk5TajNiTUEyZUJRay1aRGpkaTdVVHctYVVYWlVUUVdfa0FneGVaVXZ4TzF0dmdvRlhCMjRpS1FHLUhlbA?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:48+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Ocado hires CHI to spearhead TV drive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUdBVlVRTjlZVC0zSjNfSnVXdjJqM0lodTd2S3dQZFVyRTl5dGloNEhKazgzYmtBMG1HMHFkTUZxYWh6ZnhOc0xlcXJ5OE53Vzh2STRSRjBhQlpDZzVTVFRIbUpzcDVscTlEZTkyZ0poTV95Y2FKYUtGV0VWcHdQajltbU5BRlN6S2J5MUlyUjZyTEF0RnFQNWxTRDhlWENsUllSU053?oc=5",
+      "title": "Microsoft flexes its media muscles",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEk1OGtJaGMzRFFGbXRWandBTlhDVEhvS2szVGdoQnY4VFVkTDh5a2xzdEYwQ081VTBVV2RvZ2d6V2hMSDdWLTVuRGxrRkRjdGVPdTQ1aWYteU43M3BwUUhlOHBOVHZxTld3S0hZdThDTXdPZXlKbEJIYTdBa3BZai1VOWg4NjF6ZkR3aVV5aHE3VU1sUWw0YzNaZXBLXzRtZlE?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T04:52:48+00:00",
       "description": "",
@@ -95,6 +39,62 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWZzYXVQNUpPZnZubXRmSEEwQ2ZJeVdYMWlTVFhrTWpRZ09iVEMyaF85a0pDcm8wS05URjFrczRnQ1ZUX2dmZ1UwRTZ0MnpWX3d2cnNkdVVROXRvSFdRYmRuaUE4LUpEMDJpSEh4dFhNRE82a0NCTjI1aTNWazZMd0Nta2I1ZFRNSjBtSlFZeENyeUtGS04teWI1d2tMbktsdDZkR0ZsdHlpN1J0U1pQYVljVHpfM1d5bC00a1NuWQ?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T04:52:47+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "News brief: Cereal Partners launches TV campaign",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFluZlptR0x3MnJyTkJIM3dnZEw5Z3p4WDV1ZWlZbVI2dnJQNDVjZV9CelBmTm0yVDFKUURNaFUwUHhsWFJ3ZlFJaTliVUNpdHFGODI5dFBvZkZaN1h0V19PY0M0WW93U25YOVJmTWtSVDZvdDAzekwtZy0wQnAteUFydkt4SUtGMmpxQVdGcjJTTXd1aXVtMzdZMkpqU2xVelZHY2pIR1NuaWhXdFNEb3BuYw?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:47+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Dairy: On the QT ..",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYk9zdm1Wejg2MVRVMHhfai1sazV2TXJXb0NkTkxnYUl6SW1TVnFaMlRpN3ZZc2phSHR5UDB1SlpHeDE4Y09BdVRpWmNrdm0xdkJiX2dyUlg4RU9aaUY2dDBmMk1UWUxPNGFabHRYRGhTWl85azY3cnNKWnFqanNLeDlFbTN0UGdF?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:46+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "JCDecaux bolsters management team",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjhPWFNEWU1kREY4RVZIVnlZOWwtXzdacjNiN0lTcUo4dEJsRzI1bm11VnhKaGtlVDVFRmkzZFRkRXVNUGNDVHA2TV9aV210RGxnZjduQmY3bmpPNVBKYng0b25qcFJPTjhZSXdtNUQ5dU5RcUVnM1ZNZjhpazlYVmViMGp0LXNORHB5Q0VNbmtVZVpMYzUwTmk3NnVVQmVy?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:46+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Direct brief: Aztec Marketing hired to raise Tenpin Bowling profile",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0VnT1dmRG5lQ093S09KcjdReVFOYmZuQms4ZGtoamFqdW5lakZqVWJOdWsxcjNDY0p2TXd6YjZaZ1ZmRFQ1Mjg5VzBPQWxSVW5adHc4TmRZM0FjSDlRdE9rM2lGUDZadnJ5VFczdmtEUVhwTWtrbkRuTnhFa09EY2NKa2JNSmk4M0ZlNEVvU2taQUVaSUY0Uk16aExhU2UwREJxclVURG13dDZXVWlSWEY0Y3hTU0hrZFMydEE4VVV2WTRhaUxBNUtJRkU?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:45+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "News brief: Indesit TV campaign",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTBfd3NQOWRVM1FCTWhqVHAwUkEyV1l6X080YkJiVXk4aC1yNU9iSWpOU2NFa0lpSzhqQVVjNmt0YmFFb3lHZ0xLQm5vNFYzemszTDB3cE1oZ05mbG5EejFDR0tEM2o1Z2V3MjlQY0E1azBCRUt3SDEtWGdxbXN5cExOUXBkMnlUNnhYdi0zSU4zdHJ5YXBXeF9tRjc?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:45+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Digital: Amaze Digital briefed",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHJ2d2dQOUpzZVNCbTlDX25fSEZjeHlUanhkeHd1UFp1cGVfQzhzeDJGb1VGV3ZYUmI2LWRIcDlyOGhldlduR0F2VFJYQTNxTms2aUZiaFBXcnU1NVhhcEF6WlJ6TmRXZTdQQ3ZxTXZsWmJ1dm1vbXBlMG5leEdSMXB4MU5VTW1jXzI1cHdYUHpoYjlhX3BhVUUtOA?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:44+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Direct brief: InBev adds Kitchen London to its roster",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0xmdU8yeEZjcXFRbnIyMHVDYTVvZDNRNG1SZkJqQVdjV3hidFBTX2JMajB1RTg4NU1pYWI1Zlp0SEU0dUEzV3FMb2Q2RTZXTmVzcDc3WlhGZktiVEtCTGcyNmhwaXlSZ05jZzNtNWVSTTV1V0VtZnRTWDgwMS1yNXA0MGFVSFNKZmpKZDZNUVNMamZNUFROR1RWbkdOX1pLTkdheEEwdmxNTFhJUUJUcVJRQXVzZVhtRUE?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:43+00:00",
       "description": "",
       "source": "Campaign UK"
     }
