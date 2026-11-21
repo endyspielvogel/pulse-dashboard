@@ -1,18 +1,30 @@
 {
-  "fetched_at": "2026-11-21T07:40:23.032777+00:00",
+  "fetched_at": "2026-11-21T08:29:56.236781+00:00",
   "countries": {
     "AT": [
+      {
+        "title": "zeit im bild zeit im bild",
+        "volume": "100+"
+      },
+      {
+        "title": "fußball-europameisterschaft 2028",
+        "volume": "100+"
+      },
       {
         "title": "freiwillige feuerwehr donnerskirchen",
         "volume": "1000+"
       },
       {
-        "title": "großer preis von las vegas",
+        "title": "andy borg",
         "volume": "100+"
       },
       {
+        "title": "großer preis von las vegas",
+        "volume": "200+"
+      },
+      {
         "title": "gemeinderat",
-        "volume": "500+"
+        "volume": "2000+"
       },
       {
         "title": "formel 1 qualifying",
@@ -23,65 +35,53 @@
         "volume": "200+"
       },
       {
-        "title": "gurgl",
+        "title": "optik plessin",
         "volume": "100+"
       },
       {
         "title": "meteo",
         "volume": "200+"
-      },
-      {
-        "title": "hava durumu",
-        "volume": "100+"
-      },
-      {
-        "title": "bo derek",
-        "volume": "100+"
-      },
-      {
-        "title": "aleksandar dragovic",
-        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "future",
+        "title": "jensen ackles",
+        "volume": "100+"
+      },
+      {
+        "title": "quentin tarantino",
+        "volume": "1000+"
+      },
+      {
+        "title": "nvidia stock market",
+        "volume": "500+"
+      },
+      {
+        "title": "ohsaa football scores",
+        "volume": "5000+"
+      },
+      {
+        "title": "how old is jason in gta 6",
+        "volume": "500+"
+      },
+      {
+        "title": "gta 6 money glitch",
+        "volume": "200+"
+      },
+      {
+        "title": "aus vs eng",
+        "volume": "2000+"
+      },
+      {
+        "title": "is there a casino in gta 6",
+        "volume": "100+"
+      },
+      {
+        "title": "gta 6 interactive map",
         "volume": "100+"
       },
       {
         "title": "zoe saldana",
-        "volume": "100+"
-      },
-      {
-        "title": "earthquake seattle",
-        "volume": "2000+"
-      },
-      {
-        "title": "dom mar fan",
-        "volume": "100+"
-      },
-      {
-        "title": "how many endings in gta 6",
-        "volume": "200+"
-      },
-      {
-        "title": "bradley cooper",
-        "volume": "100+"
-      },
-      {
-        "title": "jd",
-        "volume": "100+"
-      },
-      {
-        "title": "black friday deals games",
-        "volume": "200+"
-      },
-      {
-        "title": "gta 6 brooks boatworks safe code",
-        "volume": "200+"
-      },
-      {
-        "title": "rdr2",
         "volume": "100+"
       }
     ]
