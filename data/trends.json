@@ -1,10 +1,38 @@
 {
-  "fetched_at": "2026-11-21T05:24:52.087974+00:00",
+  "fetched_at": "2026-11-21T06:20:26.106411+00:00",
   "countries": {
     "AT": [
       {
-        "title": "zdf",
+        "title": "időjárás",
+        "volume": "200+"
+      },
+      {
+        "title": "wetter",
+        "volume": "10000+"
+      },
+      {
+        "title": "wien wetter",
+        "volume": "100+"
+      },
+      {
+        "title": "krim-brücke",
         "volume": "1000+"
+      },
+      {
+        "title": "windhaag bei perg",
+        "volume": "100+"
+      },
+      {
+        "title": "wetter schnee",
+        "volume": "200+"
+      },
+      {
+        "title": "zins",
+        "volume": "100+"
+      },
+      {
+        "title": "zdf",
+        "volume": "2000+"
       },
       {
         "title": "auslosung",
@@ -12,77 +40,49 @@
       },
       {
         "title": "bauer sucht frau (rtl)",
-        "volume": "100+"
-      },
-      {
-        "title": "zug",
-        "volume": "100+"
-      },
-      {
-        "title": "auto",
         "volume": "200+"
-      },
-      {
-        "title": "bitcoin kurs",
-        "volume": "100+"
-      },
-      {
-        "title": "orf live",
-        "volume": "200+"
-      },
-      {
-        "title": "orf on",
-        "volume": "200+"
-      },
-      {
-        "title": "ukraine",
-        "volume": "200+"
-      },
-      {
-        "title": "wien",
-        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "arnold schwarzenegger",
+        "title": "byu vs kansas prediction",
+        "volume": "200+"
+      },
+      {
+        "title": "lakers standings",
+        "volume": "200+"
+      },
+      {
+        "title": "general hospital",
+        "volume": "200+"
+      },
+      {
+        "title": "where is the strip club in gta6",
+        "volume": "200+"
+      },
+      {
+        "title": "ziaire williams",
+        "volume": "500+"
+      },
+      {
+        "title": "aaron gordon",
+        "volume": "500+"
+      },
+      {
+        "title": "asu almabayev",
+        "volume": "200+"
+      },
+      {
+        "title": "ikram aliskerov",
+        "volume": "200+"
+      },
+      {
+        "title": "cameron johnson",
+        "volume": "200+"
+      },
+      {
+        "title": "biggest black friday deals",
         "volume": "2000+"
-      },
-      {
-        "title": "taylor kinney",
-        "volume": "200+"
-      },
-      {
-        "title": "donnie gta 6",
-        "volume": "200+"
-      },
-      {
-        "title": "emirates",
-        "volume": "200+"
-      },
-      {
-        "title": "jessica chastain",
-        "volume": "1000+"
-      },
-      {
-        "title": "tourist trap gta 6",
-        "volume": "200+"
-      },
-      {
-        "title": "andrew tate",
-        "volume": "200+"
-      },
-      {
-        "title": "sacramento kings vs lakers timeline",
-        "volume": "500+"
-      },
-      {
-        "title": "jamal murray",
-        "volume": "500+"
-      },
-      {
-        "title": "colin farrell",
-        "volume": "200+"
       }
     ]
   }
