@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-11-21T06:20:26.106411+00:00",
+  "fetched_at": "2026-11-21T07:40:23.032777+00:00",
   "countries": {
     "AT": [
       {
-        "title": "időjárás",
-        "volume": "200+"
-      },
-      {
-        "title": "wetter",
-        "volume": "10000+"
-      },
-      {
-        "title": "wien wetter",
-        "volume": "100+"
-      },
-      {
-        "title": "krim-brücke",
+        "title": "freiwillige feuerwehr donnerskirchen",
         "volume": "1000+"
       },
       {
-        "title": "windhaag bei perg",
+        "title": "großer preis von las vegas",
         "volume": "100+"
       },
       {
-        "title": "wetter schnee",
+        "title": "gemeinderat",
+        "volume": "500+"
+      },
+      {
+        "title": "formel 1 qualifying",
+        "volume": "1000+"
+      },
+      {
+        "title": "the voice of germany",
         "volume": "200+"
       },
       {
-        "title": "zins",
+        "title": "gurgl",
         "volume": "100+"
       },
       {
-        "title": "zdf",
-        "volume": "2000+"
-      },
-      {
-        "title": "auslosung",
+        "title": "meteo",
         "volume": "200+"
       },
       {
-        "title": "bauer sucht frau (rtl)",
-        "volume": "200+"
+        "title": "hava durumu",
+        "volume": "100+"
+      },
+      {
+        "title": "bo derek",
+        "volume": "100+"
+      },
+      {
+        "title": "aleksandar dragovic",
+        "volume": "1000+"
       }
     ],
     "US": [
       {
-        "title": "byu vs kansas prediction",
-        "volume": "200+"
+        "title": "future",
+        "volume": "100+"
       },
       {
-        "title": "lakers standings",
-        "volume": "200+"
+        "title": "zoe saldana",
+        "volume": "100+"
       },
       {
-        "title": "general hospital",
-        "volume": "200+"
-      },
-      {
-        "title": "where is the strip club in gta6",
-        "volume": "200+"
-      },
-      {
-        "title": "ziaire williams",
-        "volume": "500+"
-      },
-      {
-        "title": "aaron gordon",
-        "volume": "500+"
-      },
-      {
-        "title": "asu almabayev",
-        "volume": "200+"
-      },
-      {
-        "title": "ikram aliskerov",
-        "volume": "200+"
-      },
-      {
-        "title": "cameron johnson",
-        "volume": "200+"
-      },
-      {
-        "title": "biggest black friday deals",
+        "title": "earthquake seattle",
         "volume": "2000+"
+      },
+      {
+        "title": "dom mar fan",
+        "volume": "100+"
+      },
+      {
+        "title": "how many endings in gta 6",
+        "volume": "200+"
+      },
+      {
+        "title": "bradley cooper",
+        "volume": "100+"
+      },
+      {
+        "title": "jd",
+        "volume": "100+"
+      },
+      {
+        "title": "black friday deals games",
+        "volume": "200+"
+      },
+      {
+        "title": "gta 6 brooks boatworks safe code",
+        "volume": "200+"
+      },
+      {
+        "title": "rdr2",
+        "volume": "100+"
       }
     ]
   }
