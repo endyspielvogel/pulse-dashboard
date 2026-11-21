@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T13:16:06.227206+00:00",
+  "fetched_at": "2026-11-21T15:59:22.344036+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -31,6 +31,14 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDNBcXRWRTBTSUg5NXk2dW1hT1B4XzQ0dVBVX2VfRnRHNDVRUmFEb2otMXVEZVlKZy1hMmJNcVBnS1dpczhHaU52NWFxakR5SlpRX2RJWGtWT0hUaUtKN1Z4ZWZhenBsTVQ4SUJUTURZVFRSSFVQc3VzUGotODRMSS1IclgzaGlqRm90c3oyVV9tTTZvSlJiRFdrMU1NVWdsanBOOXJ5OVpfMHoxd3lxaGo3QXE4U05xRXFV?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T13:20:09+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Gü takes on 3D holographic form at Westfield White City",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnFZbFJjOGZZNTRVdDgxY3ZCTE9hT01HT1J1bjd2YU5iWUZlbUpMQkg2dUhCamYyeFV4Z0hST0Vpd2VfOS1RaVFEb1RjQlVoMG1YMkdFNXc0aUcwdURJZldud1M3REFyQzdJcXMwclZ1c250amwtck9hd3ZDcVlTMUVCNkVNLW1ra1NLbTlnOFpTQ1cyaFNsV0YxN0EzaTlwcjJQaFpWRndYXzVHWXY3VUVTZURnR01hRDdoT3N3?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T12:20:36+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -87,14 +95,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlpPOUk2OEdlM2FSN1kyLURDRFVDT2RyU2U3WEhwek1PRnl1NWlVWnZKUnFZZEgzVWJIanR0dEYxbUhneENiYkplRkJ4TkhLazc2d29BRlgtX200cVU0NlVEUG5VbGZVaEk2TDVDYnoxSmJaeWx2dmRVOXZ6djNmZjlwaGtiUGpYbEZKS2g1aEJVdkRMMGUwa18tS3hFeDNqRzF4NUQyV3NDTzU2QlkwZkZxc3hVdw?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T04:52:49+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Microsoft flexes its media muscles",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEk1OGtJaGMzRFFGbXRWandBTlhDVEhvS2szVGdoQnY4VFVkTDh5a2xzdEYwQ081VTBVV2RvZ2d6V2hMSDdWLTVuRGxrRkRjdGVPdTQ1aWYteU43M3BwUUhlOHBOVHZxTld3S0hZdThDTXdPZXlKbEJIYTdBa3BZai1VOWg4NjF6ZkR3aVV5aHE3VU1sUWw0YzNaZXBLXzRtZlE?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:48+00:00",
       "description": "",
       "source": "Campaign UK"
     }
