@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-11-22T15:18:07.561788+00:00",
+  "fetched_at": "2026-11-22T16:16:48.608873+00:00",
   "brands": {
     "McDonald’s": [
       {
         "title": "Ein neuer McDonalds' kommt nach Gratkorn und ein Landhaus sagt Adieu - Der Grazer",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVN4RVN2RFZoTU81MXZLY2l6WUhYYmdVM3owYmluWm5pTmRkRUdfQ016ZHhXLUVVem16enVfNDk1UzlkeUljaDltSjcxQndhXzBVQnBNOVhFcWtocWRUeHVndC1NSkF1VzRRYXZnakVpVzRyQzhPam1xQVJ6aVRoODR4Z2thU2JwYmJVUg?oc=5",
         "published": "Sun, 22 Nov 2026 08:06:26 GMT"
+      },
+      {
+        "title": "McDonald's als Anker: 12,4 Prozent Rendite über 25 Jahre - aktien.news",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPellkZ3ZWdDF6Z3cxSjBJempqTmRtS0hjSDl0cVhFeEttX1U2am14QkRET3JYaHJ2UmhKMFNyanppN0Y2WnpwY3I2QTBpS0o2NUpIUVZXRVR6S0J1enVtbjRWeTNuWE1oWFZHM1huSUxoNlRvRnR1Mkg3YjhrcWxTaHBQVQ?oc=5",
+        "published": "Sun, 22 Nov 2026 14:56:15 GMT"
       },
       {
         "title": "MCDONALDS AKTIE Dividende | Hauptversammlung | Dividendenrendite | 856958 - Finanzen.net",
@@ -23,7 +28,7 @@
         "published": "Sat, 21 Nov 2026 18:55:37 GMT"
       },
       {
-        "title": "Großes Interesse bei McDonald's-Eröffnung in Wörth - Worauf es jetzt auch ankommt | Foto: Christel Ney - main-echo.de",
+        "title": "Großes Interesse bei McDonald's-Eröffnung in Wörth - Worauf es jetzt auch ankommt - main-echo.de",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG1ERHBrNkgtMVZseTZ4Mk5DalJOR3ZzdkVYRU1ieDhERENrZmg0c1lCdVQzN3BmaHVmUElFM0Q3cGtnUUVVMTlyZW9JVDZPWTZKYUV5QW5iY3d6MmtFOFRHZm9uRFQ4WnVXUVNWRkZ1eGliaHZ1dDhQVmctZ2RJTy1GdjlHN2c0ZUFlMzlYQXhvRm9sWUZ1NFJrbFNWRWQyUjdJY2dpQm5sLW56VURyTDJWVkFxdDd0T1pIUEVEcmk?oc=5",
         "published": "Sun, 22 Nov 2026 09:58:06 GMT"
       },
@@ -36,11 +41,6 @@
         "title": "BOTSI®-Advisor Abstufung McDonald's von Rang 228 auf ... - boerse.de",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDFpNUk2M2tzZ1JUSGZmV0doNk5ObnJRQ080WFJ1VGdheU5HRWN5VUVzNXM0VUJrZENRODk3bWowcVcyMVVzYmpDblVqZTBZSXF4RjIySEhYUF96bkJ6NXJXaFdheVUyN3p1bUJrMG1UV19kM2Y4b0xWeVdxbEpNTkJMQ2g1N0piZF9xSVAxSXd0TGY3SV9FYjB30gGfAUFVX3lxTE9ZcE5Wdmd2OUpXZXp0NzhaRG96aHNENXhpMS15ZW1Oc2NRb1NLNTNDQlp1RU1NTEhTODQtRXR1aENUcnJTRlRoekJXekFlMmplcHBEVmw3MDRLYmU1ck40bXpBcjQwQWlIbFJ5MWpCTXlGOGwxUVJ3a19XYTJieGZjUjRuZnh2bVhESWF3U291akV0eVR3dWlXSGh0c2pURQ?oc=5",
         "published": "Sat, 21 Nov 2026 09:36:53 GMT"
-      },
-      {
-        "title": "Uber Aktie: Neues Jahrestief trotz McDonald's-Deal – fährt der Fahrdienst-Riese gegen die Wand? - AktienCheck.de",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzFfdUd2VlZ2UVlSQmhFM3VqS3d4c2VHendKd2ZfVll1VXo1eHNBLXFyNDRsdzBPSWd2MFVqWlZ6Z0VBd0JfbW1QUi1qUC1TMGNQTVBzQjdkS1JNcEVuZTBXZVZnNklMT1loSWMydzRvZkJ4V3F5b05CUGo1a3FDLUJycFg?oc=5",
-        "published": "Sat, 21 Nov 2026 17:44:40 GMT"
       }
     ],
     "Burger King": [
@@ -60,6 +60,11 @@
         "published": "Fri, 20 Nov 2026 17:49:00 GMT"
       },
       {
+        "title": "Bielefeld kompakt: Bielefelds beste Anwälte, Burger King-Renovierung und Tauben-Experiment - Neue Westfälische",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdmFLNi1tUHBLM2JSNjE5ZGJyakRLRm9RR043U2djTmQydkYyUkZ0TTNDT05VMUN3OF9RV3RXYmhoVTlFa1QwY1VPWkpKamttMUpTVFllN2w5QkoyaXlWUi1QVWRXRWxSemYwSGI0VWNuU0NVdXYwWFFnQ1FWMlVpVWdzSTB3Zkszc1QwaWZHRXF1cFg2RTF0V1J3V1RldjhEWTNKR0I3cGdHVl9vTjczVm9pNHVGVFhHM3dmU1NnTE5maHVWUTRXelRPc2pzX0IxY1lxbE9SclRscGM?oc=5",
+        "published": "Sun, 22 Nov 2026 09:49:06 GMT"
+      },
+      {
         "title": "McDonald’s Is Testing $3.50 Bundles in 1,900 Stores: Is It Time to Buy, or Wait? - TIKR.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5BSUxwZzlhUUp0eGZiR0dCUUNiZ2xaTHVIYnE1YUFmTm05WHJWaEZmbUJBOVdMeVBlVkFjUzdrS2lHV3ZkOWZVUnNVYUUyRkprZGczUWJwaDh6U1NnSUltVk1vZWhYeWd4OW9WUE1RbWdWOVVzTlJzWEo3UHQ1UXc0NFNIYVpFbDhuTnd0aVpRdzJUX29aNDVxUUlxWnZwTDNNM0JB?oc=5",
         "published": "Fri, 20 Nov 2026 16:37:26 GMT"
@@ -68,11 +73,6 @@
         "title": "Steht die Krux mit der B49 einer neuen McDonald’s-Filiale in Leun entgegen? - Mittelhessen",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2oxN3QzMG5WbEhCeV9HdXFuRzRmQ2JkbWhRb0NUUkhhSms5Z3RodEVXUTZBY0NzLVNHdUgwNi15XzR0aDBvMVNRUjdtZXpUaElzNGdYVGZncnJoTk1GZDQzOGhtOE4xTklzU2lLUVRxcDRVb1RWNGNKY1l0SnllN2dzRUtvUG5FemhuN3JRWDFPbXZNaVV3VmVwaVJ5Slh1YUxodDAxSThNcWE3ZTZHakczbmNuLVJOZmNZanFhYks0SnJxN0FzTnU1NlByd18t?oc=5",
         "published": "Sat, 21 Nov 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Bielefeld kompakt: Bielefelds beste Anwälte, Burger King-Renovierung und Tauben-Experiment - Neue Westfälische",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdmFLNi1tUHBLM2JSNjE5ZGJyakRLRm9RR043U2djTmQydkYyUkZ0TTNDT05VMUN3OF9RV3RXYmhoVTlFa1QwY1VPWkpKamttMUpTVFllN2w5QkoyaXlWUi1QVWRXRWxSemYwSGI0VWNuU0NVdXYwWFFnQ1FWMlVpVWdzSTB3Zkszc1QwaWZHRXF1cFg2RTF0V1J3V1RldjhEWTNKR0I3cGdHVl9vTjczVm9pNHVGVFhHM3dmU1NnTE5maHVWUTRXelRPc2pzX0IxY1lxbE9SclRscGM?oc=5",
-        "published": "Sun, 22 Nov 2026 09:49:06 GMT"
       },
       {
         "title": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu - Neue Westfälische",
@@ -119,31 +119,31 @@
         "published": "Sat, 21 Nov 2026 19:10:14 GMT"
       },
       {
+        "title": "MERCEDES-BENZ GROUP (EX DAIMLER) AKTIE Dividende | Hauptversammlung | Dividendenrendite | 710000 - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45QkZRSElXdmpnbm43SEExM18zYkxuQU4wZVhhd3RSQTByREN6V2NvS2k2UTZoUk1SNzBhQnJlaEhjaFNpWGV5UGxycHVrYW8tT3J4RmtMUnljQWFj?oc=5",
+        "published": "Fri, 20 Nov 2026 21:58:52 GMT"
+      },
+      {
         "title": "Mercedes-Benz und Meyer Werft: IG Metall ruft erneut zu Warnstreiks auf - NDR.de",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBmNDhhVTROYkxnbV81UUhhRUtTY0dFdXluMUhSM3l2SUtwZDlDaUMzOEFwa3o1Y3kwckdUMnpBdjQ3UjB3eXlFNTdmVjVld2o3eE5pM3B1UVJlQkM4NjZCbFI4cnJWSVR1WEFNNnoxUFUtR2VCaWZWSXJfZS1XWHpLNTZfbnVLUXlZX1gycnZWU2ZLUUxkdTY1NTh1dXhFbS1WZm5ZSVpLZ00?oc=5",
         "published": "Sun, 22 Nov 2026 13:37:18 GMT"
       },
       {
-        "title": "Lyft und Sixt vs. Leoni und Mercedes-Benz Group – kommentierter KW 47 Peer Group Watch Auto, Motor und Zulieferer - Börse Social",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTTZVamFEeUd5YzNPYXAwbEZnYXVGZWVlLW5LUW1PbkY5LUR0aVFqNnZLX3BqejJPcV9HcTh6bHlyUjVIVXZmRFFha3Q0NnJhdG5pOEtnU1VuXzRwTWJ4Wm83SkdocHU3WjNMX1JNblo4b29IZEFaZFNzMGJzRjhlMVZHVlJReFpyS1lHTEhpcXVoQnM0bHNqekJnVjc2M1Jld05wVDN2dHFfYlljZUc3ZTF1cHc1cVd3MFdiNGMxejdrZlhVOWpkUEFJUE9pLUVxOGJ1bERiXy1VV05rMElz?oc=5",
-        "published": "Sat, 21 Nov 2026 11:10:00 GMT"
-      },
-      {
-        "title": "Unbekannte klauen drei Autos in Kreuzlingen TG - Blick",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT184SDRTOVF1ZVlYZ240VWxkNGthUFp5eERSU2lCOVY3UDYtNy1RMGExQ0s2ci1Td2N3Vm1FbWNYVDhRclpISzZ6WFI2M1V0LUk2SzFpNm40RklOVzlFMDg3UnFRSTVCdlluRFJJRERuOFl4V2l3b0p0MDM5VEhmXzV6UmNQdFZtdlByNHpPNVgzeERSc2JsenVyOGI?oc=5",
-        "published": "Sun, 22 Nov 2026 15:01:44 GMT"
+        "title": "Metall-Tarifkonflikt: IG Metall Küste – 24-Stunden-Streiks werden ausgeweitet - Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa01pMDJqSVR3OG5HVmdGTThXRVlteDF4ZVo4dlptUEYwTDM0QkJPTVBaZC0tSUstZG10UXdvSVRTS18tNXBPWktuTjRnNWZqd0dGTEpWX2VuSld4MHBtVUZfa0J6YUVobXNVbWxkaHYwcTItN1NnUmtRZHZaSkF0LVZrZEtHWlU3clNRQjZ0ZW1hc1loRjdxOWlkRVZZamRoYkVKQlpEaGs1U3FISVBocGlQdjlXMndMSTRKU3JiS1Exa2tfRElhTmdDLUhGQndxTzA1UWdR?oc=5",
+        "published": "Sun, 22 Nov 2026 01:54:07 GMT"
       }
     ],
     "Nvidia": [
       {
+        "title": "Nvidia-Aktie: -13% nach Bericht über Bilanzprüfung der SEC - Der Aktionär",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkMzcldBLW8wVjBfUmJLeFp2bnlYUUVBQ3ZhRzBlbk5DMjloUGhOWjRLZ2pfdGpKRm5zd2Q3Vmp6Z0JwbGxLeDVrcXM3NUFUQkJXRTI4WkFoVmJwd3lDbG9HOElJUFNPRDY5OEhqY0ZfOXNCR0xQeXIxQy12QWdhQm1vTG5GZXY3ZUxLVGRxS3hwLVZXMFVmcTVId1RfZkdHeGxZS2JkMkdDQkh4azFtTWNHaGI?oc=5",
+        "published": "Sun, 22 Nov 2026 15:45:23 GMT"
+      },
+      {
         "title": "Nvidia-Skandal: Hatte Alice Huang Kontakte zu Chipschmugglern? - Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZTl1UDdYb1Q1TEZqMk9HNXlhbEhzcmcxNzF1YUVvTXhldFYwYVNzMURjblVnb2FRQVlnNlMxTFhiVFdXTnZUbjRNUm1VQkFZOUtsMUpldjBfSEhTYXAyVEhUY211N0VlV25aaHBMM0xLTGZzeXFYSHc1N2lYMzdLbHBNbEdkUWZwNks3SDFpX24ydUNlQ0Nydm9RaG5YUTJ5eHExRHpfZTFwVmt1b0E3VmZYWjJQZw?oc=5",
         "published": "Sun, 22 Nov 2026 08:13:03 GMT"
-      },
-      {
-        "title": "Nvidia-Aktie: -13% nach Bericht über Bilanzprüfung der SEC - Der Aktionär",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkMzcldBLW8wVjBfUmJLeFp2bnlYUUVBQ3ZhRzBlbk5DMjloUGhOWjRLZ2pfdGpKRm5zd2Q3Vmp6Z0JwbGxLeDVrcXM3NUFUQkJXRTI4WkFoVmJwd3lDbG9HOElJUFNPRDY5OEhqY0ZfOXNCR0xQeXIxQy12QWdhQm1vTG5GZXY3ZUxLVGRxS3hwLVZXMFVmcTVId1RfZkdHeGxZS2JkMkdDQkh4azFtTWNHaGI?oc=5",
-        "published": "Sun, 22 Nov 2026 12:44:52 GMT"
       },
       {
         "title": "Jensen Huang soll Nvidia-Mitarbeiter gezielt vor anderen gedemütigt haben - Der Standard",
@@ -254,14 +254,14 @@
         "published": "Sun, 22 Nov 2026 08:50:06 GMT"
       },
       {
+        "title": "Killerroboter im Krieg: Warum es zu spät ist, sie zu verhindern – aber nicht, sie zu ächten - Meinung - SZ.de - SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVpHOU12VHczVTlfcFlualdkSzNsOWE2cHBhQXZmRHhIUTFnRnBFUXNVSHl6S09GXzU0SkU4ODA4UlQyQWgzWXJPRmlaSTE5bmxiZDZOTnVhbXRwUGctcUJ5Qkwtc0txd2Y3bWhBQ3Bnc1k3bVdRcF9LQ29QZ0hMYVE1UWVpTVJpaU5jQXdBNGY0TlJETW16RnljZlZ5WjEtcHRkSk5PLVJwOEhiUGVpaS1nUDY5NlNtekZJWXZDU1E?oc=5",
+        "published": "Sun, 22 Nov 2026 14:48:51 GMT"
+      },
+      {
         "title": "Cisco Aktie: Zwei KI-Partnerschaften mit DXC und Qumulo - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk9ubXl2LU1kTDVfVC04SnRhN19QQktoblY1WC1EVU8xdmRBby13REt1b0U1ZlRtQ2tCQVdkNTgxNjRTVzY4bVphTTNmVDRaZm85T3Bjb3Rld20wOVZTX19remphYlNYVkFhX250RWc2MkFDb1lDRU9va0tEVTczdlM0cG5OSjFyZmtFb094NHZUSlE2NG5mYmJFNHV6ZFY0RG9PeDdUYS1pUQ?oc=5",
         "published": "Sun, 22 Nov 2026 06:03:11 GMT"
-      },
-      {
-        "title": "KI-Training verknüpft mit realen Problemen. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3YURvdUVZejFPazBXY0s0R1Y1dnVhSkZ3bUJqaTVMWFJyZVRmVHpxY1Z5aTh6UTdKVFp3WlBLZjVGbl9SMkNSTWJGbjd2ajJqMk96VU84M0ZWUnRzaE5ETS1ZdkhmWlAxM0U1NkRmTm0?oc=5",
-        "published": "Sun, 22 Nov 2026 08:21:12 GMT"
       },
       {
         "title": "Jetzt ist Entschlossenheit gefragt - DiePresse.com",
@@ -273,7 +273,7 @@
       {
         "title": "Nvidia-Aktie: -13% nach Bericht über Bilanzprüfung der SEC - Der Aktionär",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkMzcldBLW8wVjBfUmJLeFp2bnlYUUVBQ3ZhRzBlbk5DMjloUGhOWjRLZ2pfdGpKRm5zd2Q3Vmp6Z0JwbGxLeDVrcXM3NUFUQkJXRTI4WkFoVmJwd3lDbG9HOElJUFNPRDY5OEhqY0ZfOXNCR0xQeXIxQy12QWdhQm1vTG5GZXY3ZUxLVGRxS3hwLVZXMFVmcTVId1RfZkdHeGxZS2JkMkdDQkh4azFtTWNHaGI?oc=5",
-        "published": "Sun, 22 Nov 2026 12:44:52 GMT"
+        "published": "Sun, 22 Nov 2026 15:45:23 GMT"
       },
       {
         "title": "Jensen Huang soll Nvidia-Mitarbeiter gezielt vor anderen gedemütigt haben - Der Standard",
@@ -296,14 +296,14 @@
         "published": "Sun, 22 Nov 2026 09:14:00 GMT"
       },
       {
-        "title": "Nvidia Aktie: Reuters hat die SEC ins Spiel gebracht - Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXdwYV9wQTZhVTJSWkRQN3B2dGpPZ2ZBTGFEZWk4dEpWRTdXbzRsbVZhWlJkYUIycG1pemlGUWF5a0g4QmJZb0dTaWlRblAzX0JrSklPVktVdnJrdXV2emw0dmJYeTBDeVVGdWRTbmRDUnNoMmtzRkRFSGI4akJaQ25tNkZJaEMwUFlHRi1PQ1dMak50YUxkUlZDYy1Nd0tmLTR5Ykpn?oc=5",
-        "published": "Sun, 22 Nov 2026 07:24:12 GMT"
-      },
-      {
         "title": "Nvidia-Krise: Aktie verliert binnen eines Monats über 40 Prozent - ComputerBase",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEVfUEZ1MlJGUjIzcEFNWEUxUGl5R3NLUE9EZmRMd1lOd0djZXZUa1B4b2FrUFc4RW1uQlZGZ0c0TW9jOU5rZlp5WThKTHRhWHdjLUM5WTFtcWszVl9mb19GOXU4TFdWcHhlX0pfVlhWeDNoZzVQSUh4eWhBRTB6bFFEZlZyb3BlWWdNbF9iS2RJY3lyMDdTTEs1bnpmNXlnMDM0NnBxMDNwXzNJUHNiakstZnhqTVk?oc=5",
         "published": "Sun, 22 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "title": "Nvidia Aktie: Reuters hat die SEC ins Spiel gebracht - Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXdwYV9wQTZhVTJSWkRQN3B2dGpPZ2ZBTGFEZWk4dEpWRTdXbzRsbVZhWlJkYUIycG1pemlGUWF5a0g4QmJZb0dTaWlRblAzX0JrSklPVktVdnJrdXV2emw0dmJYeTBDeVVGdWRTbmRDUnNoMmtzRkRFSGI4akJaQ25tNkZJaEMwUFlHRi1PQ1dMak50YUxkUlZDYy1Nd0tmLTR5Ykpn?oc=5",
+        "published": "Sun, 22 Nov 2026 07:24:12 GMT"
       },
       {
         "title": "Nvidia-Aktie fällt um 14 Prozent – SEC ermittelt - FAZ",
