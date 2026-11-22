@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T21:56:15.286436+00:00",
+  "fetched_at": "2026-11-22T01:28:14.288106+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -15,22 +15,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWR6MG01WDZWWUZGRkN3SG1OMUF2X0VPSjZ3SVdCSjY5ZVVuVFZreUpoTlhlY1Bhb1EzeW50b3J3RG0xRU9fb3Z3WUxOOXBJVjltR1ZjeWs5ZEljZWNrLTRKTXVTaEttMWRpdlhyZ212SGZVYS1LaWY4R1AwWTA3cGxQU3JJTTJBS3ZtWGVxU0RJV0EtQXc4SWZxMEJWOU1rTnRKYWdDelJOUEVlTnByUWxrNmV5T3dSdnI2YnFJYmpEd2FSZjBMaXFYYjg4ZzRpMHJBYnZvZTU?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T14:21:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Save the Children and Ace of Hearts land giant drone on Truman Brewery for Christmas",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSWdiWmkzTnhMVHNPMGZud2dFZFU2X19HMTZjUEYxblZsaV80Q2l1TEZrd1FCTG5aSlkwOXVPUXRDVktuSUtsdnk5QXdtWmxoWVdibDNZQThZMjAzcmN0THUzVGoyZWh4MUdDb0ZGdWs0bWNmMUZ4NnYtbmRSbTJUMVV1TXBtenVpM3ZFMmRxS1hhamhhRkJlOTBYU0pWS0FNWlZqNXFQT3lBQU9NZzh0LWh0ZmZSOHZVSjRVV2hGUlpuWUM4UFNMbnM0THgxM0dfZmxoem1TcDFvWnFQRHBFVDdEcFE?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T14:21:22+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Lean into fanbases’ individuality – World Cup fan report",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDNBcXRWRTBTSUg5NXk2dW1hT1B4XzQ0dVBVX2VfRnRHNDVRUmFEb2otMXVEZVlKZy1hMmJNcVBnS1dpczhHaU52NWFxakR5SlpRX2RJWGtWT0hUaUtKN1Z4ZWZhenBsTVQ4SUJUTURZVFRSSFVQc3VzUGotODRMSS1IclgzaGlqRm90c3oyVV9tTTZvSlJiRFdrMU1NVWdsanBOOXJ5OVpfMHoxd3lxaGo3QXE4U05xRXFV?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T13:20:09+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -51,16 +35,32 @@
       "source": "Campaign UK"
     },
     {
-      "title": "McCann Erickson wins £10m Evening Standard account",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlpPOUk2OEdlM2FSN1kyLURDRFVDT2RyU2U3WEhwek1PRnl1NWlVWnZKUnFZZEgzVWJIanR0dEYxbUhneENiYkplRkJ4TkhLazc2d29BRlgtX200cVU0NlVEUG5VbGZVaEk2TDVDYnoxSmJaeWx2dmRVOXZ6djNmZjlwaGtiUGpYbEZKS2g1aEJVdkRMMGUwa18tS3hFeDNqRzF4NUQyV3NDTzU2QlkwZkZxc3hVdw?oc=5",
+      "title": "Digital brief: Babelgum signs agreements",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEE2Z0toSHo0cmkxTmNKSncwZlVWcmN5czFUbEUybXhrUjk0OGFpeHJDSlNfT0ZzOTY1Ql9qWEVObk05YnFZeVNSN0RWNTdNOEpyMVlUYWtGenNjYTAzay1ZMmVWVVJOMWRrZjdFSzlGUGNJODQ0bTFWOGZaMXhCcFFvSVJ2d21sUFZXN3hPQzZaUWM0a1RGc3M3c2RLOGJ0Y3VLdm91Zks?oc=5",
       "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:49+00:00",
+      "published_iso": "2026-11-20T04:52:50+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
       "title": "Branding brief: Barr revamps packaging",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1RFY0RZUFh1Uy1FM2pTQmFvY3h2bFVXRlJuNTRfWjR3ZDg3Tlh1WnExY2lSRFdaSmI2T1dsSTlmWGZuc1JwYUt1Mkp3NUJ4dzJjdVBxdjNHd0tTdTZGWUxCZ0p1U0ZyQ2xsWGRBY0Q5ekI0Vm02MnRLR3cyOElqbDh5S1ZUcGhXUHMzNnJPRjNLYzJaRFNxQ3lweWJnNDVnaHdzRm5n?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:49+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Branding brief: Sharwood's adopts fresh look",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUV1clM0VjJPMHNWSlBLVnJ6cG5SZDJ5ZnNWejN5RjNsZWUtNFYzUEE4dDh0N0w0VER5ZHZ1TmtoMTh2VzljX3QtMWtISDZldWZvOWp4SkdSTzB1UHR4OHQ5bkkwa2phSTliMlMzWnNJdmxjTVZIYVVVVDR1a2xiSGxvVGgzTE9vYTdRaUd4Z3c2THhaeWx0WjlIUG5zQUpLeHc3emswcFdza01RVGc?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T04:52:49+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "McCann Erickson wins £10m Evening Standard account",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlpPOUk2OEdlM2FSN1kyLURDRFVDT2RyU2U3WEhwek1PRnl1NWlVWnZKUnFZZEgzVWJIanR0dEYxbUhneENiYkplRkJ4TkhLazc2d29BRlgtX200cVU0NlVEUG5VbGZVaEk2TDVDYnoxSmJaeWx2dmRVOXZ6djNmZjlwaGtiUGpYbEZKS2g1aEJVdkRMMGUwa18tS3hFeDNqRzF4NUQyV3NDTzU2QlkwZkZxc3hVdw?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T04:52:49+00:00",
       "description": "",
@@ -75,18 +75,18 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Ocado hires CHI to spearhead TV drive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUdBVlVRTjlZVC0zSjNfSnVXdjJqM0lodTd2S3dQZFVyRTl5dGloNEhKazgzYmtBMG1HMHFkTUZxYWh6ZnhOc0xlcXJ5OE53Vzh2STRSRjBhQlpDZzVTVFRIbUpzcDVscTlEZTkyZ0poTV95Y2FKYUtGV0VWcHdQajltbU5BRlN6S2J5MUlyUjZyTEF0RnFQNWxTRDhlWENsUllSU053?oc=5",
+      "title": "Microsoft flexes its media muscles",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEk1OGtJaGMzRFFGbXRWandBTlhDVEhvS2szVGdoQnY4VFVkTDh5a2xzdEYwQ081VTBVV2RvZ2d6V2hMSDdWLTVuRGxrRkRjdGVPdTQ1aWYteU43M3BwUUhlOHBOVHZxTld3S0hZdThDTXdPZXlKbEJIYTdBa3BZai1VOWg4NjF6ZkR3aVV5aHE3VU1sUWw0YzNaZXBLXzRtZlE?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T04:52:48+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "News brief: Cereal Partners launches TV campaign",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFluZlptR0x3MnJyTkJIM3dnZEw5Z3p4WDV1ZWlZbVI2dnJQNDVjZV9CelBmTm0yVDFKUURNaFUwUHhsWFJ3ZlFJaTliVUNpdHFGODI5dFBvZkZaN1h0V19PY0M0WW93U25YOVJmTWtSVDZvdDAzekwtZy0wQnAteUFydkt4SUtGMmpxQVdGcjJTTXd1aXVtMzdZMkpqU2xVelZHY2pIR1NuaWhXdFNEb3BuYw?oc=5",
+      "title": "Ocado hires CHI to spearhead TV drive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUdBVlVRTjlZVC0zSjNfSnVXdjJqM0lodTd2S3dQZFVyRTl5dGloNEhKazgzYmtBMG1HMHFkTUZxYWh6ZnhOc0xlcXJ5OE53Vzh2STRSRjBhQlpDZzVTVFRIbUpzcDVscTlEZTkyZ0poTV95Y2FKYUtGV0VWcHdQajltbU5BRlN6S2J5MUlyUjZyTEF0RnFQNWxTRDhlWENsUllSU053?oc=5",
       "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:47+00:00",
+      "published_iso": "2026-11-20T04:52:48+00:00",
       "description": "",
       "source": "Campaign UK"
     },
