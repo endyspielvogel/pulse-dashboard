@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T04:55:49.535457+00:00",
+  "fetched_at": "2026-11-22T05:54:21.713108+00:00",
   "brands": {
     "McDonald’s": [
       {
@@ -114,6 +114,11 @@
     ],
     "Mercedes-Benz": [
       {
+        "title": "Quasi autonom - Mercedes fährt jetzt selbst quer durch die Stadt - Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55dldSdW1DSTl1V1JRVkJvN1k1RGk5ZEhkTm94a09WOHhfWE9yS08xV2xHbWZFM0hEUHJZV3VCeXVFQQ?oc=5",
+        "published": "Sun, 22 Nov 2026 05:00:00 GMT"
+      },
+      {
         "title": "Vergleich: Mercedes-Benz Baby G vs Volvo EX30 Cross Country - Autohled.cz",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0RrblhvcktCYmpaVXloWHp2ZDdIbW1INHl0Zm5TampVX1ZkVE9Bb1l3bko2S21EZmhmUHFsV0pBZFc5SDF5QjgwVi14RFROT1h5dDhZRWRMal9lNjQ3RndZc1VuRUJwbk0wSERXZFE5OWJxOElGWTFmSFNaWmhQalY1Uk1IMm1DemxVbUN6VQ?oc=5",
         "published": "Sat, 21 Nov 2026 19:10:14 GMT"
@@ -147,11 +152,6 @@
         "title": "Mercedes-Benz Aktie: Kraftfahrt-Bundesamt gibt grünes Licht - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjlWemFLZE01Mm1BT2pPWWtZSUJhS2dwMHJ0Uy1CemN1QVlsZ2tTRlJ2Wnk0WUMxdG8wOVBLeS1lalBaUHdrY2lYSDM4OFlQZjkzck53T0NJalFSVjZkNllTWHFmUWpKNWZZTnBUUURZeUplNGhHaHhzbG5PUk4ydjJRenduSGF2c3VuaFUycy1MLXdpaTVFZVJGM1MwTUcwX09xN01lWHBHdzRNUTRYdw?oc=5",
         "published": "Sat, 21 Nov 2026 10:28:08 GMT"
-      },
-      {
-        "title": "Mercedes EQB und EQA: Drei Brände trotz Rückruf-Ausnahme - MBpassion",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3UUJ4ZFVPMFduUnlXVlR2Q0xDdE0zT2FfMU5kNTBJZTZCb3M0YnJZY1Y2YmZCZ2NKUlljR2R2NTVoRXU1ck5FZkg4Q2J3Nks0Z1JnZFdIbkEtRDFSUTUzdXlpVDFha3o3eEw4dVRmX2JNRDlkOVV0bnh3?oc=5",
-        "published": "Sat, 21 Nov 2026 23:06:08 GMT"
       }
     ],
     "Nvidia": [
@@ -176,24 +176,24 @@
         "published": "Sat, 21 Nov 2026 14:00:00 GMT"
       },
       {
-        "title": "Nvidia: US-Börsenaufsicht ermittelt, 2,7 Billionen Dollar Börsenwert verbrannt - Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQk5VSkdJYWNsQkhYVUVMMnU0U0VzTTVJYTUySUxZajJkeDZGYmtKYVoxajZXaGxqeHpoOUpIV214d2JmWndzVFhfMzZGY25acXF4RFBEbXdpZDdaQ1VQZVAxQVVNVTNvUnRLYWoyN2RRdmR0MnMxeWltQU1nc1pFQzdra3c4eWhnbEFndTB4eUVudTVRWWZ1UUg0VlBONVk3LWFEOFZCQTFQWDhVRGpoRGJ5d3h0RTRkRDlvX3NDVzYtSTByTnpWVFpERUF3RnBVMFFhcUo0elZHS09McTRETk9pS0JXclVRbGNtbjQybnJjVGd4QWxGeg?oc=5",
-        "published": "Sat, 21 Nov 2026 08:05:00 GMT"
-      },
-      {
         "title": "Jensen Huang: US-Börsenaufsicht ermittelt laut Berichten gegen Nvidia - DIE ZEIT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkd2aldQc0ZjSkZCVTlOVUphOXdJMXc1NkNVeVEycTNZWnF1TC1oMHpSR1liVXkwQlg4SEtJMTd5dnhUMTh5V2NyQmlUSjdwX012d29vWGZnc093bHhpdUxPZl9TRG9zTHQzWWw5RU40TWdFZUF2ekU4Z3JLSWJOMkhVTEhseUpQa1Q5U0hjWWV6STdKUUs1SHYwLXdHbmJSbnRjVF92TTdpWmJWRlE?oc=5",
         "published": "Sat, 21 Nov 2026 04:17:05 GMT"
       },
       {
-        "title": "NVIDIA-Horror: Jensen Huang gründet Konkurrenzfirma – oder nicht? - Finanzen.net",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHZvWkZEenFFUUp4RjI5Y0NSM3V3T1Vta3Q0TU1hejB2X1pNQWtVZTE2eEFLMTVyU09kU0pjdjRtcWZEU29qR1M4NWthdWl1MzgxQTBIVkxLMFAtTUdvNE9aMG80SWhjVXZNYjhFaXNkd2ZaTklSY0c3NnBtUVhzMktTUF9tQUNiTE50NGp4Q1BjNmVpM2s3ZE1rd1ZHRlpDUHY3blJESi1fdE5xa1BtS3ZQenZMYjgwWkpqTzlwLUFwc0dlLTlIcEs0OTFDa2VBZXM2SGZ3?oc=5",
-        "published": "Sat, 21 Nov 2026 20:24:13 GMT"
+        "title": "Nvidia: US-Börsenaufsicht ermittelt, 2,7 Billionen Dollar Börsenwert verbrannt - Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQk5VSkdJYWNsQkhYVUVMMnU0U0VzTTVJYTUySUxZajJkeDZGYmtKYVoxajZXaGxqeHpoOUpIV214d2JmWndzVFhfMzZGY25acXF4RFBEbXdpZDdaQ1VQZVAxQVVNVTNvUnRLYWoyN2RRdmR0MnMxeWltQU1nc1pFQzdra3c4eWhnbEFndTB4eUVudTVRWWZ1UUg0VlBONVk3LWFEOFZCQTFQWDhVRGpoRGJ5d3h0RTRkRDlvX3NDVzYtSTByTnpWVFpERUF3RnBVMFFhcUo0elZHS09McTRETk9pS0JXclVRbGNtbjQybnJjVGd4QWxGeg?oc=5",
+        "published": "Sat, 21 Nov 2026 08:05:00 GMT"
       },
       {
         "title": "Rene Haas soll neuer Nvidia-Chef werden - was man über ihn weiß - Futurezone",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTZRYkpkako5cnUzdWVwa2pWdU5KUFV3ZEt0Zm5pUEp5eWFla3dHQjBZYkRCNV85UWZOZTZ6VkZqb3k0WExUbHJ6WU9XUldfbGE4MlZvcTVYRDlGNXhMTXpxWUdfOUp0a2VLaW1nVjZRSjRIRmcyU09md0xBN3A0Rk85c1h5dk5YY1U4WFQteGp3MTFtRWNsMVRnZ9IBoAFBVV95cUxNUnpPU1hPRlU3VG5HZ0dNOEQwYUFuS3JKYWpJeTFNbnlTb3J4SEc5d0pTaGo4RmlkMGlST2xOTnJaNGt2Sjc5SzdobmllQXBrRUM5NzJrSVdNTF95U0VLQ2NsbVFUNWMwZUlyelZuZlZYMWlQcmFSeENrTFJKOUZRR3RucGVfUWczQW9pZGRMWk1HNjhCWndlVVV4VTQ0dlVs?oc=5",
         "published": "Fri, 20 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "title": "NVIDIA-Horror: Jensen Huang gründet Konkurrenzfirma – oder nicht? - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHZvWkZEenFFUUp4RjI5Y0NSM3V3T1Vta3Q0TU1hejB2X1pNQWtVZTE2eEFLMTVyU09kU0pjdjRtcWZEU29qR1M4NWthdWl1MzgxQTBIVkxLMFAtTUdvNE9aMG80SWhjVXZNYjhFaXNkd2ZaTklSY0c3NnBtUVhzMktTUF9tQUNiTE50NGp4Q1BjNmVpM2s3ZE1rd1ZHRlpDUHY3blJESi1fdE5xa1BtS3ZQenZMYjgwWkpqTzlwLUFwc0dlLTlIcEs0OTFDa2VBZXM2SGZ3?oc=5",
+        "published": "Sat, 21 Nov 2026 20:24:13 GMT"
       }
     ]
   },
@@ -210,14 +210,19 @@
         "published": "Sat, 21 Nov 2026 13:13:00 GMT"
       },
       {
-        "title": "Börsenstart von Anthropic: Zum Wachstum verdammt - FAZ",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2JnOHFnWHFuYkwxaHQ1WVZRZ2lfOVQ5NndyVU80Z0xPQVBhRGlEQlA4N1NIeDZtdmk0VHhBa0hJc2tNZjRicDgxZDhBVC1mc0Fnb0VKeGU2dldJMmtZNm1haHhITWw5R2VfSTc5czBkQmY2ZDBqUlhRZ2pTS2tLR0R4SXVlSEp2OFhuajJzZUlXNXVHblZpTFMwQ212YVF2MjRLOFJwMHNHSFlDRWtNYXBVdmg?oc=5",
-        "published": "Fri, 20 Nov 2026 05:44:43 GMT"
+        "title": "Anthropic-Aktie: War der Börsengang wirklich ein Flop? - sharedeals.de",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZFBiRkdnS3JHV08tOElCeVFCMVNDUDloMnM5UnBJcTJydEE3STB3ODlTbHY4c29tRGp4X2czLVJ6OFNzMldTODhGejBxMHhMd2tyUEVJZ2VqUlFsRDJSOHYtVzlnSmNhdjJIWXk1SlVWV1BKN1BsMm1lNGxtZmdWVWwxTkhfYlk?oc=5",
+        "published": "Sun, 22 Nov 2026 05:15:14 GMT"
       },
       {
         "title": "Commerzbank Aktie: WirtschaftsWoche zerpflückt UniCredit-Zusagen - Börse Express",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ01tYjJqTGROVDFyZktEbEczUEJiaWtOUlhLX2ZXQ0xuWHdCdFRWZF9JcVRtVlhUc2Q4MXl5bW5fNDd6QVlwUnl5LVhRaXo4NTZrcjNPWVhiSzRGc0dySnZscUFVV0QzN29VUm14enBzVnUzWnpDR2JQYXlXOEZxd1YwUWZHX0pzSnlPNC05dk5RMEZtRlMtYzhZbXV4LVJoam1ia3VPOXowVWFVc0ktVWx2RVpmLU0?oc=5",
         "published": "Sat, 21 Nov 2026 18:22:12 GMT"
+      },
+      {
+        "title": "Anthropic-Börsengang: Warum der KI-Boom an Grenzen stösst - Blick",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeExOdHh2VHprWjdORFJMekJsT3BIQ3BCaGQwYm1fVV9DcEN5V05JcWUwZlRTZUNqTDI2LVVPV29rVlpyR3dJODVpUFdya1JYdFBKVFZhSTEtUjBKX0xndGU0UVUzSHBGcVhHV2gzd3NCa0loOTBuM2E4YlNsWFNOR0VLWFZTUHVlMG1fMF84VlJGNTFaSE9TbUxB?oc=5",
+        "published": "Sat, 21 Nov 2026 19:08:00 GMT"
       },
       {
         "title": "Kommentar: Eine einzelne KI-Aktie wird kaum jemanden reich machen - Wirtschaft - SZ.de - SZ.de",
@@ -228,11 +233,6 @@
         "title": "BörsenWoche: Rekordgewinne, Rekordbörsengang, Kurssturz - wirtschaft tv",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUdIbTgzWnN3Y1VmWmYycUhucmtqdHhJOFRQUERwTHBsenh5N0tLN0phNkhUUTBXRE1XMmN1dHkzdEJwcE10eGdTVVJCXzRkNk11NFN2R3ZwclduYURneFZLeHYwaldHWGY0NGpnNFN0aWdNeHBmV2tmcXE4YnlqQUd3Q3VVNEE2MFlkM0p3bjVwamUzbWUw?oc=5",
         "published": "Sat, 21 Nov 2026 09:25:23 GMT"
-      },
-      {
-        "title": "Anthropic-Börsengang: Warum der KI-Boom an Grenzen stösst - Blick",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeExOdHh2VHprWjdORFJMekJsT3BIQ3BCaGQwYm1fVV9DcEN5V05JcWUwZlRTZUNqTDI2LVVPV29rVlpyR3dJODVpUFdya1JYdFBKVFZhSTEtUjBKX0xndGU0UVUzSHBGcVhHV2gzd3NCa0loOTBuM2E4YlNsWFNOR0VLWFZTUHVlMG1fMF84VlJGNTFaSE9TbUxB?oc=5",
-        "published": "Sat, 21 Nov 2026 19:08:00 GMT"
       },
       {
         "title": "Börse: Anthropic grösste Emission – Korrekturen - Wil24",
@@ -279,11 +279,6 @@
         "published": "Fri, 20 Nov 2026 12:36:52 GMT"
       },
       {
-        "title": "So wird KI beim Einkaufen genutzt - Watson",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1RTZ1VUV1drQ1lVS3ZYdExmQ2dqT2N6UEJSVWc3X1lvU3hPR2VjSDk4MTc5WWJia2RpRmZoaW5ZNnh5X2Y3WktJbTA2R0ZERUc2Z3dpcGZCZktlbXFBX0VUMkh1ak5BX2x1eEdPTTJOV0hzUGtSM0I4UVRxWUx2eWlUczBUQnN0OUw4ODRR?oc=5",
-        "published": "Sat, 21 Nov 2026 18:41:57 GMT"
-      },
-      {
         "title": "Retail Tech Day 2026: Teilnehmerrekord beim Gipfeltreffen der heimischen KI- & Handelstechnologie-Szene - OTS.at",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdzhuXzc0VENTVS1iUU80QThwZkV6bFFaMGwzVWxrRUJpd3BDcnEwU0JNaGdHRmpXZ1VpanJ1VU9oZUVmYlduanZjLU1kWE9ib1pvNm44X1FQeUp6cm9WeXlPMkRzNl9veUJVVUswM1h2MzhNdzZEeWZZLWJMcFB4blJhRl9aUXhjUnFoYTZWQnBGZGNTMnJSVWo0ZDRqZElzQlB5cHhjT2FOak12a1NxblFPbUV1MHdsa0xmUnNwR0YtNEpNZ2RITHlXLWJSX05wNWxid0dFLTVLMjhOQ0ZaaWtMbnAxZzZ4NTQtdw?oc=5",
         "published": "Fri, 20 Nov 2026 11:23:32 GMT"
@@ -294,14 +289,19 @@
         "published": "Fri, 20 Nov 2026 10:21:00 GMT"
       },
       {
+        "title": "So wird KI beim Einkaufen genutzt - Watson",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1RTZ1VUV1drQ1lVS3ZYdExmQ2dqT2N6UEJSVWc3X1lvU3hPR2VjSDk4MTc5WWJia2RpRmZoaW5ZNnh5X2Y3WktJbTA2R0ZERUc2Z3dpcGZCZktlbXFBX0VUMkh1ak5BX2x1eEdPTTJOV0hzUGtSM0I4UVRxWUx2eWlUczBUQnN0OUw4ODRR?oc=5",
+        "published": "Sat, 21 Nov 2026 18:41:57 GMT"
+      },
+      {
+        "title": "Sicheres Lehren und Lernen mit KI - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fdHVRZ3V6ZVkxcDllNW9iUEgtUk9oYnNWMkdiUmQ1ZGx6QjBWWXhZRWlicG4wOUZpbnhWOEF4cTRncHNZb3NVUy1XS2tqUHVJQjVham51a0M0a3VidDNITA?oc=5",
+        "published": "Sun, 22 Nov 2026 04:56:30 GMT"
+      },
+      {
         "title": "Slush 2026 in Helsinki: 5.800 Startups, ein KI-Sieger - top.tirol",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODFLMjV5aEl1N1g1OGloWGd0OHhfR2JZSG1nUG9DaXk2OFYzLWxJclVuZWlpNGtILXk4cEtYZ0RkTHFNcEhUM0hlQnFuN1lWdi1OMlgyQW9ZS0VEaXBYZGk2RGlaSXBLR2x2X3QzcnVNSWFpQm5jamJSbFNhdlBhSmxGYTE?oc=5",
         "published": "Sat, 21 Nov 2026 08:25:44 GMT"
-      },
-      {
-        "title": "Digital Finance Day 2026: Wie Technologie konkreten Mehrwert schafft - Blogartikel - Medien & Politik - Schweizerische Bankiervereinigung - Swiss Banking",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUliQ0ZTeVdHaXFDRGpMQ2N4bnN0Y1pSQk1FamJfS1hUdFk2Sk1HNXBHbTNnWTNiSDhGb183RFZJWTNwejZkXzhVbmhwOTc5LTlHVHc0QjJnWGtDZ1dTOWdjRTIyYlJscDJzWFhKZFBGYWN2TnVRQXh1TXdhZWNzUkVOTDlyelB4cEdDQVRSa013c3RXTHo2UGV6eWYyQUZvZy1PTXp4elQyRW9Wak55a2ZFQ1lYQ1BveUhhZjcwZVJkcU0?oc=5",
-        "published": "Fri, 20 Nov 2026 07:48:41 GMT"
       }
     ],
     "Meine Aktien": [
@@ -331,19 +331,19 @@
         "published": "Fri, 20 Nov 2026 15:00:00 GMT"
       },
       {
-        "title": "Jensen Huang: US-Börsenaufsicht ermittelt laut Berichten gegen Nvidia - DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkd2aldQc0ZjSkZCVTlOVUphOXdJMXc1NkNVeVEycTNZWnF1TC1oMHpSR1liVXkwQlg4SEtJMTd5dnhUMTh5V2NyQmlUSjdwX012d29vWGZnc093bHhpdUxPZl9TRG9zTHQzWWw5RU40TWdFZUF2ekU4Z3JLSWJOMkhVTEhseUpQa1Q5U0hjWWV6STdKUUs1SHYwLXdHbmJSbnRjVF92TTdpWmJWRlE?oc=5",
-        "published": "Sat, 21 Nov 2026 04:17:05 GMT"
+        "title": "NVIDIA-Horror: Jensen Huang gründet Konkurrenzfirma – oder nicht? - Finanzen.net",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHZvWkZEenFFUUp4RjI5Y0NSM3V3T1Vta3Q0TU1hejB2X1pNQWtVZTE2eEFLMTVyU09kU0pjdjRtcWZEU29qR1M4NWthdWl1MzgxQTBIVkxLMFAtTUdvNE9aMG80SWhjVXZNYjhFaXNkd2ZaTklSY0c3NnBtUVhzMktTUF9tQUNiTE50NGp4Q1BjNmVpM2s3ZE1rd1ZHRlpDUHY3blJESi1fdE5xa1BtS3ZQenZMYjgwWkpqTzlwLUFwc0dlLTlIcEs0OTFDa2VBZXM2SGZ3?oc=5",
+        "published": "Sat, 21 Nov 2026 20:24:13 GMT"
       },
       {
-        "title": "Wie Ex-Nvidia-Chef Jensen Huang seine Mitarbeitenden demütigte - GMX.AT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUZmMjc3THRvYS1lQmRRMjJHYkp2cXZLejkyUzdFUERaZUNKcC1zLVFjV1BsbnEyTmJpSGNFTEtwQ0NnYkhVZmJ3aTVFWkNXZjVYUVM2QzBLcWdyQ1M5bWFDSHpZZE1IVHFrVnFqMXNoNVQtM2c3VGNYeW5vTVRTQm1rRXRIQ2xJamhHczVETGJndnhuWTU0cjZHd0R0dG5ZaFNB?oc=5",
-        "published": "Sat, 21 Nov 2026 15:55:39 GMT"
+        "title": "Die Zinsen sind wichtiger als Anthropic und Nvidia - DiePresse.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUlTVnBscWFXWFRJS2hDNlFiRjl1UWJoMEdzYWUxTVhmZXNwZTBwUHNoV3BaOTJ5cDhKREhvQjVsa2x0RU9IYkJpcHBXd21CRjhKLWV6SzRFai1kS1ZyWi1DQUdCbTNkQTRncDZaaFhFSlJZRTQ0YUQwcko3RkR1Rm1ycnQwdDU3akJ5eS1R?oc=5",
+        "published": "Fri, 20 Nov 2026 09:32:36 GMT"
       },
       {
-        "title": "NVIDIA - SEC nimmt die Bilanzierung unter die Lupe! - stock3",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVpSUFIxYXNrOWtjdWpiX1hIS2RfSmlhU09McEF5NzV0QTB4bFg0SGFaa2ZUNGxlNFo5U0Y1MG1aWjBEMzZGdFI2TGRhLW9QTDNFSi1tVlNieWVHZ2RUT1RYQmVNM3NYcGcwTDVlT2txRWRHMkdjdWdBR1JxaklyVlR6WU9zQUJD?oc=5",
-        "published": "Fri, 20 Nov 2026 20:20:00 GMT"
+        "title": "NVIDIA GeForce RTX 5090: 450 FPS laut NVIDIA im Check - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFHWm8zNlc4RG1QM01aRzRuM0NFNEE2U3h6LTBHWnUwQU9fZ0ZUTmpKa09iamtldlpZYWcyT0pVeXlBbGpVeHUzLUhUbzY0WmdTdjRmRmxZamQ4RnRKa0FYdnI1R0FQaGx2VG9pYnNma280cTZDN2VNQUhaYlZ0TXlLMkdVSUszVGNJdU5YQ1l4d290cHQySzN1R29KZFF5c3c?oc=5",
+        "published": "Sun, 22 Nov 2026 05:41:55 GMT"
       }
     ]
   }
