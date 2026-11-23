@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T21:57:53.592783+00:00",
+  "fetched_at": "2026-11-23T01:33:43.517713+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
@@ -15,6 +15,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWR6MG01WDZWWUZGRkN3SG1OMUF2X0VPSjZ3SVdCSjY5ZVVuVFZreUpoTlhlY1Bhb1EzeW50b3J3RG0xRU9fb3Z3WUxOOXBJVjltR1ZjeWs5ZEljZWNrLTRKTXVTaEttMWRpdlhyZ212SGZVYS1LaWY4R1AwWTA3cGxQU3JJTTJBS3ZtWGVxU0RJV0EtQXc4SWZxMEJWOU1rTnRKYWdDelJOUEVlTnByUWxrNmV5T3dSdnI2YnFJYmpEd2FSZjBMaXFYYjg4ZzRpMHJBYnZvZTU?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T14:21:22+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Hardys celebrates Australian heritage with upside-down wine pop-up",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnZKeXhzSWZIZ2V5WDJGOGpRdE5yWmwwS0VuQ1hVTkwzUDFiZ3NQYzhSVDMtVUt1NVVXN3VEUG1DUFp6TEM0UUF6NVhSMm9WdzFaUkRkMWpXcUJZYmdEMXNtcUd1cHJKYTNNUDFMZU1sNlc2VkFoUXN0Sk43MnFfcUdFNzVrdTYtaGRQS011OVVKemtiVUlScGZtQVdFQXBMVWJuV25KaFhTYnFLd2lXOTdCRjc5dV9EYTJXTDBqZVZCTHcxdkdQZGVGOVc?oc=5",
+      "published": "20.11.2026",
+      "published_iso": "2026-11-20T12:20:37+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -79,14 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0VnT1dmRG5lQ093S09KcjdReVFOYmZuQms4ZGtoamFqdW5lakZqVWJOdWsxcjNDY0p2TXd6YjZaZ1ZmRFQ1Mjg5VzBPQWxSVW5adHc4TmRZM0FjSDlRdE9rM2lGUDZadnJ5VFczdmtEUVhwTWtrbkRuTnhFa09EY2NKa2JNSmk4M0ZlNEVvU2taQUVaSUY0Uk16aExhU2UwREJxclVURG13dDZXVWlSWEY0Y3hTU0hrZFMydEE4VVV2WTRhaUxBNUtJRkU?oc=5",
       "published": "20.11.2026",
       "published_iso": "2026-11-20T04:52:45+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Digital: Amaze Digital briefed",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHJ2d2dQOUpzZVNCbTlDX25fSEZjeHlUanhkeHd1UFp1cGVfQzhzeDJGb1VGV3ZYUmI2LWRIcDlyOGhldlduR0F2VFJYQTNxTms2aUZiaFBXcnU1NVhhcEF6WlJ6TmRXZTdQQ3ZxTXZsWmJ1dm1vbXBlMG5leEdSMXB4MU5VTW1jXzI1cHdYUHpoYjlhX3BhVUUtOA?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:44+00:00",
       "description": "",
       "source": "Campaign UK"
     },
