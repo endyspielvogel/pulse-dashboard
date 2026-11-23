@@ -1,12 +1,76 @@
 {
-  "fetched_at": "2026-11-23T01:33:43.517713+00:00",
+  "fetched_at": "2026-11-23T12:58:17.821353+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
     {
-      "title": "Creator economy to hit $116 billion as brands hike spending – report",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON3oyR3QwUG1jN1BpamNPSnVpQWJ6bjU3aUJKeE5waHNlVjRwVXl4dFRjME9uaXpLODF2cUdJYlRtUC14bmVxVHdYdThtWWg2Rk51LUZGTnVzNm5yMUV2LWpWeVZ5Q1dmbTd2aVRTQ1pPdE9VYkJsSUc2cTZZdlpMMjd1RUhqcERKWS1pTGFKY1VLcm10NXVVTzU0aExhV1htbmMxdjV1cjJJN3ZjNC0yUFc0NW4wVzFoZVpqX3FsMnpTZHllMy1ib3I5WQ?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T17:00:58+00:00",
+      "title": "The ‘classical’ and ‘modern thinker’: Leo UK’s Andrew Long on redefining populist creativity",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX245cDh2RVRja216ejhqMHdBdF8xTzRfUFc1b2ZPWHN4ZG8ybDJOTjljNzVuOTFlT29pTnVMdjFSSm9yd0dwclotUDNubm5hbk1oQmJfaklfM21RbmIxbl84T3hCUUp4NDNkclhMUzdWVGg1c0RnUVZjcEh0ZzB6T2htOXZXWE9jbmNEOEZNZnZNckpKenVhZFpBM0I2YlRnWnkxVXozQWxoZG8wLVdOcTZsUi1UelJLeEZaX2p3cDUtdGxfWEE0anh5aGUyZE9PTjVXZ1BrNHR4S3BjNk5jYVZmX2EwcXJl?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T11:56:39+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Publicis London boosts strategy team with trio of appointments",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXRHa3hnVm1SZEI3eWZHQjExMjBBblFNaEExZFpIVGE1UFpGVE1HS0JZV0xma1E0Vlpoc25IUUREMEJSaGxHRFIxSGNnR2JUZzlkVVRGUy1WZU1fZlpwNWRzVnBMckZSUVgyMmFaanNLY3ZTVFRUTnc2Qm56b2pKNXcyNUhlY2UyWHAtYVFILVQzN1hzRTNBb08xQVhLUEpoOGh3RjduU3JNNVNZekJMNzNqSkxJd3lCRlFQZTFjckhDRjc4WVpZ?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T11:37:18+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Polestar picks Hearts United for $96m global media account",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3ZPWmsydFJFY3dBRXFZUkFyT08wekZlRE9JRHBtaHZoTmlJdU1HZUtJamh0NDdOcWdXMzd3V3djcTVmVnUwcnI3ZmtKNWF2bUNwaVVqZU9fdmdLSlp4eG14eG5zNmFuak5WbWNiYzdhSk00ZGo1TUYyd19ZaDR0dXp0ZWlkMFRjYzE3S2JFRkJYNVZDaEV2MnphNktfb3RrTmtrQko3VEwzOWpMN1ZYeS1oT1RhUWZ3anNGNGNUbHA?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T11:26:52+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Save the Children “One delivery that matters” by Ace of Hearts",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ04yMnZqMVZPekpBRU9na0FsbmZsRXd3bjBhdkhjN2t5XzVMam16UW8xMGdWaGVmSUhZRFhRR1VUTU5TUkFmdVAySU1uOV83SlVqbXEyTi0zdjRFVjFLamlQNExsYmdDUDNUUkFpTGZUYUp2OGFrSXpZMlBPRWIwWEMxSE5sSzJEd1RYeFRscmJHcWhXLUQxd1VmakN3T1FNRzg0c05ob1d0dWdiY1I1TmRua3pHWE12ZFJhZVRJT1BYd1lX?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T10:52:37+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Omnicom Production’s Joanna Cotton to chair Campaign Tech Awards judging panel",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNURTNnFxa3RYX3ZGbVdOeTU0ejNweEIzTUxVbnlxWXJHT2JfeXJvRVNhdnpwRlBjY2NkallHbTZlRG1EODhYUDJnOGVXLVh2WVN5bUF0WU42aHdYbHJhZzVjNVhLazh2UDgxWEs5RHRNcHpBTlE0YUxxOEVFSFVnY0ZOWXN6NHJKeDZHY3oxQ2JIVDZrbWNVbEpFanlhU0dOYkx5VmNTeFhzMVA5MVNqTW41WXNsdF9BTXRkR0VZY2NuMzVZcFAtal9CWkpHYTBGWE9IZkdsRHVzZzdL?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T10:47:44+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Faces to Watch 2026: Pay transparency ‘lacking in adland’",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2ZOM1VkajVValVaVHpVRlVhVS1Nc1pqTERELUg3Sk9MYmZsVTRoUFczenp6US0wZV9JNnRXUmt1d1J4R2J2VzhBTjRYRGJURUN4ekRZMGk1OFhyZHZnM210TmRaWjJPZ3NoSE1aZlVva2xsU0dtcGhjM3BkYlVWQUc5blVEUktmSmIyNjFvSkxLZ213anVYX2w2cERDYXR0eWZGTXFlTWUwdWo3V0JmNlg0NEx5eVphc2VOdQ?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T10:37:34+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The six ingredients for a truly captivating global campaign",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGgxY2I0a2d6M25aenA2dl9QYlVPVTZWY0xIaEN3YWQzVlcxT3AwRXNiWWpjWTU2aS0ycVBKd0RjMElpV0ZsX1h3QVBGaHR3NmwxUTNEa2R2UlBaYmd1aTduN1FySTUyYmhCcExmTkZESVJsRnl1WkJLM1paVmJVM3RpaUV4YkQzSFBVTUtqWlB2MkVRV09zeklxWnBtUUhWcjRXQXFSQ3NON25EZVpjc2RjbWZsS3RaSTdrN0R0Rlh5Ync?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T09:37:04+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Podcast: How the judges picked the best audio ads of 2026",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcDNjRnBDRW1mQURkWV95ck8zLVREMlk4cER4TlFRSk1xbVZ3VzlCdkxocG9RTzJrQlVQMXRWR182dE4zMEFFUy1sc0FXeGQydWdWWjlTekhWNWp2dWlJZW9Vc0M5RmR3aHAtMGp4b25SaVFVd3FOc3hhZFI1RC15bnVFUEpCdGxYcW5VSTVxaUZNMkxxYjdGYUlNdTNrRUpUc1NkZkVnODF5UGpHSXJfS1lucG5fSW54OEVsc0E3SQ?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T08:46:57+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "How do you rate Omnicom's takeover of IPG one year on?",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbklJa0E3UDRHQ0ZDWVJ0aUt3ck96XzlhS2VIRUFxNVMyWlIzNkY2cmNMNUZyb1RraXl1ek9wb2xDOFBSS2IweUtrTEpmNmhybXNiWE1ORHQ0Y3pEWkltOTdVMTg0M1VFZlpjMnlfM0FOOHgzTTY1TU1WdUZJSElUZ3VfMVoyRDZSelF6aFNDd1haYTRWcU0wNUQyc2FadVJkSmdRNk42dFI1MS1ySXlVZDB4WXFIaGxvOVBV?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T06:01:57+00:00",
       "description": "",
       "source": "Campaign UK"
     },
@@ -19,82 +83,18 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Hardys celebrates Australian heritage with upside-down wine pop-up",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnZKeXhzSWZIZ2V5WDJGOGpRdE5yWmwwS0VuQ1hVTkwzUDFiZ3NQYzhSVDMtVUt1NVVXN3VEUG1DUFp6TEM0UUF6NVhSMm9WdzFaUkRkMWpXcUJZYmdEMXNtcUd1cHJKYTNNUDFMZU1sNlc2VkFoUXN0Sk43MnFfcUdFNzVrdTYtaGRQS011OVVKemtiVUlScGZtQVdFQXBMVWJuV25KaFhTYnFLd2lXOTdCRjc5dV9EYTJXTDBqZVZCTHcxdkdQZGVGOVc?oc=5",
+      "title": "Save the Children and Ace of Hearts land giant drone on Truman Brewery for Christmas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSWdiWmkzTnhMVHNPMGZud2dFZFU2X19HMTZjUEYxblZsaV80Q2l1TEZrd1FCTG5aSlkwOXVPUXRDVktuSUtsdnk5QXdtWmxoWVdibDNZQThZMjAzcmN0THUzVGoyZWh4MUdDb0ZGdWs0bWNmMUZ4NnYtbmRSbTJUMVV1TXBtenVpM3ZFMmRxS1hhamhhRkJlOTBYU0pWS0FNWlZqNXFQT3lBQU9NZzh0LWh0ZmZSOHZVSjRVV2hGUlpuWUM4UFNMbnM0THgxM0dfZmxoem1TcDFvWnFQRHBFVDdEcFE?oc=5",
       "published": "20.11.2026",
-      "published_iso": "2026-11-20T12:20:37+00:00",
+      "published_iso": "2026-11-20T14:21:22+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "VCCP London promotes Nikki Lindman to deputy ECD",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3pDNXlpRFlfTm5LWENfaGhieTJBOFBoUl9FMmVfMjR4aVF6alVLbktpbUFLRDA2RldldnUwQi0tbklIWnI1OWxldEZnbHQxcjdUNmhBbVdzMmkyTExXeFNXVjYwWG8yeWVuQUhjTjQ2ZlJXdVdPSENHeWRkQVBqZTJzUXdkSngtNGxkOVNQN1UxR3FWRmI1WnBKVE50WGxZMnIzZkhpYllZUFZnMTlQQXhubnc?oc=5",
+      "title": "Lean into fanbases’ individuality – World Cup fan report",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDNBcXRWRTBTSUg5NXk2dW1hT1B4XzQ0dVBVX2VfRnRHNDVRUmFEb2otMXVEZVlKZy1hMmJNcVBnS1dpczhHaU52NWFxakR5SlpRX2RJWGtWT0hUaUtKN1Z4ZWZhenBsTVQ4SUJUTURZVFRSSFVQc3VzUGotODRMSS1IclgzaGlqRm90c3oyVV9tTTZvSlJiRFdrMU1NVWdsanBOOXJ5OVpfMHoxd3lxaGo3QXE4U05xRXFV?oc=5",
       "published": "20.11.2026",
-      "published_iso": "2026-11-20T11:49:54+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Lidl creative pitch shortlist revealed",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVBxV1kxMWZCUVBTdlBhTHZuSHM2QmItMGxRcXR2MHlBdFluSFBDMHd4TUhDMnBUMmdPdDZoVjdwUlM1Z2Q2b3VUdEpkWkNuYzYtOFoyVVI3bjlWbDlmRXZ5YXB0Mm11eGUwQ1VTYmZEOWM0RFkyVG9OSERlR1p1a2w0eXAxOE8yTjhvSGN4VWdNZXgxc0FHWGdGaXdZRi1VLWxPZ3J6aw?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T09:20:04+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Mamas & Papas appoints Dentsu Creative as its creative agency",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmdjSVlsLWR0OUhOM1FlT1RBODNZc1AzNHlIMUtYdkUzNG9VVVRwaEc1LUNpV2tQdndPNEVzZmM1QlVJaGo5NzRpMkRwNWw2OHhQekdNN0cxNGdfUzZQRzhESFoyZTlHSk9pWVEtaHd4TXNfUDE2M3RTRnZxbHp0TXVvVzVGLXlFYnVvdEkwTHQxZmZ1ME9HRUJqdHRGbE1lcVpUbHhVcGJNMk8wQ3pVSGFRM2FnNjY1ZWF2M0daVXhXOUE?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T06:19:09+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Microsoft flexes its media muscles",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEk1OGtJaGMzRFFGbXRWandBTlhDVEhvS2szVGdoQnY4VFVkTDh5a2xzdEYwQ081VTBVV2RvZ2d6V2hMSDdWLTVuRGxrRkRjdGVPdTQ1aWYteU43M3BwUUhlOHBOVHZxTld3S0hZdThDTXdPZXlKbEJIYTdBa3BZai1VOWg4NjF6ZkR3aVV5aHE3VU1sUWw0YzNaZXBLXzRtZlE?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:48+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Ocado hires CHI to spearhead TV drive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUdBVlVRTjlZVC0zSjNfSnVXdjJqM0lodTd2S3dQZFVyRTl5dGloNEhKazgzYmtBMG1HMHFkTUZxYWh6ZnhOc0xlcXJ5OE53Vzh2STRSRjBhQlpDZzVTVFRIbUpzcDVscTlEZTkyZ0poTV95Y2FKYUtGV0VWcHdQajltbU5BRlN6S2J5MUlyUjZyTEF0RnFQNWxTRDhlWENsUllSU053?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:48+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Marketing Digital Report: Search - Find the perfect partner",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWZzYXVQNUpPZnZubXRmSEEwQ2ZJeVdYMWlTVFhrTWpRZ09iVEMyaF85a0pDcm8wS05URjFrczRnQ1ZUX2dmZ1UwRTZ0MnpWX3d2cnNkdVVROXRvSFdRYmRuaUE4LUpEMDJpSEh4dFhNRE82a0NCTjI1aTNWazZMd0Nta2I1ZFRNSjBtSlFZeENyeUtGS04teWI1d2tMbktsdDZkR0ZsdHlpN1J0U1pQYVljVHpfM1d5bC00a1NuWQ?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:47+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "News brief: Cereal Partners launches TV campaign",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFluZlptR0x3MnJyTkJIM3dnZEw5Z3p4WDV1ZWlZbVI2dnJQNDVjZV9CelBmTm0yVDFKUURNaFUwUHhsWFJ3ZlFJaTliVUNpdHFGODI5dFBvZkZaN1h0V19PY0M0WW93U25YOVJmTWtSVDZvdDAzekwtZy0wQnAteUFydkt4SUtGMmpxQVdGcjJTTXd1aXVtMzdZMkpqU2xVelZHY2pIR1NuaWhXdFNEb3BuYw?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:47+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Direct brief: Aztec Marketing hired to raise Tenpin Bowling profile",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0VnT1dmRG5lQ093S09KcjdReVFOYmZuQms4ZGtoamFqdW5lakZqVWJOdWsxcjNDY0p2TXd6YjZaZ1ZmRFQ1Mjg5VzBPQWxSVW5adHc4TmRZM0FjSDlRdE9rM2lGUDZadnJ5VFczdmtEUVhwTWtrbkRuTnhFa09EY2NKa2JNSmk4M0ZlNEVvU2taQUVaSUY0Uk16aExhU2UwREJxclVURG13dDZXVWlSWEY0Y3hTU0hrZFMydEE4VVV2WTRhaUxBNUtJRkU?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:45+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "BBC iPlayer set to launch next month",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGNzczlnMktVTk5VX00wekNLajBBcHJqbzM2aEdUbjdqU083T1NaSU1FSEkwRU9RSUNzV3pqQm5CWmVhOE1FMWhsQU9abV9mR1hFVlNqaU1wc3h4a05qenFKR3lCcU9EeHNNQUk5aDJTVXFHNHVuUmpjSzZkc19zN2tJMzEtXzdPaUcyT2syVFF4OHROTlpQRDN5Qk42WGwxQkRDXw?oc=5",
-      "published": "20.11.2026",
-      "published_iso": "2026-11-20T04:52:44+00:00",
+      "published_iso": "2026-11-20T13:20:09+00:00",
       "description": "",
       "source": "Campaign UK"
     }
