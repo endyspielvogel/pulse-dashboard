@@ -1,47 +1,7 @@
 {
-  "fetched_at": "2026-11-27T12:34:39.400977+00:00",
+  "fetched_at": "2026-11-27T23:29:51.047045+00:00",
   "source": "Google News RSS, Campaign UK",
   "articles": [
-    {
-      "title": "Bloomsbury Publishing hosts Harry Potter pop-up at King’s Cross",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWlQTnpXN0Q3cXdXMUtDeEJ0Sl96aF9DRHBzRTdTNXdibjB5UjlBSjFVMnJIM19PSkV4THRKOFV1NVItZmJMYnMtQmMtdV9qT3dLZXRiaFNSMjVKOFBHZkl1ZmNjMWxfZ0pxMWhCbGFZWU1EWEN3TVl2TVdtSjBFM3VERllKMndRRldzZ1FNbWQzM3pwbW1hSDRYTHpYWVJXdFBIU0Q2c1JtbUxCUmM2V0hOZEhfRi12VDBlMlV5WUpvWFduNkJRTg?oc=5",
-      "published": "27.11.2026",
-      "published_iso": "2026-11-27T10:54:38+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Judges looking for ‘real impact’ as Inspiring Women Awards deadline extended",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUUkxLVlUR0NBQmd1czVyWGJYd3pvelRmME9xaGwwemhsUXgxNU1DUmE2V0tBeFVYMExlM0t6b1BBMkpicW1iVlpad1RHczFNbTlKRmY2QWpiY2swUXdsb1hfR3JvcU5CM1BOM295eWltR2RTMGVDTnBsNzRxMXF6dnZ4cEZ3VU1HZGdCZElEeFdsbVdHTVg2dDMza05nMXNuTXZ0aExTazF6bUEtQmRiekZXSjEySGp6S3hKdTZhaGxpcWVHRGR5MFV4S3VycjlfUWpDRlJHMA?oc=5",
-      "published": "27.11.2026",
-      "published_iso": "2026-11-27T10:49:07+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Celebrations “Everyone has their favourite” by Adam & Eve\\TBWA",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkZrT21RRnlBUmpod0JSd2VuODFoOUkxSDdpUURCU1l6VlJrMXFMdnQ5WUNMTGdZZUNBTENobXRSTG9GeFRvLXVVV0Y0c1JaQUVhZEhJSmk0VVAtTGJsVDIxZUR3OTlPT0Z2OXYwelBhSlFVaGNGVFN0UjZlaXRuOTg2N0N3SEJPVWRjTlJNSHNqcXRWNk5hUHRfQmdQQ0xUX3ItcmZwTzQxdVlJOEgzTVZoTUxOSmZFNE1YcUhnUjZ1Zw?oc=5",
-      "published": "27.11.2026",
-      "published_iso": "2026-11-27T10:12:40+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "The Lists 2026: Top five ambient ads",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWM4WW9nNG9rSG9SVHd0T1Bpa0h0cmNmSG1wUlZCSVdzdVRYUlBaZHlqTm9acHRESFpkbTY2UGlLaHJhY013ZDZfNElVNk1yNm1CRVRKZUx3alJIMHRhRnFCNmw3VGtsYm5EQ0doSXRGSFJpTDFVb1A1bFZQWnFfckNRelZhaVpZX3daUHBpNE81UlFUaDJvd3MzUF9HOUNGbGUw?oc=5",
-      "published": "27.11.2026",
-      "published_iso": "2026-11-27T10:12:38+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
-    {
-      "title": "Campaign Big Awards 2026: winners revealed",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1gtbkY4c2JBeWYycmNGVlg1aVNSQnJOWXhieUFrVUxlSFFENTRLTXluVDdSRUdVb25QdU1ES1QwMU1HYzVZa2lPbmFOb3Y3djBjMkxfQzRVTlpfRGhjQm1rR2VJZmJaQzdOaU9GS2gtTloxcmpEam5uazlNMkZGakxpV3EyanNnYkxWUHFOUXZoRVFNSzdjUHZ2SENqMFpLdHF3MnVvcF9OUFk?oc=5",
-      "published": "26.11.2026",
-      "published_iso": "2026-11-26T23:42:47+00:00",
-      "description": "",
-      "source": "Campaign UK"
-    },
     {
       "title": "Mother London promotes Tom Bender to CCO",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjVUbVpkbEZFVlcxSEJPTDExdE1mWDRqVXdnT1NVWG9NMmlTZDFVVTJTWUdNMWFuWDlXRlB6aFlZeGQxZ0RBcDlmcl9DWG1DTl9MUFVXd0c1cVJaY2liYVJ1eHJjR3hJX1RaSldpRy1rcFd2UDFucnotMUJHQWtjeTdvWW14U01RYm53ZWlEOFNSYnY2NFN2WWVWbjVwRkZMOEhIQU0xSzJRdw?oc=5",
@@ -51,50 +11,90 @@
       "source": "Campaign UK"
     },
     {
-      "title": "Pitch Update: Pernod Ricard, Lidl, McCain, We Buy Any Car, Suzuki, Amazon, Polestar, Loveholidays and more",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbkFObkpXS180enA5STg2dW1LRFI5OF9yMXRrOW1iYUFla1VnV2RiaW5ockVWb1p4OXl4OFBGMnBLcDFSTnFwa2ZWa1R0cXM1SWttVU9YakVPVWFpbXdFV3FaUGxneFNCeTlud3N6MWlkSzVsUG9LWGpCX2R1bVRpS3AzSHVjM2lPaTZ2dnF4eWl3SDVjc2Njb3dtZ1cxSFJMVzBIMzZNSFhFY19wU1ZxNnpxUjJfc2F5TGsxNXNlWVVnQ2lzZmxzSndPaUJyNmJLd2NuTEdYaWVrVG1zWnpYTDJvdi0xOUE5MGJaTDkxQnhEdnNPV1Q0?oc=5",
+      "title": "Movers & Shakers: Dentsu, Publicis, VCCP, Bray Leino, WPP, David, Brave Bison and more",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeERCRk1LR1ZXM0RaRURLcHZRYldaQXMzNnV6TUhEenBPZXhQZElrZFd6YXpVRDdQYkpMVUNBcDBsNDY4RUh5ekxGZDJKc0s5UG1Udzc3Y1dYRDhHeGlFeDMwc3FHVDIxemh2cXhMR0hNNmlKcEFMQnVZRG5KcmRWVkZ0M25QR1lrTDRjYk5BblV5TE1ZaTNibTE4YTJWT0dWaHM2U1JIS284aWFreU93NGVRb19ZOEdteUF0SzVyTmMycklVR0U5N1l3aThYQmFSR0J3aVlOMXJiWlU?oc=5",
       "published": "26.11.2026",
-      "published_iso": "2026-11-26T16:11:34+00:00",
+      "published_iso": "2026-11-26T11:42:32+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Brief encounter: how to connect creative ambition to physical execution",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamEySjBuV0tCM3hEMDU3LTYzY0xPdzFJdXcwNnZ5SkZUM1ByMHFhanpLdWdZUm1XWFBJWnBBT0tCOS1lRFgzT0xCczZHZENYS3lWSnNUd09fcGFPRFV1blN4MHdoTGlnX2NLakFzamo1ZTVZcGVVY2R5N20tU1k5WlJlblY4UkIzQ3c2T0ZncW1pZDhpRDlLTnNud0wwRHYyQUVRRi11UWJOR0VaX0RmbTVDRUV2SFpLdHdTNEhPa3FGMUg1VVBTMVdtR1FyMWc0cnc?oc=5",
+      "title": "Winning the great brand race: why media work better together",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2VKTm5tS3U5TWJ4a0pvcE1MUUNYbTczNmNiRmh3ZFQ0bUF4ZVZWTW15T0RRcVBjcXFhWVllc3ZPbEJDb2gxZnI0UDMxTkRTWEpIMVNNUG5JUFpJVFFjY0JzOWUzNm15VVVNTWZwZUE4NjZTYS14dXF4UXY3N1VnVllzalhLZVJfVURQc0p4bTZoUnI4Y3NIR00zWE9NSmstVjZtOVdnRlY5d0M2WEdFWVNWZk1kc01odTU0Ynh4bHRfbmc?oc=5",
       "published": "26.11.2026",
-      "published_iso": "2026-11-26T15:52:51+00:00",
+      "published_iso": "2026-11-26T08:36:04+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Iconic isn’t enough: how global giants are testing the limits of brand equity",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2RiOVNZdFFXZnJNdjlldVFRUTJrejlCeFJ6NEZfblprMjFSZmZhaE1SY2VsTnJtWS03S3k3ZHk4UlZhbEt5a3gxeDctSVJaZlhqTy1LTUxCOEVhVXZNNERVV0hZTDdUQmhJMERVd2JKUHRmeWlBSmE3bTFwcXpvX1hxUXVHeElaeU81TDEtX2ZGNEhXejk3eTUwYXRrMjN4MG4wS0JJMjlhY1dLMXAtaXEzdjJHeGM1bWc1bjFERElyd3liYVRqdkozS1NOU1dKT1E1dDhrOElLdw?oc=5",
+      "title": "Diary: Pick of the week - 4creative/\"faces\" work",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJYd1FZbHB4NmNXdk10TXpuam13M2pRR0xMb2l6clFtNkYtOTdXUUF4dFV1U2hJZ04zd084ekhKU2dSWE1ZaW1jb0VSNlpwdGxua2xuNEgyQzNnNEp6TVhnYWF4RGV4UVF0TVVQSjZ4LVJJa24zZ2RWcFduVUNYNE1XUWJBT1N1dE9FZkxjNTNxVm9UbHBaa0ZlRlhuMVp1Z0FLSWU2dF9uMGJxZ0E?oc=5",
       "published": "26.11.2026",
-      "published_iso": "2026-11-26T14:16:55+00:00",
+      "published_iso": "2026-11-26T01:30:03+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Lebara names Amy Binns as group brand and marketing director",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDRMaFEtZjlZb0FzRVd4VGZhcmRfWDdrNFBCbFFFenNVT3JjdDdGdUhZUHRJMnFoYTdhbHJDaHlHY1RFLWtDSzRUbjNzZGZoYVlFVmg1Nkh3cDlqUHdBQW41M2dod1A4Y3ZENnExQW5aUTdFSDFET3NnbDVqSmw2WGRwbl92YTRFMlpScTdRTi1YeWh6dFgtMVFOUU9PYzhYb25OY1hWS3haQkVELXpJMERWSFc1UEF2NzMxNTBRNEludllP?oc=5",
-      "published": "26.11.2026",
-      "published_iso": "2026-11-26T14:11:15+00:00",
+      "title": "The Work: Private View",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUDItNE84dVY5VHRVbFhkaGxOY2N2QVRULWtHa3hlTmlJNXUwYVZac09VcWM5UDBsR2F0ZEZWbzBEc1gxRXpET3djcHRpNFVaUHdHNDlXaXZiS3Nra2N3WThIYkFBZ3IxcTBma09MX3FBVmZWTWRZMy1JMlhKdDJ3WTJIMHlLeHl3MVRjd0tRREk?oc=5",
+      "published": "25.11.2026",
+      "published_iso": "2026-11-25T15:04:51+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Omnicom's IPG takeover one year on: how new business, revenues and headcount have changed",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT0gweHdieUFPVkFwRExrWHVyVW5IU25qbnFxM3FxQmpKM1BPQThzT0FCVk04bGY5eElOa1dINHpXZHhhc2trWnhhaGVkbFFhSGhxb3lsWWdTRkR6LU1LNkpLcFpjRlRaTXJSR2EtM1BBZzRGWFBvVWhQNE9PX091dTZWRTE3NXM0S0dJQS1xdWhlTlpKMk9Pd3FqY1Zta0FKSEl0Z1JWbmlicTFVWnZsYWx6cWlxb2wtMnk3eGt6SmRaQ1NkTEh4VUtiM2VfdVJISzBjZVFlNEV2aW1Ca21YaGVUZlE3WTJH?oc=5",
-      "published": "26.11.2026",
-      "published_iso": "2026-11-26T14:11:15+00:00",
+      "title": "Remembering Mark Green, the CEO who stayed committed to creative work",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbXM0dldvQkl4LW52enpud2RmMk9ZNVZZQzNEMXFOUHFIMDRZbjNHVXhIRThqSWlpSjNKRGd5eHkwa0Z4Szd4cXZZZG5UU2RHcnNZaENSUXNPU1BWbXY1TzNtUmlKQTJLQWNqNk9XQ2toNS1vMjFTbWlNN1N2ZHIxNVRaaWc5Ujlta2hWN3VFQ2UxeXViOEktb2NnOFJ3UjRaQWRTRHBpcFZvZXZiOE94UE5pOHR6MjZzQmxCR1lVRF9jUG93TXF0WV9UeHljeTQ?oc=5",
+      "published": "25.11.2026",
+      "published_iso": "2026-11-25T13:41:02+00:00",
       "description": "",
       "source": "Campaign UK"
     },
     {
-      "title": "Channel 4 hands Diversity in Advertising Award to Tetley and Pablo London",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN3o1U2lmREFuVmxkZUtrOERsdFdZYkZSWVFfUFhpVGt0dEVrYkJnQlFYU1Z2OEZSeHVqRXZNS20wd2JpcTNRQTM0OEp2cUNuZWs0VmtpeURoUFZaa1VzenB4TXVzcV9CX1JsU3dwQ2tWc2t6VjdmajhtcXU3UVFzeUtqUDNOTC1HNjloSS1rSUlGTWRYRVpCakc3dTRTV2ZYRzhLQ2hEM0hrZC1fZ2lhR3l5OVNybWozUW51ZHdOZkFWTU9PUmFVemJaTnBxSFdkbC1kejZR?oc=5",
-      "published": "26.11.2026",
-      "published_iso": "2026-11-26T12:46:34+00:00",
+      "title": "Sydney's work-life balance suits the BBC's John Williams",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDViQ1JwRUZZNF9KWFRjdkdrajRmRndVbmRpQTlzYlZqNE9JQThMa2t2bDhBZzlYOXdkbzhzQXl4REV4RlVoYk5ULTJIdkhXeDRjbjY2MGNoRnNURlhkYm91SjZDbG80U3ZFVUNPZkI3cEpmWWNueDQ5cDFaemZYX1ZRT2cwcHNaakFWMGw4UU5TaFZFX2hjazB0MGpLREg2amczTy11Q3paZVlEMVdkRHhRRmVwWFJJM2dVMHUwWQ?oc=5",
+      "published": "25.11.2026",
+      "published_iso": "2026-11-25T00:55:19+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The Work Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUo1TVdWV2hFNlBoaEpFOXJPYi1UdG9LSTc1c3ZUa3VzX1hQZVgyNlQtRlNBc3MtTGhKSXA0TnZ5UXBoYWNKRm9KazkwOVU5aUplS2FXY2tFMlIzTG1EampxMG53QjNyTmwwZ2pIUnhqYVpybUFldlRBLTZZaXpUUzctOWV4TFAy?oc=5",
+      "published": "24.11.2026",
+      "published_iso": "2026-11-24T23:07:33+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "The ‘classical’ and ‘modern thinker’: Leo UK’s Andrew Long on redefining populist creativity",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX245cDh2RVRja216ejhqMHdBdF8xTzRfUFc1b2ZPWHN4ZG8ybDJOTjljNzVuOTFlT29pTnVMdjFSSm9yd0dwclotUDNubm5hbk1oQmJfaklfM21RbmIxbl84T3hCUUp4NDNkclhMUzdWVGg1c0RnUVZjcEh0ZzB6T2htOXZXWE9jbmNEOEZNZnZNckpKenVhZFpBM0I2YlRnWnkxVXozQWxoZG8wLVdOcTZsUi1UelJLeEZaX2p3cDUtdGxfWEE0anh5aGUyZE9PTjVXZ1BrNHR4S3BjNk5jYVZmX2EwcXJl?oc=5",
+      "published": "23.11.2026",
+      "published_iso": "2026-11-23T11:56:39+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "Ninsiima Rukandema",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX000Y1YwME5vY0VXSS1YTkpUTE5TOTRldDFtT0hCZUVXb2loREN5LUlUNkhwZ0hQSWJxdEdQbkFIQTRieWw4WTItR3ZiMzFkWUVQeGowTGtaWUg2NjVvR0J3c3lLMHV1MDg1Umx2MDlyNThMNlRraDI3dkgwenE3ZUFob1pNbWNGZjVreQ?oc=5",
+      "published": "16.11.2026",
+      "published_iso": "2026-11-16T15:49:38+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "New Commercial Arts",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96cjZSY3J2WXdsWHo3VDhHN2xuQzVmVi1pa1NQa212TWdmWDlnX0tyZU9uTkZ0LUN3LUFZekE5N3I4SWdPVmpkanhYcXFrS2NNaXBpMlJNTzFyOEhHMUgzSzRSUGNnVEpz?oc=5",
+      "published": "12.11.2026",
+      "published_iso": "2026-11-12T12:48:27+00:00",
+      "description": "",
+      "source": "Campaign UK"
+    },
+    {
+      "title": "A morning swim is the secret work weapon of MEC's chief operating officer",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObUtCUFB2STZjdTFLaXZfNm1iY25rNUxwRzRzVGNCWFJERUdfdzBUR1g5YUx2b0c2N2xsWG9pYkRCRklLRDFFZHQ2RmFDMWx0eVBvUi04RjRWemJJS1FfcUlpcWVTUGlpQmpTeE54cTdlcFBlak4tVGpJMENlUVRSWEI3UG9nZmtGRVpzdjRYZGJ4anRDcE5EUmt6VkRienp2OThvaWthZXI2VkZpcDc4SmpKd1h1NFJUSlF5czhRbm84ZHJwQUJqMXpZWV9jWVpIQTlKcFR3?oc=5",
+      "published": "10.11.2026",
+      "published_iso": "2026-11-10T00:08:22+00:00",
       "description": "",
       "source": "Campaign UK"
     }
